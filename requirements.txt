@@ -1,0 +1,10 @@
+joblib
+numpy
+pandas
+streamlit
+matplotlib
+seaborn
+plotly
+python-dotenv
+requests
+mlxtend
