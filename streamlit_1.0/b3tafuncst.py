@@ -267,9 +267,6 @@ def G3OCORRECT(playlist, algorithm, location):
     ### PREP USER PLAYLIST
     # 1) Split target playlist into labels and numeric
     playlist_labels, playlist_num = b3.df_numcat(playlist)
-    print(f"PLAYLIST SHAPE: {playlist.shape}")
-    print(f"PLAYLIST NUM: {playlist_num.shape}")
-    print(f"PLAYLIST LAB: {playlist_labels.shape}")
 
     # 2a) Scale target playlist numeric - import the scaler
     from sklearn.preprocessing import StandardScaler
@@ -280,9 +277,6 @@ def G3OCORRECT(playlist, algorithm, location):
     # 2c) Scale target playlist numeric - fit the scaler
     df_labels, df_num = b3.df_numcat(df50)
     scaler.fit(df_num)
-    print(f"DF50 SHAPE: {df50.shape}")
-    print(f"DF50 NUM: {df_num.shape}")
-    print(f"DF50 LAB: {df_labels.shape}")
 
     # 2d) Scale target playlist numeric - transform the data. note we get back a numpy array even if we put in a dataframe
     playlist_num_scl = scaler.transform(playlist_num)
@@ -295,9 +289,6 @@ def G3OCORRECT(playlist, algorithm, location):
 
     # 1) Split target playlist into lables and numeric
     temp_labels, temp_num = b3.df_numcat(temp)
-    print(f"DF50 SHAPE: {temp.shape}")
-    print(f"DF50 NUM: {temp_num.shape}")
-    print(f"DF50 LAB: {temp_labels.shape}")
 
     # 2a) Scale target playlist numeric - import the scaler
     from sklearn.preprocessing import StandardScaler
@@ -327,9 +318,6 @@ def G3OCORRECT(playlist, algorithm, location):
         # IF GLOBAL
         if location.lower() == 'global':
             temp_index = temp_csdf.sort_values(by=0, ascending=False).index[1]
-            ### top 20 print
-            top_20 = ['track_id', 'artist_name', 'track_name']
-            print(temp.loc[temp_csdf.sort_values(by=0, ascending=False).index,:][top_20])
         else:
             temp_index = temp_csdf.sort_values(by=0, ascending=False).index[0]
 

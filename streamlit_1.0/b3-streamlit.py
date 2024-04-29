@@ -6,9 +6,6 @@
 ### import libraries
 import numpy as np
 import pandas as pd
-## Pandas has a depedency on NumPy so loads automatically but best practice to load full NumPy package
-print(f"Numpy version: {np.__version__}")
-print(f"pandas version: {pd.__version__}")
 
 # streamlit
 import streamlit as st
@@ -38,7 +35,6 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from sklearn.metrics import accuracy_score, precision_score, recall_score
 from sklearn.metrics import f1_score, classification_report
 from sklearn.metrics import roc_curve, roc_auc_score, RocCurveDisplay
-print(f"skLearn version: {sk.__version__}")
 
 
 # other
