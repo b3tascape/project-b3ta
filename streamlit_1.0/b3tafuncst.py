@@ -44,6 +44,27 @@ import requests
 import b3tafuncst as b3
 
 
+############ GENERAL ############
+
+
+### FUNCTION 001 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+
+def df_numcat(df):
+    
+    df_cat = df.select_dtypes(['object']).copy()
+    df_num = df.select_dtypes(['int64','float64', 'datetime64[ns]']).copy()    
+    return df_cat, df_num
+
+#DOCUMENTATION;
+#- Takes a single DataFrame as an argument.
+#- Returns two DataFrames; A copy of the categorical columns (df_cat) and a copy of the numerical columns (df_num)
+#- Simply assign output to 2x variables e.g.; df_cat, df_num = df_numcat(df)
+
+
+
+
+############ G3O-CORRECTER ############
+
 #######################################################################################################################################
 #######################################################################################################################################
 
@@ -326,6 +347,8 @@ def G3OCORRECT(playlist, algorithm, location):
 #DOCUMENTATION;
 #- Takes a single DataFrame (raw, 17 columns) and a location as an argument.
 #- Returns a geo-corrected playlist (e.g. playlist_geocorrected_for_london = df_geocorrect1(user_raw_df, 'london') )
+
+
 
 
 ############ NOTES ############
