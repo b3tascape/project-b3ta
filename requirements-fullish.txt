@@ -1,0 +1,21 @@
+name: b3ta
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.8
+  - scikit-learn=0.24
+  - seaborn
+  - plotly==5.19.0
+  - conda-forge::python-dotenv
+  - anaconda::requests
+  - conda-forge::spotipy
+  - python-kaleido
+  - statsmodels
+  - mlxtend
+  - xgboost
+  - streamlit
