@@ -1,0 +1,1001 @@
+,sound_profile,track_id,artist_name,track_name,genre,key,mode,duration_ms,tempo,loudness,energy,valence,danceability,speechiness,instrumentalness,acousticness,liveness
+0,ibiza,4wtR6HB3XekEengMX17cpc,Robert Miles,Children,trance,C,1,243267,137.064,-10.761,0.755,0.387,0.604,0.0337,0.817,0.000298,0.0625
+1,ibiza,1IsvXZXAV9EBC4hBKW6yDN,Everything But The Girl,Missing - Todd Terry Remix / Radio Edit,pop,A,0,235027,123.509,-6.539,0.853,0.652,0.739,0.0296,0.00357,0.0217,0.057
+2,ibiza,1EWsVHU4FNAdtN4R8FETag,Nightcrawlers,Push The Feeling On - Mk Dub Revisited Edit,house,F#/Gb,0,243160,123.017,-13.108,0.5,0.833,0.793,0.0319,1.96e-05,0.028,0.186
+3,ibiza,1BltsyC5W3SAABdxyrDXwi,Disclosure,Latch,edm,C#/Db,1,255632,121.985,-5.456,0.727,0.521,0.503,0.167,9.45e-05,0.0159,0.0895
+4,ibiza,77jaOS5YDCDGPto5Pomi4h,Secondcity,I Wanna Feel - Radio Edit,house,A#/Bb,0,185934,121.999,-6.298,0.896,0.804,0.692,0.0637,0.00194,0.0764,0.157
+5,ibiza,1t0Jmqg1pKVBbxjQFZebeR,Fred again..,Marea (we’ve lost dancing),edm,F,0,285375,123.023,-6.778,0.781,0.473,0.761,0.141,0.108,0.0681,0.0607
+6,ibiza,33tYADyL2aZctrvR59K1bQ,Oden & Fatzo,Lauren (I Can't Stay Forever),unknown,A,0,200551,128.018,-8.687,0.912,0.957,0.702,0.0652,0.309,0.0773,0.0926
+7,ibiza,7eheoW4hxrH51ww2QePVwF,C & C Music Factory,Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams),house,F#/Gb,1,244093,112.187,-7.405,0.798,0.794,0.557,0.0935,0.675,0.000851,0.183
+8,ibiza,1codrXpwPN95Jd1EkWnrXW,Ultra Naté,Free [Radio Edit],house,G#/Ab,1,233293,124.97,-6.094,0.915,0.741,0.756,0.0371,0.000171,0.00405,0.0371
+9,ibiza,79qPDRmHmJ5xcU7oyS8CQ1,Mousse T.,Horny - '98 Radio Edit,house,B,0,187827,122.862,-5.929,0.876,0.673,0.655,0.0325,0.0141,0.00017,0.0476
+10,ibiza,5WsxrJcbgobPj4V7lhs8Qf,Duke Dumont,Ocean Drive,edm,G#/Ab,0,206320,115.026,-5.054,0.718,0.557,0.686,0.0431,0.000703,0.00637,0.119
+11,ibiza,3WG2XcylOzMxoRNwEpmXSe,Storm Queen,Look Right Through - MK Vocal Edit,house,C,0,150400,119.995,-8.035,0.815,0.519,0.832,0.081,0.00553,0.00304,0.263
+12,ibiza,2YDOjCfkGciEXxSutB6LJR,Bob Sinclar,World Hold On - FISHER Rework,house,C#/Db,0,178305,127.008,-5.243,0.883,0.895,0.771,0.0584,0.00607,0.00596,0.135
+13,ibiza,6b5gaDGd1zlJtCM873Q23D,Technotronic,Pump Up The Jam - NightFunk Remix,dance,A,1,364651,129.011,-9.132,0.648,0.887,0.805,0.0606,0.22,0.000466,0.0897
+14,ibiza,0MOiv7WTXCqvm89lVCf9C8,Otto Knows,Million Voices - Radio Edit,edm,G#/Ab,1,192867,125.946,-6.298,0.894,0.0694,0.582,0.041,0.0223,0.0022,0.0664
+15,ibiza,2SCP5oOX5OSp5RT83h2rs0,The Shapeshifters,Lola's Theme - Radio Edit,house,F,0,207067,123.943,-4.631,0.835,0.669,0.753,0.0533,8.74e-05,0.000842,0.13
+16,ibiza,2RtaCvLxtu7zX8vlyOJ256,Simon Field,La La La - Verano 2018 Remix,house,D,0,144004,120.04,-4.543,0.738,0.709,0.678,0.065,0.0014,0.0656,0.202
+17,ibiza,02ePVbyZRQs0LQB5XrofKa,Ralphi Rosario,You Used to Hold Me,house,G#/Ab,0,299947,123.057,-13.977,0.537,0.784,0.725,0.0448,0.0296,0.000261,0.404
+18,ibiza,0qnqsfFYgBo0sPHM2JmfTq,Fatboy Slim,"Right Here, Right Now",trip-hop,E,0,387707,124.663,-8.037,0.859,0.114,0.56,0.141,0.521,0.0136,0.672
+19,ibiza,6KzkqZqhUBEsWYJJa2aBOd,Michael Gray,The Weekend - Radio Edit,house,E,0,192173,127.023,-5.673,0.832,0.884,0.686,0.0725,0.127,0.000321,0.583
+20,ibiza,1Ht4NJdY8adMsW540P5vG0,Nora En Pure,Come With Me - Radio Mix,deep-house,F#/Gb,0,173625,119.999,-6.523,0.758,0.308,0.677,0.027,0.736,0.00307,0.22
+21,ibiza,0dH0pegRa3TILf9wzvI7jQ,James Hurr,Vibe Like That (feat. Georgia Meek),tech-house,E,1,203109,123.963,-3.683,0.937,0.612,0.738,0.0601,0.0733,0.0694,0.586
+22,ibiza,58aSEVveLPGAGoyzYNgUHt,Ninetoes,Finder - Carl Cox Remix Edit,unknown,B,0,206493,126.023,-5.993,0.957,0.43,0.783,0.0385,0.838,0.000164,0.317
+23,ibiza,1TvazP1ZwXFtJnkO3FcGsD,Alex Preston,Love You Better,house,G,1,194754,122.011,-6.128,0.947,0.549,0.768,0.156,0.148,0.0492,0.198
+24,ibiza,3dX6WDwnHwYzB5t754oB4T,Faithless,Insomnia - Radio Edit,trip-hop,G,1,215093,127.076,-7.191,0.837,0.279,0.712,0.0285,0.00684,0.00864,0.102
+25,ibiza,303ccTay2FiDTZ9fZ2AdBt,Stardust,Music Sounds Better With You,house,C#/Db,1,403293,124.174,-7.04,0.72,0.364,0.735,0.336,0.15,0.00105,0.382
+26,ibiza,5CTaad8PY4w2JZElcez2er,Simon Field,Broken Wings,house,G,0,218755,110.017,-6.06,0.697,0.186,0.68,0.036,7.9e-06,0.0883,0.0835
+27,ibiza,53ICqRSyTfhrrvNwVSP6am,Shouse,Love Tonight (Vintage Culture & Kiko Franco Remix Edit),electronic,A#/Bb,0,208537,122.917,-10.38,0.708,0.0345,0.487,0.0392,0.0319,0.00019,0.2
+28,ibiza,5u7uoKVvcijnS1nNwpx83Y,Madison Avenue,Don't Call Me Baby - Mousse T. Remix,house,A#/Bb,0,386000,124.994,-7.683,0.894,0.53,0.786,0.055,0.198,0.171,0.17
+29,ibiza,4ooxGxWbItZv2pnND3tYZj,Simon Field,Shake The Tree,house,B,1,184372,123.005,-5.698,0.871,0.237,0.589,0.0342,9.42e-05,0.00215,0.378
+30,ibiza,3m1sjvxkWaJOryPwpcck5A,Café Du MIDI,Sweet Deep,unknown,E,0,254333,122.975,-7.724,0.752,0.571,0.709,0.0512,0.12,0.00116,0.0576
+31,ibiza,4FLFm76nwepkcxzqS8PzH4,Artful Dodger,Moving Too Fast - Radio Edit,garage,B,0,238093,127.099,-11.082,0.506,0.515,0.844,0.0453,1.65e-05,0.0878,0.0323
+32,ibiza,5CY6o6XK8JERMseAuEZ5P3,Simon Field,If I Don't,house,F,0,208155,119.984,-6.299,0.777,0.658,0.687,0.0458,0.0896,0.0123,0.184
+33,ibiza,4k7QmOsCj7UVNMxOrUezRk,Simon Field,No One's Talking - Radio edit,house,G#/Ab,0,259134,120.062,-7.509,0.674,0.0617,0.676,0.0596,0.646,0.04,0.107
+34,ibiza,6R29YUysD573h3MKlRfwPI,Café Du MIDI,Your Hand,unknown,C,1,190071,169.988,-8.101,0.611,0.421,0.635,0.055,0.665,0.417,0.189
+35,ibiza,3dipSm7lWInMbL3hRuMNBg,Blue Boy,Remember Me - Sure Is Pure 7 Inch Edit,house,C#/Db,1,229627,101.088,-7.314,0.877,0.962,0.837,0.0498,0.0141,0.0864,0.0337
+36,ibiza,1WXEzvxovVusnJ0u5U8KmP,Bo Degas,Intertwined,unknown,G,1,277073,123.015,-9.489,0.668,0.277,0.754,0.0414,0.823,0.00303,0.103
+37,ibiza,3TxgzTW5ZszAghaL7XJo11,Simon Field,Closure,house,D,0,168135,123.009,-9.353,0.676,0.109,0.679,0.0326,0.348,0.23,0.112
+38,ibiza,5foOyxcGmVKHpPfeOfm9oi,Erick Morillo,Live Your Life - Radio Edit,house,C,0,224816,127.846,-7.833,0.743,0.201,0.558,0.0565,0.000545,0.0216,0.134
+39,ibiza,0eYGzLf7Cny571furHzaCF,Simon Field,Where Are You Now,house,F#/Gb,0,222338,123.018,-7.089,0.772,0.333,0.65,0.0408,0.461,0.083,0.127
+40,ibiza,6Sy9BUbgFse0n0LPA5lwy5,Darude,Sandstorm,dance,B,0,225493,136.065,-7.984,0.965,0.587,0.528,0.0465,0.985,0.141,0.0797
+41,ibiza,6hmtNel4OKlBpBcTO7ao3o,Moby,Natural Blues,downtempo,A#/Bb,0,253773,107.992,-7.902,0.65,0.674,0.679,0.0331,0.0502,0.0487,0.269
+42,ibiza,2iS2s9oYpEmUzrAHPmqBHy,Route 94,My Love,house,G#/Ab,1,262000,120.008,-7.641,0.601,0.729,0.816,0.0512,0.611,0.000139,0.0636
+43,ibiza,3I4Kbokb3F0VqJeT70s07h,Dutchican Soul,Higher,house,A,0,173291,123.024,-3.48,0.921,0.745,0.63,0.0545,6.74e-06,0.0721,0.131
+44,ibiza,0MpxSaL8XJzVGLagHTpbQB,Simon Field,Las Penas,house,B,0,186214,126.003,-5.614,0.918,0.386,0.71,0.0472,0.0576,0.00254,0.134
+45,ibiza,1lBaMqhhJIRNqiNSn1EUMc,MonoJack,Roda,unknown,A#/Bb,0,285123,123.007,-8.912,0.834,0.158,0.747,0.0401,0.888,0.206,0.0816
+46,ibiza,49X0LAl6faAusYq02PRAY6,Modjo,Lady - Hear Me Tonight,house,F#/Gb,1,307154,126.041,-5.627,0.808,0.869,0.72,0.0379,0.0293,0.00793,0.0634
+47,ibiza,0Buas6aflr7qudFo43V2Gk,Marian Hill,Down - Franky Rizardo Remix,electro,C,0,238027,123.99,-7.538,0.932,0.76,0.787,0.0468,0.0164,0.0101,0.0644
+48,ibiza,0R8dsqbzcoHoqUN5MLWyOi,Dennis Ferrer,Hey Hey,deep-house,B,1,190053,126.022,-5.446,0.868,0.921,0.728,0.0557,7.37e-06,0.0435,0.0999
+49,ibiza,7x7SXfZyO2Yeyz1L0NC57W,Freejak,Closer Than Close,unknown,E,0,199420,123.988,-4.278,0.788,0.657,0.845,0.0531,8.47e-05,0.137,0.0849
+50,ibiza,1HDFOrOnPsCsaNcamlVHLf,Degrees Of Motion,Shine On - Sammy Porter Remix,house,A,0,252581,123.991,-6.39,0.91,0.846,0.879,0.0573,0.608,0.000404,0.192
+51,ibiza,0mqDNdnkSOTKqsUIsAEfW2,Ferreck Dawn,In Arms,house,G,0,206299,123.014,-7.443,0.703,0.673,0.947,0.182,0.879,0.0376,0.613
+52,ibiza,0X0jMAZeR8xSlghtq5s4Ol,Jay Pryor,Make Luv,house,C,0,168091,123.987,-6.299,0.843,0.24,0.657,0.0538,0.0112,0.0246,0.102
+53,ibiza,14ffaEaVv9kmo9Ey3JsSIJ,Micky More & Andy Tee,All About The Culture - Simon Field Remix Edit,unknown,A#/Bb,0,211200,125.021,-8.099,0.822,0.59,0.842,0.114,0.717,0.00328,0.0652
+54,ibiza,3tHxSHgsAHP2I7wz2I9ojA,Kings Of Tomorrow,Finally (feat. Julie McKnight) - Extended Mix,deep-house,G,1,358446,125.016,-8.702,0.539,0.751,0.895,0.0555,0.000338,0.00468,0.111
+55,ibiza,1sNo7eKhghrro8bB0krnQA,Jack Frost,The Bass In The Mirror,unknown,B,0,188293,122.987,-7.684,0.857,0.347,0.803,0.0608,0.744,0.00213,0.0728
+56,ibiza,4cuJbDiraxt9AsEeevmFuQ,Anton Powers,Make Your Move,house,E,0,168992,124.0,-2.748,0.992,0.555,0.647,0.0971,0.106,0.0248,0.156
+57,ibiza,4wYqVMg8PKIXLkprjob4MK,Bo Degas,Stay Forever,unknown,A#/Bb,0,252369,100.007,-8.831,0.488,0.358,0.824,0.0734,0.805,0.00485,0.25
+58,ibiza,5BU6Xs6oDgsTvAYW2ULGya,Basement Jaxx,Red Alert,dance,A#/Bb,0,257400,126.821,-4.125,0.93,0.816,0.669,0.0637,0.00379,0.0469,0.591
+59,ibiza,7gWSWDBriMK7YKefAe4NMP,Swedish House Mafia,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,edm,G,0,206461,125.03,-5.89,0.929,0.658,0.736,0.0674,1.11e-05,0.00237,0.402
+60,ibiza,20jdhlJxvvlwdDGm7BwaQV,Moloko,The Time Is Now,electronic,D,0,236664,128.01,-8.123,0.898,0.325,0.705,0.0581,0.0528,0.0114,0.468
+61,ibiza,1zEru7ZuZFzkjRoUDvsWQ6,Tomcraft,Loneliness - Radio Cut,trance,F#/Gb,0,228653,131.961,-7.344,0.914,0.724,0.629,0.0382,0.531,0.0343,0.095
+62,ibiza,53qhh1kdcX4gRBShoW4LK8,Moloko,Sing It Back - Boris Dlugosch Mix,electronic,D#/Eb,0,278000,123.017,-7.495,0.775,0.966,0.761,0.0339,0.000543,0.00698,0.0512
+63,ibiza,67eYhUZHjCIPNTyjKxhC56,Roog,Love The Way,unknown,A#/Bb,0,181935,123.983,-8.107,0.722,0.612,0.795,0.0407,0.295,0.0251,0.318
+64,ibiza,4tvejslaZsD6Y0pFCWipwJ,MD X-Spress,God Made Me Phunky (Extended Mix),house,G#/Ab,0,376627,128.004,-9.004,0.73,0.353,0.709,0.0541,0.491,5.26e-06,0.248
+65,ibiza,1MAUToc4QgydiyYWDjIR4t,Johnny Corporate,Sunday Shoutin',house,F#/Gb,1,515453,124.001,-3.496,0.684,0.788,0.729,0.0529,0.927,1.53e-05,0.0459
+66,ibiza,1osotOzW5VLHnsBoV4oc57,Junior Jack,E Samba (Radio Edit),deep-house,G,1,216533,124.964,-8.091,0.967,0.717,0.637,0.0632,0.31,0.00415,0.106
+67,ibiza,1PDOZrlUSmXKEAe2xEnPDP,G Club,Guitarra G,unknown,C#/Db,1,521973,129.983,-7.155,0.793,0.407,0.698,0.0587,0.859,0.017,0.068
+68,ibiza,2npWYEYy7Q1qwgV2bPnxDy,Dennis Ferrer,Church Lady (feat. Danil Wright),deep-house,G#/Ab,1,439587,126.01,-7.217,0.634,0.711,0.777,0.0529,2.95e-05,0.00443,0.0765
+69,ibiza,6xRtX4emvb1T8Sep84XAUE,Kevin Saunderson,Future (feat. Inner City) - Kenny Larkin Tension Mix,house,D,1,525536,124.013,-9.221,0.71,0.382,0.822,0.211,0.118,0.175,0.0743
+70,ibiza,3LScFb7yoq840uV9kLumXs,Ninetoes,Finder - Radio Edit,unknown,E,0,206368,120.991,-7.598,0.884,0.168,0.789,0.0495,0.756,0.00571,0.366
+71,ibiza,2jLugRBOkV37BUopufhEjS,Chicken Lips,He Not In,unknown,C#/Db,1,511118,126.031,-10.147,0.887,0.375,0.8,0.0664,0.876,0.00161,0.218
+72,ibiza,20cpJgosGV9jJN80pI63CI,Lifelike,Discopolis,house,C#/Db,0,563307,119.994,-5.218,0.815,0.729,0.64,0.0464,0.776,0.0254,0.0592
+73,ibiza,3CUZhJEreKw7B80VTL9K6e,Blaze,Lovelee Dae - Original,deep-house,C#/Db,1,456533,124.144,-9.395,0.634,0.326,0.733,0.0394,0.798,0.000506,0.0848
+74,ibiza,6MqCauOZaWwnwtD7fBcPu9,Nick Curly,Underground - Dennis Ferrer Remix,house,A#/Bb,1,449492,124.012,-7.216,0.935,0.8,0.797,0.0477,0.194,0.000564,0.0472
+75,ibiza,44uPZYQNLFvT3FpAboWlKx,Osunlade,Envision - Argy Vocal Mix,house,F#/Gb,1,363078,124.003,-7.157,0.773,0.412,0.765,0.0701,0.246,0.00123,0.0928
+76,ibiza,20xZKFjfRkxG3uQLiDrqZu,Dennis Ferrer,Mind Ur Step (feat. Janelle Kroll),deep-house,A#/Bb,1,464824,124.011,-7.017,0.7,0.341,0.803,0.0575,0.126,0.00595,0.0893
+77,ibiza,4RjnbnZ6xGHDYFbywiiQ3I,Yousef,Beg - Hot Since 82 Future Mix,unknown,C,1,410730,121.994,-7.456,0.85,0.618,0.81,0.0523,0.905,0.000656,0.0605
+78,ibiza,2jinUjEUJEkE7g8MMHy2jp,Sandy Rivera,Come Into My Room (feat. LT Brown) - Take It Back Mix,house,F#/Gb,1,468613,124.998,-5.916,0.885,0.7,0.802,0.0805,0.151,0.00226,0.0659
+79,ibiza,3QQFvqeSRycznvVZEnGUSs,Candi Staton,Hallelujah Anyway - Larse Vocal,funk&soul,D,1,408914,118.001,-6.183,0.597,0.535,0.906,0.0594,0.000344,0.00199,0.0699
+80,ibiza,2h0FuxX1TtWlkR1pHB6XgU,Stefan Brecht,Drive With Me,unknown,B,0,221201,124.01,-9.403,0.669,0.247,0.779,0.0378,0.279,0.0899,0.251
+81,ibiza,6TAArAAynynJLwQo7jiUM6,FCL,It's You - San Soda's Panorama Bar Acca Version,house,C#/Db,1,381272,118.966,-8.838,0.596,0.44,0.915,0.171,0.000386,0.787,0.0608
+82,ibiza,7rkgvhoLydTQ687UlruSr9,Julie McKnight,Home (Knee Deep Club Mix),house,F,0,549360,125.402,-6.685,0.77,0.737,0.831,0.0449,0.0303,0.0199,0.0647
+83,ibiza,0Wx8C0yiq0Djk9EiPktvXv,Cleptomaniacs,All I Do (Radio Edit),house,B,1,218960,125.989,-5.982,0.849,0.96,0.785,0.0482,0.00042,0.00713,0.34
+84,ibiza,4Foka1AEAx62AqDeqpZZpd,ATFC,In & Out of My Life (Knee Deep Vocal),deep-house,F,0,391360,126.927,-6.686,0.93,0.569,0.675,0.171,0.00849,0.0141,0.0517
+85,ibiza,0SY8pE3gyQqt6nfNlF6ok7,Bobby Blanco,3am (Original Mix),unknown,F,0,474400,124.433,-6.268,0.935,0.718,0.824,0.0532,0.696,0.00281,0.0608
+86,ibiza,5bHHbeW6RrBW83RXfOtZaD,Route 94,Tell You Why,house,D#/Eb,0,345363,122.999,-8.915,0.501,0.514,0.806,0.0675,0.805,0.0338,0.104
+87,ibiza,2nDu67ACo2uRWpxA8jslBc,Duke Dumont,Be Here,edm,F#/Gb,0,315920,124.022,-6.177,0.75,0.438,0.735,0.0546,0.152,0.00355,0.156
+88,ibiza,1xq143jWvrvAkMfYGWWQbN,Kings Of Tomorrow,Fall For You (feat. April Morgan) - Sandy Rivera's Classic Mix,deep-house,G,0,337165,123.002,-7.289,0.324,0.604,0.902,0.0485,0.0054,0.00218,0.146
+89,ibiza,6K9bGnRNtycTuhS6mpsMrS,Lee Walker,Freak Like Me - Armand Van Helden Remix,house,B,0,408812,122.999,-6.84,0.678,0.326,0.858,0.0602,0.671,0.000184,0.0878
+90,ibiza,6LCrqs85q61pfZCXYvW63B,Fatboy Slim,Praise You (Purple Disco Machine Remix) - Radio Edit,trip-hop,C#/Db,1,230163,120.988,-5.764,0.782,0.811,0.813,0.0341,0.279,0.0474,0.0577
+91,ibiza,2tPuz4Vur3S5TYayVNDG27,Hifi Sean,Testify (feat. Crystal Waters) - Radio Edit,house,C#/Db,1,197533,125.016,-3.526,0.969,0.932,0.74,0.0348,3.35e-06,0.131,0.199
+92,ibiza,4cWafPsRizm6woL5j4HNTD,Jack Back,(It Happens) Sometimes,unknown,B,1,202276,122.025,-6.767,0.886,0.604,0.833,0.0573,0.00451,0.000431,0.11
+93,ibiza,0e7qRkv5E400qVNRLMLmek,Playgroup feat. KC Flightt,Front 2 Back - Kenny Dope Old Skool Remix,unknown,C#/Db,1,305600,126.004,-5.747,0.674,0.631,0.807,0.138,0.00997,0.000253,0.59
+94,ibiza,3Mmv1bkfa1yqayLKmbXjSM,DJ Gregory,Tropical Soundclash,deep-house,E,1,513074,129.998,-8.012,0.938,0.25,0.787,0.0765,0.894,1.89e-05,0.288
+95,ibiza,3FEjy2AtAyyrWdOfknnvAw,Bunny Mack,Let Me Love You - DJ Gregory Remix,funk&soul,D,1,545173,125.001,-8.384,0.883,0.668,0.795,0.0786,0.541,0.000419,0.0649
+96,ibiza,2hyfCSGBxwLSEYafO0rx67,Copyright,My Desire (feat. Donae'O) - Noir D15 Remix,house,C,1,403410,123.999,-8.079,0.876,0.687,0.697,0.043,0.166,0.00558,0.0286
+97,ibiza,2bpaTLNs3BCzh5ESxJS9Ld,Purple Disco Machine,Set It Out,deep-house,B,0,393946,123.009,-8.569,0.679,0.607,0.857,0.0482,0.0933,0.00742,0.071
+98,ibiza,4QYOOFGt0FQwZTNmHtCG0e,Todd Terry,Babarabatiri - Tee's Unreleased Mix,house,D#/Eb,1,385987,124.978,-7.361,0.911,0.381,0.91,0.0814,0.182,0.000241,0.0567
+99,ibiza,1Q4uOeGhAYC1tO4XAhtFHA,CeCe Peniston,"Finally - 7"" Choice Mix",house,B,0,222400,120.131,-4.609,0.874,0.827,0.754,0.0342,1.75e-06,0.00605,0.0449
+100,ibiza,4d4ZZl3zgY1NTGIbUaczP5,Franky Rizardo,Same Man - Radio Edit,other,D,0,161689,124.986,-6.453,0.897,0.962,0.743,0.0392,0.682,0.000212,0.252
+101,ibiza,4xKSVV3RjBs9vPyrHpuslU,Armand Van Helden,U Don't Know Me,trip-hop,A#/Bb,1,486267,129.955,-7.718,0.678,0.777,0.783,0.0725,0.0366,0.0274,0.0671
+102,ibiza,7wR9mYwvRtPE0G7MHSTW8C,Moloko,Sing It Back,electronic,D#/Eb,0,279093,123.027,-7.532,0.772,0.967,0.765,0.0346,0.00065,0.00681,0.0477
+103,ibiza,0h73wVBkM8OhkXYnhsQuyP,Robin S,Show Me Love - Stonebridge Edit,house,F,1,254067,120.245,-5.901,0.718,0.575,0.804,0.127,4.69e-05,0.00633,0.0761
+104,ibiza,369JKykZZr1qzv9pg5zAhz,M/A/R/R/S,"Pump Up The Volume (7"")",house,G,1,250960,112.992,-14.803,0.632,0.68,0.751,0.0585,0.4,0.00116,0.0549
+105,ibiza,6JZfiYsavKCqQSvpU4v9Y2,Mighty Dub Katz,Magic Carpet Ride 07' - Radio Edit,house,F#/Gb,0,193293,128.692,-6.845,0.818,0.891,0.919,0.0657,0.924,0.0184,0.0913
+106,ibiza,4AOFpqyAoYM4w5pXrvHhfe,Frankie Knuckles,Move your body,house,E,0,403760,122.31,-4.158,0.912,0.577,0.786,0.117,1.51e-06,0.015,0.706
+107,ibiza,1gMZCGs6bxhyPeHAEiNc3i,Rozalla,Everybody's Free (Single Version),house,A,0,212427,130.086,-5.885,0.972,0.159,0.579,0.095,0.000265,0.0119,0.403
+108,ibiza,5NL6WBPlPDfEaJXUDDv7e5,Cassius,Cassius 99 remix (Radio edit),dance,A,0,221733,127.073,-9.073,0.812,0.77,0.817,0.288,0.0601,0.000431,0.0589
+109,ibiza,21Uemo4kgwBm1m1V6YmoMo,Lenny Fontana,Chocolate Sensation - Force Mix,house,G#/Ab,0,169984,124.987,-4.498,0.98,0.687,0.55,0.0775,0.0441,0.00225,0.335
+110,ibiza,1PhRbqbfsa4mUwkCmRRAk1,Liquid Child,Diving Faces - Club Mix,trance,C,1,221880,137.959,-10.527,0.786,0.397,0.731,0.0351,0.942,0.00644,0.0934
+111,ibiza,724JQ1VK39x03Nk4O9a5QU,Barbara Tucker,Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix,deep-house,B,0,566026,126.985,-8.014,0.682,0.555,0.748,0.0545,0.0257,0.000189,0.0514
+112,ibiza,4lk6RWwFaFoiOxu01333a7,Disclosure,Defeated No More,edm,D,1,367769,115.994,-5.942,0.765,0.66,0.749,0.314,0.0,0.00618,0.341
+113,ibiza,0a3ozD4rshLWTxrBMCPAUC,Duke Dumont,Need U (100%) (feat. A*M*E) (Radio Edit),edm,C,0,174122,124.029,-5.103,0.848,0.457,0.67,0.0537,0.00168,0.00174,0.385
+114,ibiza,0GPFq2mWMC6jKfTGDkAL9F,Hot Natured,Benediction - Radio Edit,house,A,0,197978,117.041,-8.144,0.655,0.841,0.807,0.0442,0.00777,0.00251,0.107
+115,ibiza,22mek4IiqubGD9ctzxc69s,Calvin Harris,How Deep Is Your Love,pop,B,0,212640,122.003,-4.373,0.868,0.336,0.738,0.0731,0.00169,0.0392,0.388
+116,ibiza,5EKiBMhzRLALeGDPdoAKkQ,Jess Glynne,One Touch,pop,C,0,197876,124.206,-6.245,0.693,0.699,0.686,0.131,0.0,0.329,0.136
+117,ibiza,4M8x1TR36VMQMFMbGCdoyA,MK,Back & Forth,house,A#/Bb,0,196215,121.993,-5.211,0.816,0.702,0.684,0.0322,0.0,0.0181,0.0222
+118,ibiza,2l8OMu1TS4Q6EAqAYpTQKW,CamelPhat,Breathe - Eric Prydz Remix,tech-house,A,0,445967,125.001,-7.926,0.863,0.0894,0.619,0.0423,0.357,0.00174,0.0785
+119,ibiza,7ef4DlsgrMEH11cDZd32M6,Calvin Harris,One Kiss (with Dua Lipa),pop,A,0,214847,123.994,-3.24,0.862,0.592,0.791,0.11,2.19e-05,0.037,0.0814
+120,ibiza,2Foc5Q5nqNiosCNqttzHof,Daft Punk,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],electro,F#/Gb,0,248413,116.047,-8.966,0.811,0.862,0.794,0.038,1.07e-06,0.0426,0.101
+121,ibiza,5FzuDFYmUFcvjraadJXv28,Leftwing : Kody,I Feel It,house,F#/Gb,1,155250,125.967,-4.678,0.954,0.887,0.566,0.0376,0.0257,0.00411,0.0943
+122,ibiza,3MkuFR7t25mu7Iscp6GGiV,Au/Ra,Panic Room,other,A#/Bb,1,214483,122.987,-6.423,0.883,0.255,0.577,0.0298,0.0706,0.0259,0.118
+123,ibiza,1ZQnV7ePl8yXoLjPfhWE5L,MK,Piece of Me,house,F,0,188707,121.961,-2.343,0.913,0.669,0.68,0.0844,0.0,0.00565,0.288
+124,ibiza,5nrdOK0i7daIsDAt4zRbHM,Secondcity,I Wanna Feel,house,A#/Bb,0,186067,122.022,-6.305,0.895,0.817,0.69,0.0596,0.00237,0.0693,0.102
+125,ibiza,3jbsz68DZXoqTlCz0n05xn,TIEKS,Sunshine (feat. Dan Harkna) - Radio Edit,house,E,1,180647,116.981,-3.995,0.822,0.576,0.613,0.0398,0.0,0.183,0.478
+126,ibiza,5utdBr8IeD9SGj6gnMF252,Tim Berg,Seek Bromance,edm,B,1,200947,125.995,-2.541,0.825,0.534,0.51,0.0417,0.0,0.0813,0.0818
+127,ibiza,57yeWyaoeTt26p0dlEZukQ,Florence + The Machine,Spectrum (Say My Name) - Calvin Harris Remix,pop,B,0,218190,126.092,-3.85,0.946,0.588,0.578,0.0482,0.00412,0.00225,0.0966
+128,ibiza,5Sf3GyLEAzJXxZ5mbCPXTu,Mr. Probz,Waves - Robin Schulz Radio Edit,pop,F,0,208133,119.993,-9.334,0.51,0.45,0.829,0.0369,0.0014,0.00821,0.0829
+129,ibiza,5teGX9dkVCZOuao7dOWs7l,Bakermat,Teach Me - Radio Edit,tech-house,G#/Ab,1,189360,125.955,-6.436,0.81,0.488,0.567,0.0429,0.000157,0.00195,0.112
+130,ibiza,1QEhJDZuVfhsTMVBP5Ws45,Tchami,Promesses (feat. Kaleem Taylor),house,C,0,159572,124.088,-6.585,0.782,0.506,0.72,0.0573,0.00563,0.00986,0.0992
+131,ibiza,68a8DmzDfGL6qZ98vD8cnU,Oliver Dollar,Pushing On,house,F#/Gb,0,163387,121.985,-4.46,0.8,0.734,0.737,0.0404,0.00369,0.00275,0.0991
+132,ibiza,2S07r08uP4VjkbEkHgt3ot,Shakedown,At Night - Peggy Gou's Acid Journey Remix,house,G,1,431282,123.983,-7.775,0.916,0.196,0.763,0.0574,0.607,0.000616,0.11
+133,ibiza,5FDn1oWUD5BXL2HCfmCk2F,Mark Knight,Man With The Red Face - Radio Edit,house,C,0,235039,126.952,-7.868,0.842,0.674,0.632,0.0335,0.781,0.0127,0.0984
+134,ibiza,0L5oYrkC94ArMJDmjtvJWC,Olive,You're Not Alone,trip-hop,G,0,271027,134.261,-10.855,0.643,0.592,0.69,0.0501,0.0019,0.0525,0.0992
+135,ibiza,0sHnZNTPbyAFqoN67JbGo5,KDA,Just Say (feat. Tinashe),house,A,0,232089,126.99,-6.492,0.734,0.794,0.72,0.0427,0.101,0.0648,0.0591
+136,ibiza,5V7GEDdiorSlhpDzMe9oot,Drew Hill,Talk To You - Groove Armada Remix,unknown,F#/Gb,0,218414,123.007,-8.303,0.682,0.661,0.655,0.0367,0.344,0.00961,0.103
+137,ibiza,4rlvA61wV9htmVXEftARoU,Watermät,Bullit - Radio Edit,house,C,1,194877,121.965,-3.97,0.809,0.366,0.563,0.0874,0.175,0.291,0.0901
+138,ibiza,3ddsRCIG5TcpytqsfTOnX1,Disciples,They Don't Know - Radio Edit,house,C,0,161726,120.006,-4.436,0.79,0.874,0.801,0.0467,0.586,0.0135,0.0522
+139,ibiza,1tNxprI7wf87blRuXUyEvC,Kölsch,Grey,electronic,B,0,293579,125.026,-6.987,0.582,0.209,0.833,0.0659,0.0577,0.053,0.108
+140,ibiza,412luShbmlgqqgYFStIB1s,Philip George,Wish You Were Mine - Radio Edit,house,G,0,177561,123.002,-4.164,0.832,0.407,0.654,0.0293,0.0901,0.0126,0.102
+141,ibiza,1mHdnrcPMlhwFqMrsS9Kbx,Dele Sosimi Afrobeat Orchestra,Too Much Information - Laolu Remix (Edit),unknown,G#/Ab,1,512100,120.015,-6.737,0.749,0.459,0.733,0.043,0.884,0.000481,0.0852
+142,ibiza,3RXpeuxTgxqMzqGXVLRiCy,Patrick Topping,Forget - Original Mix,house,C,1,366829,122.988,-6.71,0.873,0.911,0.811,0.0963,0.876,0.0474,0.111
+143,ibiza,7BQRqhJtJoXB1pNCvf7VmZ,OFFAIAH,Trouble,house,C#/Db,0,173807,124.034,-3.492,0.97,0.965,0.602,0.0441,0.0386,0.0133,0.138
+144,ibiza,53R3qtUyzfirPcjuDNk5kn,Azari & III,Hungry For The Power - Jamie Jones Ridge Street Mix,electronic,A,1,406692,124.03,-7.633,0.658,0.718,0.867,0.0674,0.01,0.00541,0.228
+145,ibiza,0zW8lf8kv4Km3sm4fM1L8j,Paul van Dyk,SHINE Ibiza Anthem 2018 (Paul van Dyk presents SHINE) - Edit,techno,A,1,196522,138.03,-6.453,0.978,0.129,0.445,0.0437,0.877,0.00304,0.486
+146,ibiza,1A8j067qyiNwQnZT0bzUpZ,Kungs,This Girl (Kungs Vs. Cookin' On 3 Burners),edm,C,0,195547,121.985,-4.759,0.717,0.466,0.792,0.0393,3.59e-05,0.0927,0.226
+147,ibiza,3WWcXI6gWsL00x1mirK1Yf,Kideko,Crank It (feat. Nadia Rose) - Radio Edit,house,G,1,168000,124.977,-6.8,0.915,0.808,0.801,0.167,0.000338,0.0881,0.0806
+148,ibiza,0F2BxpbxH8Yc3pLub48hrb,Eric Prydz,Pjanoo - Radio Edit,edm,G,0,157432,125.99,-4.949,0.874,0.836,0.605,0.0295,0.812,0.000563,0.112
+149,ibiza,58l9Bv2W9BkKPXH4ARE9qv,Route 94,Forget the Girl,house,F#/Gb,0,285309,121.983,-6.249,0.821,0.708,0.848,0.0482,0.241,0.258,0.0961
+150,ibiza,2Biy0tRkZTGxGH8axDwnqP,The Bucketheads,The Bomb (These Sounds Fall Into My Mind),house,F,1,202934,125.917,-3.57,0.874,0.872,0.782,0.0384,0.343,0.0027,0.0766
+151,ibiza,1pKYYY0dkg23sQQXi0Q5zN,Daft Punk,Around the World,electro,G,1,429533,121.294,-5.311,0.795,0.841,0.956,0.15,0.889,0.00356,0.0906
+152,ibiza,1PH8at6E0jy3rFPH66aH9m,Hardsoul,Back Together (feat. Ron Carroll) - Classic Mix,house,A,1,502287,121.008,-7.93,0.73,0.832,0.767,0.0567,0.000328,0.0946,0.645
+153,ibiza,5YzBL3vkQnp3JbeDRRSbSQ,DJ Koze,Pick Up,electronic,F,1,398151,124.912,-8.968,0.601,0.513,0.712,0.062,0.802,1.09e-05,0.0982
+154,ibiza,1B89dglefjYMvJkLOEwfD1,Todd Terry,Figure of Jazz,house,D,1,212683,122.966,-6.708,0.915,0.372,0.672,0.0592,0.942,0.0674,0.0855
+155,ibiza,6WnWvRVzXJWEHxkhDKmt8u,Barbara Tucker,Beautiful People - Underground Network Mix,deep-house,E,0,546587,124.015,-8.171,0.744,0.618,0.774,0.0632,0.00416,0.00327,0.0858
+156,ibiza,1As4KC3YYpu89aBt7EqL2m,Eric Prydz,Call on Me,edm,G#/Ab,0,454440,126.32,-8.944,0.793,0.198,0.643,0.326,0.103,0.00212,0.458
+157,ibiza,36Q2jPpoXts77jDz090OS8,Crystal Waters,100% Pure Love,house,F,0,277933,120.235,-7.375,0.711,0.737,0.813,0.0477,0.00876,0.0888,0.0585
+158,ibiza,2d6kU8J16F3fqpbYKZiLP3,Freemasons,Love On My Mind (feat. Amanda Wilson),house,A#/Bb,0,313320,127.946,-4.285,0.962,0.86,0.644,0.0888,0.000709,0.00648,0.294
+159,ibiza,3hrN93f0xTIsejwDB3avn6,The Shapeshifters,Life Is A Dancefloor (feat. Kimberly Davis),house,A,0,239028,121.009,-5.14,0.789,0.896,0.757,0.0922,1.82e-05,0.0358,0.0447
+160,ibiza,7hJmOSDPX5Zah3JSpZM5St,Kristine W,Feel What You Want - Freejak Mix,house,A,0,197247,125.36,-6.165,0.802,0.633,0.818,0.0779,0.0,0.0214,0.172
+161,ibiza,1sZq0voF6m1oliOaEw4fBF,Sabrina Johnston,Peace,house,D,1,247840,121.338,-6.94,0.967,0.724,0.591,0.0519,2.38e-05,0.0363,0.102
+162,ibiza,3NTbqgdK5bo6Q9E4yBOzUp,Cathy Dennis,"Touch Me (All Night Long) - 7"" Mix",house,A#/Bb,0,208867,118.01,-10.309,0.773,0.473,0.656,0.0328,0.0651,0.00293,0.316
+163,ibiza,6zTUlTbwdSVC61yrNY0SfS,Alex Party,Don't Give Me Your Life - Radio Version,house,D#/Eb,1,197591,127.83,-7.396,0.88,0.901,0.678,0.0358,0.0,0.119,0.0615
+164,ibiza,4RADreHMvMkZwsPgPr9z5c,SNAP!,"Rhythm Is A Dancer - 7"" Edit",house,A,0,225882,124.249,-11.367,0.745,0.706,0.794,0.037,0.000414,0.273,0.143
+165,ibiza,3R2ezKaNvWEvCYoZ0fkxwN,Junior Jack,Stupidisco (Radio Edit),deep-house,C#/Db,1,220027,125.015,-4.377,0.987,0.749,0.71,0.0521,0.543,0.021,0.693
+166,ibiza,0KnWFe8LmBjEMbmvBjqXi1,Shawn Christopher,Don't Lose The Magic - original mix,house,G#/Ab,1,226013,120.271,-17.31,0.532,0.526,0.72,0.0471,0.00142,0.0003,0.0507
+167,ibiza,4oUr6mgNSjQjyGs8kbXzU5,Corona,The Rhythm of the Night,house,F,0,264307,127.822,-12.291,0.782,0.77,0.688,0.034,0.666,0.000235,0.0955
+168,ibiza,0gggjVyUJd90tYzAnmBjFV,Real McCoy,Another Night,house,G,1,236933,125.983,-7.575,0.882,0.874,0.813,0.0402,0.00457,0.0908,0.147
+169,ibiza,3Cg0TgAFloolCYYtAkyyYa,Martha Wash,Carry On,house,G,1,256333,118.874,-7.762,0.753,0.468,0.729,0.064,0.0145,0.0672,0.0668
+170,ibiza,0JXXm3RqxU8EKzX4P8M0n3,Captain Hollywood Project,More And More - Single Version,house,G,1,253573,125.862,-11.855,0.847,0.71,0.661,0.0349,0.835,0.225,0.0863
+171,ibiza,4M2CfwFqOUD1KBRSoiVozZ,Billie Ray Martin,Your Loving Arms,house,A,0,254067,131.639,-5.552,0.935,0.627,0.607,0.0587,7.88e-06,0.0177,0.149
+172,ibiza,16I6E9rRTZVEx3FFi8zBb2,Joi Cardwell,Love Somebody Else - Maceo Plex & John Dasilva Mix,deep-house,B,0,500203,122.995,-6.89,0.872,0.374,0.789,0.0644,0.54,0.0301,0.314
+173,ibiza,0j04OihIPXTsIpO0pfApGj,La Bouche,I love To Love - Club Mix,house,G#/Ab,1,362627,138.876,-5.672,0.938,0.757,0.694,0.0346,0.352,9.42e-05,0.364
+174,ibiza,567ybr9TyCpGe7cAJK08Vf,Suzanne Palmer,Home - Offer Nissim Part 1 Remix,other,E,0,487387,130.004,-5.064,0.96,0.574,0.616,0.0474,0.791,0.00321,0.221
+175,ibiza,2U1sjPDhTroRLWI6ani8xa,Loveland,Let the Music (Lift You Up) [feat. Rachel McFarlane],house,D,1,209667,130.014,-6.678,0.889,0.834,0.634,0.0284,0.00125,0.0036,0.337
+176,ibiza,4wzZqzOKWhQkv9vTLHS4HP,Jocelyn Brown,Somebody Else's Guy - Original,house,F#/Gb,1,386027,103.013,-9.843,0.728,0.623,0.745,0.0574,0.00109,0.00353,0.099
+177,ibiza,5SMnHUNB2iBm3rkuoHpIZO,Robert Owens,I'll Be Your Friend - Original Mix (2011 Remastered Version),house,A#/Bb,0,456911,121.867,-6.209,0.859,0.573,0.731,0.0414,0.000184,0.000652,0.116
+178,ibiza,2aFfptZJIO3mNRUS7PqAFr,Judy Cheeks,Mellow Lovi,house,B,0,454333,124.716,-8.181,0.677,0.558,0.614,0.03,0.0,0.0476,0.278
+179,ibiza,2HTz4PBLFUnKHjQdVDlIsi,Vernessa Mitchell,This Joy - Rosabel 2016 Reworked Joy Radio,house,C#/Db,1,213703,129.982,-7.886,0.821,0.184,0.774,0.0338,0.45,0.00128,0.519
+180,ibiza,5dGsG7Czmj3w88Lu5IAHyA,Juliet Roberts,Caught in the Middle - Gospel Revival Version / Edit,other,A#/Bb,0,210467,123.29,-13.242,0.71,0.623,0.709,0.054,0.000111,0.0259,0.285
+181,ibiza,5PHPENfE3RVmHGAA2A7Hfx,RuPaul,Sissy That Walk,house,B,1,212693,126.046,-4.22,0.614,0.591,0.826,0.0561,0.0172,0.0191,0.0865
+182,ibiza,4xepX8V363CalzMA4nI10d,Pet Shop Boys,I Don't Know What You Want but I Can't Give It Any More - 2017 Remaster,rock,F,0,309307,123.768,-6.068,0.926,0.754,0.612,0.0317,0.0915,0.0039,0.201
+183,ibiza,1mCI3atQyw3r8rd0icztLR,Viola Wills,Gonna Get Along Without You Now,disco,D,1,200600,119.455,-7.543,0.724,0.703,0.64,0.0324,0.34,0.0312,0.377
+184,ibiza,4tiVQzeVugyF6WGqZqmqLN,Deep Dish,The Future of the Future (Stay Gold) (with Everything But The Girl),progressive-house,A,0,567973,122.021,-6.879,0.756,0.42,0.678,0.0354,0.198,0.00363,0.0655
+185,ibiza,548Q440Ox3IpWOc4xoUDMv,Blas D'Moure,Lover,house,G,1,370000,120.016,-9.593,0.796,0.824,0.788,0.0469,0.713,0.00705,0.0941
+186,ibiza,6mn15kWtqGdQtBYIx9L3Kc,Heather Small,Proud,funk&soul,B,0,268600,103.005,-6.673,0.868,0.49,0.636,0.0414,0.0,0.238,0.0649
+187,ibiza,5n3ot8kELbICrwWBDVkVl9,Donna Giles,And I Am Telling You,house,G#/Ab,1,349667,120.019,-15.773,0.665,0.535,0.687,0.0459,0.189,0.012,0.0859
+188,ibiza,0COin4KiAm6hFmlsXHUYi9,Clubhouse,Light My Fire,house,B,1,296240,134.013,-6.389,0.917,0.817,0.661,0.0399,0.00672,0.00993,0.383
+189,ibiza,2O3JCRH7IvUUbzbxEvoVAi,Evelyn Thomas,High Energy,house,A#/Bb,0,409600,124.252,-12.772,0.765,0.711,0.956,0.0619,0.0461,0.143,0.25
+190,ibiza,4nzQXycz5W0cmwkNF91RrK,Zelma Davis,Free Love (Barry Harris Club Mix),house,C,1,555000,127.986,-5.6,0.831,0.411,0.681,0.0426,0.154,0.00118,0.0901
+191,ibiza,5bXCrhWnAXWcIwxfhn4Ue3,Jacquetta,My Guy,house,G,0,303973,120.005,-23.497,0.302,0.772,0.859,0.0507,0.236,0.117,0.114
+192,ibiza,623ssG5DVKacHm4xSPoHBE,Kathy Sledge,Give yourself up - Mig & Rizzo Radio Mix,house,F#/Gb,1,214549,129.994,-5.522,0.921,0.694,0.678,0.083,6.32e-05,0.038,0.294
+193,ibiza,1iN0qo66lfplCufdYlFxMj,Carol Jiani,Hit'n Run Lover,house,A#/Bb,0,486560,121.196,-9.103,0.572,0.548,0.774,0.0425,0.0153,0.0241,0.293
+194,ibiza,3X32UTCnV7NivwSMKOOx0y,Mental Instrum,Trust Yourself - King Street Club Mix,house,B,0,336269,121.245,-9.039,0.789,0.419,0.737,0.0914,0.000116,0.00775,0.147
+195,ibiza,6n10TqvXr1KXaOR47mWbVu,Hardhouse,"Check This Out - Club 12"" Mix",house,A#/Bb,0,317107,120.749,-7.709,0.938,0.791,0.804,0.062,0.911,0.00613,0.292
+196,ibiza,3LnyQRupEMMFRHT9wsRAvE,Melanie Williams,Ain't No Love (Ain't No Use),house,A#/Bb,0,204057,128.003,-4.821,0.839,0.85,0.683,0.0366,0.0552,0.00344,0.868
+197,ibiza,7ECbrLsvtH68agsiJUeDb3,Amanda Wilson,Spin It Again - Masstaff Remix,house,F,0,405000,128.011,-6.717,0.715,0.773,0.684,0.0386,0.0163,7.35e-05,0.652
+198,ibiza,18pVdQeJbwjXl2anG7huyJ,Sabrynaah Pope,Someone For You - String Quartet Mix,house,E,0,408120,124.995,-10.496,0.621,0.847,0.718,0.0425,0.104,0.00367,0.0955
+199,ibiza,2WwLQFEqO7bR3zKQ8noH4e,Dee Dee Simone,What Are We Doing - MU Album Edit,house,G,1,340404,121.205,-8.488,0.883,0.848,0.688,0.0324,0.799,0.000729,0.103
+200,ibiza,26EteVoB3zkVk0FIi2hPT2,Fargetta,Music - Synthesis Edit,house,E,0,239133,125.026,-11.311,0.836,0.468,0.615,0.0402,0.147,0.0506,0.0663
+201,ibiza,1TFrdgIFlo1FDClMzfZEWL,Carole Sylvan,Just Doin' What We Love - Dead President's Radio Edit,house,B,0,222627,127.996,-7.511,0.907,0.63,0.678,0.039,0.00019,0.000662,0.367
+202,ibiza,3P946ipA8bn49W7ugJHQDE,Ann Saunderson,Another Day,unknown,G,0,365902,122.001,-5.568,0.793,0.473,0.923,0.0915,0.494,0.0122,0.084
+203,ibiza,5Euzju0uGnlr5Q1lAlS6Rh,D'Bora,E.S.P. - Urban Mix,house,B,0,287827,104.987,-10.025,0.854,0.695,0.622,0.0443,9.94e-05,0.00116,0.329
+204,ibiza,0x0KQ4WlUckjDe5cpb3pL9,Xaviera Gold,Bad Girls,house,C#/Db,1,136480,123.269,-9.51,0.889,0.789,0.916,0.0601,0.92,0.00174,0.28
+205,ibiza,1WvhdO2y30tIpEFzMPsGi1,Maya Simantov,Candy Boy - Jose Spinnin Cortes Remix,other,B,0,399369,128.007,-5.399,0.863,0.58,0.685,0.0462,0.456,0.00035,0.0817
+206,ibiza,1V8mmULdjj0TafMJot8coO,Lynda Te,I Can't Believe,house,A,1,260307,124.328,-19.419,0.351,0.784,0.734,0.0847,0.0224,0.0011,0.139
+207,ibiza,0BNt1E54JDgCc06Ld5oaQ6,Ultra Naté,The First Time Free - Claptone Remix,house,F,0,338020,120.007,-6.523,0.603,0.662,0.846,0.0696,0.3,0.000355,0.11
+208,ibiza,2lwJ7eiwNwW1Pc5fSRp8fR,Todd Terry,House is a Feelin - 2019 Remix,house,C#/Db,1,261120,125.019,-7.782,0.956,0.109,0.74,0.0837,0.917,0.0108,0.0561
+209,ibiza,27kKrfGjxtsLHggpC33MCR,K-Klass,Rhythm Is a Mystery - Non-Stop Edit,house,A#/Bb,0,354000,121.094,-8.001,0.797,0.379,0.684,0.0357,0.528,0.00281,0.0813
+210,ibiza,5Rg4i5SEzUXAiztaIwG3Qd,CeCe Peniston,Keep On Walkin',house,F#/Gb,1,270838,104.974,-12.111,0.712,0.655,0.766,0.0427,0.0201,0.00291,0.226
+211,ibiza,6wBMTv8yTiNh50fqTkT0JC,Black Box,Everybody Everybody,house,F,0,247002,117.643,-6.418,0.785,0.975,0.712,0.0386,6.95e-06,0.00363,0.0878
+212,ibiza,63k11xpe5cqZAIPyWgVyvL,Alison Limerick,"Make It On My Own - 12"" Club Mix",house,B,1,424267,112.367,-6.98,0.793,0.825,0.719,0.0466,0.000357,0.0195,0.0993
+213,ibiza,7IXhtypLt2JBG9S6Y1HesO,David Morales,Here I Am,house,A,1,347267,129.015,-7.784,0.684,0.883,0.693,0.0354,0.0593,0.00613,0.0756
+214,ibiza,0JgrkVehf9xqNlPdQK9FVI,M People,Search for the Hero,house,D#/Eb,1,249200,99.989,-4.874,0.838,0.807,0.624,0.0417,1.1e-05,0.0126,0.04
+215,ibiza,6Il7pbwZ8lHGleawSOddNk,Freemasons,Uninvited (feat. Bailey Tzuke),house,G,1,320827,126.979,-2.861,0.838,0.518,0.628,0.0305,0.027,0.0306,0.124
+216,ibiza,7HlxqDDzdWE3gK0i6fS6Bt,Urban Cookie Collective,Feels Like Heaven,house,C#/Db,1,210133,129.845,-5.905,0.952,0.787,0.639,0.0364,0.00267,0.114,0.0415
+217,ibiza,227rjyNRWbipxz1bMnZ4ZE,Lonnie Gordon,Gonna Catch You,house,G,1,231040,121.649,-9.071,0.668,0.953,0.84,0.0461,1.05e-05,0.000825,0.223
+218,ibiza,5icmrD1XRIkDKY1pSSkA1Q,Soulsearcher,Feelin' Love (Soulsearcher Club Mix) - Mixed,deep-house,F#/Gb,0,248782,122.936,-6.728,0.712,0.963,0.749,0.0879,0.00402,0.00306,0.522
+219,ibiza,5KhAzdjCDy6MZai1P0RJAe,Kym Sims,Take My Advice,house,D,1,283227,120.01,-10.396,0.814,0.803,0.737,0.0307,0.392,0.00019,0.0844
+220,ibiza,2GuPDHLGvIkp3NFBtaoiSf,Kristine W,Lovin' You,house,G,0,210040,122.014,-5.434,0.927,0.693,0.671,0.0316,1.05e-05,0.0146,0.0958
+221,ibiza,3EoxJWpogMTVp8XnqqiMOD,Sabrina Johnston,"Free, Gay, And Happy",house,F,0,232411,126.182,-12.037,0.749,0.621,0.591,0.047,0.000212,0.0138,0.15
+222,ibiza,5PitqmqwYECoO4owwePBpM,Masters At Work,Backfired - Joey Negro Club Mix,house,A,0,517920,127.5,-5.381,0.876,0.828,0.722,0.0491,0.0972,0.00567,0.0465
+223,ibiza,5YETK6CqagoqiJ3ut6TuyS,Shawn Christopher,You Can Make It - Alaia & Gallo Remix,house,A#/Bb,0,190665,123.996,-7.858,0.869,0.597,0.804,0.0723,0.0858,0.00225,0.0729
+224,ibiza,0nQLxiNGbbUoSGrxksETLm,SNAP!,The Power,house,C,1,228994,108.899,-7.693,0.88,0.707,0.74,0.0624,0.00803,0.0434,0.341
+225,ibiza,5Hr2Q8DMEn25u3tu2sqcpQ,Corona,Baby Baby - Lee Marrow Radio Mix,house,G,1,226907,133.026,-9.298,0.855,0.579,0.645,0.031,0.00133,0.00289,0.322
+226,ibiza,2IHyAOsjAFTS0dODLbaDGI,De'Lacy,Hideaway 2019 (The Sleazy Hippie Remix),house,F#/Gb,1,180000,121.99,-3.552,0.905,0.921,0.822,0.127,0.00529,0.0149,0.32
+227,ibiza,2PDb4jB6EpF7S0ubYsKT9B,Sandy B,Feel Like Singin' - BOP Radio Edit,house,C#/Db,1,215646,121.179,-5.814,0.94,0.891,0.714,0.0355,0.0697,0.000232,0.103
+228,ibiza,2njeWrR9MVLGmSo0ERtEuH,Kathy Brown,Never Again - Copyright Classic Mix,house,C,0,509600,125.995,-8.276,0.671,0.916,0.78,0.054,0.136,0.00167,0.0212
+229,ibiza,2888PXf2sm63HvZ3u8b7ug,Roger Sanchez,This Feeling - Radio Edit,house,F,0,175238,125.981,-4.493,0.979,0.476,0.637,0.0492,0.262,0.00519,0.084
+230,ibiza,2M9LXjZXDA2rxedIjl2AaM,Robert Owens,Be Your Own Hero - John Gazoo White Shoe Remix,house,G#/Ab,1,482142,121.998,-11.062,0.564,0.7,0.855,0.0496,0.0889,0.0116,0.0875
+231,ibiza,0dPA0IEjHKMKDlHTS4tY9g,Kym Mazelle,Was That All It Was - Def Mix Edit 2,house,F,0,339147,122.472,-14.435,0.58,0.94,0.791,0.0578,0.16,0.0121,0.0789
+232,ibiza,61EUGfMYumRvbA557JQYDj,Hannah Jones,I Am What I Am (Mary Brazzle Vocal Radio Edit),house,F,1,212413,132.005,-6.16,0.928,0.66,0.633,0.0435,0.0,0.00155,0.268
+233,ibiza,70bTA14z2WAA4eunvF2ZrM,Vernessa Mitchell,Took My Life (Turn It All Around),house,G#/Ab,1,357013,126.404,-3.994,0.841,0.803,0.697,0.0774,0.0428,0.0106,0.0162
+234,ibiza,0UmEWjbXmmieS9aRIFfpTE,Juliet Roberts,I Want You,other,A#/Bb,1,300333,120.869,-12.376,0.585,0.517,0.728,0.0459,0.0,0.0322,0.165
+235,ibiza,1VEs9w9sw63BlIlSjJJpII,Jeanie Tracy,Turn it Out (Original Mix),other,B,0,480560,130.018,-5.629,0.978,0.278,0.585,0.0667,0.0223,0.0303,0.0521
+236,ibiza,1bOJQnJsFW5LZOgGp4K2mb,Ultra Naté,If You Could Read My Mind,house,D#/Eb,1,206773,126.981,-7.407,0.88,0.389,0.609,0.0742,0.0,0.0405,0.284
+237,ibiza,5P7l62zxWmXAG9ojQZkZDk,Todd Terry,Abduction,house,B,0,226560,124.99,-7.127,0.938,0.429,0.735,0.0479,0.651,5.58e-05,0.0562
+238,ibiza,6gv13fr8OftVZ4GIxGRXWQ,K-Klass,Just Come - Belocca Remix,house,D,1,379355,123.985,-7.275,0.948,0.294,0.787,0.0638,0.811,0.000189,0.705
+239,ibiza,0lqki0DuBYXSCECuV1sdLt,Livin' Joy,Follow The Rules,house,A#/Bb,0,233333,126.994,-7.716,0.947,0.8,0.73,0.0661,1.22e-05,0.0678,0.349
+240,ibiza,742hY2twqAjwNYnKkQdilj,Black Box,Strike It Up,house,F#/Gb,0,298691,118.398,-7.694,0.862,0.915,0.875,0.062,0.000281,0.0116,0.0658
+241,ibiza,3U6w4KTpZm7jhqmGJEzRW5,Alison Limerick,Love Come Down - Club Vocal Mix,house,C#/Db,0,516533,124.067,-6.219,0.829,0.743,0.671,0.04,0.000356,0.153,0.229
+242,ibiza,3UfjCMM50mnQEe12vsmYWm,Kim English,Unspeakable Joy - Razor N Guido Radio Mix,house,F#/Gb,1,247787,131.014,-5.693,0.844,0.327,0.778,0.142,0.000104,0.00714,0.117
+243,ibiza,3MQBen57Cim5OO2ePpkrB0,Rozalla,"Faith (In The Power Of Love) (12"" Mix)",house,E,0,434667,123.187,-6.669,0.861,0.709,0.581,0.0354,0.0492,0.00691,0.294
+244,ibiza,3mRPRzcV2SsNQUqjsn2VAE,David Morales,There Must Be Love - World Radio Mix,house,D,0,246013,126.003,-8.314,0.73,0.272,0.698,0.0318,0.0,0.0176,0.167
+245,ibiza,0r0Xxph8zVqT0wctmINRLT,Crystal Waters,United in Dance - StoneBridge Ibiza Radio Mix,house,F#/Gb,0,195516,126.012,-3.614,0.914,0.711,0.605,0.0323,1.07e-05,0.028,0.364
+246,ibiza,0DwAc0Z8Td3jv5frUznqu1,Frankie Knuckles,The Whistle Song,house,C,1,417707,120.385,-16.306,0.616,0.398,0.71,0.116,0.225,0.0344,0.0936
+247,ibiza,0MI8lMDF5d5jp3JkbigX95,Freemasons,Watchin' (feat. Amanda Wilson),house,D,0,167560,128.022,-3.643,0.965,0.632,0.583,0.108,0.0435,0.00535,0.375
+248,ibiza,6qZNMaXd0UnCTvXS9boP1h,The Shapeshifters,Try My Love (On For Size) [feat. Teni Tinks],house,C,1,214256,120.061,-3.302,0.877,0.82,0.708,0.0801,0.00928,0.0484,0.344
+249,ibiza,0gxYBPJZjtHhptH9abY9ry,Urban Cookie Collective,High On A Happy Vibe,house,D,1,316467,131.472,-5.305,0.947,0.788,0.61,0.0391,8.84e-05,0.0357,0.0591
+250,ibiza,05e1JCH08UQ1Mf0rCTqYYc,Lonnie Gordon,If I Have to Stand Alone,house,G,1,206751,120.176,-7.424,0.937,0.931,0.658,0.0338,5.4e-05,0.111,0.0479
+251,ibiza,2wy5td26aOXHVqtjRFlMhc,Kym Sims,A Little Bit More,house,F,0,298933,113.925,-10.659,0.666,0.611,0.755,0.0364,0.452,0.0247,0.0968
+252,ibiza,3BY4oOJkTNqMKSnpOPnGIf,Kristine W,Save My Soul - Gabriel & Dresden Bootleg Mix,house,A,0,538853,130.052,-7.55,0.727,0.558,0.705,0.067,0.000802,0.00837,0.136
+253,ibiza,0aocjXYGXZ8HedXYaio4dZ,Loleatta Holloway,Dreamin',disco,C#/Db,0,381733,117.816,-7.923,0.903,0.697,0.619,0.15,0.0,0.125,0.091
+254,ibiza,3fpH6KFtVUN202fAQleSbR,Sabrina Johnston,Satisfy My Love - House Factor Mix,house,C,0,413573,121.017,-11.748,0.772,0.861,0.713,0.038,0.351,0.000247,0.092
+255,ibiza,4x1E99Fe36e06M5YbLBgMC,Masters At Work,The Ha Dance,house,G#/Ab,0,202773,127.915,-8.615,0.781,0.552,0.808,0.045,0.759,0.00017,0.0732
+256,ibiza,0TKbvgL8jUh8Ne4tCn9EMW,Shawn Christopher,Another Sleepless Night - Bassman Mix,house,C#/Db,0,403469,121.743,-10.068,0.739,0.0773,0.786,0.0532,0.807,3.53e-05,0.108
+257,ibiza,5Yhx4DU9ZTyXuamsgD9j7a,Sybil,The Love I Lost,house,F,1,206067,124.012,-9.265,0.899,0.555,0.62,0.0399,0.00427,0.032,0.0712
+258,ibiza,0JhKJg5ejeQ8jq89UQtnw8,Avicii,Levels - Radio Edit,pop,C#/Db,0,199904,126.035,-5.851,0.881,0.415,0.62,0.0372,0.714,0.0585,0.311
+259,ibiza,0XvjOhwCnXXFOSlBbV9jPN,Duck Sauce,Barbra Streisand - Radio Edit,house,C#/Db,1,196533,127.965,-1.966,0.922,0.506,0.769,0.108,0.197,0.000939,0.233
+260,ibiza,1qZMPmpD1jDcOA7gZ6TCde,Swedish House Mafia,One (Your Name) - Radio Edit,edm,A,0,163247,125.061,-6.572,0.673,0.636,0.733,0.0333,0.0049,0.0132,0.16
+261,ibiza,36lcl16n71AZNd39TyBrkn,Freemasons,Love On My Mind,house,A#/Bb,0,313320,127.946,-4.285,0.962,0.86,0.644,0.0888,0.000709,0.00648,0.294
+262,ibiza,6GsrPl85RzRuyWbJqDXjal,Eric Prydz,Generate - Radio Edit,edm,B,1,165076,127.029,-5.033,0.821,0.601,0.605,0.0271,5.73e-05,0.00777,0.119
+263,ibiza,3LZcy50RaeepcERxdcOZ8p,Axwell,I Found U - Radio Edit,house,E,0,174947,130.017,-7.008,0.963,0.287,0.663,0.0774,0.00161,0.062,0.402
+264,ibiza,4q2FpV5MPFiBXrwMISMr1b,Kid Crème,Doing My Own Thing - Vocal,unknown,F#/Gb,0,544187,126.982,-7.189,0.971,0.434,0.707,0.106,0.605,0.00121,0.886
+265,ibiza,5EMwg8P4A3Qj7BPtau1Mn0,Superfunk,Lucky Star,house,F#/Gb,1,295693,125.857,-7.426,0.682,0.901,0.776,0.0738,0.000237,0.0516,0.234
+266,ibiza,2nx2ry2ESLhDSeRaWMojaz,Dennis Cruz,See Line - Wade Remix,tech-house,E,0,375359,124.005,-8.166,0.946,0.928,0.808,0.061,0.294,0.000207,0.0455
+267,ibiza,4rzn8VNIi3evhwtRfgiv8m,Black Legend,You see the trouble with me - We'll Be In Trouble Extended Mix,house,F#/Gb,1,398307,124.989,-8.276,0.973,0.663,0.612,0.0396,0.704,0.00609,0.0919
+268,ibiza,2qO7l16lecxuoqeGsqE0RX,Funkerman,Speed Up - Radio Mix,tech-house,F,0,180460,127.001,-6.275,0.695,0.913,0.748,0.05,7.09e-05,0.00117,0.0622
+269,ibiza,6FhjfR1FgwoCILGCAXHKJg,Oliver Heldens,Space Sheep,house,A,1,260952,126.006,-5.419,0.685,0.543,0.686,0.049,0.893,0.00108,0.0451
+270,ibiza,24UyP8vlf7Yut97V1NEjVm,Topazz,New Millenium - Freezy Jam Mix,other,A,0,414280,128.722,-7.752,0.789,0.167,0.717,0.0482,0.89,0.00527,0.109
+271,ibiza,3wfEacP7HosuZU9zmy5KDW,Sue Avenue,Homeless,electronic,D,1,452500,121.976,-8.787,0.621,0.334,0.844,0.0659,0.148,0.0164,0.605
+272,ibiza,7JX1fCsFRxuozIyqenAkJy,Only Children,Down Fever,unknown,G#/Ab,1,417500,111.998,-5.374,0.876,0.578,0.819,0.0524,0.842,0.219,0.75
+273,ibiza,4synbnBuHdZS7Ww8K6bQ2Q,Kish Mauve,Lose Control - Fred Falke Remix,unknown,F,0,494840,125.986,-6.028,0.902,0.701,0.641,0.352,0.601,0.0138,0.0904
+274,ibiza,0LEJw1t60xUxevqvqySYFC,Claptone,Heartbeat,house,A#/Bb,0,329538,120.006,-7.916,0.648,0.707,0.812,0.0405,0.311,0.0177,0.0829
+275,ibiza,5z0PXFuxL2SZLPHLDlMDfL,Jamiroquai,Space Cowboy - David Morales Mix,pop,A#/Bb,0,470840,118.754,-8.082,0.843,0.769,0.756,0.0817,0.0624,0.0299,0.0547
+276,ibiza,3lUGiYoiFRZ4dA6xogR6KN,Nina Simone,Sinnerman - Felix Da Housecat's Heavenly House Mix,blues,B,0,275480,128.021,-7.1,0.792,0.653,0.811,0.0454,0.0131,0.152,0.396
+277,ibiza,2mEkLzchUmXV6bkQXD2aDy,Sugar Hill,Feeling for You - Original mix,house,C#/Db,1,382051,120.979,-7.421,0.659,0.895,0.851,0.0789,0.137,0.0227,0.0759
+278,ibiza,1i1YqgLiO4zRTKTbDXCztD,Pryda,RYMD,unknown,F#/Gb,0,540592,125.025,-11.165,0.569,0.248,0.769,0.0626,0.791,0.00295,0.0744
+279,ibiza,6rUFa7VeCtIb4GkA4VqRTl,Purple Disco Machine,Street Life - Original Mix,deep-house,C#/Db,0,403960,119.995,-8.714,0.525,0.571,0.842,0.0713,0.916,0.000658,0.0264
+280,ibiza,0t3WLhaGEcxanXfk1gal8D,WEISS,The Guitar Man - Original Mix,house,F#/Gb,0,335543,121.995,-8.436,0.594,0.494,0.865,0.0684,0.325,0.00305,0.0795
+281,ibiza,3B1sGmhpYRrM7Qu4agZy9m,Tensnake,Love Sublime,deep-house,D,0,238823,106.008,-7.439,0.709,0.485,0.791,0.0425,0.018,0.216,0.102
+282,ibiza,1DM9euLLe3QOQgTemGEs1P,Claude VonStroke,Can't Wait,house,B,0,482317,123.008,-9.598,0.441,0.185,0.817,0.0746,0.866,0.000499,0.139
+283,ibiza,62wo9Fyv0fbIbRkUdYZPC5,Tensnake,See Right Through,deep-house,A,0,268003,125.02,-7.381,0.511,0.662,0.844,0.12,0.39,0.0302,0.124
+284,ibiza,676ErmAUBivIDS70z7hl9l,UMEK & Groovebox,Cause And Effect - Original Club Mix,unknown,G,1,447268,125.015,-4.071,0.939,0.596,0.842,0.119,0.469,0.00148,0.111
+285,ibiza,018Q5u5omDgW1VnJO5cTG6,Tube & Berger,Waterfall,house,A,0,206940,122.988,-9.258,0.712,0.158,0.602,0.0481,0.152,0.0359,0.135
+286,ibiza,0ikhyMXGBKSx8Yb18h7prS,Tube & Berger,Imprint of Pleasure,house,A,0,442627,122.061,-8.129,0.615,0.499,0.806,0.0927,0.774,0.152,0.102
+287,ibiza,4r8hRPbidDIoDPphxi78aY,Duke Dumont,I Got U,edm,C,1,285596,120.82,-7.794,0.756,0.42,0.653,0.0366,0.00651,0.00364,0.089
+288,ibiza,7mMaJKkvMKUB4KPtWjMQ8D,Disclosure,White Noise,edm,A#/Bb,0,340268,120.002,-7.338,0.884,0.831,0.701,0.0546,0.0011,0.00537,0.402
+289,ibiza,3slwTlZ24jjJEALWKpm044,David Herrero,Together - Hollen Remix,tech-house,C,1,407040,124.987,-6.389,0.927,0.344,0.804,0.0493,0.908,9.25e-05,0.032
+290,ibiza,6cHk3jBEfDhS4sbCexKKsi,Prok & Fitch,Symphony (Mike Vale Remix),house,A#/Bb,0,395808,127.009,-5.511,0.896,0.575,0.798,0.07,0.925,9.08e-05,0.204
+291,ibiza,0kXJNqmYdjwb31QLWGkNb7,Avicii,Superlove,pop,A,0,322515,128.008,-6.87,0.955,0.896,0.729,0.113,0.918,0.136,0.0841
+292,ibiza,7y3YzXGXsnQfJnugogLivq,Kavinsky,Nightcall - Breakbot Remix,house,A,0,219813,108.967,-4.444,0.661,0.886,0.804,0.0317,0.174,0.343,0.117
+293,ibiza,2PUVrP07VnCDrIKCC8y6TZ,Wise D,Check Out The Groove - Original Mix,unknown,F#/Gb,0,384762,126.015,-5.89,0.957,0.606,0.86,0.305,0.585,0.00738,0.498
+294,ibiza,6O4Xd8PV8ORH9kcowLpwMU,Jay Lumen,Get Ready - Original Mix,techno,C#/Db,1,434001,124.998,-4.306,0.964,0.624,0.881,0.128,0.29,0.00942,0.0574
+295,ibiza,3JnnnJkIF8k9Jq20Tt2bt6,Superfunk,Ragga MC 2012 - Superfunk Reboot Mix,house,F#/Gb,0,292527,128.017,-3.524,0.957,0.94,0.821,0.0793,0.797,5.56e-05,0.574
+296,ibiza,0r9Dtmw0gstt9eC2dAjf2Z,Zedd,Spectrum - Radio Mix,other,C,0,243360,129.923,-4.393,0.789,0.381,0.618,0.0349,0.00604,0.0148,0.126
+297,ibiza,3jrvVd4xtB8oJlCedm0UCM,Analog People In A Digital World,Dazzled - The Cube Guys Remix,unknown,G,1,381852,126.997,-4.183,0.914,0.918,0.73,0.0761,0.209,0.000548,0.0447
+298,ibiza,7193gkcIcT1Gainu1Nohx7,Phats & Small,Turn Around - Original Mix,house,C#/Db,0,415512,127.001,-4.374,0.746,0.942,0.826,0.0575,0.54,0.000815,0.192
+299,ibiza,0U4rKU7s96KCaV4IPYXhZR,Nicky Romero,Toulouse - Original Mix,edm,F,0,365627,127.99,-3.83,0.91,0.258,0.758,0.104,0.685,0.0341,0.223
+300,ibiza,15ccEhr9NN3Blmdr0hQwj9,Madeon,Icarus,other,C#/Db,0,214267,126.113,-2.267,0.841,0.143,0.48,0.0529,0.303,0.000245,0.111
+301,ibiza,5GQQ5pCrE9POxtxGG1inxq,Swedish House Mafia,Antidote,edm,G,1,374125,128.013,-6.021,0.821,0.63,0.733,0.0991,0.373,0.000643,0.0617
+302,ibiza,1A14F6NuQrC2rorZrjbun2,Yelle,Que Veux-Tu - Madeon Remix,dance,B,0,238085,125.067,-3.224,0.806,0.22,0.601,0.0454,5.59e-05,0.00451,0.207
+303,ibiza,4CXHVDa0IJTjr5Y3cpc2MI,Sean Miller,Sinnerman - Original Mix,unknown,A,1,537147,126.019,-8.194,0.922,0.625,0.784,0.0631,0.836,0.0913,0.479
+304,ibiza,1Yl1HggMBLQb3xbR6QGeGH,Flight Facilities,Foreign Language feat. Jess - Rocco Raimundo Re-Interpretation,electronic,B,0,465333,119.999,-7.529,0.686,0.862,0.791,0.0441,0.765,0.0896,0.0388
+305,ibiza,0n5TRaqs5lA7i0WmjmteZw,Nadia Ali,Rapture - Avicii New Generation Radio Edit,trance,A#/Bb,0,222387,130.033,-4.208,0.927,0.393,0.556,0.0355,0.234,0.0203,0.295
+306,ibiza,1DSMAPkr5faWhSVHA8uEAC,Tensnake,Coma Cat - Mark Knight Korma Cat Remix,deep-house,G,1,446623,119.0,-6.942,0.872,0.361,0.633,0.0441,0.593,0.00082,0.0611
+307,ibiza,47kvm5MVF9GPqtylSbSFmI,Daishi Dance,Sax@Arena - Mitomi Tokoto Remix,other,G#/Ab,1,497557,130.005,-3.852,0.863,0.396,0.735,0.0648,0.844,1.74e-05,0.0782
+308,ibiza,5hCh2Lpczm74c0ML4HeXHe,Feed Me,Grand Theft Ecstasy - Original Mix,dubstep,A#/Bb,0,371159,128.047,-6.412,0.5,0.538,0.801,0.0493,0.73,0.000188,0.44
+309,ibiza,14QDYAEAi3i8NQTEodcEyw,Eric Prydz,Niton (The Reason),edm,B,0,483213,127.972,-5.806,0.855,0.229,0.512,0.0306,0.308,0.000506,0.307
+310,ibiza,0y0LNqWSA4Pv2KawzSi4MW,Laurent Garnier,The Man With The Red Face - Video Edit,house,D#/Eb,1,551493,131.99,-11.019,0.731,0.441,0.693,0.0407,0.934,0.0151,0.129
+311,ibiza,7jrhg1y9fDe4vyZWxbwz36,Harry Romero,Phuture - Joris Voorn Remix,house,F#/Gb,0,560500,124.996,-7.1,0.77,0.291,0.82,0.0996,0.879,0.00124,0.106
+312,ibiza,6KAtHNic0deGhGNMaq9oMI,Avicii,My Feelings For You - Radio Edit,pop,F#/Gb,0,169760,128.012,-2.509,0.993,0.125,0.606,0.074,0.0664,0.0372,0.367
+313,ibiza,4O7XG4Q58ZP8Drmunn0uqB,Awa Band,Timba (Full Intention Club Mix),unknown,C#/Db,1,376293,124.002,-5.796,0.966,0.615,0.65,0.0581,0.216,0.00458,0.122
+314,ibiza,4nt6DKmz0WdKs5Qj50QXqL,Café Du MIDI,Bailar,unknown,F,0,187714,140.052,-9.891,0.604,0.625,0.625,0.0362,0.885,0.345,0.0858
+315,ibiza,5tD2ip47iDZfQCwTOe9Tbl,Robyn,Hang With Me - Avicii's Exclusive Club Mix,pop,D,1,430403,124.998,-5.852,0.749,0.336,0.601,0.0351,0.138,0.000934,0.0711
+316,ibiza,1XFkOjK8f7pHVV1q1CJ2Fw,Riva Starr,Splendidub - Original,deep-house,B,0,384997,126.003,-5.846,0.972,0.872,0.664,0.0378,0.964,0.0304,0.315
+317,ibiza,41lVkY8F6iczNOA6TJ5y8N,Tom Novy,Now or Never - Club Mix,house,B,0,522933,128.871,-8.538,0.745,0.658,0.843,0.0559,0.182,0.00153,0.132
+318,ibiza,4SdjDLBgAx14j8WlTwYoQ5,Dirty South,Phazing - Radio Edit,dance,E,1,167827,125.967,-7.105,0.842,0.659,0.468,0.0481,0.0326,0.0012,0.357
+319,ibiza,0suZCCQYEdBYsigRkVpiB0,Mark Knight,Sax - Original Club Mix,house,F,1,459213,127.002,-5.882,0.907,0.216,0.798,0.0474,0.905,0.000874,0.371
+320,ibiza,7lds8jOEJM9d72i0A0YEfX,Pleasurekraft,Tarantula - Original Mix,techno,D,1,394839,123.985,-9.445,0.568,0.274,0.803,0.0805,0.74,0.0148,0.256
+321,ibiza,417iRTuhd5oNHHXmgkRxMT,Tom Novy,Your Body - Original Radio Edit,house,C,1,213907,127.995,-6.07,0.835,0.95,0.845,0.0544,0.0607,0.0235,0.0693
+322,ibiza,1EoSZOQpldj89x8bKvvB7t,Kaskade,In This Life - Justin Michael Remix,edm,G,1,432542,126.002,-7.435,0.935,0.969,0.815,0.0593,0.022,0.00534,0.0821
+323,ibiza,5mhXoa5dJMaudFiqkhf5U4,David Guetta,One Love (feat. Estelle) - Avicci Remix,edm,C,0,465853,126.019,-6.896,0.586,0.489,0.699,0.0444,0.00646,0.00998,0.042
+324,ibiza,1nJbqPEluXQET0TfQ47E68,Whitney Houston,Million Dollar Bill - Frankie Knuckles Radio Mix,pop,B,0,195293,126.009,-4.739,0.851,0.883,0.734,0.0387,0.0133,0.00235,0.0446
+325,ibiza,0DHmL3PeCrfO7vkXwP0XTH,Roger Sanchez,Again,house,D,1,361349,126.032,-7.445,0.676,0.608,0.885,0.065,0.00593,0.00392,0.074
+326,ibiza,6Bb3yLk8Vy59W1PA4PY71M,Chocolate Puma,Morning Rain [Wake Up Call Mix],edm,F#/Gb,0,393750,128.012,-8.133,0.841,0.686,0.8,0.0654,0.193,0.0056,0.0623
+327,ibiza,4sqfH5v3pAxw71UxygIs0k,Róisín Murphy,Overpowered - Seamus Haji Remix,pop,A#/Bb,0,488307,126.992,-7.853,0.734,0.664,0.667,0.0475,0.328,0.00409,0.0469
+328,ibiza,1rhI04uk8lxc6hhzQ466gt,Armand Van Helden,Je T'aime - Radio Edit,trip-hop,F#/Gb,1,213920,127.96,-5.687,0.932,0.962,0.672,0.0382,0.326,8.01e-05,0.0447
+329,ibiza,6RFA8h1et4qJm0RfljAJvW,Basement Jaxx,Jus 1 Kiss,dance,G#/Ab,1,264040,125.848,-4.965,0.942,0.709,0.628,0.0437,0.592,0.000217,0.117
+330,ibiza,19mC6xktT1JyyycK6cQaXA,The Chemical Brothers,Star Guitar,dance,F,1,387173,126.968,-4.186,0.956,0.36,0.492,0.0472,0.872,0.00892,0.288
+331,ibiza,4j0LtOiarBUAj1znu3RB36,Jon Cutler ft E-man,It's Yours [David Penn Vocal Mix],unknown,F#/Gb,1,384800,126.008,-6.667,0.968,0.66,0.801,0.0789,0.742,0.00338,0.0477
+332,ibiza,2fSX9Jl6D1Cys7s0tIQFkU,Hot Chip,Colours - Remixed By Fred Falke,dance,A,0,396173,125.017,-12.163,0.302,0.696,0.827,0.0916,0.388,0.0837,0.0917
+333,ibiza,4JQM3EiRxcaYkEZjS7ee2a,Groove Armada,Final Shakedown,trip-hop,A#/Bb,0,370053,124.003,-5.929,0.985,0.538,0.754,0.082,0.00115,0.0202,0.27
+334,ibiza,3u1SLAqdivotrc6FSGfnii,David Guetta,How Soon Is Now (Dirty South),edm,A#/Bb,0,250440,128.07,-7.276,0.861,0.366,0.539,0.0697,0.000784,0.0161,0.0649
+335,ibiza,507qvBfBKw6A46oQKVWGwc,Joris Voorn,Sweep The Floor,house,F#/Gb,0,394280,124.986,-10.13,0.761,0.554,0.839,0.0595,0.816,0.00117,0.624
+336,ibiza,7o9PkTfxL0Mm7gk3Bp98hv,Groove Armada,I See You Baby (feat. Gramma Funk) - Fatboy Slim Radio Edit,trip-hop,C#/Db,1,244707,129.997,-5.43,0.992,0.472,0.572,0.233,0.00065,0.073,0.18
+337,ibiza,2WghLGcvKabRD0b2fb3Smm,TV Rock feat. Rudy,In The Air - Radio Edit,unknown,C,0,182693,128.037,-5.25,0.866,0.442,0.599,0.0346,0.69,0.0114,0.279
+338,ibiza,6p3O7VodldrAoQPfHQOyOY,Amy Winehouse,Fuck Me Pumps - MJ Cole Remix,funk&soul,D,1,352987,132.064,-7.362,0.918,0.768,0.856,0.0669,0.000923,0.0115,0.186
+339,ibiza,0tXbfIGM6IEIMkjOs7wzZR,Spencer & Hill,Back In The Love - Dave Armstrong & David Rubato Radio Mix,pop,B,0,200892,126.011,-7.484,0.764,0.209,0.719,0.286,0.00273,0.144,0.322
+340,ibiza,2XqU6h1aBC1lAF4ZmcMIS2,Tafubar,The wicked thoughts of you - Pete Phunk afternoon rhodes remix,jazz,D#/Eb,1,350213,123.982,-9.175,0.576,0.692,0.898,0.062,0.899,0.0152,0.142
+341,ibiza,70rvuGXszZgk4aqy568P3P,Basement Jaxx,Rendez-Vu (Roger's Secret Mix),dance,F#/Gb,0,379573,125.483,-4.719,0.951,0.903,0.745,0.035,0.818,0.00144,0.0481
+342,ibiza,7tMOuHZDXd7BfcUPQqjtM5,Silicone Soul,"Right on, Right On",techno,B,1,516173,125.026,-9.691,0.615,0.775,0.673,0.042,0.87,0.0326,0.132
+343,ibiza,1gepDdFhHq1gbNL5hHOsld,Armand Van Helden,Full Moon (feat. Common),trip-hop,B,0,259933,117.946,-6.492,0.714,0.867,0.901,0.168,0.0331,0.0016,0.148
+344,ibiza,14IM6OZDLGfkaJNlswwNSg,Layo & Bushwacka!,Love Story (Radio Edit),trip-hop,F,1,201587,132.023,-7.258,0.85,0.193,0.628,0.0357,0.176,0.0438,0.548
+345,ibiza,0a3CRTvCIb33wXFvy7BlAN,Rah Band,Clouds Across The Moon - Jay Lumen & Umek Hey Baby Remix,unknown,C#/Db,1,404001,127.002,-6.716,0.702,0.625,0.876,0.217,0.565,0.000166,0.0637
+346,ibiza,0sFSC7lXIciK2ngmTjK1Bx,Funkanomics,Mission - Ed Royal featuring Badcat - Pt.II,unknown,B,0,317987,122.001,-7.815,0.882,0.593,0.784,0.116,0.000853,0.00186,0.283
+347,ibiza,1aSGFe7bfcNGGGGJHDGluG,Triple X (XXX),Feel the Same - FM Cut,unknown,F#/Gb,0,229367,124.005,-8.059,0.922,0.694,0.682,0.063,2.44e-05,0.00708,0.369
+348,ibiza,7yoolCATBC3TS0lpqXESyu,Artificial Funk,Together - Dub,unknown,C#/Db,1,413853,125.996,-8.13,0.885,0.661,0.789,0.26,0.945,0.0438,0.17
+349,ibiza,6nECi2tDNwt6rJibPzSgHd,Robbie Rivera,Da Da Dance - Pink Fluid Mix,other,F#/Gb,0,366864,127.975,-3.313,0.863,0.769,0.709,0.0505,0.021,9.55e-05,0.063
+350,ibiza,2RS9TJTiHvg0guy8hSmiAF,Pendulum,"The Island - Steve Angello, AN21, Max Vangeli Remix",dance,G,1,399523,125.943,-6.261,0.825,0.114,0.612,0.217,0.000462,0.00231,0.294
+351,ibiza,4nqP3vc5bUpYoJnRCatTzH,Avicii,Street Dancer - Radio Edit,pop,C,1,209480,128.222,-3.968,0.951,0.633,0.591,0.0533,0.696,0.0607,0.337
+352,ibiza,2g136494iEXB1GGPakAFzx,Nadia Ali,Pressure - Alesso Remix,trance,A#/Bb,0,365990,128.006,-4.816,0.795,0.357,0.635,0.0421,0.571,0.000569,0.0986
+353,ibiza,3p3UWvlH737nbTCTxPILC9,Ken Fan,Righteous,unknown,D,1,279819,89.991,-10.494,0.667,0.235,0.597,0.0838,0.684,0.647,0.1
+354,ibiza,308hPlIONE6MWGSkJIByaR,X-Press 2,Lazy - Radio Edit,house,C#/Db,1,257920,130.01,-9.083,0.667,0.903,0.697,0.0315,3.01e-06,0.000879,0.1
+355,ibiza,4Iu8gpzaG0RFP3LhpmylJd,Hi Fi Mike,Stereo Flava - Jamie Lewis Main Mix,unknown,B,0,455373,126.996,-8.595,0.724,0.799,0.821,0.0478,0.0428,0.000127,0.0595
+356,ibiza,68j2rXimsXQYezvQn2Ot4c,Gabin,"Doo uap, doo uap, doo uap - Radio edit",jazz,C#/Db,1,215533,115.82,-6.835,0.669,0.539,0.727,0.0515,0.00313,0.0344,0.162
+357,ibiza,11Q1qVMp4LljOiHN8vPhWI,Phats & Small,This Time Around,house,G#/Ab,0,213467,128.016,-7.112,0.684,0.694,0.724,0.0427,7.69e-06,0.00425,0.147
+358,ibiza,2LDooZemswFWrKzIt7tkaE,Mauro Picotto,I Am What I Am (Original Mix),trance,E,0,522797,126.003,-7.362,0.609,0.32,0.791,0.0556,0.919,0.00286,0.0424
+359,ibiza,2x0OGYn6srBL7gSGG39v3P,DJ Mehdi,Signatune - Thomas Bangalter Edit,house,E,0,379227,122.932,-11.764,0.648,0.162,0.476,0.069,0.948,1.61e-05,0.569
+360,ibiza,3B8O3WgOaiKRcozz7AkIJi,Salif Keita,Madan - Remix,afrobeat,G,0,191693,127.987,-5.533,0.847,0.961,0.774,0.036,0.773,0.00995,0.0469
+361,ibiza,3yVFuA1F71z1ZbSg4lw9C6,Tom Novy,Superstar - Radio Edit,house,G,1,225427,130.021,-3.917,1.0,0.607,0.789,0.0445,0.48,0.0807,0.334
+362,ibiza,7Ft5PTpL9r1BE68rwY0jnn,Martin Solveig,Jealousy (Radio Edit),house,F,1,200347,125.027,-5.585,0.772,0.965,0.803,0.0458,1.63e-05,0.00443,0.102
+363,ibiza,7IED3V103dNWEf5ibQIs4B,Ministers De-La-Funk Feat. Jocelyn Brown,Believe - Ministers Vocal Mix,unknown,B,0,511790,127.159,-9.813,0.735,0.839,0.837,0.0683,0.00441,0.0126,0.268
+364,ibiza,5aDL0T8FSikf0EYzxUBRJH,Wolfgang Gartner,Illmerica - Radio Edit,other,A#/Bb,1,202920,128.979,-5.236,0.752,0.194,0.603,0.0619,0.101,0.000292,0.316
+365,ibiza,6JpQ6l2uA82tSRgh2b35ti,Young Jing,Meeresbrise,unknown,G,0,218182,110.002,-6.988,0.675,0.631,0.709,0.0414,0.939,0.235,0.112
+366,ibiza,6j8nh1kHwezw8pkC2eU87F,Rui Da Silva,Touch Me (Radio Edit) [feat. Cassandra],house,C,1,213133,129.078,-8.399,0.922,0.695,0.464,0.0638,0.227,0.124,0.0546
+367,ibiza,1AQQ9DdpEemMVTHNz4eG9a,Madonna,Get Together,pop,A,0,315467,123.902,-7.428,0.71,0.284,0.364,0.0972,0.00315,0.00489,0.0747
+368,ibiza,3GC3xIxWImpR7dfv2F81ze,Swedish House Mafia,Greyhound,edm,G,0,411017,125.029,-4.805,0.806,0.552,0.723,0.0545,0.846,0.00702,0.267
+369,ibiza,5yo0XLMmxCyx9s7wQzebwS,Martin Solveig,The Night Out - A-Trak vs Martin Rework,house,C#/Db,0,232507,127.991,-3.495,0.915,0.658,0.546,0.13,1.61e-06,0.00239,0.327
+370,ibiza,6lSL03o2GfWe3cK7LaEL6O,Mark Knight,Together - Original Club Mix,house,B,0,413989,126.002,-4.805,0.899,0.491,0.795,0.148,0.64,0.00013,0.0435
+371,ibiza,1nO67wic65N413c11zKxM7,Avicii,Silhouettes - Original Radio Edit,pop,F,0,211880,128.074,-6.235,0.8,0.836,0.605,0.0545,0.0562,0.155,0.121
+372,ibiza,65ql0KLShk6p5ODa2j2BkF,Three Drives On A Vinyl,Greece 2000 - Extended Mix,trance,C#/Db,0,483718,131.988,-13.08,0.627,0.587,0.771,0.0638,0.905,0.00219,0.0867
+373,ibiza,5eDt8DYWDMZIgl6UuZAvBI,Sasha/Emerson,Scorchio - Radio Edit,unknown,C#/Db,1,217187,134.988,-13.055,0.838,0.758,0.505,0.0469,0.861,0.000272,0.0843
+374,ibiza,3pZ0r9wlq6QsXoEsXp11ev,Warren Clarke,Jazz,unknown,F#/Gb,0,451560,125.025,-4.294,0.989,0.596,0.712,0.126,0.326,0.000642,0.628
+375,ibiza,55IeAAAWFHyFu84iPjpz4u,Robbie Rivera,Sex - Robbie's Sexy Mix,other,F#/Gb,0,489680,123.012,-10.019,0.555,0.49,0.823,0.43,0.704,0.0208,0.0487
+376,ibiza,6GuwQACz8ZNl5egtgtuJ2D,Calvin Harris,Sweet Nothing (feat. Florence Welch),pop,E,1,213973,127.977,-3.906,0.93,0.566,0.581,0.104,5.16e-05,0.184,0.0459
+377,ibiza,6laauxC2xad1HoK4UyKO50,Alter Ego,Rocker - Prok & Fitch Vs My Digital Enemy Remix,unknown,A,0,417493,127.004,-4.792,0.934,0.0772,0.827,0.18,0.0138,0.00177,0.0445
+378,ibiza,6sct6WxYVqlKZqb8GAwPBD,Dave Floyd,Magic People Voodoo People - Original Mix,unknown,C#/Db,0,436875,128.012,-6.464,0.896,0.693,0.882,0.0804,0.0617,0.000316,0.152
+379,ibiza,4ncSJeacy235O8qz42fIfm,Claptone,No Eyes,house,D#/Eb,1,418351,120.016,-10.147,0.34,0.408,0.923,0.059,0.0706,0.0274,0.0923
+380,ibiza,10wlRcOXv7nhHKUYwzt1p6,Eric Prydz,Mighty Love - Instrumental,edm,B,0,340933,125.985,-5.807,0.831,0.52,0.61,0.0353,0.868,0.000956,0.202
+381,ibiza,0PQUhWIv7WjxXaJXRUETfa,UMEK,Kuzla Prevarantska - Original Mix,techno,C#/Db,0,417000,126.029,-6.035,0.716,0.762,0.845,0.21,0.0428,0.000508,0.0778
+382,ibiza,5HAVhn8razv1yHLgry3CAT,Alesso,Clash - Original Mix,pop,D,0,371440,126.001,-5.987,0.49,0.343,0.572,0.176,0.000518,0.00487,0.0403
+383,ibiza,6VWDf8yvbXTpk0YUpMfSBf,Daniel Steinberg,Joy & Happiness - Original Mix,tech-house,B,0,364786,123.017,-9.827,0.442,0.873,0.887,0.0911,0.554,0.000334,0.0946
+384,ibiza,54hoWgqeSIk05I79dIPUie,Mark Knight,Your Love - Original Club Mix,house,D#/Eb,0,400004,125.008,-6.095,0.857,0.506,0.764,0.0554,0.867,0.00182,0.0535
+385,ibiza,5rOSnlIF9FAsDiMsXdq3io,Todd Terje,Strandbar (disko),house,D,1,527705,121.971,-8.732,0.949,0.787,0.81,0.0428,0.957,0.0543,0.155
+386,ibiza,5cX0UB3QA347uyBHReiUX0,Tom Brownlow,Coming Back - Radio edit,unknown,G#/Ab,0,207370,127.05,-6.637,0.918,0.408,0.675,0.0631,0.00123,0.0697,0.375
+387,ibiza,1SayqEg8HKK2IeIEWjdYxY,C2C,Down The Road,indie,D,0,207187,111.0,-6.109,0.595,0.486,0.72,0.0976,4.73e-05,0.0672,0.0775
+388,ibiza,0dEIca2nhcxDUV8C5QkPYb,Daft Punk,Give Life Back to Music,electro,A,0,275387,119.037,-10.671,0.616,0.696,0.788,0.0337,0.549,0.00286,0.0952
+389,ibiza,0Adc5ChDetngPs5w4qkMsH,Armand Van Helden,The Boogie Monster,trip-hop,A,0,426893,128.989,-8.09,0.828,0.533,0.728,0.078,0.66,0.00607,0.295
+390,ibiza,4jay2G7QI61dlPd8qKy5BP,Martin Solveig,Hey Now (feat. Kyle) - Single Mix,house,C,1,187507,128.039,-1.923,0.957,0.703,0.712,0.0793,1.77e-06,0.00552,0.103
+391,ibiza,68xPnFpM5UP8rZ7cBjBAhr,Mark Pigato,Trompeta,unknown,F,0,184320,125.044,-6.857,0.973,0.451,0.67,0.0703,0.894,0.00181,0.301
+392,ibiza,5A5GkzXKuiSB4Re1rNLEcx,Dense & Pika,Colt,techno,B,1,386094,124.997,-8.154,0.857,0.59,0.804,0.0438,0.93,6.51e-05,0.0964
+393,ibiza,1BfAdVuqrvqBWujycRIkvm,Duck Sauce,NRG,house,G#/Ab,1,211987,127.901,-4.408,0.908,0.747,0.695,0.39,1.4e-05,0.0546,0.378
+394,ibiza,2KA4uZ8dNq2xb5gtV5GPtW,Duck Sauce,Everyone (feat. Teddy Toothpick),house,A,0,299907,127.981,-6.548,0.862,0.7,0.849,0.0678,0.000364,0.242,0.325
+395,ibiza,6vuPZX9fWESg5js2JFTQRJ,Daft Punk,Crescendolls,electro,F,0,211640,124.048,-8.503,0.75,0.937,0.697,0.0721,0.922,0.0035,0.0889
+396,ibiza,042G8etdK6aLzI4rGBx1iz,Soul Central,Strings of Life (Full Vocal Version),house,C#/Db,1,238704,124.952,-8.511,0.753,0.754,0.73,0.0505,0.00759,0.0707,0.0469
+397,ibiza,1tm9XDuEiIOr82tUBW36Wd,Duke Dumont,Won't Look Back,edm,G#/Ab,0,270135,124.008,-6.014,0.88,0.592,0.698,0.0457,0.631,0.00502,0.171
+398,ibiza,42UaTVeWaNaME7ttu61ykG,The Knocks,Classic (feat. POWERS),dance,D,1,248517,101.996,-3.195,0.942,0.543,0.63,0.0485,0.000744,0.00474,0.326
+399,ibiza,6vRRHLDUWRydhQf2n6RkO8,Nora En Pure,True - Original Mix,deep-house,A,1,379303,122.003,-3.973,0.889,0.745,0.845,0.0762,0.379,0.00169,0.041
+400,ibiza,1CleP0jioi374d3PSt1PrJ,The Avener,Fade Out Lines - The Avener Rework,house,G#/Ab,0,276000,119.004,-5.662,0.693,0.687,0.855,0.0308,0.0794,0.0165,0.118
+401,ibiza,2utjfvIDOn8mJ7m464WcMX,Sirens Of Lesbos,"Long Days, Hot Nights - Claptone Radio Edit",unknown,B,0,165373,121.999,-7.831,0.725,0.575,0.687,0.0401,0.0399,0.0568,0.542
+402,ibiza,6jE216TPFSoWndMT7j37JO,Foamo,Release Me,house,D,1,351041,124.994,-7.637,0.848,0.23,0.822,0.0876,0.893,0.00105,0.681
+403,ibiza,3aboZKmGFzBCmT33dKTCmw,Axwell /\ Ingrosso,Can't Hold Us Down,edm,D,1,378463,124.985,-6.641,0.7,0.0373,0.525,0.0804,0.00522,0.0161,0.16
+404,ibiza,2BF1X5nkYYSb0AUTRaGkDm,Martin Garrix,Forbidden Voices,edm,A#/Bb,0,230635,128.102,-5.927,0.711,0.3,0.534,0.0368,0.0031,0.05,0.135
+405,ibiza,2gpytjWqJVE3LICibhEUaK,Michael Calfan,Treasured Soul - Radio Edit,house,E,0,177600,124.973,-2.951,0.833,0.411,0.623,0.0557,0.0174,0.0191,0.331
+406,ibiza,0ZtLv7aVallYjnPJNZJWk7,Madeon,You're On (feat. Kyan),other,G,0,192707,100.123,-3.239,0.917,0.241,0.511,0.124,0.0,0.0273,0.819
+407,ibiza,2Ldx9kUwqKt8GKaqPYGT6e,Madeon,Imperium,other,C#/Db,1,199280,110.051,-1.748,0.946,0.495,0.638,0.0793,0.0429,0.00015,0.205
+408,ibiza,5Ppe0zxjQk1qh3bOxp9W0z,NY's Finest,Do You Feel Me - Dosem Remix,house,C#/Db,1,377417,124.997,-5.45,0.763,0.442,0.74,0.0457,0.902,0.000186,0.103
+409,ibiza,3IlydY2uasgMzSxhFJ0rpw,Technasia,Suga - Extended Mix,tech-house,C,1,401728,124.988,-8.268,0.599,0.638,0.809,0.0829,0.786,3.34e-05,0.0501
+410,ibiza,5LxaSO2yWl3ksvdF6zxGyd,Eric Prydz,Opus,edm,F#/Gb,0,543445,125.594,-6.196,0.729,0.204,0.268,0.0362,0.81,0.000718,0.0825
+411,ibiza,3xVPOxgwE9Jvr4DhUKw6S6,Claptone,Your Body (In the Rain),house,F,0,197475,119.971,-7.864,0.674,0.684,0.802,0.0405,2.28e-05,0.0207,0.355
+412,ibiza,6ZoBkmNGZ4pTDB8M8GwrQp,Planet Funk,Chase the Sun,rock,A,0,233040,127.991,-7.488,0.776,0.497,0.583,0.0311,0.0179,0.0161,0.355
+413,ibiza,5ApOwXo2LlNDH9LfxCoGJS,Pryda,Rebel XX,unknown,G,1,519376,126.003,-9.999,0.883,0.333,0.602,0.0641,0.865,0.00281,0.0925
+414,ibiza,4L5G3Px2EgG2d3jaz4Ps4K,Pig&Dan,Growler,techno,C#/Db,0,438851,125.003,-11.311,0.752,0.0773,0.804,0.0562,0.936,0.000688,0.111
+415,ibiza,4jFt8ztVSyGt2NFGQdd5pQ,Purple Disco Machine,L.O.V.E.,deep-house,F#/Gb,0,330728,118.0,-9.439,0.572,0.72,0.811,0.0434,0.606,0.00309,0.0494
+416,ibiza,3g52QTF7u7dYUEB0DswE2V,Format:B,Chunky - Radio Edit,tech-house,A#/Bb,1,158115,121.989,-4.019,0.858,0.862,0.803,0.0538,0.096,0.0111,0.0766
+417,ibiza,1c4Y5G9L6o5X3XJbgOgXkK,Ultra Naté,Found A Cure - Mood II Swing Extended Vocal Mix,house,B,0,539160,127.026,-6.121,0.799,0.495,0.785,0.0284,0.0544,0.000701,0.417
+418,ibiza,6zyxfOPvHRNPZ4VmcuYXoS,Throttle,Money Maker - Club Edit,unknown,C#/Db,1,199089,122.829,-3.429,0.945,0.746,0.471,0.0781,0.0933,0.0184,0.302
+419,ibiza,3sGPrTVPjzZuYqXOlOfuMl,Saint Motel,My Type - KANT Remix,indie,F,0,310415,117.998,-7.494,0.462,0.273,0.795,0.0524,0.632,0.00143,0.0778
+420,ibiza,0t5JyZO5XbRoqZOErNHsDZ,Cunnie Williams,A World Celebration - Mousse T.'s Party Lick,unknown,F#/Gb,1,377133,123.001,-6.355,0.748,0.856,0.776,0.0562,0.0525,0.00501,0.297
+421,ibiza,0fBzgsaU1cDoS5dFI34dSB,Solomun,Love Recycled 1,techno,C,1,449039,120.009,-9.578,0.715,0.618,0.811,0.0593,0.787,0.0195,0.0966
+422,ibiza,4HVGC52IogHANcKFA0QYiT,Bodyrox,Yeah Yeah - D Ramirez Vocal Radio Edit,unknown,C,1,161627,126.065,-7.667,0.618,0.693,0.778,0.0827,0.0,0.069,0.362
+423,ibiza,483XiZ5o13Cc1zoWV7jGml,Oliver Heldens,Gecko (Overdrive) - Radio Edit,house,C,1,165441,124.959,-5.469,0.885,0.76,0.609,0.0642,1.15e-05,0.00521,0.336
+424,ibiza,6dptC1iC4lXHj46nQ4diFj,Blaze,Breathe (Ashley Beedle Remix),deep-house,G#/Ab,1,435440,126.024,-6.174,0.759,0.963,0.689,0.087,0.79,7.94e-05,0.0351
+425,ibiza,6I5Xf3Kk1zpSzloE5jq8n7,Jaydee,Plastic Dreams - Radio Edit,house,G,1,207053,128.835,-13.108,0.566,0.282,0.741,0.0341,0.26,0.187,0.0668
+426,ibiza,4kcBLVepesflQP345wKVeq,The Prodigy,No Good (Start the Dance),trip-hop,F,0,377893,145.001,-9.233,0.984,0.175,0.645,0.0498,0.758,0.00563,0.133
+427,ibiza,1IE4OHNneSODrOF6PxecFZ,Bini & Martini,Happiness - David Morales Vocal Mix,unknown,A,1,452453,126.027,-6.171,0.905,0.802,0.784,0.0585,0.00243,0.0602,0.0918
+428,ibiza,7E8PeFMXgtZDYvU2Na3FEU,Sandy B,Make the World Go Round (Deep Dish Radio Edit),house,C,1,230933,121.96,-6.64,0.923,0.81,0.739,0.0606,0.0435,0.0156,0.0684
+429,ibiza,1aUGLS6NeRfSiaxB1xR7WA,Azzido Da Bass,Dooms Night - Timo Maas Radio Edit,garage,G,1,224973,131.994,-7.999,0.717,0.615,0.87,0.407,0.218,0.00543,0.151
+430,ibiza,5R3p8S55msz3id73PENvlG,Icarus,Trouble (feat. Talay Riley),house,F,0,191553,124.02,-5.514,0.885,0.743,0.67,0.0531,0.000139,0.0136,0.372
+431,ibiza,4z96rhGd3Yjb6yk9fuz3IP,Midland,Final Credits - Radio Edit,deep-house,F#/Gb,1,196712,133.025,-8.322,0.814,0.892,0.784,0.0425,0.228,0.0142,0.112
+432,ibiza,2wA96rtJAaeuuzkSAS2xQr,Mahalo,Current Mood (feat. Cat Lewis),unknown,G,1,221203,121.931,-5.101,0.837,0.479,0.703,0.0476,0.502,0.284,0.094
+433,ibiza,7EVk9tRb6beJLTHrg6AkY9,Burak Yeter,Tuesday (feat. Danelle Sandoval),electro,A,0,241875,99.002,-6.052,0.639,0.675,0.841,0.0688,0.0654,0.0156,0.0545
+434,ibiza,2SZy40PLDk3vFucXUGFCFA,Jax Jones,You Don't Know Me,pop,B,0,213947,124.011,-6.064,0.67,0.68,0.874,0.126,0.0,0.165,0.185
+435,ibiza,0SRvfuKolYRrgPfD2zGmgq,Ferreck Dawn,Lord,house,F#/Gb,1,164628,121.01,-7.796,0.799,0.521,0.836,0.0559,0.641,0.0221,0.313
+436,ibiza,6vOkpd4DjywRh6oUhkZ8gE,Martin Waslewski,Clouds - Purple Disco Machine Remix,house,D,1,400000,121.509,-4.13,0.827,0.567,0.889,0.049,0.0804,0.00131,0.0372
+437,ibiza,7yWjiP5f3RHYEISm2Hr2dz,Karen Harding,Say Something,house,E,0,218205,121.197,-6.295,0.628,0.339,0.773,0.0757,0.00255,0.0115,0.0692
+438,ibiza,1NQcFF1frcwdZZGhaMEYH4,D.O.D,Sixes,electro,C,1,153214,126.016,0.042,0.998,0.732,0.729,0.0693,0.244,0.000641,0.0586
+439,ibiza,2hxkhcVsRgwgTrCRVnV0I7,Axwell /\ Ingrosso,Dawn,edm,D#/Eb,0,332187,127.991,-7.099,0.661,0.13,0.529,0.0312,0.808,0.0174,0.0665
+440,ibiza,04YFRczeeieYRlsrPJ8hjh,Duke Dumont,Real Life,edm,G,0,205773,123.941,-5.247,0.741,0.604,0.673,0.0549,0.00101,0.149,0.165
+441,ibiza,7fYECRxSRbhOB9JtsQtmQj,Aeroplane,Counting On Me - Radio Edit,house,C#/Db,1,190000,119.99,-4.938,0.935,0.924,0.779,0.0328,3.98e-05,0.0494,0.0823
+442,ibiza,2LczIiNTOfbD4yxohajgjB,Gorillaz,Andromeda (feat. DRAM) - Purple Disco Machine Remix,hip-hop,C,1,363091,124.031,-5.691,0.568,0.876,0.853,0.0516,0.275,0.0557,0.057
+443,ibiza,3WI7t5hnhT0GWXNGVZRXdJ,Loulou Players,Groove in You,edm,F#/Gb,0,377705,123.004,-7.496,0.691,0.971,0.793,0.0578,0.145,0.0049,0.0701
+444,ibiza,0FX1hFqDgIBR8UbBaa0PTz,Miguel Migs,Let Me Be - Miguel Migs Petalpusher Vocal,deep-house,B,1,400587,122.002,-7.227,0.717,0.844,0.925,0.185,0.195,0.00075,0.0424
+445,ibiza,2aJDlirz6v2a4HREki98cP,BICEP,Glue,house,E,0,269150,129.983,-7.995,0.798,0.42,0.853,0.068,0.948,0.0158,0.0967
+446,ibiza,0WQxdBCAvFphpLwUY8mOkw,MonoJack,Francesca,unknown,A#/Bb,0,207214,123.015,-8.29,0.877,0.246,0.791,0.0421,0.885,0.000948,0.091
+447,ibiza,5ojuU7DIZFpNF4PsivReVO,Miguel Migs,So Far,deep-house,C,1,278933,120.006,-4.418,0.664,0.653,0.789,0.0565,0.0068,0.00105,0.0213
+448,ibiza,7HVsQPWhVYhK5etj1va3Ky,Breakbot,One Out Of Two (feat. Irfane) - Oliver Remix,house,D,0,257763,117.981,-5.189,0.786,0.917,0.749,0.0404,0.00343,0.0163,0.934
+449,ibiza,29Rdysued3nwLlQwmg9R46,Axwell,Watch The Sunrise - Radio Edit,house,F#/Gb,0,204480,128.064,-6.068,0.942,0.671,0.651,0.1,0.0424,0.0338,0.207
+450,ibiza,2Et2nCcAnsl2KDrGZtsO7U,Axwell,(Can You) Feel The Vibe - Radio Edit,house,B,0,175276,127.952,-8.378,0.871,0.706,0.584,0.0402,0.00352,0.00935,0.349
+451,ibiza,6PUIzlqotEmPuBfjbwYWOB,Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,pop,C#/Db,0,214912,126.052,-5.791,0.81,0.11,0.572,0.0558,6.53e-06,0.0157,0.13
+452,ibiza,3NvS0SxNWIPiAJoPWUpZzr,Haddaway,"What Is Love - 7"" Mix",dance,G,0,270373,123.869,-7.907,0.772,0.738,0.683,0.031,0.0156,0.0222,0.203
+453,ibiza,1UUjgfc8CntFDAMjJIe5sl,StoneBridge,Put 'Em High - StoneBridge & JJ Radio,house,A#/Bb,0,204378,127.988,-2.893,0.935,0.668,0.621,0.0325,0.0105,0.00106,0.456
+454,ibiza,5HFPfp2p6V4pycGKaIMlIH,Room 5,Make Luv,house,C#/Db,1,212413,124.81,-4.91,0.887,0.657,0.882,0.116,0.635,0.0112,0.0345
+455,ibiza,4CZs2jyOOfqXT1MqW8tleN,Frankie Knuckles,Let's Stay Home - A Director's Cut Classic Club Mix,house,G#/Ab,1,465978,115.995,-5.037,0.579,0.658,0.82,0.0413,0.00647,0.000825,0.0372
+456,ibiza,0EoGXXi91KSqAIY7SSgizW,Roger Sanchez,Another Chance - Radio Edit,house,D#/Eb,1,207360,129.881,-6.968,0.893,0.838,0.608,0.0316,0.0246,0.000506,0.297
+457,ibiza,2BUL7sF7y5oBYUQarVCukR,Afro Medusa,Pasilda - Knee Deep Mix,house,F,0,209500,127.01,-5.979,0.783,0.539,0.714,0.0383,0.881,0.000178,0.0841
+458,ibiza,1eohWwYv5zfXgLf5yKCJIS,Chicane,Saltwater,trance,C#/Db,1,202867,130.944,-8.744,0.719,0.0735,0.542,0.0303,0.84,0.0529,0.0859
+459,ibiza,1CgbwsrNDlFrRuk2ebQ7zr,ATB,9Pm (Till I Come),dance,A,0,193880,130.218,-6.427,0.941,0.754,0.672,0.0494,0.926,0.0276,0.149
+460,ibiza,1SjJZewpXEHRuXn7RRszQ5,Wamdue Project,King of My Castle - Roy Malone's King Radio Edit,unknown,F#/Gb,1,206920,127.264,-7.824,0.714,0.831,0.865,0.064,0.657,0.0841,0.0336
+461,ibiza,0j5FJJOmmnXPd0XajFWkMF,Massive Attack,Unfinished Sympathy - 2012 Mix/Master,downtempo,G,1,308427,114.436,-8.475,0.835,0.703,0.592,0.032,0.209,0.0393,0.665
+462,ibiza,6x4tKaOzfNJpEJHySoiJcs,Lou Bega,Mambo No. 5 (a Little Bit of...),pop,F,0,220293,174.06,-6.752,0.807,0.892,0.622,0.408,0.0,0.103,0.306
+463,ibiza,1mvZErZBp7WZT3HfGBykao,September,Cry for You,unknown,A,1,209800,130.018,-3.988,0.881,0.961,0.767,0.0301,0.000139,0.00133,0.0551
+464,ibiza,1hRFVIy9As8OVRk8B7CrD5,David Guetta,When Love Takes Over (feat. Kelly Rowland),edm,B,1,191000,129.967,-4.614,0.862,0.498,0.675,0.0253,0.000427,0.0165,0.169
+465,ibiza,3On9aOaEwFWCUrTYcovB0l,Frankie Knuckles,Your Love,house,E,0,403493,117.587,-5.156,0.928,0.166,0.653,0.0419,0.852,0.00447,0.0815
+466,ibiza,4UJ1AKSbXAbPlPVFe66wK7,Crystal Waters,Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit,house,D,0,217760,120.038,-8.749,0.749,0.542,0.487,0.0371,0.00324,0.022,0.0548
+467,ibiza,5XVjNRubJUW0iPhhSWpLCj,Alice Deejay,Better Off Alone,dance,G#/Ab,0,214883,136.955,-6.149,0.882,0.787,0.671,0.0552,0.667,0.00181,0.285
+468,ibiza,0iJ7FAoFb05SDJrgAFE0fP,Simon Field,Es Vedra - Café del Mar sunset Edit,house,A#/Bb,1,125984,123.054,-13.558,0.224,0.077,0.501,0.0325,0.198,0.945,0.113
+469,unknown,3Rf1HKU1Yqe1EseCRp2UN7,Sean Chambers,World on Fire,blues,G#/Ab,1,307400,120.82,-5.442,0.925,0.552,0.418,0.0509,0.139,0.0748,0.147
+470,unknown,37DKByVOJNvz9kQhQ52Imx,Victor Wooten,Victa,funk&soul,F,1,294760,102.995,-9.204,0.437,0.815,0.858,0.0938,0.0,0.135,0.0919
+471,unknown,4tgh5J5KLWqfhkEV3KvaP3,Benny Benassi,"Love Is Gonna Save Us - Benny Benassi Presents the Biz, Radio Edit",edm,D#/Eb,1,205322,132.029,-3.817,0.93,0.585,0.615,0.774,0.0,0.231,0.27
+472,unknown,2YUSgauTWgpJL57y52ljIe,Fred Cheng,"選擇善良 - 劇集 ""白色強人"" 主題曲",cantopop,A,0,152332,110.029,-5.391,0.71,0.561,0.569,0.0294,0.0,0.108,0.153
+473,unknown,6hfpbUskFQnBlSXl6z3BK0,Neuroticfish,I Am Here,industrial,G#/Ab,1,312692,120.003,-9.864,0.627,0.225,0.626,0.0446,0.00658,0.0541,0.0837
+474,unknown,5V8lzi4432YN8XYKrSLk7o,Horn,Über den grünen Kronen (Nostalgie II),black-metal,D,0,422081,140.272,-2.203,0.98,0.092,0.15,0.104,0.00441,0.41,0.0792
+475,unknown,2QURyvkde6nktx8fJgZ8kL,Rattan Mohan Sharma,Hare Ram Hare Ram,indian,A#/Bb,0,391358,111.322,-9.789,0.485,0.514,0.454,0.0442,0.0,0.324,0.337
+476,unknown,3p12Dyils0mAopQF6S29Bm,Fabrice Lig,V.C.D.O.,techno,B,0,316320,129.866,-9.912,0.926,0.894,0.673,0.0569,0.456,0.02,0.0539
+477,unknown,3ND9iYbPuvpQNE4DTGICcL,Mariano Mores,Cristal - Remastered,tango,C#/Db,1,184921,123.005,-11.356,0.362,0.257,0.408,0.0636,0.183,0.908,0.245
+478,unknown,09c0ghT2z6SHr0g5KLPeGJ,Manolo Escobar,Me Voy Pal Campo,spanish,G,1,158400,118.678,-7.886,0.892,0.869,0.737,0.301,0.0399,0.489,0.11
+479,unknown,4Xu6WO5uq2TbqAbCwtVVHo,Beber & Tamra,Lady Night,breakbeat,G,0,656440,132.029,-11.407,0.167,0.326,0.599,0.06,0.0433,0.0377,0.0709
+480,unknown,7DrhT85yhHz7bhmEo7DpNp,Optical,Hitek Dreams,drum-and-bass,C#/Db,0,412947,169.022,-11.081,0.766,0.333,0.548,0.0681,0.722,0.000436,0.442
+481,unknown,5iKoarDSV0EA1JN10Bljr5,Mr Little Jeans,The Suburbs,downtempo,D,1,307067,70.049,-11.16,0.439,0.487,0.494,0.0577,0.00689,0.23,0.0966
+482,unknown,0s2zvQ6yEtAbsElO0SQXH7,Coone,Magical,hardcore,F,0,304802,149.968,-4.765,0.655,0.149,0.302,0.0317,0.865,0.061,0.0941
+483,unknown,0YVYRUKVESY3Bek2CJFFq2,Earl Hooker,Something You Ate,acoustic,G#/Ab,1,192133,110.16,-8.332,0.601,0.683,0.657,0.0336,0.172,0.344,0.14
+484,unknown,1UIEQsrcc3Rr2JWvh7h9Ko,Nada Surf,Là Pour Ça,pop,E,0,198427,58.477,-8.51,0.474,0.608,0.668,0.0286,0.000734,0.347,0.104
+485,unknown,0581ytf464IbLqJCWh1cQe,Bleeding Through,Starving Vultures,metal,B,0,164267,112.506,-1.356,0.986,0.435,0.476,0.0947,1.12e-05,0.000305,0.283
+486,unknown,5Zcu6ZERWIY7BtTyiy2Xb0,The Replacements,Nightclub Jitters,pop,C,1,165200,114.212,-23.258,0.121,0.371,0.658,0.051,0.0,0.214,0.119
+487,unknown,3qAuRUwO23FifvUUQlVQHj,Immured,Immured,metal,C#/Db,1,229200,77.375,-9.743,0.825,0.566,0.28,0.172,0.539,0.00806,0.103
+488,unknown,01UAaemflx0R198scFHWlV,GusGus,Call Of The Wild - Josh Wink's Call Of The Wink Mix,trip-hop,G#/Ab,1,492000,128.007,-10.976,0.729,0.616,0.728,0.05,0.539,0.0293,0.0955
+489,unknown,0jaHnvdrguukJipydAJWq2,slchld,you won't be there for me,downtempo,D,0,182646,94.921,-6.462,0.298,0.637,0.779,0.0312,0.0,0.221,0.109
+490,unknown,0RlGp74ljYn5kUNgziuwdk,Wasted Penguinz,Island Refuge - Original Mix,hardcore,A,0,394400,149.974,-4.116,0.863,0.318,0.495,0.0393,0.456,0.0121,0.06
+491,unknown,6O4jT5bynDpF201S9cm2fg,Allen Watts,My Gravity,trance,D,0,146691,135.962,-5.343,0.978,0.531,0.522,0.0568,0.000799,0.00628,0.573
+492,unknown,27Wy3mCVRdW9ih3jFxRvtb,Tim Hecker,The Piano Drop,dance,C#/Db,0,173947,114.352,-11.925,0.854,0.0339,0.58,0.0575,0.96,0.917,0.143
+493,unknown,1Y7R4jHGboowmJAhFePYmt,The Kinky Coo Coo's,Something Got a Hold on Me,reggae&ska,C#/Db,1,236489,133.156,-8.963,0.522,0.797,0.625,0.0567,0.0284,0.399,0.355
+494,unknown,5ep1SnXqY8boxNLwbj3ZX1,Zarobi,Shoreline Sensation,other,G,0,120000,79.0,-15.212,0.52,0.153,0.126,0.0391,0.000125,0.352,0.117
+495,unknown,4OT8GH9u9Gx7ydJ49ULunN,John Mayer,"Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",singer-songwriter,C#/Db,0,319227,133.861,-7.13,0.536,0.453,0.514,0.0287,8.27e-05,0.2,0.727
+496,unknown,4aemclWVRzRtSP0oNqsjFd,Plain White T's,Someday,punk,E,0,220387,154.293,-4.692,0.706,0.155,0.326,0.0286,0.0,0.224,0.153
+497,unknown,2r8fWZO0CJlPlsC6PoWIBs,Causa Sui,Mireille,rock,F,1,432867,126.011,-10.642,0.786,0.177,0.323,0.0555,0.88,0.165,0.0933
+498,unknown,5Z2j4DFSyukPwIElc3MfeO,Speedfreaks,Somebody to Roll,goth,E,0,141735,133.781,-3.063,0.941,0.485,0.216,0.0625,0.0231,3.4e-06,0.132
+499,unknown,4rPtxv6E6qAdtJoTko4Cef,Thee Oh Sees,Beat Quest,blues,F,1,364093,120.61,-9.535,0.886,0.345,0.419,0.0384,0.635,0.0707,0.0939
+500,unknown,4VDxi5xAxW51Ml7GEzCZCT,Mamadou Diabaté,Djanjo,k-pop,C,1,286360,128.191,-12.093,0.294,0.519,0.486,0.0397,0.909,0.12,0.114
+501,unknown,6YMkvvz4RwpKK8WZN5Hfmv,Lady Gaga,ScheiBe - DJ White Shadow Mugler,dance,F,0,575240,131.013,-6.719,0.803,0.299,0.704,0.0618,2.48e-05,0.026,0.774
+502,unknown,0OVUbpDkh0TwJIA8UrnsmQ,Seraphim Shock,Morning Star,goth,D,0,224773,96.031,-11.365,0.331,0.0445,0.477,0.0277,0.777,0.302,0.109
+503,unknown,0EqGKWYoKyGEuSn1RYJeZ8,Chico Chagas,Swan Lake,forro,C,1,327240,86.017,-7.753,0.624,0.702,0.512,0.0295,0.00255,0.192,0.202
+504,unknown,4XmkNxc6Z44xdqoypGkPaL,Sufjan Stevens,Lonely Man of Winter - Doveman Mix feat. Melissa Mary Ahern,singer-songwriter,C,1,219643,112.038,-10.442,0.663,0.36,0.559,0.0424,0.475,0.872,0.184
+505,unknown,0nX56F2KSF22BRwYQDb02s,Thee Oh Sees,Adult Acid,blues,G#/Ab,1,174547,137.654,-4.34,0.991,0.596,0.376,0.0505,0.821,0.158,0.37
+506,unknown,4qXOrH6eMFGuzgO5bEdUoJ,Chemlab,Scornocopia (Glitchstar Mix) Unedited,industrial,A,0,267078,132.03,-6.447,0.845,0.0429,0.638,0.29,0.00355,0.0901,0.0769
+507,unknown,4SLfpJbJjaMKYcaiuzVgX9,Ángel Vargas,¿Se Lustra Señor?,tango,A#/Bb,0,196547,61.917,-6.085,0.354,0.536,0.624,0.05,0.0857,0.979,0.121
+508,unknown,7uNd5GZaFrAfxlmr4aVhAs,Ruben de Ronde,RAID (ASOT 1110) [Future Favorite],progressive-house,F#/Gb,0,157875,128.006,-7.407,0.979,0.0684,0.576,0.0476,0.956,0.00142,0.0667
+509,unknown,17y7EDbV6twC8WK4djb65A,Antibalas,World War IV,afrobeat,A#/Bb,0,418347,119.225,-12.109,0.578,0.685,0.794,0.12,0.0148,0.206,0.348
+510,unknown,4Iw4tMB6Zj7Vc6cY0vpB0H,Seva K,Can`t Wait,deep-house,D,1,380926,124.999,-10.172,0.369,0.568,0.76,0.116,0.915,0.00567,0.0902
+511,unknown,72MaLeXywHBQw4yeafU4y6,Cheap Trick,Oh Boy - Vocal Version,pop,E,1,213533,137.165,-8.7,0.85,0.7,0.359,0.0434,0.00311,0.133,0.336
+512,unknown,4VhW7UDACELDO9Md2yn7VZ,Pernice Brothers,"Goodbye, Killer",pop,E,1,238160,126.305,-5.718,0.633,0.729,0.547,0.0346,0.0,0.26,0.101
+513,unknown,3G6727sr0gSGc1iSjSKfI4,Fiduma & Jeca,Que Se Exploda (feat. Bruninho & Davi) - Ao Vivo,sertanejo,A,1,207160,128.091,-1.798,0.95,0.401,0.568,0.0553,1.8e-06,0.421,0.782
+514,unknown,2Z1fv60CEPv811No2SyfGr,The Greeting Committee,Make It Right,k-pop,F#/Gb,0,173227,97.453,-2.893,0.893,0.855,0.591,0.0355,9.84e-05,0.00142,0.0464
+515,unknown,17FDpGjNpXdaM52apQLIne,Baba Brooks & His Band,Catch a Fire,reggae&ska,D#/Eb,1,159212,126.218,-11.173,0.468,0.852,0.892,0.106,0.849,0.438,0.03
+516,unknown,1I9LpO4OHMr9FEcbYprLbb,Days N Daze,"Little Blue Pills, Pt. 3",acoustic,F,1,153731,136.81,-7.778,0.726,0.822,0.473,0.0533,1.71e-06,0.694,0.109
+517,unknown,10JxDt9tQHUDiIpaUGLpMu,Orbital,Halcyon - Live at Glastonbury 1999,breakbeat,F#/Gb,0,484693,124.932,-7.65,0.992,0.229,0.524,0.0579,0.596,0.125,0.994
+518,unknown,1W38LIrmtQs336uxUw88s7,Son House,Preachin' The Blues - Part Ii,acoustic,B,0,174158,108.918,-15.795,0.397,0.69,0.625,0.0845,0.078,0.994,0.186
+519,unknown,5MIsE5BlGaOSBFpSs6pQtp,Afroman,She Won't Let Me F**k - Album Version (Edit),other,G,1,355867,99.946,-8.337,0.459,0.767,0.927,0.372,0.0,0.277,0.0575
+520,unknown,0XKBZbrF1bxIOqGzlNqLk4,DJ Trace,Spirits,drum-and-bass,C#/Db,0,320851,84.973,-5.608,0.873,0.0733,0.466,0.0407,0.854,0.00317,0.142
+521,unknown,6Zp10yO2NTGdDDPhhH4rFI,Korol i Shut,На краю - Последняя ария Тодда,punk,E,0,245267,119.864,-9.132,0.403,0.112,0.701,0.0413,0.0,0.406,0.163
+522,unknown,3kT3Hy500p31vbZdJLtXmV,Bérurier Noir,Lobotomie (Live),french,A,0,177093,74.694,-4.895,0.969,0.167,0.302,0.0987,0.0,0.191,0.971
+523,unknown,2Wp9GjTW8Z9vSUx89F0l36,Yuri Petrovski,Autumn - Original mix,dance,C#/Db,1,263724,127.995,-7.83,0.734,0.0354,0.744,0.0426,0.925,0.00526,0.756
+524,unknown,5thr6vTLsHnjGjOVlbHGu6,June Marieezy,Summertime,funk&soul,A#/Bb,0,239577,93.092,-7.405,0.202,0.454,0.85,0.187,4.93e-06,0.123,0.0969
+525,unknown,2BcNeIuR7e8dxqJScUdtCl,Eleven Minutes Away,Purpose Is Distraction,emo,F#/Gb,0,97107,130.022,-8.534,0.657,0.218,0.627,0.0411,5.83e-06,4.8e-05,0.0998
+526,unknown,5hduockfz6GoMzlrbQNCy2,The Crystal Method,Busy Child - Sta Remix,breakbeat,G#/Ab,1,403413,127.977,-4.87,0.702,0.623,0.601,0.185,0.414,0.000742,0.0623
+527,unknown,4TUbjlvzSLcQITC0epBlFt,Gladys Knight & The Pips,Neither One Of Us (Wants To Be The First To Say Goodbye) - Kenny Dope Mix,disco,F,1,377040,141.361,-10.277,0.368,0.47,0.615,0.0422,0.00539,0.285,0.087
+528,unknown,2JXBCoc6Mv0iZEUb6cm1un,Jamelão,Pout-Pourri,samba,C#/Db,1,307560,122.117,-8.328,0.765,0.549,0.498,0.0574,0.0,0.282,0.0967
+529,unknown,0dBo1a9Tvxtx9x2N4cTL1w,Liniker,Psiu,funk&soul,C,1,295474,124.997,-9.842,0.416,0.438,0.769,0.0328,0.00154,0.212,0.104
+530,unknown,0oxmxK4DXLYIusQyEWhApD,DJ Zinc,Hear No Evil,deep-house,C#/Db,1,290569,174.004,-5.466,0.918,0.663,0.574,0.0517,0.178,0.00326,0.365
+531,unknown,5FNS5Vj69AhRGJWjhrAd01,AJ Mitchell,Slow Dance (feat. Ava Max),dance,C#/Db,1,178800,127.9,-5.671,0.443,0.363,0.692,0.0386,0.0,0.214,0.06
+532,unknown,3OpTnnz5J6ruw55ai7Ct41,Beth Hart,Lifts You Up,blues,F,1,218040,160.13,-5.634,0.869,0.759,0.373,0.0366,7.91e-06,0.291,0.0948
+533,unknown,5OnDKvKKAoeG5RJpW5IJRX,Shade Sheist,Cali Diseaz,funk&soul,F,0,240160,89.776,-5.501,0.29,0.583,0.909,0.0368,3.67e-05,0.00512,0.107
+534,unknown,52ZRWKJ2KECpKxSNLlH7Uw,Promo,Midnight Impact,industrial,G,0,304445,146.858,-2.808,0.999,0.0846,0.517,0.172,0.799,0.158,0.359
+535,unknown,2RaHkXMzm9oxxDcKixIQS3,Axel Karakasis,Don't Talk,techno,G,1,340853,137.005,-8.153,0.988,0.56,0.661,0.0808,0.831,0.000112,0.0494
+536,unknown,71gmF6QN8XDKCFClzsCoCQ,Anja Schneider,Rancho Relaxo - Jennifer Cardini & Shonky's Eiffel Tower Mix,minimal-techno,F#/Gb,0,432747,121.997,-12.822,0.224,0.0931,0.821,0.101,0.902,0.0174,0.128
+537,unknown,6I96qV4TT0a7hKHLG6PuGi,Sub Version,No Easy Solution,dubstep,C#/Db,1,372599,140.036,-13.532,0.274,0.241,0.702,0.0651,0.896,0.167,0.309
+538,unknown,58Bs00xd23QeYZA8gT60pK,Material Issue,Blockbuster,pop,F#/Gb,0,167547,135.919,-3.674,0.987,0.914,0.461,0.0737,0.00135,0.146,0.919
+539,unknown,6mdhbYs5sY1fXFk86bsnyD,Rammstein,Liese,german,E,0,235573,110.186,-9.401,0.387,0.0517,0.471,0.0375,0.407,0.327,0.168
+540,unknown,6i4RGzosCW3XQA8tcGfNG8,Nana Mouskouri,I Prodosia - Live,classical,D,0,101173,119.025,-13.716,0.29,0.428,0.405,0.0424,0.0,0.533,0.812
+541,unknown,6h9XmCrNkH443BrgNFWpzn,Madison Avenue,Don't Call Me Baby - Mousse T. Remix - Edit,disco,F,0,175062,125.013,-7.379,0.895,0.701,0.746,0.0431,0.00322,0.215,0.0962
+542,unknown,2uQtKiOdART3D17RBp1Ygc,Liga Carnaval SP,"Em grandes sertões veredas, o elo perdido se achou. Piauí, a terra do sol me encantou! Com Frank Aguiar o Rei do Forró, Eu vou!",samba,A,1,292080,130.62,-3.473,0.785,0.609,0.502,0.0846,0.0,0.297,0.132
+543,unknown,5Y6YTpeY0dE2JiyrMX8Ele,The Liberty Ship,Baseball Caps and Novas,dance,G,0,154840,146.74,-10.468,0.72,0.944,0.48,0.0297,0.00225,0.517,0.133
+544,unknown,0oWJ4OaJaf6Y11b45Xr0q7,Manjari,Unaroo Unaroo,pop,B,0,520098,149.906,-6.078,0.934,0.974,0.647,0.0333,0.0118,0.0487,0.0876
+545,unknown,4xUgoh1LzzNdFbPKzLftiI,Alain Caron,Canuba,funk&soul,G#/Ab,1,347480,100.082,-13.326,0.614,0.883,0.643,0.0392,0.742,0.164,0.102
+546,unknown,04B9bYkJYWzHRAO2Td5Ogf,Superchumbo,The Revolution - Radio Edit,house,C,1,224507,128.376,-8.33,0.892,0.145,0.614,0.0737,0.736,0.16,0.0926
+547,unknown,4Uy4FLAXo0s8mygiOFahut,Population One,View From Above - Reclocked - Ovatow Reclock,techno,C#/Db,1,407155,127.002,-13.768,0.283,0.0896,0.688,0.0543,0.777,0.0546,0.223
+548,unknown,6CaFrHC7uhlIiLBJAPQ9P9,William Luna,Quisiera Quererte,guitar,C,1,245720,75.035,-7.903,0.703,0.575,0.571,0.045,2.07e-05,0.368,0.367
+549,unknown,5XDxCjvlbYnRh0s9SMct6k,Trembling Blue Stars,Farewell to Forever,dance,C,0,268093,77.977,-16.333,0.259,0.602,0.559,0.0302,0.679,0.503,0.105
+550,unknown,296Hd3wdl7M0iU7YwLvpya,Margaret Cho,I Live There (Bumper Sticker),other,E,0,120667,94.447,-13.803,0.549,0.0623,0.56,0.914,3.22e-06,0.861,0.653
+551,unknown,7ef3xvEjm10uqrsjOVtHxr,Devilgroth,Watching the Swans,black-metal,C,0,447622,139.785,-5.149,0.979,0.0372,0.217,0.0868,0.00136,0.000432,0.141
+552,unknown,5li3FHS5s9V3l4xWsUcmQa,Grimes,Entropy,electro,G#/Ab,1,183493,109.53,-6.623,0.624,0.789,0.756,0.0384,0.31,0.313,0.0983
+553,unknown,25nJFqJFyfMHtYGQWrLxuF,Trio Xamego,Rato Que Rói,forro,D,1,186880,130.858,-4.989,0.763,0.518,0.466,0.0912,0.0,0.328,0.326
+554,unknown,6fWl2yPnWewHGkel4F3Tp9,Shining,Ren Djaula Angest,black-metal,A,0,406147,128.22,-7.622,0.643,0.0452,0.168,0.0849,0.559,0.0001,0.063
+555,unknown,6vuJ3C5gVUU1h2W38zMBU7,Terra del Sol,"Spacebeach, Pt. 2",downtempo,C,1,350731,99.555,-12.501,0.497,0.518,0.708,0.0344,0.89,0.109,0.0787
+556,unknown,6rQRuIw26LX38YC5vAuMM2,The Pietasters,Under My Thumb,reggae&ska,A,1,170507,147.817,-5.17,0.871,0.904,0.502,0.0318,0.279,0.0097,0.0839
+557,unknown,5LAxNLYWodafqPcL9edKC9,Hans Zimmer,Cry,german,C,1,159800,151.589,-11.4,0.447,0.0427,0.259,0.0323,0.914,0.551,0.135
+558,unknown,1nrMkhrmIF6LtQsyz0B92h,The Crane Wives,Know How,indie,B,1,195600,104.027,-7.848,0.862,0.661,0.614,0.0572,1.71e-05,0.0973,0.0645
+559,unknown,3fWToJxr4IgjDtilBxzygL,PIG,The Fly Upon the Pin,industrial,F#/Gb,0,225000,120.039,-11.061,0.577,0.0643,0.462,0.0373,0.00213,0.239,0.186
+560,unknown,4wynXqHk65hf881ZVkdMUN,Parthiv Gohil,Latiya Padi Patiya Padi,indian,A#/Bb,0,541989,111.938,-13.607,0.586,0.818,0.818,0.0718,0.0,0.048,0.335
+561,unknown,049MMnSYqnfbUFyAZlq8SY,Stanton Warriors,Bring Me Down - Vocal Mix,breakbeat,C#/Db,1,347997,127.868,-1.574,0.978,0.588,0.83,0.22,0.027,0.043,0.0403
+562,unknown,3F2qvPFUiZowilGjcbTaM5,Olodum,É lindo de se ver,samba,A#/Bb,0,210640,93.651,-13.946,0.6,0.74,0.685,0.055,0.0,0.332,0.0789
+563,unknown,0e3aRkhcCdkYN62p2PFfD3,Common Kings,24/7,pop,C,1,185480,76.948,-9.061,0.647,0.632,0.643,0.0795,0.0,0.369,0.334
+564,unknown,5AUlwP1gZFUcfMfkyVDKPW,Sick Of It All,Injustice System!,hardcore,B,0,113973,137.113,-2.88,0.998,0.242,0.332,0.0911,0.358,2.5e-06,0.0659
+565,unknown,6y3t07DCDhcsZfgRw9KyPK,Husbands,Try Not to Worry,rock,B,1,184179,166.139,-13.556,0.574,0.266,0.293,0.0367,0.683,0.00302,0.105
+566,unknown,7zUqDI8uKmLFhWs8iXiH0C,MickeyG,Lucid Reality,hardcore,A#/Bb,0,156018,150.093,-7.783,0.839,0.114,0.187,0.0594,0.0,0.000374,0.0715
+567,unknown,3EMcz0yXnht8spVH05q4vo,Nightmares On Wax,Survival Dub,techno,E,0,275051,83.971,-11.324,0.325,0.563,0.793,0.0494,0.232,0.0188,0.0726
+568,unknown,1BvizNDGAUZXvXP5aJ7xWz,UNSECRET,Omens,blues,C#/Db,1,175077,130.016,-8.147,0.715,0.0538,0.313,0.0566,0.0328,0.0498,0.0861
+569,unknown,0NI2BdsGxpKG8FTAT7KEnU,Grateful Dead,He Was a Friend of Mine - Previously Unissued Live In San Francisco 1966 Version,rock,G,1,285733,119.682,-19.898,0.289,0.356,0.535,0.0421,0.0963,0.101,0.23
+570,unknown,2aepuhEJtqQrm8RjKPfigS,Bierkapitän,Ein Pils steht im Wald (die Tannen zapfen),party,C,1,191100,130.014,-1.918,0.989,0.355,0.657,0.159,0.0,0.127,0.227
+571,unknown,7hCTCHr7wu0VEU3tjWydZE,Satyricon,K.I.N.G,black-metal,A#/Bb,0,360749,129.975,-10.022,0.99,0.0553,0.356,0.194,0.286,0.00166,0.969
+572,unknown,18fARgY6MyrODpnV2pS7aZ,Actress,Frontline,dance,G,1,347588,119.992,-10.487,0.699,0.598,0.661,0.395,0.941,0.323,0.339
+573,unknown,3o4rvW7gQXuqW405StWQsE,"Johnny ""Hammond"" Smith",Fantasy,funk&soul,F,0,443813,108.328,-17.107,0.497,0.975,0.631,0.0397,0.0458,0.0642,0.103
+574,unknown,3L5SjT3N4fzImA5cbAr5eE,Sizzle Bird,Origin,dub,C,1,185417,122.996,-9.034,0.564,0.686,0.752,0.0434,0.481,0.369,0.11
+575,unknown,7DOdgngDTzql3mDiZAF4Cn,Os Mutantes,Panis Et Circenses,rock,G#/Ab,1,218040,116.379,-7.39,0.768,0.315,0.369,0.201,0.000624,0.241,0.24
+576,unknown,5sxRbu2Oi9lgmLO8taA3Rf,Westside Gunn,"327 (feat. Tyler, The Creator & Billie Essco)",hip-hop,C#/Db,0,349040,79.716,-7.582,0.701,0.671,0.42,0.339,0.0,0.832,0.103
+577,unknown,05gFgML0emhm2djzwf1uUX,Tevvez,Higher,hardcore,F#/Gb,0,153313,135.967,-3.382,0.916,0.12,0.576,0.0562,3.83e-05,0.205,0.0915
+578,unknown,4SeJ39bR0gXsO9zds2FYgr,DT8 Project,Falling - Sunny Lax Remix (Album Edit),progressive-house,A,0,366080,136.349,-9.838,0.816,0.0709,0.499,0.0423,0.298,0.111,0.0694
+579,unknown,24fWSAuydwOl2WaJ9vCsYm,ARTY,Hope - Extended Mix,edm,D,0,397350,132.036,-8.599,0.363,0.14,0.836,0.0789,0.879,0.000535,0.676
+580,unknown,51vSF9g68UiClklT4AmBbS,Angel Vargas - Roberto de ...,Y vos haces lo que queres,tango,C#/Db,0,130933,118.294,-8.983,0.405,0.589,0.824,0.186,0.000541,0.779,0.21
+581,unknown,3vgVK6gKfRatuh17mEeetx,Alvvays,Tile By Tile,indie,C#/Db,1,178047,116.222,-6.765,0.726,0.215,0.469,0.0364,0.722,0.526,0.112
+582,unknown,0w748k9bvjyZv24u7ZJkTO,Latrice,Illuminate - Extended Mix,deep-house,E,0,355392,127.979,-8.784,0.51,0.96,0.729,0.0367,9.47e-06,0.0023,0.059
+583,unknown,12XhRJwzjGZvit53lxl5Mx,Los Yaquis,No Quiere Perderte,rock,C,1,222800,68.025,-6.423,0.658,0.488,0.487,0.03,0.0,0.3,0.0988
+584,unknown,0kbylTPh23TzIf5zvofLku,Blondie,Nothing Is Real but the Girl - Live,pop,D,0,202899,148.538,-9.355,0.682,0.223,0.243,0.0506,1.64e-06,0.00109,0.487
+585,unknown,7u4nihcIG0evq8hrpmIZkv,Sandeep Thakur,Kaun Tujhe - Instrumental,indian,D,0,181859,107.971,-9.891,0.513,0.107,0.43,0.0362,0.592,0.586,0.105
+586,unknown,5vEE1d5gkv3pgfZyppLeX8,Ty Segall,Girlfriend,alt-rock,B,0,132760,138.022,-1.71,0.925,0.378,0.224,0.0834,1.35e-06,0.000596,0.0663
+587,unknown,5hODrvllD58xKBB3EQY5oL,Gossip,Listen Up!,electro,A,1,258320,121.068,-8.784,0.622,0.261,0.664,0.077,0.309,0.049,0.0739
+588,unknown,6I9AWb0mJi4cRaHxUsD2qy,Coma Cinema,Burden,garage,G#/Ab,1,184822,104.938,-8.79,0.411,0.644,0.73,0.0289,0.402,0.235,0.101
+589,unknown,3unoUooFz23MBsYCBzHfXV,Satanique Samba Trio,Badtriptronics #17,afrobeat,C,1,129200,150.054,-2.146,0.997,0.554,0.632,0.0711,0.89,0.792,0.648
+590,unknown,7LuvgMUMeZiWauIjNAIF9x,Nikolay Kopylov,"""Carmen"" Couplets Of Toreador",other,F,1,282040,112.81,-8.687,0.442,0.505,0.536,0.087,0.000996,0.988,0.0992
+591,unknown,3JZGROns2Gxax9ifBxS6PK,Ferry Corsten,Lemme Take You,progressive-house,A#/Bb,0,163130,127.0,-5.374,0.952,0.332,0.565,0.0336,0.927,0.00149,0.367
+592,unknown,4OMGbSQLyY3GChwglRHFPC,Divino & Donizete,Muierengo,sertanejo,E,1,137840,109.89,-4.386,0.808,0.779,0.681,0.0397,0.0,0.217,0.0873
+593,unknown,2v0hANLWzd4TPFJIv6dVZ2,The Prozacs,Dance with Me,pop,B,0,68880,124.434,-3.643,0.965,0.435,0.257,0.123,0.0,0.00299,0.414
+594,unknown,2E1M1kzRMWP8I8VsAo9oEz,Ochre,REM Sleep Research,ambient,F#/Gb,0,354000,150.04,-8.977,0.638,0.0358,0.529,0.0453,0.841,0.0119,0.0929
+595,unknown,186zi6pmNhtYzHBWUX5Opa,Kamasi Washington,Fists of Fury,jazz,D#/Eb,0,583174,103.509,-8.313,0.889,0.566,0.401,0.099,0.768,0.277,0.0885
+596,unknown,2hicj2Whf8ESeykpg8AItN,Two Lone Swordsmen,Stack Up,electronic,C#/Db,0,172640,134.159,-13.128,0.613,0.454,0.716,0.0909,0.813,0.188,0.108
+597,unknown,5mSZLysuAtdNA21mbOm0sx,MC5,Kick Out The Jams (Original Uncensored Version),blues,C#/Db,0,183824,142.834,-11.948,0.811,0.625,0.345,0.0654,0.0466,0.0606,0.357
+598,unknown,2uYYMbdG4wshelKwbOXHNE,Maria Mena,He's Hurting Me,singer-songwriter,D,0,140680,128.147,-7.024,0.61,0.378,0.517,0.0407,0.0,0.0867,0.058
+599,unknown,3sODGJTxnK7Qjj9flpD9qI,The Black Keys,Thickfreakness - BBC Session,blues,D,1,206866,85.111,-7.46,0.712,0.498,0.392,0.0578,0.148,0.288,0.725
+600,unknown,2JceeKb8Mr0hFR67GmNg7j,Catch 22,"Intro / Point The Blame - Live At The Downtown, Farmingdale, NY / 8-30-2004",reggae&ska,F,0,143827,128.684,-2.93,0.994,0.399,0.364,0.211,6.11e-05,0.0771,0.386
+601,unknown,19nFAXe8gqYJNNdVk2l8PX,Angry Johnny and the Killbillies,Kill Again,goth,C,1,172800,127.525,-10.777,0.89,0.685,0.352,0.0513,0.188,1.29e-06,0.0931
+602,unknown,3vnkvPn8Fzf0FF0z1dghZb,Roger Roger,Cocunut Coast,electro,E,0,147960,137.764,-21.331,0.0919,0.627,0.585,0.0365,0.00325,0.374,0.139
+603,unknown,2X3xaOaXROUudficg2tdwS,Ghostlimb,Shore Leave,metal,A#/Bb,0,60693,115.506,-3.563,0.99,0.513,0.189,0.11,0.000832,4.84e-06,0.384
+604,unknown,653RwVU2ELx5hgPJtnWGCS,Pro Teens,Motel Reflections,garage,D#/Eb,0,172000,132.15,-8.591,0.421,0.499,0.525,0.0316,4.72e-05,0.0737,0.155
+605,unknown,4K46E6gntMgLBPhuBMDZBj,Krafty Kuts,Superbad,breakbeat,G#/Ab,0,171429,104.884,-3.091,0.73,0.676,0.472,0.0621,5.26e-05,0.195,0.0785
+606,unknown,7K3T8Qh3dgIoLm5z5pQk82,Dan Vapid & the Cheats,I Didn't Get An Invitation,pop,F#/Gb,0,185308,130.021,-12.464,0.937,0.621,0.515,0.0576,0.0,0.00341,0.474
+607,unknown,7LEjuefuKK7INdJlBEv3KW,Claudio Marciello,Alma,metal,B,0,248707,140.396,-4.877,0.662,0.348,0.207,0.0298,0.921,0.0217,0.328
+608,unknown,72uPnmLGOhom6vU6q8zIvZ,Hardwell,We Are Legends (Mix Cut),edm,F#/Gb,0,209854,128.079,-2.397,0.857,0.0581,0.317,0.0529,7.44e-05,0.0179,0.216
+609,unknown,0GM5FdlLEWizoyWEhq4eHn,The Intelligence,Moon Beeps,garage,A#/Bb,1,220987,127.01,-4.929,0.905,0.59,0.308,0.0748,0.0543,0.307,0.323
+610,unknown,4mg5Wmhsex1MPj0tyb2MAM,Santé,Awake,german,B,0,372096,119.998,-8.446,0.431,0.145,0.879,0.067,0.76,0.0457,0.101
+611,unknown,74Dc0CsQb1xqcB3IA2jXFQ,Galactixx,Out Of The Dark,hardcore,A,0,196630,149.168,-4.148,0.916,0.14,0.247,0.0439,0.158,0.00206,0.345
+612,unknown,3ipLNSWCkDMjiRyplhkps8,Suzanne Ciani,Part Two,new-age,C,1,313284,103.579,-24.824,0.258,0.234,0.463,0.0548,0.0201,0.145,0.128
+613,unknown,7jqYuqntS8Piuh49fkCrnz,Byron Cage,With All Of My Might,gospel,F,0,285973,113.065,-3.654,0.986,0.373,0.674,0.173,0.0,0.032,0.983
+614,unknown,2vPP6FNAzYoo2pplHp7Vop,Shkoon,Napauken - Jpattersson Remix,electronic,A,0,380617,102.029,-13.817,0.294,0.37,0.793,0.0556,0.9,0.261,0.0867
+615,unknown,4d2F9OJ7JljkO1Qw7AQ2lT,Jersey Boys,The Early Years: Scrapbook,other,A,1,489040,127.602,-11.518,0.377,0.336,0.633,0.465,0.0,0.526,0.147
+616,unknown,2C1O7uzLwyzaLJExHURYK2,Jon Kennedy,Toy Soldiers,trip-hop,G#/Ab,1,421907,90.454,-10.246,0.56,0.258,0.544,0.0537,0.895,0.084,0.119
+617,unknown,2SxpbQ2ur8e65XmgSanQyG,Keyshia Cole,Erotic,funk&soul,B,0,250520,202.27,-6.229,0.666,0.522,0.466,0.443,0.0,0.415,0.194
+618,unknown,2THqqEsOalTuxzJBCNufEG,yeongrak,I Would Sleep,dance,B,0,154600,145.707,-9.401,0.569,0.0387,0.249,0.0399,0.00624,0.455,0.13
+619,unknown,4ItYca1FUoynC1xfinp1Gv,Raspberries,Go All The Way,pop,A,1,201387,134.378,-6.944,0.798,0.607,0.297,0.103,6.66e-05,0.466,0.127
+620,unknown,2RVMztuavoCe7K9dhsw9i8,A Tergo Lupi,Hunted,folk,B,0,169565,123.458,-13.116,0.336,0.437,0.497,0.0541,0.317,2.87e-05,0.153
+621,unknown,2Ttpsn1DnaITDRUBZDZzc0,Vijay Yesudas,Yamunashtakam,pop,C,1,366986,149.981,-11.494,0.54,0.666,0.679,0.117,2.37e-06,0.351,0.0559
+622,unknown,4tHToqINxU33FVtdIRHI0n,Davide Sonar,My World - Original Mix,hardcore,F#/Gb,0,348786,150.049,-4.636,0.993,0.0398,0.771,0.298,0.158,0.0118,0.0573
+623,unknown,1I7a58UE465k9SpTqZq0af,I Can Make A Mess,Lions,acoustic,F#/Gb,1,249320,120.095,-13.722,0.461,0.183,0.621,0.0343,0.687,0.196,0.185
+624,unknown,3Egqp2YVa7HoI7QinSSpaD,Fleshgod Apocalypse,The Praying Mantis' Strategy,classical,B,0,64040,105.039,-22.691,0.32,0.261,0.538,0.0348,0.0526,0.434,0.365
+625,unknown,5Z5tp6HpCrxfaKSWxSI22j,Tom Misch,Seagulls,funk&soul,A,1,90574,111.939,-11.672,0.793,0.34,0.68,0.0598,0.781,0.0117,0.447
+626,unknown,145xZcFMv1ccyKBgEMtV3y,Tirzah,Gladly,electronic,B,0,221080,130.054,-13.402,0.187,0.251,0.76,0.0467,0.000107,0.512,0.123
+627,unknown,0febiSyyONq1DJcmXSI1ao,AA Sound System,Intro,edm,E,0,64013,195.477,-6.547,0.905,0.898,0.417,0.0908,0.972,0.00133,0.546
+628,unknown,6gFtgkh8ShkrJn52Cbdhxy,Twenty One Pilots,Cut My Lip,rock,E,1,282613,111.938,-5.856,0.561,0.678,0.641,0.0355,0.0021,0.12,0.358
+629,unknown,6j2QWyNLMWeeYfpNJ0Ezso,André Rieu,Happy Together,classical,E,0,156000,116.994,-7.753,0.467,0.0655,0.305,0.0343,0.856,0.702,0.0727
+630,unknown,4DNcvlNoCl4lVFFq8kT2N5,ALEX,AFFLICTION,dance,B,0,213333,162.083,-12.126,0.55,0.301,0.77,0.132,0.9,0.114,0.0984
+631,unknown,2vysVihYScb0fnkdzSVD1F,Dylan Sitts,Byrd (Dylan Sitts Remix),downtempo,A#/Bb,0,126767,132.945,-6.339,0.77,0.548,0.828,0.127,1.44e-06,0.241,0.156
+632,unknown,4VkmhRrdJoJn3OP5OIoTrw,DJ Kayowa,Human Beings - Orginal Mix,dubstep,A#/Bb,0,509114,115.999,-6.386,0.902,0.11,0.782,0.0662,0.884,0.0846,0.404
+633,unknown,55SD2p3Ky4DU13ZgwyBnUy,Pandrezz,Blind Forest,downtempo,E,0,174857,70.023,-10.931,0.217,0.158,0.657,0.0904,0.563,0.102,0.114
+634,unknown,3VCg85cBiiwLe4deVerQwP,Limão Com Mel,Nossa Música Never Say Good Bye - Ao Vivo,forro,B,1,231987,163.866,-7.423,0.761,0.178,0.418,0.0597,0.0,0.273,0.588
+635,unknown,3B3HBXhdVYEHHolhI9rTQs,Léo & Raphael,Velho Barreiro,sertanejo,G,1,193750,104.99,-4.836,0.806,0.743,0.671,0.211,0.0,0.255,0.343
+636,unknown,54Pw2TtMMZGeve4hmMcuek,Mainak Nag Chowdhury,Heavy Traffic,indian,D#/Eb,0,330973,133.661,-10.096,0.875,0.191,0.381,0.607,0.00614,0.142,0.479
+637,unknown,7Bd6JQ2Evmeuw4cPYUtcEz,Beyoncé,Get Me Bodied - Homecoming Live,dance,B,0,263009,97.018,-7.741,0.935,0.396,0.822,0.345,0.0,0.011,0.379
+638,unknown,2beQdOJIq3WwxMzj0YOv9g,Michel Sardou,Les beatnicks,french,A,0,181560,123.235,-7.104,0.778,0.587,0.589,0.043,0.0,0.214,0.0574
+639,unknown,47Ibn09rF6ihz1SbYD9vT1,vbnd,Super Fresh,funk&soul,F#/Gb,0,132521,119.92,-14.289,0.0976,0.6,0.943,0.286,0.912,0.274,0.106
+640,unknown,0hxGFgvaJ6GhhMSXzPrGHh,Manfred Mann,The Mighty Quinn - Mono Version,rock,F#/Gb,0,170680,92.984,-8.166,0.629,0.877,0.609,0.0398,0.0,0.107,0.067
+641,unknown,7ip62juvI5wG5x77vduwMC,Ruins of Elysium,Oceanic Operetta,classical,D,0,175253,112.491,-12.577,0.345,0.0381,0.197,0.0349,0.0866,0.305,0.255
+642,unknown,44ZYrqqFkNnplizI3oXzUx,Dark-E,Gods & Symbols (Noisecontrollers remix),hardcore,D,1,342912,147.991,-6.855,0.82,0.459,0.654,0.127,0.375,0.0137,0.0657
+643,unknown,13rRLdBwoa9GkWsZ9utOkD,Katya Chekhova,По проводам (Swanky Tunes Remix),dubstep,F,0,376677,130.002,-3.842,0.651,0.919,0.781,0.048,0.67,0.000375,0.11
+644,unknown,5jrFEzvX6sTwEouxQe00J4,Sonata Arctica,The Misery,classical,F,0,308693,119.995,-6.266,0.487,0.125,0.569,0.029,0.00226,0.08,0.17
+645,unknown,5zGqTc1WQUe8XqqdnrpKTV,Rodney Atkins,Farmer's Daughter,country,F#/Gb,1,207040,133.977,-3.519,0.791,0.786,0.612,0.0291,0.0,0.224,0.112
+646,unknown,5zne45Y5MHf44FAFyyFKhS,Rektchordz,Speakerbump - Original Mix,breakbeat,G#/Ab,0,375885,128.008,-7.167,0.612,0.355,0.964,0.132,0.578,0.00487,0.0451
+647,unknown,7DYzsOYHudZvCg6rWzbnMV,Camilo Sesto,Jamás,pop,F,1,199093,131.43,-1.867,0.764,0.36,0.381,0.0322,0.0,0.331,0.16
+648,unknown,1eMkMp7YJkwTcBKznFRV15,Intime Quintet,Decarisimo,tango,A,0,161040,128.906,-10.459,0.353,0.576,0.453,0.0362,0.379,0.407,0.0453
+649,unknown,61hJwvCnPZbQoNZtKYEOQw,Stamatis Spanoudakis,Daimoniki Giorti,guitar,E,0,165427,135.843,-8.409,0.502,0.594,0.474,0.0304,0.0,0.216,0.139
+650,unknown,7CRLZes6maBmXJGC5HObVi,Aynsley Lister,With Me Tonight - Live,blues,F,0,573827,104.373,-8.479,0.603,0.173,0.452,0.0294,0.111,0.00426,0.0965
+651,unknown,0o4JRYeX2NhPOiiikFGFCH,Grateful Dead,"Ramble on Rose - Live at Madison Square Garden, New York, NY 3/9/81",rock,D,1,461376,104.775,-15.041,0.321,0.545,0.722,0.053,1.68e-05,0.314,0.173
+652,unknown,3to41NSINoUt0r1FZlAqCN,R3HAB,Be Okay (with HRVY) - Clear Six Remix,progressive-house,F,0,143831,123.819,-3.576,0.968,0.786,0.37,0.0799,5.14e-06,0.0659,0.179
+653,unknown,1KG1mgAkuB3ZpAY112C3tZ,Black Pistol Fire,Drop the Needle,blues,B,0,121693,97.183,-7.04,0.679,0.632,0.434,0.0551,5.15e-05,0.0642,0.304
+654,unknown,62NI43a9O3y5qDvwNyhH6f,Frontliner,I'm The Melodyman - Edit,hardcore,B,0,123200,149.963,-4.866,0.881,0.133,0.528,0.0639,0.000177,0.0873,0.103
+655,unknown,6DnYhuHfe2gidS8UERjzpK,Two Tone Club,Three Little Words,reggae&ska,C,0,155493,143.253,-6.384,0.847,0.974,0.622,0.0287,0.867,0.00761,0.0581
+656,unknown,46jfUbvaqr0G32avgUkhHf,Kumar Sanu,Pehla Pehla Pyar Ho Gaya - Jaal - The Trap / Soundtrack Version,pop,D,0,274867,94.908,-9.995,0.894,0.543,0.699,0.147,0.0,0.157,0.428
+657,unknown,2pH0e7sqVa1c4T5nD3R3Wd,Stephen Kellogg and The Sixers,Sweet Sophia (Live) [Bonus Track],acoustic,D,1,185620,144.774,-8.733,0.83,0.621,0.469,0.0372,0.0,0.275,0.345
+658,unknown,0aR99yr1CNoxlZxm2veB65,KAYTRANADA,At All,hip-hop,D,1,287249,120.099,-10.13,0.471,0.41,0.898,0.519,0.698,0.0399,0.0694
+659,unknown,75spVsyRvTdPtmHV384UfR,Marcos & Belutti,Tô Sofrendo Por Amor,sertanejo,C,1,162540,131.09,-5.934,0.723,0.935,0.771,0.0513,0.0,0.256,0.0744
+660,unknown,6e0NYA759hpAMg0zq8k8So,Omar Akram,Miracle,new-age,F,0,251400,102.986,-12.477,0.334,0.538,0.638,0.0291,0.642,0.268,0.121
+661,unknown,26LtpVtxE91V4tYail1DlZ,Rajendra Prasanna,Bano Mharo,indian,B,1,292937,105.05,-12.677,0.743,0.927,0.504,0.0458,0.798,0.0906,0.044
+662,unknown,5NVCQYkU1ki2NHuDk8ioiO,Jorge Ben Jor,Onde Anda O Meu Amor,samba,B,0,182053,141.332,-5.781,0.593,0.714,0.385,0.0359,0.0,0.664,0.167
+663,unknown,5h5UlRPjHnpJusIF55agAM,The Coffinshakers,Phantoms of the Night,goth,A,0,140240,147.557,-4.702,0.922,0.524,0.381,0.145,0.00735,0.432,0.215
+664,unknown,30Sef49MaoWnVrzkG50pcl,Rosyl,Deus Faz Assim,samba,A,1,226889,127.441,-10.735,0.475,0.758,0.611,0.0421,0.0,0.326,0.3
+665,unknown,34WMaypBbW0jgfNGAkKLvp,SKÁLD,Yggdrasill,folk,A,1,214400,73.572,-8.714,0.638,0.67,0.617,0.0296,0.00525,0.395,0.11
+666,unknown,45PyyaKcjSW4sdReEgcLyO,Johnny Gill,"My, My, My - Single Mix",funk&soul,C,1,244627,73.927,-11.385,0.553,0.535,0.594,0.0495,0.0,0.124,0.123
+667,unknown,1BBfYOq1GDRsevFwmQjG4h,Demarkus Lewis,Blown Away,deep-house,F#/Gb,0,399720,125.317,-4.514,0.904,0.319,0.729,0.201,0.879,0.118,0.0501
+668,unknown,3r5RF35l80PYQB6afM0qrY,Moon Reverie,Eyes,metal,D#/Eb,0,315854,139.985,-3.097,0.879,0.677,0.452,0.0507,0.0242,9.63e-05,0.0936
+669,unknown,7ul297SjmLI6D4xN4xiZzG,Makoto,Magic Hour,drum-and-bass,A,0,138944,139.999,-5.153,0.592,0.325,0.628,0.0249,0.956,0.0241,0.109
+670,unknown,4RcFpmKgCqG9ZwiikgcD6i,Freddie Gibbs,Paper (feat. YB),indian,F,1,332318,133.982,-8.891,0.536,0.388,0.613,0.735,0.000168,0.18,0.418
+671,unknown,3VuD2UB38hZAI6g9XgiYzk,Potatohead People,Luv Ya,jazz,F,1,237818,110.161,-5.612,0.491,0.46,0.704,0.257,0.00769,0.236,0.516
+672,unknown,7kbnk6wMnavcDyIIWDZTxl,Matheus & Kauan,Oitava Dose - Ao Vivo,sertanejo,E,1,196648,106.252,-4.945,0.807,0.569,0.519,0.0702,0.0,0.319,0.364
+673,unknown,6r1IP2sIsXMYhcn4cpYEg2,Tamaryn,Afterlight,downtempo,A,0,233160,159.773,-6.873,0.82,0.448,0.305,0.034,0.778,0.389,0.11
+674,unknown,3ya1d14Usxqs5jzJby1IO1,Coachwhips,PB & J,garage,G,0,97867,112.322,-5.694,1.0,0.023,0.336,0.0876,0.996,0.274,0.501
+675,unknown,6Re6pdWbDO037d0ZUeP2fx,Four Brothers,Hwenyakwese,dance,E,1,346627,135.803,-9.016,0.897,0.91,0.655,0.0379,0.0147,0.173,0.155
+676,unknown,1JNDxUARIQ7j2ysrLaDGVV,Sujatha,Akale,pop,D,0,264464,136.054,-7.756,0.693,0.658,0.644,0.0445,7.63e-05,0.707,0.413
+677,unknown,2rohsRyShNp2GJPSuj4gOs,Jay Reatard,I See You Standing There,blues,B,0,98613,115.553,-0.207,0.945,0.333,0.297,0.0918,1.83e-05,0.0153,0.503
+678,unknown,2DMM16zno82XLcNYQY8CZi,Truth,Forever - Original Mix,dubstep,B,0,315442,139.948,-12.867,0.363,0.0336,0.52,0.0467,0.79,0.0217,0.289
+679,unknown,2Sqyy1WXYs64jFZKmneyeF,Hybrid Protokol,Dancing with Strangers,indian,F,0,343540,123.032,-13.583,0.528,0.038,0.644,0.0324,0.861,0.0404,0.116
+680,unknown,6LtjcRvIbV1Of15CPQfVbF,Debout Sur Le Zinc,Rester debout,french,C#/Db,1,181413,135.057,-4.526,0.801,0.809,0.587,0.0347,0.0,0.274,0.111
+681,unknown,5Y2gMmWwEFUw8obN4bHXPS,LADIES' CODE,Bad Girl,k-pop,E,0,197641,112.511,-2.872,0.947,0.242,0.656,0.104,9.11e-05,0.42,0.452
+682,unknown,77PBI24KFlTlU9BujrxlBI,Dead Astronauts,B Side,dubstep,B,0,329166,210.025,-11.448,0.644,0.0789,0.414,0.0335,0.867,0.00512,0.108
+683,unknown,6UO81dkkF3DVFdPb3Sqn9g,Ottmar Liebert,In the Arms of Love,guitar,A,0,414427,87.944,-14.121,0.172,0.315,0.722,0.0623,0.88,0.985,0.104
+684,unknown,5GRbuBAjnkTXxE1kojWssH,Bad Boys Blue,How I Need You,disco,A,0,218653,123.041,-12.074,0.67,0.965,0.651,0.0388,0.00307,0.0827,0.0918
+685,unknown,4hJZAiIwNfnelFHKBSk6Oj,Orjan Nilsen,Fable - Radio Edit,edm,C#/Db,1,228000,128.009,-1.607,0.93,0.412,0.722,0.046,0.407,0.198,0.359
+686,unknown,5vibzeDzw1kSHPmX2OcC7e,Azedia,Fall Below,dubstep,B,0,436835,139.0,-16.401,0.185,0.0394,0.552,0.0351,0.931,0.276,0.12
+687,unknown,5cWTI343POeDXB8kiKhXYp,Matthew Sweet,This Moment,pop,G,1,285613,135.228,-9.7,0.477,0.688,0.505,0.0275,0.0364,0.181,0.154
+688,unknown,76Z8xVZYlP6VWcqPWvoNDu,Hornet Leg,This Song Is Wrong,garage,A,0,159760,138.88,-8.009,0.528,0.833,0.569,0.0348,0.00114,0.21,0.0763
+689,unknown,4HDBpCpts6GRkMFwmJ7uJN,Jefferson Airplane,"White Rabbit - Live at The Woodstock Music & Art Fair, August 17, 1969",rock,B,0,147227,109.545,-10.748,0.633,0.45,0.415,0.0324,1.59e-05,0.353,0.669
+690,unknown,6IwR59yN89v26HvCbkl2Hg,Naked Giants,(God Damn!) What I Am,garage,C,0,161333,134.032,-7.291,0.956,0.328,0.49,0.142,0.00124,0.353,0.359
+691,unknown,1mqYfgGCRADYVJ7YzTKi8t,Jason Mraz,"The Dynamo of Volition - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",acoustic,B,0,387427,115.778,-2.827,0.947,0.481,0.479,0.162,0.0,0.15,0.911
+692,unknown,7fSEzY5RiINNxpDlUlotHs,Landslide,Hear My People - Dub Mix,drum-and-bass,C#/Db,1,337573,136.031,-8.553,0.64,0.864,0.636,0.128,0.894,0.00763,0.0494
+693,unknown,4kv3piwVhwGKhfRVfzed8h,Mark Seibert,Die Schatten werden länger (Live),other,F,0,301516,113.819,-11.402,0.583,0.199,0.591,0.113,7.74e-06,0.23,0.111
+694,unknown,4zvqwaG4RBM6H8Fgf6Ym8L,Kontravoid,Too Deep,punk,A#/Bb,0,272276,119.364,-6.004,0.972,0.701,0.274,0.0635,0.0818,3.52e-06,0.186
+695,unknown,0X4i3xBk5mFjdSUE9Nc9e5,Love Is All,Make Out. Fall Out. Make Up.,swedish,A,0,178561,121.246,-1.801,0.875,0.272,0.274,0.064,0.0111,0.0234,0.401
+696,unknown,2pyG3CShn7IU9qLqxU2QBE,Elite Force,Mindfunkpsychedelic - 2019 Remaster,breakbeat,C#/Db,1,459063,129.972,-6.697,0.961,0.677,0.702,0.101,0.0696,0.00241,0.0776
+697,unknown,0oMVoAauSms81XHnI3BAP5,Thomas Sanders,Friends on the Other Side (Disney Villain Mash-Up),other,A,0,186058,63.843,-12.578,0.367,0.456,0.429,0.0381,0.0,0.314,0.207
+698,unknown,3RJGmcFWYWWiHt4PrBZjnt,Sloan,Gone for Good,pop,D,1,208113,147.291,-7.332,0.806,0.49,0.399,0.035,0.0,0.213,0.355
+699,unknown,1xpXo9ODEGEMKI9DgbY6AL,K-Traxx,Straight On 2007 (Tuneboy Wackie Mix),hardcore,B,1,432813,150.013,-3.877,0.945,0.16,0.609,0.0792,0.841,0.00143,0.0831
+700,unknown,5sHMpCP7y29Dfcra8OZc5J,Numenorean,Regret,black-metal,C,0,415506,163.03,-5.149,0.968,0.326,0.388,0.0823,0.852,6.26e-06,0.225
+701,unknown,1zrqM52F6gNJoJXViiuukk,The Flying Eyes,Better Things,rock,F#/Gb,1,164746,117.62,-6.832,0.729,0.15,0.271,0.0451,0.0131,0.298,0.0972
+702,unknown,77Nt3UTdhRdUlnugadskf3,Surgeon,Raw Trax 2,techno,F#/Gb,1,374899,133.976,-5.383,0.843,0.364,0.785,0.209,0.433,0.00889,0.0969
+703,unknown,1BMmkEMdvf1m1m6yQ6s9U7,Aara,Stein auf Stein,black-metal,A,0,346700,150.104,-4.669,0.802,0.102,0.263,0.0462,0.793,1.03e-06,0.123
+704,unknown,5nPnm6WcmgfN98q07wCUK7,Joey Yung,他狠過你,cantopop,F,0,243347,78.099,-9.387,0.638,0.582,0.513,0.0476,0.0,0.287,0.38
+705,unknown,6ayrEa944ttyF8jYkiJR7C,Eluveitie,Aidû,metal,A,0,190360,142.261,-7.427,0.683,0.251,0.24,0.0475,0.00441,0.066,0.604
+706,unknown,2E5q6ccymD86m1uf0CNx9U,Haricharan,Swechage,pop,C,0,284240,129.823,-9.647,0.688,0.424,0.662,0.0801,0.000376,0.786,0.128
+707,unknown,3ONUIpgqYVgSmxGPMmYo7Y,October Child,Shatterstory,dub,E,0,166984,138.038,-12.769,0.493,0.0589,0.543,0.0446,0.00055,0.0656,0.22
+708,unknown,4NNeFsmDyp0Wtl7BUM862M,Archive,Interlace,trip-hop,F,0,282853,94.978,-11.59,0.585,0.146,0.52,0.0363,0.548,0.0241,0.0941
+709,unknown,7MTuaLL6mHm4JofPuXh6wF,Andy Montañez,Pobre Gaviota,salsa,C,0,138960,117.004,-4.528,0.689,0.517,0.729,0.0327,0.000666,0.7,0.0914
+710,unknown,7w2ELL2TtaS4iVPL5SvjEC,Mateo,Vivid,french,D#/Eb,1,153500,119.748,-7.318,0.791,0.0744,0.44,0.0696,0.972,0.428,0.126
+711,unknown,45Hb0aXqTZve1aOsnBXCrl,Wild Wax Combo,Space Race,rock,A,0,141107,109.297,-6.402,0.875,0.93,0.468,0.0473,9.88e-06,0.318,0.151
+712,unknown,5moXzHXEK8vDdbScsIpHy8,Cajmere,Percolator (Will Clarke Remix) - Original Mix,house,E,1,312631,125.98,-8.531,0.885,0.375,0.781,0.0839,0.212,0.157,0.0744
+713,unknown,598L21UFQcbHHrRq42PlO7,Richard X. Heyman,A Fine Line,pop,F,1,223738,101.734,-9.489,0.55,0.37,0.465,0.0259,0.0,0.298,0.137
+714,unknown,794yIu565540L1468THb7J,The Who,"Behind Blue Eyes - Live At San Francisco Civic Auditorium, 1971",blues,D,1,219813,130.5,-8.004,0.714,0.339,0.347,0.0417,0.00111,0.371,0.364
+715,unknown,0zqswYP6dgQMOXDBHPfzaV,Tosca,Amber November,trip-hop,C,1,337766,121.004,-11.621,0.304,0.0359,0.659,0.0308,0.0441,0.0694,0.713
+716,unknown,5Enxky3UShknHv0rcAfVK4,Alka Yagnik,Kal Raat Ho Gayee,k-pop,D#/Eb,0,450493,92.012,-10.488,0.664,0.758,0.672,0.0943,0.0,0.382,0.0688
+717,unknown,360YO10iXAQy7gB4vLsYrS,Deep Sleep Music Collective,Ocean Lapse,other,C,0,138919,121.512,-26.683,0.772,1e-05,0.17,0.0673,0.0887,0.623,0.353
+718,unknown,1fpG9nsSSWCkjALXXZzwc7,Sungha Jung,Monster (Bigbang),guitar,C,1,259000,126.605,-7.329,0.539,0.369,0.49,0.0384,0.907,0.198,0.131
+719,unknown,3d0Nt69mnHfyb66Lk5k50E,Stefan Sundström,Jan Banan och Marquerite och jag,swedish,A,0,205307,139.498,-3.88,0.943,0.708,0.377,0.159,0.0,0.302,0.404
+720,unknown,7bT5V85mwg5Ypy8mOczQTL,Triangle Sun,I'm Here,downtempo,G#/Ab,0,97431,104.585,-11.575,0.329,0.0458,0.455,0.0363,0.424,0.943,0.105
+721,unknown,6VNCWgaH57SonH6I2XdmW3,Medwyn Goodall,Earth Mother,new-age,A,0,315000,114.014,-21.698,0.163,0.589,0.758,0.0362,0.441,0.819,0.131
+722,unknown,1cyp7q6L1RMbACJVr01DWU,All Time Low,Backseat Serenade (Acoustic),punk,F,1,194811,130.026,-6.315,0.458,0.494,0.641,0.0272,0.0,0.211,0.107
+723,unknown,6bwwiSXPs6hnKmXxDOcl7M,Santanu Sahoo,Hum Bande - Kiye Kahesi,samba,A,0,427494,130.207,-4.631,0.829,0.74,0.542,0.0471,2.53e-05,0.242,0.1
+724,unknown,2DRciyCKp1fwLrA5m3aiGW,Oneness Of Juju,African Rhythms,afrobeat,A#/Bb,0,441360,98.013,-10.014,0.766,0.931,0.595,0.0882,0.0,0.334,0.0411
+725,unknown,3fqjWs97XHoi0ERoUGwS3a,Sunner Soul,Background - Original Mix,deep-house,A,0,408960,125.0,-13.987,0.536,0.518,0.837,0.0808,0.915,0.00201,0.926
+726,unknown,1xhuAx0R2tfFGgpcC0DpCy,Giannis Poulopoulos,Eklapsa Hthes,k-pop,A,0,156693,102.011,-6.196,0.562,0.34,0.651,0.0331,2.31e-06,0.504,0.317
+727,unknown,0MzayRtPxOzvUvZA7bBuRf,The Shirelles,I Didn't Mean To Hurt You,rock,C,0,136907,52.481,-5.99,0.363,0.621,0.516,0.0288,4.6e-05,0.494,0.307
+728,unknown,6ZitNyMSDEWfuMwxYYztjB,Chris Mercer,"Merry Christmas, Mr. Lawrence",guitar,B,0,204639,179.735,-13.702,0.304,0.474,0.412,0.0682,0.89,0.98,0.137
+729,unknown,2KJNQIG79RXHLxiYxJBSe6,Gal Costa,Todo o Amor Que Houver Nessa Vida - Ao Vivo,samba,C,0,242640,91.286,-7.144,0.683,0.647,0.617,0.101,0.0,0.361,0.973
+730,unknown,6tFzSCHedBgahEu4JLF0NF,Meatbodies,Let Go (333),rock,F,0,198547,95.582,-7.736,0.613,0.879,0.483,0.0374,3.19e-05,0.0121,0.104
+731,unknown,6qNqxQycrwT10XTZ63NxWn,Jethro Tull,Summerday Sands - Steven Wilson Stereo Remix,metal,A,1,222427,143.383,-11.597,0.485,0.787,0.538,0.0315,0.0,0.173,0.0775
+732,unknown,0ygz1qBkRfZsmuMuFrkTQm,Hamid Al Shaeri,Geit Ya Sheta,dance,F#/Gb,0,187611,108.248,-22.185,0.202,0.866,0.681,0.0365,0.00413,0.298,0.227
+733,unknown,2KIICpEd4rTapEYDzfECii,Taj Mahal,Is You Is Or Is You Ain't My Baby,acoustic,G,1,276387,126.168,-10.436,0.408,0.525,0.674,0.0531,6.62e-06,0.256,0.232
+734,unknown,0Je45O299Q9CSOuEHfBe09,Luther Vandross,Are You There (With Another Guy),funk&soul,D#/Eb,1,355400,107.006,-5.008,0.667,0.512,0.764,0.0448,0.0,0.193,0.113
+735,unknown,0TDDeDcSNE7ZT7ia6R57bN,Bassnectar,Enter the Chamber - 2015 Version,breakbeat,C#/Db,0,366000,100.002,-4.425,0.894,0.0396,0.518,0.0329,0.804,0.249,0.0922
+736,unknown,0yKT38icPV1sin8Hzv9Y3W,Lynyrd Skynyrd,"Workin' - 2003 - Live At Amsouth Amphitheatre, TN",blues,A#/Bb,0,351133,108.239,-9.339,0.905,0.681,0.305,0.0664,0.000963,0.000218,0.416
+737,unknown,3mbeSRfq1J1lrWDrKMmBxd,Mark Kroos,Kroos On the Loose,guitar,B,0,165173,115.962,-15.9,0.512,0.882,0.53,0.0351,0.918,0.274,0.124
+738,unknown,1mac5r1SSYN9GogJtSyaco,Brand New,Mene,emo,D#/Eb,0,149731,105.056,-2.006,0.988,0.484,0.388,0.086,0.000215,8.12e-05,0.337
+739,unknown,3QNzp4esGgq0UZcEUAd0yn,Wayne Gratz,Fairy Nice,new-age,A#/Bb,1,418120,98.231,-28.797,0.263,0.0927,0.278,0.18,0.00175,0.614,0.13
+740,unknown,08bhHsCotWjcBpBTWJA8PS,Rhythm & Sound,Carrier,dub,A#/Bb,0,387187,165.585,-19.201,0.289,0.359,0.559,0.146,0.872,0.312,0.118
+741,unknown,5otoba6iKVS58v68A8z9rY,Murphy Lee,Wat Da Hook Gon Be - Album Version (Edited),hip-hop,A#/Bb,0,224491,95.021,-7.048,0.58,0.916,0.929,0.31,0.0,0.0994,0.201
+742,unknown,1Wu9UUuQ4rtPKsoMgiUfeL,Diego Pallavas,La Poésie N'existe Pas,french,A,0,143640,108.11,-3.314,0.912,0.63,0.424,0.0466,0.0,0.00367,0.11
+743,unknown,1Q8wRMReBUFpBRfyBS5mFe,Psicofonia,Dementia,spanish,G,1,352600,135.939,-5.962,0.975,0.067,0.239,0.386,0.0145,0.212,0.334
+744,unknown,0boIfnZ0sGR5IgDU9jYSRz,The Woggles,Night Crawls,garage,C,1,211907,138.771,-5.03,0.964,0.494,0.358,0.0702,0.678,0.431,0.292
+745,unknown,6Sr8pMq4cRXAhuyND41N6Z,Lata Mangeshkar,Chalte Chalte Yun Hi Koi - Remix,pop,G#/Ab,1,333053,124.968,-7.557,0.751,0.62,0.628,0.0379,0.000466,0.356,0.191
+746,unknown,4p23pVl18JejiNzYk8pQA1,Arat Kilo,Fit le fit,afrobeat,F#/Gb,1,356702,134.094,-6.675,0.433,0.615,0.595,0.0532,0.884,0.168,0.0677
+747,unknown,4aZ4044WbjYWgpZdvFLpwK,The Cowsills,Ya Gotta Get up!,pop,A,1,214493,124.067,-7.923,0.811,0.664,0.598,0.0401,5.1e-05,0.132,0.0905
+748,unknown,43KJXh5E1hzhw1GdHFmNM6,Charley Patton,Magnolia Blues (2010 Remastered),acoustic,B,1,191893,199.376,-13.338,0.262,0.419,0.41,0.0347,0.545,0.955,0.202
+749,unknown,0V1DjY46BX1bvQNEYqcDOO,Ocean Sounds XLE Library,Ocean Waves - Loopable with No Fade,other,A#/Bb,0,141333,99.06,-24.84,0.971,1e-05,0.132,0.0629,0.113,0.599,0.244
+750,unknown,0XDcSEkt3jxodb3wM3lguH,Ra Ra Riot,Can You Tell,indie,A,1,151200,145.032,-10.335,0.658,0.726,0.596,0.03,0.21,0.186,0.0999
+751,unknown,3jnTX8p4kd3t2a5hRvNUIj,Gorillaz,Bañana Baby,hip-hop,G#/Ab,0,329333,93.225,-13.764,0.302,0.601,0.758,0.0428,0.37,0.111,0.0775
+752,unknown,7JfCf2p9rg4TCf5hifNm9k,Tamborazo Caliente,La Vaquita,folk,B,1,184477,144.398,-4.599,0.716,0.395,0.492,0.0395,0.00269,0.232,0.21
+753,unknown,5uo29y6fyvJ5aXrUsi3Eko,Sportique,The Dying Fly,dance,D,1,141893,128.444,-5.459,0.821,0.686,0.394,0.06,0.0,0.177,0.142
+754,unknown,2Cjo3SUfKpB8RsWGWBJhAG,The Chemical Brothers,Swoon - Boys Noize Instrumental,breakbeat,D,0,321587,123.997,-5.255,0.805,0.284,0.584,0.0442,0.943,0.00492,0.0505
+755,unknown,4SMaiqnlHRbjaVVy0BBzFF,Circulation,Aubergine - Mix B,progressive-house,C,1,468656,130.277,-17.337,0.716,0.249,0.798,0.0904,0.955,0.00613,0.189
+756,unknown,25r8i5gifphnjqllXeFtYI,Reclam Hörbücher,Kleider machen Leute - Teil 17,german,A#/Bb,0,101218,121.968,-14.294,0.436,0.812,0.718,0.94,0.0,0.283,0.147
+757,unknown,6guXQ9rHmOofkqp8uHYO8r,Metronomy,Corinne,dance,D#/Eb,0,196040,139.986,-8.873,0.532,0.819,0.906,0.0457,0.898,0.235,0.115
+758,unknown,4FbbUZgu3vsZgyKcNx5QU2,George Jones,You And Me And Time,country,D,1,293240,95.967,-7.689,0.381,0.472,0.675,0.0298,0.0,0.231,0.136
+759,unknown,0nD3fm9ipkRVKeAmFbLMYl,Robert Earl Keen,Barbeque,country,D,1,282133,123.261,-12.43,0.32,0.538,0.81,0.049,1.38e-06,0.146,0.0979
+760,unknown,2EJtw0AjuECenEdfLXTcOM,Guided By Voices,The Unsinkable Fats Domino,pop,E,1,113160,128.193,-5.409,0.868,0.728,0.393,0.0663,0.000325,0.15,0.357
+761,unknown,0qRh7vsqtjB4rvZzbLGaNp,And Harmony Dies,Pentæmplempirelinquish,black-metal,D,0,232400,152.278,-7.776,0.813,0.1,0.138,0.0729,0.0832,0.0175,0.11
+762,unknown,0dLtC3ja56Eo3tokFyQCvz,The Woggles,"Soul Sister, Brown Sugar",garage,C,0,150053,124.2,-3.425,0.866,0.873,0.606,0.04,0.0,0.205,0.0711
+763,unknown,5HokW9bxwFe2tkbJyZq2ZW,Pryda,Mija,progressive-house,D,0,532120,125.003,-7.552,0.792,0.102,0.767,0.0541,0.854,0.00218,0.567
+764,unknown,4dcgQSGrWkA50vlKHpdwu1,Linda Ronstadt,Hurt so Bad - 2015 Remaster,folk,C,0,190760,99.402,-9.366,0.457,0.534,0.606,0.0293,1.87e-05,0.279,0.389
+765,unknown,4WXIcBXdNAvsFKSMMqettI,Kasper Bjørke,Heaven - Nicolas Jaar Remix,electro,C#/Db,0,317067,114.022,-11.721,0.253,0.159,0.816,0.047,0.317,0.0821,0.0959
+766,unknown,4195Y9rfM63PQr5IHefLmA,Asking Alexandria,Welcome,metal,F,0,109107,140.093,-5.934,0.908,0.12,0.426,0.0623,0.0221,0.159,0.692
+767,unknown,089YdobV7859anDvVu1TsY,Michael W. Smith,Awesome God,alt-rock,G,1,197613,138.902,-8.187,0.66,0.185,0.298,0.041,5.24e-06,0.283,0.629
+768,unknown,6yfQ8hLadUwsSxj3a06PNd,Blue States,Man Mountain,electro,F,0,274213,139.96,-8.269,0.428,0.564,0.701,0.0293,0.841,0.225,0.59
+769,unknown,23p8pI3tHCFKyOw8V2e8IC,Kumar Sanu,Tere Dard Se Dil - Jhankar Beats,pop,A,0,281745,154.96,-1.192,0.966,0.893,0.383,0.0832,5.06e-05,0.394,0.413
+770,unknown,17p6riIkpTepijcXm9GM0f,The Raveonettes,Heart Of Stone,rock,B,1,235373,128.425,-3.148,0.982,0.711,0.478,0.0387,0.509,0.0266,0.87
+771,unknown,4wsGWU7sYvrG8NBRC8dcTb,Into It. Over It.,Wicker Park,emo,E,1,229964,118.026,-10.273,0.908,0.0544,0.548,0.0625,0.931,0.29,0.0855
+772,unknown,7fRFubimaqAtbZoFqgMuAm,Buju Banton,I Wonder,dancehall,A,1,284093,120.012,-4.325,0.795,0.746,0.521,0.13,0.0,0.0948,0.0772
+773,unknown,1sNk8GzPZox6rmadV86opW,Jorge Sepúlveda,Mi Bella Tierruca (Pasodoble),spanish,G,0,160821,161.892,-3.689,0.589,0.713,0.278,0.0373,0.126,0.992,0.18
+774,unknown,5oYZAxG1ZVy8lwVduEKYxe,Ralf Gum,Take Me to My Love,deep-house,A#/Bb,0,508327,125.072,-11.169,0.52,0.566,0.834,0.063,0.0741,0.0604,0.091
+775,unknown,1eKgKZ5nsZ6SWnpJi17H0G,Os Catalepticos,Psychobilly Is All Around,rock,A,0,171173,172.895,-5.147,0.988,0.622,0.249,0.0608,2.99e-05,0.00284,0.2
+776,unknown,62lM8Xjh0ZEHE5SokyzMO2,Alec Empire,Brooklyn Connection,dub,B,0,131040,125.043,-8.18,0.992,0.191,0.479,0.0879,0.89,7.07e-05,0.37
+777,unknown,24TXU9uHNhW94MEKLBunkw,Fred Hersch,Vol. Three: Cole Porter / Let's Do It,piano,F,0,173867,111.955,-24.985,0.124,0.685,0.717,0.053,0.0941,0.879,0.083
+778,unknown,4yUayTd1OoG9ppOTSPWyDb,Tiamat,Before Another Wilbury Dies,black-metal,A,0,99773,140.485,-1.664,0.995,0.228,0.142,0.0607,0.926,4.61e-05,0.348
+779,unknown,2oKZjBLWyueG9dTM9XpC4P,Elvis Presley,Medley: Trouble/Guitar Man - Second 'Stand-Up' Show #2 - Live,rock,C,1,149733,113.41,-9.53,0.728,0.586,0.272,0.0687,0.000879,0.174,0.373
+780,unknown,0A7Xe1R0VmtJCttJzOIM2O,César Menotti & Fabiano,Faz Ela Feliz - Ao Vivo,sertanejo,B,1,187213,115.965,-3.784,0.817,0.512,0.619,0.0504,0.0,0.348,0.575
+781,unknown,1KCJyl6fjOVd8AmF74Vb5n,Prithvi,Distant Lights,indian,A,0,104000,120.012,-16.149,0.28,0.0388,0.562,0.0311,0.315,0.984,0.117
+782,unknown,2qEGKs17JER8jcO0lJA178,Ted Nugent,I Just Wanna Go Hunting,blues,B,0,460053,151.808,-4.683,0.849,0.358,0.434,0.046,0.519,9.81e-05,0.0481
+783,unknown,0jCJ1g9WP3NYYWxNfNE9o6,Jethro Tull,Acres Wild - Steven Wilson Stereo Remix,metal,A,0,206039,108.214,-10.534,0.7,0.842,0.647,0.0321,1.66e-05,0.159,0.0809
+784,unknown,0oldmom7MwRZ59mm2bMRPO,The Osborne Brothers,Cherokee Shuffle,gospel,D,1,184200,126.686,-4.935,0.769,0.703,0.616,0.0359,0.226,0.27,0.061
+785,unknown,1EG4DNq4HHwl7yrUltN3Iy,Baobinga,Shake Yer Head,breakbeat,F#/Gb,0,360853,137.98,-4.454,0.967,0.568,0.656,0.565,0.628,0.00468,0.113
+786,unknown,09u4nne4200RgQp65ywKqW,The Doors,Strange Days - New Stereo Mix,rock,D,0,188520,120.465,-10.538,0.574,0.376,0.457,0.0333,1.6e-05,0.0862,0.0706
+787,unknown,55sjCpiEgzmjq7EQXkKoNn,DJ Spooky,Showtime (Dynamite Selection),trip-hop,C#/Db,1,149039,111.473,-4.732,0.858,0.614,0.861,0.197,0.568,0.138,0.104
+788,unknown,2ABIpqKLmJffkqNcYcYWiw,Roosevelt,Easy Way Out - Midnight Version,disco,G#/Ab,0,405941,126.016,-6.211,0.604,0.944,0.858,0.0522,0.43,0.00419,0.337
+789,unknown,0y1cADBmIxRgEiafIVslc6,Empty,Spheres of Blood,black-metal,A,0,422400,148.072,-8.877,0.651,0.0889,0.122,0.0457,0.736,0.225,0.08
+790,unknown,3Ir3IjUIW9zHMtPbcqgOwV,Amaria,Twilight,downtempo,A#/Bb,0,220312,127.851,-7.726,0.523,0.715,0.566,0.167,1.61e-06,0.172,0.628
+791,unknown,0Z5X5xzIkNj5CDmI8cOVK7,Mastodon,Where Strides the Behemoth - Live at the Aragon,dance,F,1,172213,172.418,-7.3,0.945,0.0395,0.146,0.084,0.858,0.000151,0.652
+792,unknown,7n2sNMGuyQq02Um7RIxNRv,Impaled Nazarene,Into The Eye Of The Storm,black-metal,A,1,284933,132.992,-3.828,0.983,0.222,0.213,0.058,0.823,1.46e-06,0.328
+793,unknown,1W64vSqcal790FtuMvZh5F,Yoste,Calcifer,downtempo,D#/Eb,1,187861,114.908,-7.279,0.592,0.256,0.487,0.0456,0.255,0.802,0.101
+794,unknown,1zAEPG9pYqQ24l13d4AfH8,The Mamas & The Papas,California Dreamin' - Single Version,folk,C#/Db,0,159200,112.451,-6.851,0.752,0.642,0.514,0.0374,0.0,0.287,0.0413
+795,unknown,1gmdCgAxZcuuzj8M4YYGGj,Roberto Jordan,Indio Tracalero (Indian Giver),rock,B,1,159200,126.336,-9.843,0.767,0.875,0.691,0.037,0.0,0.631,0.196
+796,unknown,1QsISBTP3g8dGSDdIGxqtH,Roy Orbison,You're My Baby - Alternate / Remastered 2022,rock,F,0,127320,118.024,-5.995,0.875,0.881,0.534,0.0478,2.02e-05,0.73,0.166
+797,unknown,35ijRxCJZJYANDaUlBroZz,El Chojin,Calma,spanish,C#/Db,1,192031,155.598,-6.473,0.802,0.199,0.688,0.271,0.0,0.17,0.153
+798,unknown,2pqF4n7qYXokNyc2ns5NxG,Hans Zimmer,Truth,german,E,0,285253,136.206,-9.053,0.483,0.0384,0.151,0.0359,0.673,0.0246,0.117
+799,unknown,7gDyOJ6hwytsv7vKRzMYUI,Aggresivnes,Corrupt Souls - Original Mix,breakbeat,F#/Gb,0,286746,135.983,-3.765,0.989,0.0782,0.669,0.161,0.775,3.72e-06,0.304
+800,unknown,2ytfPRYLaAdl0sU9oIgx6b,LMNOP,Run Out of Rush,pop,A,1,123387,142.692,-1.387,0.937,0.962,0.653,0.0394,0.383,0.00911,0.0822
+801,unknown,2mypeVhzzgPXe4inY9c8fL,Tony Molina,Don't Come Back,garage,G,1,92245,148.266,-6.01,0.839,0.476,0.127,0.0545,0.0963,0.138,0.444
+802,unknown,0hLk5Wk6H35pO1Tti4FjKP,Joony,BABY JOON,funk&soul,D#/Eb,0,161911,129.901,-6.867,0.5,0.572,0.762,0.257,0.0,0.829,0.0866
+803,unknown,13KSFPu6SjzWOlr29w4gEB,Finley Quaye,When I Burn Off Into The Distance,electronic,D,1,173160,112.048,-8.759,0.85,0.449,0.746,0.0422,0.00301,0.202,0.162
+804,unknown,5vDsroRXPtbpN93UmwXd23,Ben Folds,In Between Days - E.P. Version,piano,A,1,173307,156.631,-7.471,0.898,0.569,0.423,0.0462,0.00347,0.14,0.275
+805,unknown,5v1RAsfiLysiJUsCV8WSRX,Mario Lanza,"Drink, Drink, Drink (From ""The Student Prince"")",classical,A#/Bb,1,194427,116.045,-5.089,0.693,0.341,0.343,0.0898,7.91e-05,0.933,0.231
+806,unknown,6wzdcywNDc7G9LTnXEMmQr,Suis La Lune,The Light Matters Always Matters,emo,C,1,125224,121.752,-4.864,0.826,0.738,0.331,0.0687,0.000359,0.0927,0.117
+807,unknown,5pVwVxPMUOKpel2xEtBws4,Postal Blue,I'm Glad You Know,dance,C,1,227507,111.893,-10.223,0.605,0.354,0.49,0.0298,0.0021,0.231,0.126
+808,unknown,3UYsAWd03wqOKHd9OJ8Cxy,anamē,Light For Me (Push The Button) [ABGT519],progressive-house,G,1,336000,120.023,-9.025,0.854,0.058,0.596,0.0461,0.501,0.000104,0.206
+809,unknown,4Rhj8leLDwTsmHE4WcSw59,Aníbal Troilo,Cantor de Mi Barrio,tango,G,1,186747,108.783,-3.991,0.663,0.433,0.341,0.0511,0.156,0.962,0.118
+810,unknown,0LswjyTNh56fr8TJ1fz1hz,Los Amigos Invisibles,Isyormain,afrobeat,A,0,192784,132.899,-11.203,0.848,0.491,0.336,0.0544,0.941,0.2,0.175
+811,unknown,5L6krMHI5k5d6w7NXfrHqm,William Fitzsimmons,So This Is Goodbye (Pink Ganter Remix),acoustic,D,1,303964,123.98,-11.371,0.478,0.261,0.633,0.0451,0.138,0.206,0.563
+812,unknown,1pqPWvMf9gY3oDfUbMF4wv,Judas,Batugan,disco,F,0,161147,134.1,-7.587,0.523,0.882,0.652,0.0304,0.0225,0.182,0.108
+813,unknown,5aRiVLi6pTLCr7PX0LMqQD,Forró da Brucelose & Gilson Neto,Amor Vinho e Paixão,forro,C,0,219173,134.948,-5.198,0.922,0.697,0.39,0.102,0.0,0.239,0.376
+814,unknown,3sNEXlloQidwyX6Zb8B7Xx,Have Fun Teaching,Adding 2 Song,party,F,0,136829,120.008,-9.58,0.664,0.471,0.776,0.104,0.0,0.0459,0.079
+815,unknown,3A4NJgft533HGgffw0AoTf,Julie Fowlis,Touch The Sky,folk,D,1,151400,119.013,-7.954,0.641,0.33,0.372,0.047,0.0,0.137,0.103
+816,unknown,7bUuca6Jf2hmtBDyWabi4r,CKY,The Human Drive (in Hi-Fi),industrial,G,1,200600,136.864,-5.852,0.938,0.58,0.347,0.0533,0.558,3.35e-05,0.0906
+817,unknown,3zgvEWXtMktNhkVXyNCz1H,Camel Power Club,Laïka (Hannes Fischer Remix),french,G#/Ab,0,292362,99.997,-11.268,0.259,0.501,0.79,0.0545,0.86,0.000305,0.0908
+818,unknown,12GEpg2XOPyqk03JZEZnJs,Kygo,It Ain’t Me (with Selena Gomez),dance,C,1,220781,99.968,-6.596,0.533,0.515,0.64,0.0706,0.0,0.119,0.0864
+819,unknown,4mBh0sCwL4wWpoREv2voC2,Handbraekes,Bravo,techno,F#/Gb,1,278236,118.01,-5.592,0.802,0.689,0.951,0.259,0.903,0.0107,0.0959
+820,unknown,6L3SQMM8fVCVaCwYeqxHAm,Steve Bug,All I Need,minimal-techno,B,0,344960,123.0,-12.905,0.254,0.605,0.813,0.085,0.559,0.00256,0.0788
+821,unknown,5DOC0Yu2qkbXdcfWufNgnB,Doc Gynéco,Marti-Loupe,french,D#/Eb,1,177027,136.003,-6.667,0.713,0.746,0.735,0.0349,0.0,0.238,0.144
+822,unknown,0ZaIBQIa1MjMMw8lEc8G2O,Duffy,I'm Scared,dance,A,1,189307,90.078,-7.772,0.435,0.408,0.514,0.0288,2.18e-05,0.429,0.152
+823,unknown,4O2VWqmq8sORh4nTLwr9Hl,Terrence Parker,My Virtuous Woman,techno,E,1,451377,124.995,-9.897,0.823,0.47,0.808,0.0637,0.918,0.473,0.636
+824,unknown,0WLYvoJcV5Xj45w8dE5ysi,UMAKANT BARIK,Sawaree,samba,A#/Bb,0,318767,145.967,-5.33,0.948,0.53,0.348,0.335,3.36e-05,0.262,0.0979
+825,unknown,41FYtWfK0w1omstURTEyFF,Shade Sheist,Walk A Mile,funk&soul,A#/Bb,0,225800,93.082,-6.904,0.54,0.76,0.926,0.277,0.0,0.0554,0.121
+826,unknown,2y9xq3PynfABvF6jTrIqz8,Keith Wonderboy Johnson,It Was You,gospel,B,1,236762,78.186,-4.639,0.778,0.352,0.48,0.0501,0.0,0.247,0.268
+827,unknown,4f1MAjclnYID5urgzVu6NC,Showtek,Back 2 Reality,hardcore,B,1,399317,147.034,-5.138,0.879,0.283,0.566,0.0686,0.897,0.0525,0.126
+828,unknown,32rJ4mo8RKwTGm4EWm37Hb,Prasanna,Sinthaiyiley,indian,F,0,75278,114.338,-7.89,0.405,0.49,0.517,0.029,0.0,0.184,0.151
+829,unknown,3YUFj7c4IenI6fhaGwxQ8N,Los Amigos Invisibles,Mauri's Mix,afrobeat,A,0,77067,127.948,-5.286,0.941,0.934,0.589,0.0398,0.904,0.257,0.263
+830,unknown,3RTrNPW7i4b670KoWUryCa,Sérgio Mendes,That Heat,jazz,A#/Bb,0,252960,204.974,-7.135,0.641,0.684,0.564,0.377,0.0,0.182,0.399
+831,unknown,52PdihHI8L8XzHKDkVd0b3,CrazyJaZz,Nice Day,jazz,G#/Ab,0,153487,85.335,-17.887,0.283,0.498,0.678,0.0425,0.825,0.065,0.117
+832,unknown,69xF8FAFHyPbASPC8vUIDf,The Diamonds,Black Denim Trousers and Motorcycle Boots,rock,A#/Bb,0,136027,136.126,-8.932,0.846,0.926,0.609,0.0538,0.0,0.551,0.513
+833,unknown,4rJmG0zAzz1S5D6wOG6SZi,Cursed,Head Of The Baptist,hardcore,G,0,196467,155.521,-6.003,0.964,0.0741,0.16,0.185,0.0,0.000278,0.511
+834,unknown,2LdfF0UOGZIVhg18FJUUnB,Das Racist,Shorty Said,other,G#/Ab,1,237200,133.826,-6.63,0.854,0.656,0.558,0.624,0.0,0.534,0.332
+835,unknown,0SZNd3DpQWpavUqYKdzSQL,TRG,Feel For You,dubstep,D#/Eb,0,315857,139.981,-11.751,0.756,0.686,0.744,0.112,0.0032,0.00274,0.0428
+836,unknown,1siqTQgXrMSJAhVUCdR32A,Recondite,Clouded,minimal-techno,F#/Gb,0,451127,123.013,-16.045,0.206,0.045,0.768,0.0741,0.883,0.295,0.106
+837,unknown,3D6yU5F4GbQJqkMIsZ5bUx,Holy Locust,Trash Pile,acoustic,B,0,199453,129.104,-6.966,0.714,0.121,0.343,0.0551,1.09e-05,0.122,0.231
+838,unknown,2b4sSYdNvqsrfo2woOZUUG,Astrus*,Paris (freestyle),downtempo,G,1,174171,160.248,-9.172,0.611,0.461,0.671,0.606,0.0,0.119,0.278
+839,unknown,534GvDRNXbqxpjSz7Nliur,Moe Turk,Shakhlaa,dance,A#/Bb,0,330056,119.998,-17.547,0.197,0.635,0.842,0.149,0.824,0.0227,0.0847
+840,unknown,1rYd5ICtAsccS9Wit93uIM,Teebee,Snake Style Practice “Venom2”,drum-and-bass,G#/Ab,0,407987,168.04,-4.895,0.953,0.466,0.422,0.0503,0.873,0.00746,0.217
+841,unknown,5EPte9fPlPXQo6dd3hwFZW,Soundgarden,Circle of Power,metal,A,0,124538,138.104,-4.073,0.976,0.466,0.293,0.131,1.02e-05,0.00289,0.383
+842,unknown,7qmiQeVtJnbSm2Qeyenmfs,Lionel Richie,We Are The World - Live,disco,E,1,239400,72.081,-8.715,0.663,0.539,0.305,0.0642,4.42e-06,0.12,0.976
+843,unknown,4TI6Axz5NQWVlvCi2ynQvv,Jerome Isma-Ae,Timelapse - Martin Roth Remix,trance,B,0,193302,122.008,-10.861,0.896,0.0395,0.694,0.0423,0.916,0.00562,0.116
+844,unknown,43ORze68IKCBMPoibNmLJx,Mind over MIDI,Set Deeply,techno,D,0,260067,100.016,-9.534,0.174,0.145,0.605,0.028,0.581,0.0284,0.0783
+845,unknown,3fxaN9pj6g4crVCzMTqRd0,BoA,メリクリ,k-pop,C#/Db,1,332433,121.393,-6.708,0.532,0.195,0.362,0.0304,0.0,0.189,0.059
+846,unknown,7l5FtIj8xKWmYrVSSEvpiq,Deekline,I Don't Smoke [Edit] - Rhythm Masters Remix,breakbeat,G#/Ab,1,312307,129.993,-6.568,0.934,0.546,0.674,0.149,0.844,0.00758,0.0736
+847,unknown,7tTVQqucOTOUBnO00p68Au,Ariel Pink,Immune to Emotion,downtempo,G#/Ab,0,157335,103.008,-9.545,0.614,0.924,0.472,0.0379,0.865,0.106,0.138
+848,unknown,3vSUSalS5qPMo9mciZg2nM,Mindless Self Indulgence,You Will See Just What I See,industrial,C,1,175068,124.945,-5.069,0.972,0.287,0.624,0.328,0.0,0.248,0.219
+849,unknown,1nAQ5R1H2yB7qqigyeuCrK,Madhu Balakrishnan,Irulilnte Varnnam Pole,pop,G,0,221701,102.839,-9.339,0.391,0.697,0.739,0.0286,0.0,0.615,0.105
+850,unknown,08hV7dsDD9bBoJsW22J4UY,Nightstryke,Dogfight,metal,A#/Bb,0,199855,115.203,-10.471,0.873,0.513,0.488,0.045,0.0159,0.000188,0.431
+851,unknown,06tKb2aBA9sma7Sftu7kSw,Kacey Musgraves,keep lookin’ up,country,A,0,166320,61.498,-8.846,0.596,0.321,0.539,0.0364,0.0,0.757,0.163
+852,unknown,6BvStVBa0SHN8q3x3kyQ8K,Fakear,Sekoia,french,A,0,360013,123.018,-6.28,0.849,0.297,0.681,0.0397,0.924,0.0501,0.0811
+853,unknown,6CSkqZE646AlFP8qpZGOt4,Floreal Ruiz,Como Le Digo A La Vieja,tango,C,0,182200,118.176,-4.529,0.491,0.529,0.479,0.0443,1.93e-06,0.862,0.148
+854,unknown,1mDBhLWR0D6PEoRISiRdd7,Alice Russell,Heartbreaker - Sefi Zisling Remake (Bonus Track),trip-hop,B,0,297177,93.981,-6.965,0.893,0.892,0.672,0.0706,0.929,0.227,0.357
+855,unknown,6Qw9qbWPIH5XNzjO6dUiw3,Archive,Gold,trip-hop,G,1,505854,147.988,-14.743,0.473,0.359,0.497,0.0439,0.839,0.335,0.15
+856,unknown,0DJvI93yBWPcuZqjlQStcU,The Trouble Notes,Rocky Roads to Republique,jazz,B,0,258538,142.91,-6.523,0.81,0.782,0.62,0.128,0.881,0.375,0.0686
+857,unknown,7ufZ33mFCovtpoE9NPL0WX,Ducktails,Horizon,downtempo,G#/Ab,0,174706,188.672,-14.38,0.329,0.474,0.327,0.0393,0.944,0.99,0.108
+858,unknown,24OIIPsvniASCBBhcVJSoJ,Keanler,Exhale,french,F#/Gb,0,150749,120.994,-11.968,0.796,0.0403,0.674,0.0325,0.844,0.00553,0.0948
+859,unknown,7Ckwqto222pxNm2OvvEiPq,Los Shakers,Para Ti Y Para Mi (For You And Me),garage,D,1,132040,131.293,-8.937,0.809,0.829,0.498,0.0295,1.9e-05,0.595,0.0847
+860,unknown,2yOnk3GVX6tiIkM8vubLdz,The Charlie Daniels Band,Layla,country,A,0,179493,118.259,-7.022,0.821,0.518,0.619,0.0292,0.0,0.155,0.0663
+861,unknown,5qr9PIZMCGVAHPCepRKFJb,CREAM SODA,Volga,electro,G,1,316108,123.085,-9.34,0.825,0.282,0.694,0.106,0.00291,0.137,0.0987
+862,unknown,4bE1B1Gn9Qosi3wfKaaGaW,Novembers Doom,Of Age and Origin - Part 1: A Violent Day,goth,B,1,301533,133.666,-3.251,0.953,0.263,0.246,0.0765,0.785,2.55e-06,0.389
+863,unknown,3mBczc8uV9jCz8ceoyxhiv,Joe Jackson,Love Got Lost - Vocal,pop,E,1,419440,127.069,-10.134,0.309,0.102,0.662,0.0281,0.00825,0.128,0.0838
+864,unknown,4s7QLoImIwmPi9L6dq1nVW,Drake,TSU,hip-hop,A,1,308756,130.019,-9.059,0.56,0.246,0.568,0.42,3.05e-06,0.228,0.39
+865,unknown,3WwoO74AaIeh9aQloQ2NiC,Dr. Michael White,Give It Up - Gypsy Second Line,jazz,A#/Bb,0,365373,98.0,-12.158,0.408,0.488,0.672,0.116,0.814,0.876,0.0868
+866,unknown,5ZhHLINynnFYf91ZhQgShF,My Life With The Thrill Kill Kult,Mood No. 6,industrial,C#/Db,0,147840,82.48,-12.839,0.622,0.0397,0.402,0.0443,0.000256,0.0248,0.465
+867,unknown,0ehKAyVlUJx31bh837R0Gz,翁倩玉,尋愛,cantopop,G,0,164867,137.122,-17.577,0.461,0.564,0.485,0.0464,0.00124,0.186,0.19
+868,unknown,3iNoyJahT5vuFh0NDwBDTr,God Seed,Aldrande Tre,black-metal,E,0,285387,92.734,-6.516,0.623,0.0879,0.117,0.101,0.00416,5.75e-05,0.088
+869,unknown,2kZPqOxeKLydTNCeUjVDMW,Subrat Moharana,He Phulbali Aha Mor Dhanamali,samba,F#/Gb,1,341321,136.297,-2.847,0.905,0.901,0.616,0.0646,5.13e-06,0.296,0.0318
+870,unknown,3phz9m8Xw7Q2xnhZXlVdrG,H.U.V.A. Network,Rain Geometry - Solar Fields Remix / 2014 Remaster,ambient,B,1,471274,160.003,-15.099,0.511,0.425,0.482,0.0329,0.856,0.413,0.0907
+871,unknown,4TIqzdAssasqx3DAe6cG9J,Joyner Lucas,Ramen & OJ,hip-hop,C#/Db,0,218448,106.196,-6.205,0.571,0.165,0.597,0.293,0.0,0.492,0.093
+872,unknown,6jB0a47qHczHonDyabz1Cc,Jeff Beck,Time,blues,A,0,218405,141.911,-6.591,0.45,0.0912,0.265,0.0302,0.0921,0.38,0.117
+873,unknown,6FSY2EEtEfW8Xj95dqw3UC,VOLAC,Get Ur Freak On,dance,B,0,176190,125.999,-5.998,0.881,0.833,0.808,0.0638,0.556,0.00135,0.241
+874,unknown,4CtkkV5m7LHZleSKF1Nnyf,The Grip Weeds,Lies,pop,E,0,168299,147.325,-3.004,0.93,0.523,0.311,0.0534,0.0,0.000445,0.583
+875,unknown,639QqZwhaCcQZYDJaGLSkM,Juliano Son,Eu Vou Construir - Ao Vivo,gospel,A,1,484807,137.979,-6.73,0.709,0.199,0.404,0.0438,0.0,0.0422,0.0851
+876,unknown,7xrY1YvANMkG2M21QOieim,Louie Vega,Barely Breaking Even - Louie Vega NYC House Remix,house,B,0,549000,127.01,-7.856,0.624,0.72,0.795,0.0653,0.00785,0.00421,0.0566
+877,unknown,5CSAP6vyge5CIHHCySsy3K,The Gun Club,Sex Beat,garage,F,1,132933,181.905,-13.038,0.819,0.387,0.313,0.0517,0.0131,0.172,0.501
+878,unknown,5iHNp1RA2Lye5wgfPXxJ7h,Manolo Escobar,"Me Voy Pal Campo - De : ""Alejandra, Mon Amour"" - 1979",spanish,G,1,156827,118.976,-8.307,0.886,0.841,0.703,0.315,0.0523,0.502,0.0886
+879,unknown,1lbcKvduQZT4t1T1Lfh0GX,Snoop Dogg,A Word Witchya! (Intro),funk&soul,E,0,80587,92.035,-8.503,0.633,0.444,0.709,0.0976,6.18e-05,0.0104,0.392
+880,unknown,7FjGj4xNOjSGgyjIACtGyc,Marshall Jefferson,Do You Believe - Gweilo Remix,house,B,1,346000,123.97,-7.334,0.733,0.818,0.465,0.0955,0.715,0.00516,0.0308
+881,unknown,6TEByIOGqlt3tFA2VnDiiw,Anal Cunt,Cop Calling Faggot,metal,G,0,161973,132.383,-7.791,0.995,0.0363,0.381,0.0943,3.11e-05,0.478,0.373
+882,unknown,1raLKNUVoq8xboR0K1XsrU,Daniela Darcourt,Yo Te Canto - Live,salsa,E,0,172054,145.486,-3.739,0.907,0.855,0.45,0.085,0.0,0.357,0.936
+883,unknown,5Ry5Idt5s9mrWzAh9p7O4z,Mohammed Rafi,John Jani Janardhan - From 'Naseeb' / Soundtrack Version,pop,A,0,340800,94.337,-8.812,0.817,0.815,0.553,0.0343,1.85e-05,0.233,0.599
+884,unknown,2wdUIS7cA3iW6c6SNshlET,Eric Krasno,A Natural Woman,funk&soul,D#/Eb,1,236440,117.068,-10.387,0.417,0.523,0.645,0.0322,0.474,0.332,0.144
+885,unknown,5NKY8MGzv0MqB6mFcHHdIR,Highlonesome,In Life We Cant Be Free,goth,A,1,167707,137.982,-6.407,0.858,0.858,0.522,0.0332,0.178,0.0482,0.12
+886,unknown,18JBcGGBaZ8tNpSuSblgre,Actress,Bubble Butts and Equations,ambient,G,0,333893,120.172,-11.469,0.209,0.0574,0.705,0.101,0.892,0.194,0.0882
+887,unknown,2J0adlQth373uw9y0yqWAz,KALIM,SKRR,german,A#/Bb,0,119040,125.038,-6.599,0.649,0.584,0.803,0.132,2.72e-05,0.163,0.152
+888,unknown,2cmESgWuRl2YHNpTSXtqbP,3LAU,Escape,edm,G#/Ab,0,186094,127.979,-3.463,0.701,0.094,0.381,0.0454,1.26e-05,0.000175,0.395
+889,unknown,4eyuWvF7Wwj8EgwAkVLYJc,Ben Pearce,Predictable,deep-house,F,0,181790,124.051,-7.804,0.854,0.716,0.686,0.0395,1.51e-05,0.0271,0.107
+890,unknown,7GK2KVYH8FrTC9zehmjVMd,Anita Ward,Ring My Bell,disco,F,0,491933,125.999,-13.067,0.556,0.968,0.781,0.0611,0.0907,0.0661,0.0339
+891,unknown,7JUztK7DQ5414OUbQBLVHp,Avery*Sunshine,Sweet Afternoon,funk&soul,F,0,385505,136.044,-9.998,0.396,0.287,0.534,0.0338,0.000448,0.283,0.0898
+892,unknown,5MX1QSnMIgYCzUGMVTO92a,Grateful Dead,"Franklin's Tower - Live at the Great American Music Hall, San Francisco, CA, August 13, 1975",country,D,1,418120,104.648,-11.813,0.574,0.68,0.693,0.0384,0.00294,0.467,0.709
+893,unknown,6wWhivLSNSwUyjDPJJEkjm,The Shamrocks,A Lonely Man,rock,A,0,122080,136.769,-4.126,0.809,0.93,0.673,0.0466,2.34e-06,0.251,0.092
+894,unknown,0DHDghagRtHIGRlG7hKatl,Val Veneto,Jjx,afrobeat,A,0,394500,98.172,-8.895,0.432,0.714,0.733,0.0297,0.899,0.626,0.0692
+895,unknown,56tYfziI7E1UH6uYzFbn2b,Dionne Warwick,The Windows Of The World,disco,D,0,206773,96.059,-13.51,0.255,0.343,0.636,0.0302,0.0,0.18,0.0875
+896,unknown,7wKnUv40kBPRA9pCqAdoju,Gran Banda Militar,El Novio De La Muerte,spanish,D,0,194933,109.657,-14.601,0.515,0.594,0.525,0.0468,0.0477,0.911,0.2
+897,unknown,5cJwX1B2AuFacKtptvPMyM,MF DOOM,Charnsuka,hip-hop,F#/Gb,0,139667,95.337,-1.173,0.874,0.963,0.809,0.0349,0.601,0.364,0.0495
+898,unknown,2cUnCfzjmBoqUTtXoLRQWG,Cultural Roots,Where Have You Been,dancehall,C#/Db,0,178240,71.989,-10.897,0.437,0.785,0.722,0.0421,1.81e-05,0.0579,0.0932
+899,unknown,7LczNODRO3or6IDXbd9sSU,India.Arie,Wonderful (Stevie Wonder Dedication),funk&soul,D,1,331667,105.034,-7.262,0.445,0.57,0.693,0.0509,0.0495,0.197,0.105
+900,unknown,2dZBU09jouLWtsK3h1aRNh,The Replacements,Photo - Demo,pop,G#/Ab,1,228400,157.499,-7.513,0.829,0.6,0.433,0.0608,0.0,0.092,0.35
+901,unknown,4HIlQ3i6QwqC4ZDTRkesqd,Andy Hui,沒想到,cantopop,C#/Db,1,225267,136.208,-8.103,0.666,0.222,0.515,0.0478,0.0,0.199,0.153
+902,unknown,10xewGvy5CHaezDi7DKQ7b,張偉文,問我,cantopop,C,1,224187,79.957,-12.881,0.461,0.535,0.587,0.0311,4.86e-06,0.103,0.191
+903,unknown,1Tlp1eas6eDSCzGKGpkPPU,Vidyasagar,Antinila Manathu,pop,B,0,287269,96.986,-13.177,0.551,0.235,0.767,0.135,1.04e-05,0.247,0.151
+904,unknown,29r07lASKYJtdvMIz1Zjep,Aggresivnes,Rock This - The Brainkiller Remix,breakbeat,F#/Gb,0,267375,131.975,-1.757,0.979,0.79,0.662,0.0427,0.923,0.00449,0.623
+905,unknown,2aKylwQfTstK3lksUUltL4,Les Betteraves,Papémor !!,french,G,1,159267,93.656,-4.501,0.915,0.329,0.676,0.289,1.85e-05,0.485,0.175
+906,unknown,6fdYWemWvzviOzO7LtpM7S,W&W,Invasion (A State Of Trance 550 Anthem) - Extended Mix,trance,G,0,350909,132.021,-4.219,0.818,0.27,0.732,0.256,0.814,0.121,0.0795
+907,unknown,7JkKAXtv6rveKSzNayhGT8,Slow Hollows,Dark Comedy,garage,C,1,170000,99.138,-10.86,0.916,0.659,0.277,0.0525,0.0292,0.41,0.175
+908,unknown,5V0XpO0UdqFzSpyNgtBtBk,The Hepburns,Nobody Loves Me,dance,C,1,190078,141.137,-7.725,0.779,0.759,0.475,0.0411,1.16e-05,0.134,0.363
+909,unknown,7gjNxZa0eOEFLY1So9s3fC,KARA,WHEN I MOVE,k-pop,A#/Bb,0,178360,115.779,-2.431,0.849,0.611,0.712,0.209,0.0,0.205,0.0605
+910,unknown,2GNiirx9qPv4IOzZ3T2d2G,Calcinha Preta,Filmes e Histórias,forro,F#/Gb,1,213625,80.988,-13.717,0.521,0.604,0.582,0.0372,0.0,0.25,0.352
+911,unknown,5SJVLTW8AHS4LiOKuqGKsU,Make Them Suffer,Through the Looking Glass,black-metal,A,0,156000,110.039,-7.665,0.503,0.0382,0.495,0.0272,0.834,0.0717,0.231
+912,unknown,7dzqIA5Nvffdna4CWCAqbT,Bar9,Strung Out,dubstep,F,0,344080,166.445,-9.127,0.888,0.317,0.448,0.776,0.636,0.214,0.407
+913,unknown,7lnirv8p1Qmvh8HDwmJVhn,The Cactus Channel,"Wooden Boy, Pt. 3",dance,A#/Bb,0,190760,109.485,-4.624,0.924,0.485,0.498,0.0377,0.878,0.00144,0.19
+914,unknown,3oHbkTUiutaXT8l38LpShu,Television Personalities,Sometimes I Think You Know Me Better Than I Know Myself,dance,D,0,110533,153.536,-10.432,0.872,0.637,0.162,0.0534,0.0024,5.72e-05,0.304
+915,unknown,21sYDH0uZJSJ05NlzTXFFM,The Magnetic Fields,'92: Weird Diseases,dance,F,1,190413,121.624,-4.327,0.92,0.791,0.57,0.0801,1.46e-06,0.7,0.239
+916,unknown,0VC22buAuwCUXbf0JCFOHh,Mike Dehnert,Genau,dub,C#/Db,1,288395,125.018,-11.325,0.838,0.926,0.788,0.144,0.942,0.298,0.0965
+917,unknown,4uB99STczuyZLSYy4i9V7a,Black Ivory,I Keep Asking You Questions,funk&soul,D,1,188658,107.526,-5.2,0.841,0.769,0.564,0.0392,0.00744,0.211,0.142
+918,unknown,5AS1rPPnC140Q7o4defs9N,The Prids,Human Astronomy,goth,B,0,141187,119.769,-12.834,0.375,0.037,0.294,0.0432,0.0449,0.375,0.109
+919,unknown,1Wwsk1aEJEhDOa3706iecL,Vidyasagar,Naan Varaindhu Vaitha,k-pop,A,1,259997,131.852,-3.653,0.773,0.504,0.419,0.0483,0.0,0.363,0.128
+920,unknown,0RXtemZJ32k5fot18S1q0L,Jorge Vidal,Puente Alsina,tango,D,0,163747,120.696,-9.757,0.426,0.536,0.604,0.192,0.00426,0.932,0.124
+921,unknown,3yueohHxyvXlaPQ5tWAUsV,Los Auténticos Decadentes,Vení Raquel - Vivo en el Palacio de los Deportes,reggae&ska,A,0,186598,149.122,-4.688,0.942,0.806,0.377,0.0843,0.0,0.457,0.964
+922,unknown,5cA04g2KDuoAECE8I4UEgk,Stiftelsen,Kom som du är,swedish,B,0,220344,116.971,-5.273,0.915,0.384,0.471,0.0587,0.802,0.19,0.208
+923,unknown,4gneAAeKWfJVfYv3qXdGXY,The YellowHeads,Experimental Evidence,minimal-techno,C#/Db,1,427559,127.996,-5.743,0.93,0.0745,0.721,0.0429,0.917,0.000572,0.532
+924,unknown,73nbQJ3JDHT8QD8B3oAUmv,Unidos do Viradouro,"Bravo, Bravíssimo (1991)",samba,C#/Db,0,376712,141.971,-16.085,0.351,0.793,0.584,0.0688,0.0,0.0619,0.203
+925,unknown,0IYZfheNMJO9c3Lbdyvibr,Jackson Chery & Bridging The Gap,Kache Mwen,gospel,D,1,323965,124.339,-7.981,0.521,0.116,0.339,0.0523,0.0,0.3,0.201
+926,unknown,3yDZCIMMOCtgBsSh7hu26G,Thee Oh Sees,Grave Blocker,blues,B,0,166853,68.843,-7.465,0.488,0.224,0.588,0.0352,0.000515,0.952,0.134
+927,unknown,7lV25A9QjZkQojpMppkshR,Sloan,Blackout,pop,A,0,99213,136.094,-5.403,0.9,0.862,0.459,0.0524,0.000341,0.000348,0.84
+928,unknown,1x2toPbLBARHFUGAEsncfk,The Groundhogs,Thank Christ for the Bomb - Live,rock,D,1,181413,124.166,-8.899,0.784,0.583,0.278,0.0552,0.202,0.839,0.102
+929,unknown,19rnayqJ6OGYQWE726wAzk,Mqx,405 Anthem - Gymtok Edit,hardcore,A#/Bb,0,144335,118.169,-2.05,0.972,0.444,0.405,0.233,0.00323,0.159,0.238
+930,unknown,3ZnaAf6QLktfI236C9Z0Bc,Infekt,55555,dub,G,1,181714,140.067,-5.634,0.935,0.494,0.789,0.238,0.745,0.159,0.041
+931,unknown,2aHpRBwdbuB4dChR4iEGsk,AFI,Prelude 12/21 - Live At Long Beach Arena / 2006,reggae&ska,D#/Eb,0,124893,149.962,-4.617,0.96,0.109,0.512,0.0857,0.0242,0.353,0.439
+932,unknown,53d6KWtx0unf45UnOwU890,Souljahwitch,Souljahwitchs Faith,hip-hop,A#/Bb,0,130009,130.072,-2.113,0.616,0.0365,0.411,0.0321,0.0,0.0327,0.0576
+933,unknown,2Ry4rZVor2AnhOQdTGsiU4,Sex Pistols,Chatterbox,punk,E,0,111080,146.752,-5.715,0.775,0.38,0.25,0.0381,0.899,1.77e-06,0.366
+934,unknown,0L04Ic6fji8WvfT1IIWcV2,Eek-A-Mouse,Tell Jesus to Call Me Back,dub,B,0,432091,144.973,-9.581,0.478,0.851,0.839,0.0446,0.00137,0.0433,0.0452
+935,unknown,3fgVNFzVHVUCZo61OT6vgL,Joel Mull,Sleepless,techno,G#/Ab,1,513280,127.988,-11.649,0.821,0.526,0.644,0.051,0.699,0.000608,0.0761
+936,unknown,4G7hnL7BBdKGA2dDfjgkEL,Ralphie B,Punching The Air (ASOT 1086),progressive-house,F#/Gb,0,125210,138.035,-8.04,0.937,0.203,0.394,0.0464,0.951,8.12e-05,0.375
+937,unknown,6dL2pOb4M1lWsuq1WwFP7a,Alain Daniel,El Zorreo,salsa,A,1,343787,116.379,-9.225,0.881,0.638,0.549,0.0683,0.0401,0.194,0.0456
+938,unknown,63aIagWQNwQWAM8F0LLYWn,William Murphy,Face To Face,gospel,C,1,296925,125.215,-7.917,0.543,0.152,0.32,0.0667,0.0,0.326,0.172
+939,unknown,6qKWmD1KH9mK4EBy4lfvOS,Yppah,Occasional Magic - Prequel Tapes Remix,trip-hop,F#/Gb,0,349245,105.016,-13.239,0.542,0.0368,0.708,0.0669,0.867,0.000367,0.111
+940,unknown,06NEqCWiM1gXKtaPkIxN5L,Gonzalo Rubalcaba,Supernova 2,piano,F#/Gb,1,371360,126.077,-16.522,0.427,0.525,0.434,0.0347,0.87,0.342,0.0854
+941,unknown,4eRPwh3dd7yiWondxcPFMC,4hero,The Day Of The Greys,trip-hop,F#/Gb,0,356227,114.675,-9.824,0.514,0.378,0.337,0.0369,0.0101,0.255,0.367
+942,unknown,5ONIka85MfUb95DmXPnNvf,Larry Carlton,Nite Crawler - Live,guitar,G,1,401987,104.996,-8.464,0.665,0.498,0.582,0.0248,0.787,0.637,0.897
+943,unknown,4KToym2CBpOVX6P3SjX6Qd,D-Mind,Request,hardcore,C#/Db,1,396784,150.012,-8.713,0.966,0.0496,0.659,0.131,0.765,0.000138,0.349
+944,unknown,54wLe2HvaT1JYIX4q1xtJb,heylog,pleasure,emo,B,0,162110,81.768,-5.678,0.43,0.103,0.503,0.0287,0.0367,0.64,0.094
+945,unknown,5gYmwfJ8xsNY68lTQz6T3w,Janice Vidal,情人 - Live,cantopop,D#/Eb,1,363307,132.009,-6.931,0.614,0.149,0.383,0.0332,0.000103,0.145,0.124
+946,unknown,2bzuHJqhzrM6vIi3zwJBeU,Black Flag,Damaged I,metal,C,1,129360,146.977,-12.829,0.762,0.43,0.377,0.0511,0.0,0.286,0.0438
+947,unknown,2XXQ6YVOn6LicLWXLkoVYS,"Steve ""Silk"" Hurley",Jack Your Body - Ki Creighton Back to Jack Remix,house,G#/Ab,0,468550,123.0,-6.608,0.968,0.697,0.755,0.0485,0.932,0.0172,0.044
+948,unknown,4mwLyh991XfSPXge52rcwB,Flat Duo Jets,Never No More,garage,C#/Db,0,147027,143.806,-8.081,0.985,0.534,0.262,0.162,0.000128,0.267,0.366
+949,unknown,7EpqGhLNxnMVPkLrL2dHv3,Yuki Saitou,Lucky Dragon - Service Version,k-pop,F#/Gb,1,328107,122.95,-7.401,0.903,0.689,0.668,0.0454,0.109,0.218,0.0971
+950,unknown,6JvADqvVAwxPRAhQ4bU2JC,The Peculiar Pretzelmen,Undertaker,goth,A#/Bb,1,470133,111.178,-8.805,0.387,0.0359,0.739,0.051,0.0073,0.152,0.133
+951,unknown,0RltvtD2XsNxb3ALAxpLVE,Beowülf,Lose A Friend,downtempo,F#/Gb,0,202714,124.995,-10.206,0.398,0.0728,0.754,0.0458,2.46e-06,0.256,0.126
+952,unknown,0K3omAQv3XC4uZW2Ij75Cq,La Cabra Mecanica,El amor es un deporte muy raro,spanish,C,0,196387,91.467,-9.869,0.815,0.963,0.809,0.067,0.0,0.228,0.0893
+953,unknown,1jFfnbuRANHY8RXZaSPUuM,Bob Welch,Precious Love,country,C#/Db,0,201373,120.02,-9.728,0.558,0.943,0.68,0.0293,0.0,0.188,0.109
+954,unknown,7iWW3SUgt8d6EQruC0NQ2B,Them Crooked Vultures,Bandoliers,alt-rock,C,1,342013,123.72,-3.795,0.978,0.456,0.384,0.0509,0.0186,3.27e-05,0.155
+955,unknown,3MzxP73XclZJWN51bMEeOJ,Stephan Jolk,Morgen,techno,A#/Bb,0,379028,123.988,-16.861,0.675,0.0275,0.701,0.0415,0.92,0.169,0.113
+956,unknown,0AA6zq5ArZ1sSH7VIMi4NK,MiMS,This Is Why I'm Hot,pop,G#/Ab,1,253707,80.021,-6.349,0.6,0.485,0.621,0.576,0.0,0.277,0.495
+957,unknown,69eOQr9N0AQm8lGJMBHyAr,Julian Lage,Boo's Blues,guitar,F,0,205094,74.885,-9.014,0.427,0.391,0.538,0.0372,0.876,0.91,0.113
+958,unknown,6HmzJ8Q90lkAyvaer0cyeY,Vanessa Daou,Dear Anne Sexton,trip-hop,D,1,226667,105.957,-14.201,0.555,0.849,0.555,0.0303,0.541,0.031,0.0925
+959,unknown,2MMyKqtIVYucGclu8yE26G,Magic Affair,Fire,house,A,0,369333,141.984,-11.886,0.874,0.53,0.772,0.0503,0.067,0.00241,0.0878
+960,unknown,5yyqx4brn6Bm9U1Rj9ENnz,Julie Fowlis,"Touch The Sky - From ""Brave""/Soundtrack",folk,D,1,151400,119.013,-7.954,0.641,0.33,0.372,0.047,0.0,0.137,0.103
+961,unknown,04Nczrn4bnwQfDWBBTazg9,Sleepy LaBeef,Raining In My Heart,rock,A,1,203733,136.016,-12.883,0.463,0.727,0.57,0.038,0.000462,0.125,0.144
+962,unknown,6evJpAEl3mQs8EnZPMvumL,Deepbass,Les Planes - Original Mix,minimal-techno,A#/Bb,0,390300,126.01,-16.181,0.626,0.0281,0.651,0.0428,0.893,0.0887,0.107
+963,unknown,4ySM6WorLNlvMCi4ZUxMjj,Nikita Warren,I Need You - Paradise Version,piano,C,0,369827,114.268,-10.97,0.88,0.894,0.677,0.0357,0.09,0.167,0.068
+964,unknown,1GJtcrdXT01hgvjMejwDDq,Freestylers,Get Down Massive - Trick or Treat Remix,breakbeat,B,0,405911,134.969,-6.603,0.966,0.622,0.84,0.157,0.00881,0.00257,0.18
+965,unknown,1ECStnVPay2NFCNUour8ag,Trifonic,Good Enough,downtempo,C,1,402333,119.911,-13.61,0.412,0.112,0.565,0.0413,0.64,0.176,0.0989
+966,unknown,4Sed7pRqbJR2Am5EoO8IKP,Rick James,Hollywood,disco,C#/Db,0,440987,141.456,-11.081,0.539,0.605,0.412,0.0453,1.66e-06,0.138,0.143
+967,unknown,556YNAimI80yvjD7E9j7Vy,Turbowolf,Captain Caveman,garage,F,0,200147,128.63,-0.12,0.981,0.0814,0.169,0.0821,0.0877,0.0541,0.0904
+968,unknown,0zqSltVvLKJF6K2PtIXVi4,Stephen K. Amos,Coon Cheese - Live,other,F#/Gb,0,489070,130.046,-14.691,0.81,0.0434,0.555,0.91,0.0,0.765,0.913
+969,unknown,2JqYktc5QIMeY4i2XwTwsu,Ronnie Self,Hair Of the Dog,rock,D,1,134107,166.346,-12.391,0.756,0.967,0.665,0.0589,1.26e-05,0.0903,0.0863
+970,unknown,5vULD8Y1w81x44muiselW6,VELHA GUARDA DA PORTELA,Homenagem Ao Morro Azul/Para Que Havemos De Mentir/Cantar De Um Rouxinol,samba,D,1,176760,115.059,-5.314,0.867,0.73,0.591,0.0706,7.88e-06,0.248,0.0993
+971,unknown,2LesA5oKcTSoC8FM7C6hAu,William Singe,Pillow Talk,downtempo,F,0,157043,114.213,-9.211,0.342,0.15,0.651,0.152,0.0,0.211,0.11
+972,unknown,5MvYvz7nxgu0DdSsj2ESgA,Hans Zimmer,The Last Samurai Suite: Part 3 - Live,german,D,0,338382,91.683,-20.725,0.184,0.0365,0.108,0.0374,0.856,0.172,0.684
+973,unknown,26Qan0ej66FA8BdjmrkYPj,Beres Hammond,See You Tomorrow,dancehall,F,1,242045,79.947,-24.622,0.205,0.768,0.628,0.104,1.83e-05,0.0741,0.15
+974,unknown,0vyhYJKJq2k15BxvNJ5UPn,Ghost,Kiseichukan Kite,rock,C,1,303827,112.985,-22.239,0.296,0.386,0.622,0.0631,0.235,0.282,0.107
+975,unknown,3txDoJNTFh6vd7IwHW1Cbu,Billy Soul Bonds,Here Puppy Wuppy,blues,C,1,318400,139.803,-10.184,0.373,0.582,0.689,0.0812,4.55e-06,0.204,0.0946
+976,unknown,6ORB1AiTiTxgGmpLncLDjj,Elis Regina,Caxanga,samba,E,0,190867,116.163,-7.966,0.59,0.667,0.451,0.0291,0.0,0.204,0.261
+977,unknown,1HmZspnBUS7vd5xHnzkMXJ,Juanafé,Flaco Calavera,afrobeat,G,0,321881,102.324,-8.043,0.828,0.489,0.647,0.0557,5.72e-05,0.817,0.315
+978,unknown,74OCuZRa4hN8yc9JkBOUYJ,ABBA,Waterloo,swedish,D,1,166427,147.125,-9.774,0.808,0.706,0.41,0.0412,4.13e-06,0.191,0.33
+979,unknown,3LBUzsQqRS45N8DN89hw5F,Aaliyah,I Am Music,funk&soul,B,1,241467,74.441,-5.081,0.676,0.644,0.471,0.052,1.99e-06,0.255,0.0817
+980,unknown,5tYjdXhTzYaJIJ23jAmQsM,Le Délire des Négations,Delírio Da Negação,black-metal,G#/Ab,1,427891,120.022,-12.739,0.873,0.11,0.41,0.0749,0.857,0.00495,0.107
+981,unknown,6QiU0OpVuonWG5hGp1QdAA,Two:22,Drowning,other,C#/Db,0,144144,100.006,-14.3,0.293,0.286,0.691,0.0339,0.0,0.397,0.0548
+982,unknown,7IBwTU0Cby3fcMeq7Guyv0,The Darrow Chem Syndicate,The Trioxin - KAZ NISHIMURA Remix,breakbeat,C,1,315410,124.985,-5.457,0.69,0.29,0.615,0.0508,0.928,5e-05,0.0777
+983,unknown,1gfirbZA2TvMI47SHn0VAL,Remasculate,When I Was Abroad,metal,F#/Gb,0,100627,151.609,-5.297,0.885,0.702,0.239,0.0689,0.967,4.06e-06,0.103
+984,unknown,2Xht66xum3BrO3N0So3u0j,Tom Waits,She Stole The Blush,singer-songwriter,A#/Bb,0,169563,140.465,-6.876,0.792,0.58,0.684,0.141,0.0294,0.81,0.328
+985,unknown,1K05D68R4NH4fxXD7fy6gg,The Woggles,Ragged But Right,garage,A,1,135493,108.153,-3.605,0.963,0.602,0.249,0.0759,0.0207,0.0747,0.367
+986,unknown,2f17KX8dxfyxIOVV4PP6RA,Luis Aguile,Juanita Banana - Remastered,spanish,A,1,195187,127.559,-6.468,0.759,0.663,0.561,0.0626,0.0,0.372,0.169
+987,unknown,1sfnyLe2IHSSPnz7z7cy1k,Cult Of Luna,Light Chaser,swedish,B,1,383000,88.513,-9.084,0.822,0.0928,0.342,0.0487,0.741,0.0219,0.113
+988,unknown,1BAljIikPug78JshtKLP3c,Сергей Захаров,Давай не будем вспоминать,other,E,0,186480,120.005,-3.164,0.798,0.633,0.389,0.0753,0.0,0.438,0.175
+989,unknown,3eOUOeHuwbzIy6LceMP4U4,SHY FX,Always (Interlude) [feat. Craig David],drum-and-bass,A#/Bb,1,94691,119.915,-4.746,0.749,0.0731,0.343,0.0308,0.000204,0.000798,0.422
+990,unknown,6NnFpm2DXxfOEoXDF3IT53,Old Time Gospel Hour Quartet,On My Journey Home,gospel,G,1,187840,107.99,-6.19,0.856,0.798,0.651,0.0399,0.0,0.391,0.119
+991,unknown,7emSyLm4dUzRkr6jT3Oq8S,Estela Nuñez,Nuestro Amor - Remasterizado,rock,A,0,165867,111.021,-5.283,0.543,0.402,0.615,0.0276,0.0,0.653,0.326
+992,unknown,3r8Rfuj18qRA0vWCiMvmdM,Seapony,Where We Go,downtempo,D,0,153547,146.385,-4.341,0.842,0.923,0.655,0.0306,0.981,0.182,0.107
+993,unknown,75M1vS0AvZtLXbKLBllbvn,13th Floor Elevators,Slip Inside This House - Mono LP Version,garage,A,0,471383,130.159,-10.066,0.613,0.544,0.569,0.0448,0.0,0.181,0.117
+994,unknown,7s6fAkqGOxhPPDbg9gRKgg,The Reddmen,Sidewinder,acoustic,B,0,164800,143.659,-1.368,0.962,0.911,0.332,0.0361,0.00261,0.118,0.175
+995,unknown,5b6XWX2ifTdSClxnLIMLzh,The Mountain Goats,Slow West Vultures,folk,B,1,161373,134.591,-7.635,0.698,0.496,0.439,0.0318,0.0192,0.259,0.198
+996,unknown,1IaWVUISHok06MUkvdmhtS,The Legendary Pink Dots,Methods,industrial,A#/Bb,0,253907,107.501,-20.35,0.405,0.81,0.739,0.0374,0.118,0.247,0.145
+997,unknown,1CKhx6sSkUxzomXnYZqSMh,BROCKHAMPTON,TOKYO,hip-hop,D,1,192126,139.981,-5.781,0.625,0.535,0.632,0.291,0.0,0.0644,0.689
+998,unknown,4Iq4lsliH5hEaxM28O0GwC,Samba de Coco Raizes de Arcoverde,Folguedos de Roda: Pombinho Roxo / Ai Baiano / Vou pro Sul / Ai Velha Minha Sogra,samba,C,1,428947,146.229,-8.424,0.532,0.649,0.666,0.08,0.0,0.118,0.0505
+999,unknown,6NEv2qiRFmdBJAYV3Wfokp,Alkaline,Pick Unuh Side,dancehall,C#/Db,0,172075,106.022,-2.178,0.87,0.4,0.677,0.184,0.0,0.268,0.158
