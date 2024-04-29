@@ -1,10 +1,11 @@
-joblib
 numpy
 pandas
-streamlit
+sklearn
 matplotlib
 seaborn
 plotly
+streamlit
+joblib
 python-dotenv
 requests
 mlxtend

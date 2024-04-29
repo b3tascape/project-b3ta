@@ -4,8 +4,8 @@
 #######################################################################################################################################
 
 ### import libraries
-import pandas as pd
 import numpy as np
+import pandas as pd
 ## Pandas has a depedency on NumPy so loads automatically but best practice to load full NumPy package
 print(f"Numpy version: {np.__version__}")
 print(f"pandas version: {pd.__version__}")
@@ -40,21 +40,13 @@ from sklearn.metrics import f1_score, classification_report
 from sklearn.metrics import roc_curve, roc_auc_score, RocCurveDisplay
 print(f"skLearn version: {sk.__version__}")
 
-# scipy
-import scipy
-from scipy.stats import norm
-
-# statsmodels
-import statsmodels.api as sm
 
 # other
 import numbers
 import requests
-import json
-from xgboost import XGBClassifier
 
 # b3ta functions
-import b3tafunc as b3
+import b3tafuncst as b3
 
 
 #######################################################################################################################################

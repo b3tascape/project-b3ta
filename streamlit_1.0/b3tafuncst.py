@@ -1,6 +1,13 @@
-### IMPORTS
+### import libraries
 import numpy as np
 import pandas as pd
+## Pandas has a depedency on NumPy so loads automatically but best practice to load full NumPy package
+print(f"Numpy version: {np.__version__}")
+print(f"pandas version: {pd.__version__}")
+
+# streamlit
+import streamlit as st
+import joblib
 
 # visualisation
 import matplotlib.pyplot as plt
@@ -13,9 +20,9 @@ pio.renderers.default = 'notebook'
 
 # sklearn
 import sklearn as sk
+from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder, LabelEncoder
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
-from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.model_selection import train_test_split
 from sklearn.decomposition import PCA
 from sklearn.feature_selection import VarianceThreshold, SelectKBest, f_classif, f_regression
@@ -26,30 +33,15 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from sklearn.metrics import accuracy_score, precision_score, recall_score
 from sklearn.metrics import f1_score, classification_report
 from sklearn.metrics import roc_curve, roc_auc_score, RocCurveDisplay
+print(f"skLearn version: {sk.__version__}")
 
-# scipy
-import scipy
-from scipy.stats import norm
-
-# statsmodels
-import statsmodels.api as sm
-
-## spotify
-import spotipy
-import spotipy.oauth2 as oauth2
-from spotipy.oauth2 import SpotifyClientCredentials
-from dotenv import load_dotenv
 
 # other
 import numbers
 import requests
-import json
-import os
-import time
-from xgboost import XGBClassifier
 
 # b3ta functions
-import b3tafunc as b3
+import b3tafuncst as b3
 
 
 ############ GENERAL ############
@@ -232,111 +224,6 @@ berlin_upsamp_test_cs = pd.read_csv('st-data//berlin_upsamp_test_cs-mergedv1.csv
 kingston_upsamp_test_cs = pd.read_csv('st-data//kingston_upsamp_test_cs-mergedv1.csv', index_col=0)
 nyc_upsamp_test_cs = pd.read_csv('st-data//nyc_upsamp_test_cs-mergedv1.csv', index_col=0)
 la_upsamp_test_cs = pd.read_csv('st-data//la_upsamp_test_cs-mergedv1.csv', index_col=0)
-
-### FUNCTION 000 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
-
-def DEFINESP(share_link, sp_location, sp_filename):
-    #%%time
-
-    # Set up Spotify API credentials
-    load_dotenv()
-    client_id = os.getenv("CLIENT_ID")
-    client_secret = os.getenv("CLIENT_SECRET")
-    
-    # Get Playlist ID - Find start & end indices of playlist ID
-    start_index = share_link.find("/playlist/") + len("/playlist/")
-    end_index = share_link.find("?si=")
-    
-    # Get Playlist ID - Extract the playlist ID
-    playlist_id = share_link[start_index:end_index]
-
-    # Authenticate with Spotify API
-    client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
-    sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
-    
-    # Get playlist tracks
-    offset = 0
-    tracks = []
-    while True:
-        results = sp.playlist_tracks(playlist_id, offset=offset)
-        tracks.extend(results['items'])
-        offset += len(results['items'])
-        if len(results['items']) == 0:
-            break
-    
-    # Extract track information
-    track_data = []
-    
-    # Divide tracks into chunks
-    chunk_size = 50
-    track_chunks = [tracks[i:i+chunk_size] for i in range(0, len(tracks), chunk_size)]
-    
-    for chunk in track_chunks:
-        try:
-            # Get audio features for each chunk
-            audio_features = []
-            for item in chunk:
-                track = item['track']
-                audio_features.append(sp.audio_features(track['id'])[0])
-            
-            for idx, audio_feature in enumerate(audio_features):
-                track = chunk[idx]['track']
-                
-                # Extract genre information
-                artists = track.get('artists', [])
-                genre = 'unknown'
-                if artists:
-                    artist_info = sp.artist(artists[0]['id'])
-                    if 'genres' in artist_info and artist_info['genres']:
-                        genre = artist_info['genres'][0]
-                
-                # Extract key and mode information
-                key = audio_feature.get('key', 'unknown')
-                mode = audio_feature.get('mode', 'unknown')
-                
-                track_data.append({
-                    'sound_profile': sp_location,
-                    'track_id': track['id'],
-                    'artist_name': artist_info['name'] if artists else 'unknown',
-                    'track_name': track['name'],
-                    'genre': genre,
-                    'key': key,
-                    'mode': mode,
-                    'duration_ms': audio_feature['duration_ms'],
-                    'tempo': audio_feature['tempo'],
-                    'loudness': audio_feature['loudness'],
-                    'energy': audio_feature['energy'],
-                    'valence': audio_feature['valence'],
-                    'danceability': audio_feature['danceability'],
-                    'speechiness': audio_feature['speechiness'],
-                    'instrumentalness': audio_feature['instrumentalness'],
-                    'acousticness': audio_feature['acousticness'],
-                    'liveness': audio_feature['liveness']
-                })
-                
-            time.sleep(1)
-
-        except requests.exceptions.HTTPError as e:
-            if e.response.status_code == 429:
-                retry_after = int(e.response.headers.get('Retry-After', 1))
-                print(f"Rate limited. Retrying after {retry_after} seconds.")
-                time.sleep(retry_after + 1)
-                continue
-            else:
-                raise
-        except Exception as e:
-            print(f"Failed to get audio features for some track IDs: {e}")
-    
-    # Create DataFrame
-    df = pd.DataFrame(track_data, columns=['sound_profile', 'track_id', 'artist_name', 'track_name', 'genre', 'key',
-                                           'mode', 'duration_ms', 'tempo', 'loudness', 'energy', 'valence',
-                                           'danceability', 'speechiness', 'instrumentalness', 'acousticness', 'liveness'])
-    
-    # Write to CSV
-    df.to_csv(f'../data/{sp_filename}.csv', index=False)
-
-    # Print statement
-    print(f"DEFINESP successful! {len(df)} tracks saved down.")
 
 
 ### FUNCTION 001 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
