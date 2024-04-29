@@ -3,7 +3,6 @@ jupyterlab
 matplotlib
 numpy
 pandas
-python
 scikit-learn==0.24
 seaborn
 plotly==5.19.0
