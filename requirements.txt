@@ -8,9 +8,5 @@ seaborn
 plotly==5.19.0
 python-dotenv
 requests
-spotipy
-python-kaleido
-statsmodels
 mlxtend
-xgboost
 streamlit
