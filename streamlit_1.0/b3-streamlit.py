@@ -63,8 +63,8 @@ import b3tafunc as b3
 ### IMPORTS
 
 # full df - raw
-df50 = pd.read_csv('/data/06-b3_df50-sl.csv', index_col=0)
-user_raw_df = pd.read_csv('/data/04-b3-user_raw_df.csv', index_col=0)
+df50 = pd.read_csv('data/06-b3_df50-sl.csv', index_col=0)
+user_raw_df = pd.read_csv('data/04-b3-user_raw_df.csv', index_col=0)
 
 # create sound profile dfs
 london_snd = df50[df50['sound_profile'] == 'london']
@@ -77,22 +77,22 @@ la_snd = df50[df50['sound_profile'] == 'la']
 combined_snd = df50[df50['sound_profile'] != 'unknown']
 
 # upsampled_rf
-london_upsamp_test_rf = pd.read_csv('/data/london_upsamp_test_rf-mergedv1.csv', index_col=0)
-manchester_upsamp_test_rf = pd.read_csv('/data/manchester_upsamp_test_rf-mergedv1.csv', index_col=0)
-ibiza_upsamp_test_rf = pd.read_csv('/data/ibiza_upsamp_test_rf-mergedv1.csv', index_col=0)
-berlin_upsamp_test_rf = pd.read_csv('/data/berlin_upsamp_test_rf-mergedv1.csv', index_col=0)
-kingston_upsamp_test_rf = pd.read_csv('/data/kingston_upsamp_test_rf-mergedv1.csv', index_col=0)
-nyc_upsamp_test_rf = pd.read_csv('/data/nyc_upsamp_test_rf-mergedv1.csv', index_col=0)
-la_upsamp_test_rf = pd.read_csv('/data/la_upsamp_test_rf-mergedv1.csv', index_col=0)
+london_upsamp_test_rf = pd.read_csv('data/london_upsamp_test_rf-mergedv1.csv', index_col=0)
+manchester_upsamp_test_rf = pd.read_csv('data/manchester_upsamp_test_rf-mergedv1.csv', index_col=0)
+ibiza_upsamp_test_rf = pd.read_csv('data/ibiza_upsamp_test_rf-mergedv1.csv', index_col=0)
+berlin_upsamp_test_rf = pd.read_csv('data/berlin_upsamp_test_rf-mergedv1.csv', index_col=0)
+kingston_upsamp_test_rf = pd.read_csv('data/kingston_upsamp_test_rf-mergedv1.csv', index_col=0)
+nyc_upsamp_test_rf = pd.read_csv('data/nyc_upsamp_test_rf-mergedv1.csv', index_col=0)
+la_upsamp_test_rf = pd.read_csv('data/la_upsamp_test_rf-mergedv1.csv', index_col=0)
 
 # upsampled_cs
-london_upsamp_test_cs = pd.read_csv('/data/london_upsamp_test_cs-mergedv1.csv', index_col=0)
-manchester_upsamp_test_cs = pd.read_csv('/data/manchester_upsamp_test_cs-mergedv1.csv', index_col=0)
-ibiza_upsamp_test_cs = pd.read_csv('/data/ibiza_upsamp_test_cs-mergedv1.csv', index_col=0)
-berlin_upsamp_test_cs = pd.read_csv('/data/berlin_upsamp_test_cs-mergedv1.csv', index_col=0)
-kingston_upsamp_test_cs = pd.read_csv('/data/kingston_upsamp_test_cs-mergedv1.csv', index_col=0)
-nyc_upsamp_test_cs = pd.read_csv('/data/nyc_upsamp_test_cs-mergedv1.csv', index_col=0)
-la_upsamp_test_cs = pd.read_csv('/data/la_upsamp_test_cs-mergedv1.csv', index_col=0)
+london_upsamp_test_cs = pd.read_csv('data/london_upsamp_test_cs-mergedv1.csv', index_col=0)
+manchester_upsamp_test_cs = pd.read_csv('data/manchester_upsamp_test_cs-mergedv1.csv', index_col=0)
+ibiza_upsamp_test_cs = pd.read_csv('data/ibiza_upsamp_test_cs-mergedv1.csv', index_col=0)
+berlin_upsamp_test_cs = pd.read_csv('data/berlin_upsamp_test_cs-mergedv1.csv', index_col=0)
+kingston_upsamp_test_cs = pd.read_csv('data/kingston_upsamp_test_cs-mergedv1.csv', index_col=0)
+nyc_upsamp_test_cs = pd.read_csv('data/nyc_upsamp_test_cs-mergedv1.csv', index_col=0)
+la_upsamp_test_cs = pd.read_csv('data/la_upsamp_test_cs-mergedv1.csv', index_col=0)
 
 
 #######################################################################################################################################
@@ -139,8 +139,6 @@ num_tracks_to_select = 5
 
 # Loop to select tracks
 for i in range(num_tracks_to_select):
-    #st.sidebar.write(f"Select Track {i + 1}")
-    
     # Create selectbox widgets with autocomplete functionality for artist names
     selected_artist_names = st.sidebar.multiselect(f"artist {i + 1}", df50['artist_name'].unique())
 
@@ -151,14 +149,19 @@ for i in range(num_tracks_to_select):
     selected_track_names = st.sidebar.multiselect(f"track {i + 1}", artist_filtered_df['track_name'].unique())
 
     # Filter further based on the selected track names
-    filtered_df = artist_filtered_df[artist_filtered_df['track_name'].isin(selected_track_names)]
+    filtered_tracks_df = artist_filtered_df[artist_filtered_df['track_name'].isin(selected_track_names)]
+    
+    # Add only the first result if there are multiple matches
+    if len(filtered_tracks_df) > 1:
+        filtered_tracks_df = filtered_tracks_df.head(1)
 
     # Add the selected track to the new dataframe
-    selected_tracks_df = pd.concat([selected_tracks_df, filtered_df])
+    selected_tracks_df = pd.concat([selected_tracks_df, filtered_tracks_df])
 
-    # Convert a single column to a specific data type
+    # Convert duration_ms column to integer data type
     selected_tracks_df['duration_ms'] = selected_tracks_df['duration_ms'].astype('int')
 
+# Add a separator in the sidebar
 st.sidebar.write('---')
 
 

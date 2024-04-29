@@ -141,8 +141,6 @@ num_tracks_to_select = 5
 
 # Loop to select tracks
 for i in range(num_tracks_to_select):
-    #st.sidebar.write(f"Select Track {i + 1}")
-    
     # Create selectbox widgets with autocomplete functionality for artist names
     selected_artist_names = st.sidebar.multiselect(f"artist {i + 1}", df50['artist_name'].unique())
 
@@ -153,14 +151,19 @@ for i in range(num_tracks_to_select):
     selected_track_names = st.sidebar.multiselect(f"track {i + 1}", artist_filtered_df['track_name'].unique())
 
     # Filter further based on the selected track names
-    filtered_df = artist_filtered_df[artist_filtered_df['track_name'].isin(selected_track_names)]
+    filtered_tracks_df = artist_filtered_df[artist_filtered_df['track_name'].isin(selected_track_names)]
+    
+    # Add only the first result if there are multiple matches
+    if len(filtered_tracks_df) > 1:
+        filtered_tracks_df = filtered_tracks_df.head(1)
 
     # Add the selected track to the new dataframe
-    selected_tracks_df = pd.concat([selected_tracks_df, filtered_df])
+    selected_tracks_df = pd.concat([selected_tracks_df, filtered_tracks_df])
 
-    # Convert a single column to a specific data type
+    # Convert duration_ms column to integer data type
     selected_tracks_df['duration_ms'] = selected_tracks_df['duration_ms'].astype('int')
 
+# Add a separator in the sidebar
 st.sidebar.write('---')
 
 

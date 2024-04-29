@@ -202,10 +202,8 @@ def MERGE2MAIN(df, new_sp):
 ### IMPORTS
 
 # full df - raw
-#df = pd.read_csv('../data/05-b3-exports/df.csv', index_col=0)
-#df = pd.read_csv('../data/03-b3-exports/03-b3_df.csv', index_col=0)
-df50 = pd.read_csv('/data/06-b3_df50-sl.csv', index_col=0)
-user_raw_df = pd.read_csv('/data/04-b3-user_raw_df.csv', index_col=0)
+df50 = pd.read_csv('data/06-b3_df50-sl.csv', index_col=0)
+user_raw_df = pd.read_csv('data/04-b3-user_raw_df.csv', index_col=0)
 
 # create sound profile dfs
 london_snd = df50[df50['sound_profile'] == 'london']
@@ -218,23 +216,22 @@ la_snd = df50[df50['sound_profile'] == 'la']
 combined_snd = df50[df50['sound_profile'] != 'unknown']
 
 # upsampled_rf
-london_upsamp_test_rf = pd.read_csv('/data/london_upsamp_test_rf-mergedv1.csv', index_col=0)
-manchester_upsamp_test_rf = pd.read_csv('/data/manchester_upsamp_test_rf-mergedv1.csv', index_col=0)
-ibiza_upsamp_test_rf = pd.read_csv('/data/ibiza_upsamp_test_rf-mergedv1.csv', index_col=0)
-berlin_upsamp_test_rf = pd.read_csv('/data/berlin_upsamp_test_rf-mergedv1.csv', index_col=0)
-kingston_upsamp_test_rf = pd.read_csv('/data/kingston_upsamp_test_rf-mergedv1.csv', index_col=0)
-nyc_upsamp_test_rf = pd.read_csv('/data/nyc_upsamp_test_rf-mergedv1.csv', index_col=0)
-la_upsamp_test_rf = pd.read_csv('/data/la_upsamp_test_rf-mergedv1.csv', index_col=0)
+london_upsamp_test_rf = pd.read_csv('data/london_upsamp_test_rf-mergedv1.csv', index_col=0)
+manchester_upsamp_test_rf = pd.read_csv('data/manchester_upsamp_test_rf-mergedv1.csv', index_col=0)
+ibiza_upsamp_test_rf = pd.read_csv('data/ibiza_upsamp_test_rf-mergedv1.csv', index_col=0)
+berlin_upsamp_test_rf = pd.read_csv('data/berlin_upsamp_test_rf-mergedv1.csv', index_col=0)
+kingston_upsamp_test_rf = pd.read_csv('data/kingston_upsamp_test_rf-mergedv1.csv', index_col=0)
+nyc_upsamp_test_rf = pd.read_csv('data/nyc_upsamp_test_rf-mergedv1.csv', index_col=0)
+la_upsamp_test_rf = pd.read_csv('data/la_upsamp_test_rf-mergedv1.csv', index_col=0)
 
 # upsampled_cs
-london_upsamp_test_cs = pd.read_csv('/data/london_upsamp_test_cs-mergedv1.csv', index_col=0)
-manchester_upsamp_test_cs = pd.read_csv('/data/manchester_upsamp_test_cs-mergedv1.csv', index_col=0)
-ibiza_upsamp_test_cs = pd.read_csv('/data/ibiza_upsamp_test_cs-mergedv1.csv', index_col=0)
-berlin_upsamp_test_cs = pd.read_csv('/data/berlin_upsamp_test_cs-mergedv1.csv', index_col=0)
-kingston_upsamp_test_cs = pd.read_csv('/data/kingston_upsamp_test_cs-mergedv1.csv', index_col=0)
-nyc_upsamp_test_cs = pd.read_csv('/data/nyc_upsamp_test_cs-mergedv1.csv', index_col=0)
-la_upsamp_test_cs = pd.read_csv('/data/la_upsamp_test_cs-mergedv1.csv', index_col=0)
-
+london_upsamp_test_cs = pd.read_csv('data/london_upsamp_test_cs-mergedv1.csv', index_col=0)
+manchester_upsamp_test_cs = pd.read_csv('data/manchester_upsamp_test_cs-mergedv1.csv', index_col=0)
+ibiza_upsamp_test_cs = pd.read_csv('data/ibiza_upsamp_test_cs-mergedv1.csv', index_col=0)
+berlin_upsamp_test_cs = pd.read_csv('data/berlin_upsamp_test_cs-mergedv1.csv', index_col=0)
+kingston_upsamp_test_cs = pd.read_csv('data/kingston_upsamp_test_cs-mergedv1.csv', index_col=0)
+nyc_upsamp_test_cs = pd.read_csv('data/nyc_upsamp_test_cs-mergedv1.csv', index_col=0)
+la_upsamp_test_cs = pd.read_csv('data/la_upsamp_test_cs-mergedv1.csv', index_col=0)
 
 ### FUNCTION 000 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
