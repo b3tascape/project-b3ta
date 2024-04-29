@@ -1,0 +1,1172 @@
+,sound_profile,track_id,artist_name,track_name,genre,key,mode,duration_ms,tempo,loudness,energy,valence,danceability,speechiness,instrumentalness,acousticness,liveness
+0,nyc,2igwFfvr1OAGX9SKDCPBwO,JAY-Z,Empire State Of Mind,hip-hop,B,1,276920,173.585,-1.538,0.956,0.811,0.491,0.392,0.0,0.0295,0.46
+1,nyc,10nqz67NQWWa7XPq7ycihi,Taylor Swift,Welcome To New York,pop,G,1,212600,117.023,-4.807,0.634,0.615,0.793,0.0324,1.76e-06,0.038,0.304
+2,nyc,4eihdGG3Tga3oFq4yqCDeL,Lil' Kim,Lighters Up,pop,A,1,262640,91.727,-6.31,0.766,0.714,0.624,0.396,0.0,0.00494,0.107
+3,nyc,0K2WjMLZYr09LKwurGRYRE,Frank Sinatra,"Theme From New York, New York - 2008 Remastered",other,D,1,204907,94.311,-6.95,0.497,0.546,0.312,0.0309,0.0,0.587,0.246
+4,nyc,7KwZNVEaqikRSBSpyhXK2j,The Notorious B.I.G.,Hypnotize - 2014 Remaster,hip-hop,A,1,229827,93.941,-3.439,0.697,0.67,0.901,0.28,0.0,0.145,0.287
+5,nyc,6APTEV2EIRpBEvuTrS5XTv,ROLE MODEL,girl in new york,other,A,1,211304,92.031,-7.854,0.555,0.0817,0.621,0.0299,0.152,0.0405,0.111
+6,nyc,5zwz05jkQVT68CjUpPwFZe,Nas,N.Y. State of Mind,hip-hop,F#/Gb,0,293973,84.099,-4.682,0.91,0.887,0.665,0.223,0.0,0.0394,0.227
+7,nyc,5YTM7OgQDt9EJAYcfHLniJ,A Tribe Called Quest,Award Tour (feat. Trugoy The Dove),hip-hop,G,1,226440,97.338,-9.414,0.6,0.555,0.812,0.254,8.38e-06,0.00308,0.173
+8,nyc,5qxChyzKLEyoPJ5qGrdurN,Beastie Boys,No Sleep Till Brooklyn,alt-rock,G#/Ab,1,246933,97.022,-8.157,0.691,0.742,0.712,0.128,0.0,0.122,0.0538
+9,nyc,6o5RbQYhmF4yRRw7ZArxGL,Billie Holiday,Autumn In New York,other,A#/Bb,0,224333,71.523,-15.196,0.098,0.288,0.587,0.0607,7e-06,0.958,0.114
+10,nyc,70FCugJxa7XW04Np6iYJdI,50 Cent,21 Questions,hip-hop,F#/Gb,0,224440,92.729,-3.846,0.813,0.895,0.646,0.299,9.37e-05,0.349,0.0427
+11,nyc,5rAff9XfcWx7rguN3t0fkW,LCD Soundsystem,"New York, I Love You but You're Bringing Me Down",dance,G,0,335480,176.526,-8.288,0.37,0.0909,0.39,0.0457,0.00013,0.474,0.115
+12,nyc,33ZXjLCpiINn8eQIDYEPTD,Mobb Deep,"Shook Ones, Pt. II",hip-hop,A#/Bb,0,325507,93.857,-6.472,0.786,0.504,0.763,0.229,0.0114,0.0146,0.0817
+13,nyc,6KBsivP3Of4z2x6uNMAyE3,Duke Ellington,"Take the ""A"" Train",unknown,C,1,331800,94.036,-13.836,0.318,0.575,0.479,0.0395,0.0959,0.278,0.107
+14,nyc,119c93MHjrDLJTApCVGpvx,Wu-Tang Clan,"C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",hip-hop,B,0,252187,180.985,-10.551,0.549,0.576,0.479,0.373,0.0235,0.57,0.127
+15,nyc,0YsGMHid6sFq5PcToe3JZE,Childish Gambino,Les,hip-hop,C#/Db,0,317293,103.139,-7.04,0.674,0.123,0.541,0.0841,9.76e-05,0.00649,0.235
+16,nyc,0wQDWZ8bi8JNF6HmNRVX24,Junior M.A.F.I.A.,Get Money,hip-hop,B,0,274938,91.224,-5.835,0.828,0.899,0.736,0.284,0.0,0.477,0.251
+17,nyc,4PAR0Zp6Mbu3p6NKYClgBr,Interpol,NYC,dance,F,1,259733,148.646,-5.059,0.759,0.284,0.167,0.0333,0.0629,0.0133,0.11
+18,nyc,5p3JunprHCxClJjOmcLV8G,Lou Reed,Walk On the Wild Side,rock,C,1,254173,104.522,-16.729,0.318,0.385,0.575,0.109,0.000202,0.683,0.0934
+19,nyc,6ReTCbOAUbnKKVBY0ckJMS,Blossom Dearie,Manhattan,unknown,G#/Ab,1,259707,102.662,-26.111,0.0342,0.177,0.413,0.0402,0.000314,0.952,0.127
+20,nyc,3E0dHzJ1WIkm58RhJAe13n,Bobby Womack,Across 110th Street,funk&soul,B,0,224547,112.248,-7.397,0.8,0.517,0.547,0.0326,0.0,0.0765,0.0973
+21,nyc,3ABG1UQTk0eLYUAeWkmfMi,Ol' Dirty Bastard,Shimmy Shimmy Ya,hip-hop,C,1,161400,96.252,-5.183,0.481,0.193,0.814,0.245,3.83e-05,0.097,0.0495
+22,nyc,5MbXzXGbqobR8xPVPs8OXA,Simon & Garfunkel,The Only Living Boy in New York,rock,B,1,238413,76.963,-12.361,0.381,0.524,0.411,0.0286,0.257,0.13,0.132
+23,nyc,1NZs6n6hl8UuMaX0UC0YTz,Lana Del Rey,Brooklyn Baby,pop,C#/Db,1,351640,107.747,-6.698,0.664,0.0949,0.404,0.0407,0.00402,0.542,0.11
+24,nyc,4OxXBAN51tjVBEjSwuWWbv,Queen Latifah,U.N.I.T.Y.,hip-hop,E,0,250840,94.126,-11.768,0.468,0.503,0.679,0.386,1.46e-06,0.0149,0.203
+25,nyc,15HgR9Ht4obJOcMG4wregp,Slick Rick,Children's Story,hip-hop,C#/Db,1,242040,102.691,-7.293,0.577,0.7,0.904,0.132,0.0,0.125,0.115
+26,nyc,5ByAIlEEnxYdvpnezg7HTX,The Notorious B.I.G.,Juicy - 2005 Remaster,hip-hop,A,1,302760,96.063,-4.639,0.818,0.782,0.889,0.253,0.0,0.47,0.179
+27,nyc,7AzFID6u1b3zIWbd9pb8Dk,The Lovin' Spoonful,Summer in the City - Remastered,rock,A#/Bb,1,160307,110.461,-9.756,0.681,0.56,0.423,0.0398,0.000177,0.0592,0.0889
+28,nyc,4c0ecVwn17owdwpIBL07wC,Simon & Garfunkel,Bleecker Street,rock,E,1,163680,100.85,-16.215,0.238,0.479,0.414,0.0306,0.0285,0.791,0.0968
+29,nyc,6JumfGk4f9E5KLT086I75s,Bill Withers,Harlem,funk&soul,G,1,203760,113.845,-9.211,0.497,0.778,0.768,0.0429,0.0,0.0928,0.157
+30,nyc,6yjKlmm7vOszkXEUku1EM1,Billy Joel,New York State of Mind,rock,C,1,362400,121.289,-9.473,0.373,0.194,0.506,0.0347,4.05e-05,0.499,0.323
+31,nyc,6q9rNSvE59IVT3ZlEorvYb,Bob Dylan,Positively 4th Street,rock,F#/Gb,1,233533,109.392,-12.972,0.422,0.673,0.519,0.0282,0.0,0.737,0.134
+32,nyc,1JJ1W7UUTtWjwbYVDtN8RA,Laura Stevenson,"Living Room, NY",unknown,F,1,202773,132.127,-7.251,0.33,0.148,0.29,0.0329,0.0,0.726,0.126
+33,nyc,4krhCfJg0znykZoyjeMXRe,Leonard Cohen,Chelsea Hotel #2,singer-songwriter,F,1,186013,132.274,-20.178,0.0592,0.245,0.521,0.0417,0.0639,0.899,0.105
+34,nyc,76TZCvJ8GitQ2FA1q5dKu0,Simon & Garfunkel,The Boxer,rock,B,1,308520,93.017,-14.464,0.488,0.629,0.439,0.0615,0.000339,0.702,0.16
+35,nyc,0UN5OvKlbg06LnZyVk48ll,LL COOL J,Loungin (Who Do Ya Luv) - Remix,hip-hop,G,1,229373,99.947,-9.785,0.584,0.501,0.817,0.174,0.00609,0.432,0.225
+36,nyc,1Sgj10byiGzPpI2IrXSFEn,Wu-Tang Clan,"Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",hip-hop,G#/Ab,0,291067,102.011,-10.8,0.552,0.808,0.817,0.385,7.01e-06,0.0318,0.826
+37,nyc,5XLC8xoqyua4U7wJiZAWik,Wu-Tang Clan,"Method Man (feat. Method Man, Raekwon, GZA, RZA & Ghostface Killah)",hip-hop,G,1,350560,101.561,-10.109,0.519,0.596,0.903,0.307,0.000894,0.0286,0.328
+38,nyc,7IwURvEfVcdxUCjLKUu6sv,Wu-Tang Clan,"Shame On a Nigga (feat. Raekwon, Ol' Dirty Bastard & Method Man)",hip-hop,C#/Db,1,177067,100.17,-10.74,0.466,0.403,0.889,0.36,7.37e-06,0.0854,0.384
+39,nyc,2FWmKZ3kNbVsKGhuNHsltW,Ol' Dirty Bastard,Brooklyn Zoo,hip-hop,D,1,217507,92.032,-8.031,0.701,0.618,0.704,0.46,0.0,0.549,0.664
+40,nyc,6YYd5MLpu45J0uLrMdivF7,Ol' Dirty Bastard,Got Your Money (feat. Kelis),hip-hop,C#/Db,1,239547,103.04,-7.654,0.459,0.697,0.934,0.189,0.0,0.0516,0.222
+41,nyc,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,Girls Just Want to Have Fun,pop,F#/Gb,1,238267,120.372,-4.897,0.799,0.725,0.71,0.0328,0.000602,0.22,0.349
+42,nyc,7o9uu2GDtVDr9nsR7ZRN73,Cyndi Lauper,Time After Time,pop,C,1,241333,130.388,-9.206,0.449,0.294,0.726,0.0286,1.34e-06,0.487,0.0824
+43,nyc,3XVBdLihbNbxUwZosxcGuJ,Alicia Keys,If I Ain't Got You,unknown,G,1,228707,118.402,-9.129,0.444,0.166,0.609,0.106,6.86e-06,0.603,0.104
+44,nyc,68vgtRHr7iZHpzGpon6Jlo,USHER,My Boo,hip-hop,F,1,223440,86.412,-8.238,0.507,0.676,0.662,0.118,0.0,0.257,0.0465
+45,nyc,0mZ5GyrHG908lqrHaTw4hi,Alicia Keys,No One,unknown,C#/Db,0,254524,90.098,-5.423,0.552,0.152,0.641,0.0283,4.63e-06,0.027,0.148
+46,nyc,0KQx6HOpJueiSkztcS0r7D,Alicia Keys,Fallin',unknown,B,0,210200,95.986,-7.519,0.609,0.482,0.652,0.037,0.00101,0.263,0.233
+47,nyc,4h5KBcltGefua73AUPYps7,JAY-Z,Izzo (H.O.V.A.),hip-hop,C#/Db,0,240627,84.411,-4.051,0.844,0.697,0.618,0.342,0.000126,0.0178,0.0634
+48,nyc,135lkyQRwFlWfmHjJTxtld,JAY-Z,Takeover,hip-hop,D,1,313107,86.643,-5.194,0.801,0.774,0.731,0.32,0.0,0.0363,0.0844
+49,nyc,4O7oKy8YADaBrbehcPl0kE,JAY-Z,U Don't Know,hip-hop,G#/Ab,0,199440,154.957,-3.49,0.913,0.669,0.549,0.146,0.0,0.0026,0.26
+50,nyc,0vzb8Ii9B2fP9c0POFGPOZ,JAY-Z,"Girls, Girls, Girls",hip-hop,D,0,275373,83.068,-4.444,0.952,0.7,0.509,0.336,0.0,0.144,0.135
+51,nyc,0uEp9E98JB5awlA084uaIg,Ms. Lauryn Hill,Doo Wop (That Thing),unknown,D,0,320267,99.935,-8.926,0.505,0.495,0.535,0.245,0.0,0.0393,0.0923
+52,nyc,0Q0IVlqMV64kNLlwjPj0Hl,Fugees,Killing Me Softly With His Song,hip-hop,E,0,298773,92.409,-17.117,0.29,0.506,0.765,0.139,0.0,0.0279,0.571
+53,nyc,3vZO25GdYuqFrR1kzZADnp,Fugees,Ready or Not,hip-hop,A#/Bb,0,226987,130.47,-13.364,0.422,0.563,0.607,0.499,0.0,0.209,0.0839
+54,nyc,0IVAlb0cFCH1cQ974iR1TU,Mos Def,Ms. Fat Booty,hip-hop,C#/Db,1,223547,90.438,-4.827,0.589,0.869,0.782,0.189,0.0,0.148,0.164
+55,nyc,5Ru9OjtEw5htfnVKpYsIcv,Mos Def,UMI Says,hip-hop,D,1,305280,121.342,-10.224,0.67,0.566,0.72,0.132,0.0,0.305,0.0928
+56,nyc,0yd8AwPHpPb8kuSivoN1wL,Grandmaster Flash & The Furious Five,The Message (Extended Version),hip-hop,C#/Db,1,430013,100.6,-10.106,0.626,0.724,0.947,0.205,3.37e-06,0.0227,0.0853
+57,nyc,7LR85XLWw2yXqKBSI5brbG,JAY-Z,Run This Town,hip-hop,C#/Db,1,267520,86.844,-1.802,0.924,0.441,0.632,0.29,0.0,0.281,0.263
+58,nyc,1GzNGrxi4NIOKu0Z4npUss,JAY-Z,Encore,hip-hop,A#/Bb,0,250973,98.907,-1.149,0.92,0.525,0.382,0.259,0.00125,0.285,0.973
+59,nyc,7m97yKVzPpXV9Z4ezEziOD,JAY-Z,Big Pimpin',hip-hop,B,0,283067,138.083,-6.307,0.814,0.942,0.88,0.14,0.00672,0.168,0.0584
+60,nyc,25tsnA5lDP4UctAQOoa8Ks,Diddy,I'll Be Missing You,pop,G,1,306560,109.918,-5.595,0.619,0.903,0.833,0.0535,2.16e-05,0.111,0.159
+61,nyc,2eOuL8KesslTLQERQPu11D,Diddy,Bad Boy for Life,pop,C#/Db,1,253067,118.934,-3.801,0.829,0.61,0.669,0.49,0.0,0.179,0.241
+62,nyc,2g8HN35AnVGIk7B8yMucww,The Notorious B.I.G.,Big Poppa - 2005 Remaster,hip-hop,A,0,252747,84.492,-7.247,0.575,0.773,0.78,0.273,0.0,0.43,0.143
+63,nyc,4INDiWSKvqSKDEu7mh8HFz,The Notorious B.I.G.,Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,hip-hop,F#/Gb,0,257400,104.536,-4.506,0.884,0.904,0.845,0.0759,2.1e-06,0.0128,0.203
+64,nyc,5mqPg2dyqb1gBNyg9ycGcT,The Notorious B.I.G.,Party And Bullshit,hip-hop,C#/Db,0,219707,99.232,-10.066,0.704,0.811,0.672,0.312,0.0,0.173,0.139
+65,nyc,3PA9dH8cT0wR5UW4XkC44Y,The Notorious B.I.G.,Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster,hip-hop,D,1,274440,91.153,-4.32,0.871,0.912,0.711,0.294,1.69e-06,0.398,0.171
+66,nyc,4GIsskMpViPkt0uzPJTJSp,The Notorious B.I.G.,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",hip-hop,D,1,286187,106.328,-7.041,0.628,0.645,0.833,0.141,1.6e-06,0.0949,0.282
+67,nyc,2DnXXNkr3YQICQqdg9NH9F,The Notorious B.I.G.,One More Chance / Stay with Me - Remix; 2007 Remaster,hip-hop,C,1,268707,90.969,-6.037,0.681,0.704,0.755,0.217,0.0,0.149,0.127
+68,nyc,7kzKAuUzOITUauHAhoMoxA,The Strokes,Last Nite,alt-rock,C,1,193051,104.042,-5.703,0.91,0.767,0.624,0.0297,0.000198,0.0285,0.0789
+69,nyc,56NkIxSZZiMpFP5ZNSxtnT,The Strokes,Someday,alt-rock,A,1,183391,105.97,-7.481,0.531,0.671,0.542,0.0301,1.51e-06,0.0033,0.338
+70,nyc,57Xjny5yNzAcsxnusKmAfA,The Strokes,Reptilia,alt-rock,A,1,219827,158.009,-5.11,0.649,0.77,0.489,0.0336,0.713,0.000603,0.101
+71,nyc,4fPBB44eDH71YohayI4eKV,The Strokes,You Only Live Once,alt-rock,B,1,189227,120.522,-2.42,0.908,0.968,0.63,0.0326,0.592,0.0238,0.116
+72,nyc,6Yu1OL8I0D4vjOzYdsXYGK,The Strokes,12:51,alt-rock,E,1,153133,145.056,-3.838,0.889,0.592,0.451,0.0379,0.8,0.312,0.558
+73,nyc,6u0x5ad9ewHvs3z6u9Oe3c,The Strokes,Under Cover of Darkness,alt-rock,B,1,235547,199.866,-3.364,0.775,0.588,0.35,0.054,0.283,0.00433,0.0676
+74,nyc,1Jte640nBiOWyuD7N0odNZ,Albert Hammond Jr,In Transit,unknown,E,0,212680,141.01,-3.101,0.715,0.6,0.468,0.0558,0.733,0.00202,0.087
+75,nyc,11607FzqoipskTsXrwEHnJ,The Velvet Underground,Sunday Morning,alt-rock,F,0,175893,105.826,-13.268,0.442,0.532,0.506,0.0276,0.00239,0.0869,0.0846
+76,nyc,3PG7BAJG9WkmNOJOlc4uAo,The Velvet Underground,Femme Fatale,alt-rock,C,1,159000,103.918,-15.753,0.145,0.138,0.55,0.0332,0.0,0.913,0.118
+77,nyc,1o6DclZHw0HomxXEQR1ijX,The Velvet Underground,Rock & Roll - Full Length Version; 2015 Remaster,alt-rock,F,1,283000,132.526,-8.347,0.735,0.742,0.494,0.0345,3.14e-06,0.00401,0.544
+78,nyc,341b9JIDHZ3oaMVNwS0OsA,The Velvet Underground,Stephanie Says,alt-rock,C,1,169053,112.531,-20.49,0.204,0.554,0.558,0.0333,0.000709,0.851,0.129
+79,nyc,3fElupNRLRJ0tbUDahPrAb,The Velvet Underground,I'm Waiting For The Man,alt-rock,G,1,279520,125.844,-9.765,0.645,0.826,0.679,0.0442,0.868,0.032,0.152
+80,nyc,4TOMI010Sd4ZAX4aZ5TS85,Lou Reed,Perfect Day,rock,A#/Bb,1,225000,144.799,-12.488,0.267,0.0872,0.4,0.0323,0.00734,0.744,0.103
+81,nyc,5WyuRWUcOOhAic0tj9Pl28,Lou Reed,Satellite of Love,rock,F,1,221120,121.861,-10.186,0.502,0.571,0.458,0.0294,5.51e-06,0.442,0.299
+82,nyc,7G3lxTsMfSx4yarMkfgnTC,Nas,The World Is Yours,hip-hop,A#/Bb,0,290573,87.374,-6.186,0.794,0.54,0.678,0.14,1.68e-06,0.274,0.124
+83,nyc,2W58HMaCbjcUfZnZaeHtcC,Nas,Memory Lane (Sittin' in da Park),hip-hop,C,1,248213,89.564,-4.322,0.841,0.624,0.648,0.212,0.0,0.31,0.136
+84,nyc,3UYuDTslR35thjQzaVwRMe,Nas,Get Down,hip-hop,C#/Db,1,244253,94.387,-6.405,0.718,0.507,0.835,0.232,0.0,0.0424,0.258
+85,nyc,5PQmSHzWnlgG4EBuIqjac2,Nas,If I Ruled the World (Imagine That) (feat. Lauryn Hill),hip-hop,A#/Bb,0,282373,93.908,-7.682,0.564,0.523,0.879,0.247,9.43e-06,0.0474,0.0519
+86,nyc,2217fjGdGIdPpZ0zeo4z8r,Capone-N-Noreaga,Invincible,hip-hop,A,1,225200,96.704,-8.118,0.766,0.595,0.751,0.277,0.0,0.00736,0.216
+87,nyc,0WdH9jCdAkNzJi57TBxwHM,Capone-N-Noreaga,Live On Live Long,hip-hop,A#/Bb,1,290267,80.863,-5.527,0.742,0.684,0.571,0.333,8.34e-05,0.0254,0.242
+88,nyc,0TWvaty84tz0KYgJIrcMKw,Common,1999 - Street,hip-hop,G,0,255760,86.223,-8.799,0.709,0.613,0.565,0.411,0.0,0.0721,0.333
+89,nyc,2fE1hcjUxlLxXrZusTEJlq,Cam'ron,Hey Ma,unknown,G#/Ab,1,220960,90.361,-5.045,0.673,0.947,0.771,0.366,2.97e-06,0.0293,0.364
+90,nyc,4X1odWLrLSSahaK6Hi15AA,Cam'ron,Oh Boy,unknown,F#/Gb,1,204707,83.033,-5.603,0.768,0.824,0.758,0.174,0.0,0.0237,0.141
+91,nyc,67IvfvAMYQzJEeHopvwMMW,Pharoahe Monch,Simon Says,hip-hop,C#/Db,1,173159,93.134,-3.888,0.916,0.559,0.664,0.473,1.67e-05,0.17,0.164
+92,nyc,3tC8SJpOwJhDg8WGG1NKGR,Mos Def,Oh No,hip-hop,F,0,239933,87.579,-4.148,0.863,0.765,0.719,0.435,5.19e-06,0.414,0.147
+93,nyc,4bEC9WAGg0ednUtNAlgZV4,Styles P,The Life - Album Version Edit (Explicit),unknown,C,1,189427,173.913,-6.533,0.706,0.508,0.427,0.355,0.0,0.0305,0.323
+94,nyc,2Ud3deeqLAG988pfW0Kwcl,LCD Soundsystem,All My Friends,dance,D,1,462267,142.584,-5.611,0.788,0.795,0.701,0.0425,0.625,0.148,0.0977
+95,nyc,73mlvsfJM2qwlDUJxeaatI,LCD Soundsystem,Daft Punk Is Playing at My House,dance,G,1,314557,135.923,-4.555,0.914,0.974,0.92,0.0444,7.62e-05,0.0222,0.114
+96,nyc,5JOO8UMaEpOfhhatQQsAqm,LCD Soundsystem,Tribulations,dance,F#/Gb,0,299000,132.012,-5.61,0.773,0.896,0.694,0.0352,0.883,3.27e-05,0.0761
+97,nyc,2VGDntFPvgvqSiUf9ITEfW,LCD Soundsystem,Someone Great,dance,G,1,390013,113.003,-5.903,0.894,0.396,0.722,0.0325,0.00374,0.0418,0.11
+98,nyc,1bKffBd9glU944RMrWjjky,The Rapture,House Of Jealous Lovers,dance,C#/Db,1,304760,130.017,-5.017,0.735,0.774,0.73,0.0325,0.352,0.000239,0.276
+99,nyc,2WRFD9WczJ975X2K1Y9YVs,Yeah Yeah Yeahs,Heads Will Roll,dance,G#/Ab,0,221000,132.009,-4.46,0.903,0.791,0.562,0.0296,0.0939,0.000187,0.298
+100,nyc,0hDQV9X1Da5JrwhK8gu86p,Yeah Yeah Yeahs,Maps,dance,G,1,219987,119.783,-5.194,0.941,0.124,0.502,0.0716,0.319,0.000346,0.553
+101,nyc,6tuiDRFaXOBqFLpeTBjAAn,Yeah Yeah Yeahs,Gold Lion,dance,A,1,187133,158.744,-3.348,0.855,0.257,0.521,0.0686,5.54e-06,0.0223,0.0869
+102,nyc,4lgDZcisljVlutaku19eqV,David Morales,David Morales - Needin U - Radio Edit,house,C,1,229933,130.025,-5.831,0.979,0.693,0.596,0.0423,0.781,0.000391,0.259
+103,nyc,7xzUCU3C8u00W09DDFRQUF,CeCe Peniston,"Finally - 7"" Choice Mix",house,B,0,251933,120.106,-9.593,0.703,0.847,0.76,0.0335,1.49e-05,0.00173,0.0682
+104,nyc,4V2i4mCnjqWGXPJsNc8Rm8,Kerri Chandler,Rain - Mood EP Version,deep-house,F#/Gb,1,471947,125.065,-13.119,0.663,0.631,0.861,0.0896,0.369,0.00327,0.0783
+105,nyc,586ipzQlSCyAyY1pvFthWT,RiskSoundSystem,The Sound Is Yours - Kerri Chandler Remix,unknown,C#/Db,1,503041,126.008,-8.916,0.533,0.536,0.805,0.0579,0.582,9.58e-05,0.105
+106,nyc,5ZSUniBOPgjWnqlDnduHQQ,Kerri Chandler,I Feel It,deep-house,D#/Eb,0,368013,127.265,-13.298,0.559,0.397,0.795,0.0399,0.892,0.000766,0.0788
+107,nyc,6fIuAfvlas2lhsMiHDT6PF,Masters At Work,To Be In Love - MAW '99 Mix,house,A#/Bb,0,714600,121.776,-7.979,0.944,0.919,0.82,0.0489,0.705,0.00335,0.065
+108,nyc,6nPChiSCEFvG5QwtXKJiW5,Masters At Work,Backfired - Joey Negro Club Mix,house,A,0,517920,127.5,-5.38,0.876,0.828,0.723,0.0492,0.103,0.0056,0.0465
+109,nyc,1waLmkUyMq0M5ACmf5SG7q,Everything But The Girl,Missing - Todd Terry Remix,pop,A,0,236293,123.488,-9.389,0.721,0.646,0.723,0.0301,0.0108,0.0249,0.0545
+110,nyc,5JsIQ66sNFViii1ECZvtUp,Riva Starr,This Is The Sound,deep-house,A,0,192402,125.995,-4.649,0.967,0.431,0.771,0.188,0.227,0.0245,0.371
+111,nyc,2YTLaMmFXuwbcCTym7Z3vz,M&S,Salsoul Nugget (If You Wanna) [20th Anniversary Radio Version],unknown,B,0,206275,127.996,-2.381,0.975,0.93,0.738,0.0548,1.59e-05,0.0024,0.0264
+112,nyc,0o70eCpztLfuz0tgWhvO2p,M&S,Salsoul Nugget (If You Wanna) [Mark Knight Remix],unknown,B,1,236613,124.026,-3.42,0.97,0.824,0.683,0.177,1.02e-06,0.012,0.0532
+113,nyc,6kkYig32HNW5dRXLlmgqNn,Loleatta Holloway,"Love Sensation (Shep Pettibone 12"" Mix)",disco,A,0,466708,116.695,-8.363,0.699,0.752,0.741,0.0352,0.0449,0.00992,0.123
+114,nyc,3YoqxFazvF2dJe1mKcIpPl,Double Exposure,"My Love Is Free (Tom Moulton 12"" Mix)",unknown,C#/Db,1,581868,114.193,-9.271,0.752,0.952,0.716,0.0321,0.0247,0.0163,0.0588
+115,nyc,6MQFHNbgQHXI2qtvhkmkIu,Candido,"Jingo (Todd Terry Classic 12"" Remix)",unknown,F,0,631220,121.849,-7.812,0.782,0.541,0.777,0.0421,0.786,0.00168,0.544
+116,nyc,0d7LwOxiIJWGqOLZxUqM8W,Aurra,"Such A Feeling (Shep Pettibone 12"" Mix)",unknown,C#/Db,1,390976,110.699,-6.252,0.81,0.754,0.766,0.0579,0.00105,0.0116,0.0981
+117,nyc,1fbGdcEZPSABWaMjKpsVaG,Love Committee,Just As Long As I Got You (Dimitri From Paris ReEdit),unknown,G,1,392613,125.016,-6.392,0.903,0.687,0.608,0.106,0.105,0.00118,0.146
+118,nyc,5efm75Tl4bpjougYvkJxNo,The Salsoul Orchestra,You're Just The Right Size (John Morales M&M Mix),disco,G,0,595680,115.859,-9.708,0.766,0.539,0.738,0.0414,0.858,0.000914,0.0538
+119,nyc,5iNTasgU96WOGlacz778X1,Instant Funk,Bodyshine (Larry Levan Remix),disco,A,1,361594,119.63,-10.104,0.645,0.699,0.849,0.154,0.000505,0.0317,0.847
+120,nyc,59um6FQE3lrzfZjGKYwttx,Loleatta Holloway,"Dreamin (12"" Disco Version)",disco,C#/Db,0,533236,118.22,-8.392,0.85,0.861,0.695,0.0673,0.000627,0.0372,0.0541
+121,nyc,3Ti0GdlrotgwsAVBBugv0I,A Tribe Called Quest,Can I Kick It?,hip-hop,C,1,251573,96.662,-6.547,0.666,0.744,0.848,0.274,0.000699,0.173,0.129
+122,nyc,1dGKYIP6CU12lPqbUi04oC,Nuyorican Soul,The Nervous Track - Ballsy Mix Remastered,unknown,B,0,387178,122.79,-8.005,0.851,0.418,0.709,0.0537,0.858,0.0174,0.105
+123,nyc,68STzqLzJNgY1aYrnVbIBo,Loni Clark,Rushin' - Mood II Swing Dub Remastered,unknown,A,1,473005,122.974,-7.07,0.852,0.524,0.812,0.0435,0.0635,0.016,0.0819
+124,nyc,61QEiMW9MA4id2jXpFzTiq,Swing Kids,Good Feeling - TNT Bonus Beats Remastered,emo,A,1,297274,123.857,-7.191,0.995,0.856,0.802,0.0502,0.925,0.00193,0.118
+125,nyc,2P5eVS4iQOg3pagAeuBbpB,Joe T Vannelli,Play With The Voice (feat. Csilla) - MAW In Your Face Mix Remastered,unknown,B,1,580393,120.806,-7.72,0.857,0.501,0.803,0.0526,0.826,0.0163,0.131
+126,nyc,4YTKFT1pI7ZQXKpI6twgfc,Classic Man,Rapid Winds - Remastered,unknown,C,0,348001,125.333,-9.666,0.645,0.481,0.792,0.0498,0.818,0.0439,0.124
+127,nyc,6dQdvxqOiLemHzrEUXQ4zz,Terrence Parker,Somethin' Here - Original Mix,deep-house,E,1,311787,130.082,-8.971,0.596,0.881,0.979,0.127,0.706,0.252,0.0687
+128,nyc,6khiPXapuKJt8npyZXhL0Q,Terrence Parker,Love's Got Me High - Marc Romboy's Systematic Soul Mix,deep-house,B,0,401118,117.995,-9.536,0.587,0.822,0.838,0.0493,0.0288,0.0252,0.042
+129,nyc,7DpBiD7EvY1OM7Imya0e45,Terrence Parker,Twisted Disco 77 - Original Mix,deep-house,A,1,448610,125.021,-7.935,0.871,0.886,0.848,0.0532,0.904,0.00581,0.0481
+130,nyc,7BpyfQEmvi0sUmOq29plEE,Armand Van Helden,You Don't Know Me (feat. Duane Harden) - Radio Edit,trip-hop,A#/Bb,1,242333,129.978,-6.919,0.682,0.868,0.772,0.0701,0.00285,0.0461,0.0672
+131,nyc,653rxW1E7V52QWh6a7oIdS,Armand Van Helden,My My My,trip-hop,G,1,182267,127.533,-8.207,0.733,0.744,0.652,0.246,0.00867,0.00672,0.0392
+132,nyc,0MT7RXj7XwkyvA0e05fgo6,Tori Amos,Professional Widow - Armand's Star Trunk Funkin' Mix; Radio Edit; 2016 Remaster,unknown,G,1,229240,128.051,-7.899,0.912,0.621,0.708,0.0369,0.000861,0.00139,0.455
+133,nyc,3egL3Vnd8iNRpkytmn5Zl2,Armand Van Helden,The Funk Phenomena,trip-hop,C#/Db,0,417200,127.013,-8.057,0.509,0.485,0.929,0.116,0.934,0.00597,0.108
+134,nyc,1Nh0JTF8ifJGNRgqHzsymO,Armand Van Helden,Brooklyn Beats,trip-hop,C#/Db,1,394160,129.807,-7.516,0.821,0.223,0.36,0.0564,0.21,0.000123,0.0634
+135,nyc,4qO03RMQm88DdpTJcxlglY,Blondie,Call Me,unknown,D,0,212600,142.669,-6.711,0.825,0.74,0.56,0.0347,0.00246,0.000785,0.0892
+136,nyc,4cQJ27R11K634x5qCOwKW5,Blondie,One Way Or Another - Remastered 2001,unknown,D,1,215107,162.487,-5.4,0.914,0.904,0.45,0.0607,1.42e-05,0.0305,0.152
+137,nyc,2HhBmnL8kVYaevaaCsnMVB,Blondie,Heart Of Glass - Remix,unknown,E,1,249733,114.685,-5.053,0.809,0.492,0.654,0.0417,0.0143,0.00147,0.123
+138,nyc,7bOYOD0d7ByMTXvJnQVl8d,Blondie,Maria,unknown,A,1,249427,159.654,-6.926,0.8,0.805,0.548,0.0597,0.00255,0.038,0.0678
+139,nyc,5QIbR39hAEDIOkr4ggh4xc,Blondie,Atomic,unknown,E,0,280324,135.171,-4.893,0.824,0.786,0.596,0.0361,0.129,0.0504,0.0586
+140,nyc,0KBvapFwuz8gPKu6Gw23WN,Ella Fitzgerald,Dream A Little Dream Of Me,other,C,1,187693,95.261,-13.706,0.154,0.36,0.491,0.0839,0.0,0.916,0.163
+141,nyc,5TNpCThzzXHEipXGKgNG8T,Ella Fitzgerald,Cheek To Cheek,other,C,1,353267,121.999,-13.4,0.31,0.665,0.655,0.0866,0.0,0.573,0.119
+142,nyc,2U3ENhffoGzWcoYoR0U4Lm,Ella Fitzgerald,They Can't Take That Away From Me,other,D#/Eb,1,279733,104.723,-15.313,0.185,0.38,0.555,0.0822,0.0,0.592,0.105
+143,nyc,5hByDDVyr6pfRAutehCAYa,Ella Fitzgerald,Night And Day,other,G#/Ab,1,186040,116.909,-14.624,0.202,0.406,0.442,0.0501,0.0,0.742,0.0641
+144,nyc,6aBUnkXuCEQQHAlTokv9or,Talking Heads,This Must Be the Place (Naive Melody) - 2005 Remaster,alt-rock,G,1,296147,114.443,-10.15,0.641,0.966,0.942,0.0333,0.179,0.331,0.028
+145,nyc,1Tr4K5MU5XYE44umXGDndd,Talking Heads,Once in a Lifetime,alt-rock,D,1,259600,116.916,-7.753,0.88,0.802,0.646,0.0637,0.157,0.0623,0.355
+146,nyc,1i6N76fftMZhijOzFQ5ZtL,Talking Heads,Psycho Killer - 2005 Remaster,alt-rock,D,1,261413,123.118,-8.123,0.521,0.942,0.721,0.0613,0.00545,0.0708,0.127
+147,nyc,0WIbzDVEpmOyBnqqdtqIL9,Sonic Youth,Teen Age Riot (Album Version),alt-rock,G,1,417800,156.395,-9.67,0.907,0.746,0.286,0.0374,0.202,0.000277,0.0837
+148,nyc,5Ext9ObPEi7wIcv5AiQWJy,Sonic Youth,Superstar,alt-rock,F,0,246000,84.563,-9.137,0.498,0.141,0.317,0.0315,0.306,0.0515,0.121
+149,nyc,2130bdqVxDQkl12bycywes,Sonic Youth,Incinerate,alt-rock,G#/Ab,1,295813,151.759,-8.05,0.854,0.474,0.446,0.0342,0.615,0.084,0.139
+150,nyc,4AwKXevZmsTNa3KZVj3rzl,New York Dolls,Personality Crisis,alt-rock,G,1,221507,155.588,-9.594,0.914,0.685,0.429,0.0505,9.26e-05,0.0321,0.436
+151,nyc,2OQS3xvoKKSayJMJT8dVuZ,New York Dolls,Trash,alt-rock,G,1,188307,112.99,-9.255,0.698,0.85,0.478,0.0321,0.0,0.00114,0.191
+152,nyc,0EvHaC4YFOFxeDMYXK2QFk,New York Dolls,Pills,alt-rock,A,1,167840,142.788,-9.925,0.912,0.835,0.389,0.0487,0.0,0.0201,0.395
+153,nyc,0Puj4YlTm6xNzDDADXHMI9,Beastie Boys,Sabotage,alt-rock,F#/Gb,0,178440,168.131,-7.332,0.938,0.543,0.324,0.102,0.0321,0.032,0.0961
+154,nyc,5fpizYGbi5IQoEraj6FP0R,Beastie Boys,Intergalactic - Remastered 2009,alt-rock,D,1,231493,105.932,-6.119,0.864,0.47,0.734,0.303,9.85e-06,0.022,0.246
+155,nyc,21REQ1bCUWphT2QK3bLWYQ,Beastie Boys,Sure Shot,alt-rock,C#/Db,1,199667,97.978,-7.924,0.799,0.549,0.692,0.164,0.0,0.388,0.301
+156,nyc,5NLuC70kZQv8q34QyQa1DP,Beastie Boys,Fight For Your Right,alt-rock,G#/Ab,1,208653,133.615,-6.296,0.858,0.419,0.503,0.0657,0.00234,0.00757,0.0803
+157,nyc,3ZQqzOCuHqJQqqEH8KB282,Beastie Boys,Body Movin' - Fatboy Slim Remix/Remastered 2009,alt-rock,F#/Gb,1,332653,101.814,-5.309,0.958,0.766,0.68,0.0922,0.0,0.0279,0.139
+158,nyc,10FLYqpqDN4uo6eWtD6WEB,Beastie Boys,I Don't Know - Remastered 2009,alt-rock,C,1,180373,114.024,-15.172,0.406,0.96,0.869,0.0662,0.903,0.447,0.0713
+159,nyc,7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,hip-hop,F#/Gb,0,193467,90.051,-2.752,0.713,0.777,0.899,0.366,0.0,0.255,0.0708
+160,nyc,3glQOWRCAQIrCnQhWBEFSL,Sonny Rollins,In A Sentimental Mood,unknown,F,1,197893,127.035,-15.724,0.149,0.467,0.51,0.0417,0.474,0.934,0.141
+161,nyc,38R2EViAkYOFG8ZkG3GLtW,Dizzy Gillespie,On The Sunny Side Of The Street,unknown,C,1,342891,120.235,-11.511,0.352,0.396,0.671,0.0556,0.000141,0.532,0.11
+162,nyc,0zQE77yszbyv61M4NboU2u,Sonny Rollins,St. Thomas,unknown,C,1,406267,104.96,-8.435,0.607,0.754,0.541,0.0438,0.442,0.727,0.0997
+163,nyc,7DUGRxCf9NFJffb5Eei8Ar,Sonny Rollins,God Bless the Child,unknown,D,1,447560,102.074,-18.071,0.0421,0.172,0.493,0.0347,0.173,0.913,0.0777
+164,nyc,4rmCI9VWrwrJTJ8XQ80BMN,Duke Ellington,My Little Brown Book,unknown,C,0,319733,70.334,-13.497,0.187,0.217,0.372,0.0323,0.139,0.942,0.161
+165,nyc,6aQjtWVOYLhaatELyPBt12,Duke Ellington,The Feeling Of Jazz,unknown,A#/Bb,0,329987,103.379,-10.633,0.389,0.422,0.467,0.0305,0.0,0.48,0.0835
+166,nyc,4M5Mnz9ORqaMMUAgKtv3bI,Louis Armstrong,It Don't Mean a Thing (If It Ain't Got That Swing),other,G,0,240040,96.247,-13.247,0.226,0.545,0.714,0.197,0.0255,0.543,0.593
+167,nyc,2pKi1lRvXNASy7ybeQIDTy,The Moldy Peaches,Anyone Else But You,other,G,1,180093,145.856,-12.535,0.237,0.58,0.521,0.051,0.0,0.923,0.144
+168,nyc,4Lmc9oH7ZDw4USlqNBXXH1,The Moldy Peaches,Nyc's Like A Graveyard,other,G#/Ab,1,195267,131.831,-1.735,0.994,0.252,0.383,0.215,0.000272,0.29,0.742
+169,nyc,4CU6WHrOTupJ6XgeYAAeCO,The Crystals,Uptown,unknown,C,1,140759,112.623,-7.875,0.699,0.785,0.665,0.0302,0.000151,0.372,0.146
+170,nyc,7fPYtjrhiuhW9XVUqwX9ww,3rd Bass,Brooklyn-Queens,hip-hop,F,0,217440,112.793,-7.745,0.923,0.668,0.776,0.232,0.0,0.194,0.101
+171,nyc,4KcH1ZRV2W1q7Flq0QqC76,Ramones,Blitzkrieg Bop - 2016 Remaster,alt-rock,A,1,134467,176.701,-2.533,0.783,0.902,0.385,0.233,0.47,0.000269,0.108
+172,nyc,5NoQvINZLBV1wMYPdNmReL,Ramones,I Wanna Be Sedated,alt-rock,B,1,149787,162.825,-2.341,0.965,0.964,0.56,0.0409,6.23e-06,0.121,0.169
+173,nyc,61MZN0yyMWSEwrLPUUGfgJ,Ramones,Sheena Is a Punk Rocker - 2017 Remaster,alt-rock,C,1,169920,176.243,-1.986,0.965,0.846,0.42,0.0403,0.000335,0.0981,0.0784
+174,nyc,2HZGsnMByx3V8KmNW6LqWF,Ramones,Rockaway Beach - 2017 Remaster,alt-rock,D,1,126453,187.415,-2.469,0.921,0.895,0.426,0.0529,1.38e-06,0.000793,0.169
+175,nyc,46Dzn00y81UKdgKE73dSdG,Barry Manilow,New York City Rhythm,other,A,0,282400,126.172,-8.501,0.912,0.783,0.648,0.0423,0.0147,0.356,0.0818
+176,nyc,2HjK6maq4kqxoUnufCdRbP,Glenn Miller,Pennsylvania 6-5000,other,C#/Db,1,196267,146.046,-8.826,0.348,0.56,0.721,0.186,0.843,0.825,0.221
+177,nyc,1skF7P66ZBQo43Z13aSYK1,Gil Scott-Heron,New York Is Killing Me,afrobeat,C,1,269920,103.02,-6.434,0.882,0.765,0.887,0.229,0.243,0.162,0.197
+178,nyc,7IXPMjyqY7J3vjCKMQWjIm,Gil Scott-Heron,I'm New Here,afrobeat,D,1,206800,141.964,-10.875,0.521,0.386,0.419,0.247,0.146,0.0366,0.0923
+179,nyc,3pacfC2tJMJsrKk2baf5Bn,Gil Scott-Heron,NY Is Killing Me,afrobeat,B,0,343867,140.024,-9.098,0.559,0.15,0.791,0.136,0.0187,0.00698,0.0794
+180,nyc,2SelIoNf0P0QrHMQnSEX8q,Run–D.M.C.,"Walk This Way (feat. Aerosmith) - 7"" Single Version",hip-hop,E,0,218133,105.672,-7.497,0.722,0.962,0.777,0.0595,0.000226,0.00726,0.0871
+181,nyc,6jBCehpNMkwFVF3dz4nLIW,Run–D.M.C.,It's Tricky,hip-hop,B,0,183760,127.656,-8.458,0.857,0.951,0.965,0.17,0.0,0.00131,0.0726
+182,nyc,0CtkjgZpkgnW7U6WmHsakD,Run–D.M.C.,It's Like That,hip-hop,G,1,250627,129.029,-11.208,0.874,0.666,0.852,0.0427,0.45,0.0168,0.133
+183,nyc,6LdpVTJzigyi2vbKe8mZAr,Run–D.M.C.,My Adidas,hip-hop,C#/Db,1,167880,95.263,-8.508,0.907,0.757,0.83,0.2,0.0,0.000867,0.358
+184,nyc,0dOg1ySSI7NkpAe89Zo0b9,Bruce Springsteen,Born in the U.S.A.,rock,E,1,278680,122.093,-6.042,0.952,0.584,0.398,0.061,7.75e-05,0.000373,0.1
+185,nyc,7FwBtcecmlpc1sLySPXeGE,Bruce Springsteen,Dancing In the Dark,rock,C#/Db,0,241307,148.723,-5.64,0.942,0.495,0.527,0.0366,0.0,0.0115,0.188
+186,nyc,1KsI8NEeAna8ZIdojI3FiT,Bruce Springsteen,Hungry Heart,rock,G#/Ab,1,199453,109.823,-7.41,0.894,0.972,0.641,0.0273,0.009,0.0857,0.157
+187,nyc,4WhKZ19P37JyoZwMbzuhJB,Nina Hagen & Karl Rucker,New York New York,unknown,F,1,379038,102.302,-10.088,0.669,0.609,0.556,0.0491,0.0,0.0419,0.969
+188,nyc,2FiO4PxNAYZImLfnWkBgo5,Boogie Down Productions,South Bronx,hip-hop,A,0,310560,95.878,-8.622,0.473,0.595,0.92,0.401,0.0,0.279,0.129
+189,nyc,7pb9gOx7XsGQwpZlU5p6LF,Mc Shan,The Bridge,hip-hop,G#/Ab,1,264382,193.037,-5.234,0.79,0.652,0.707,0.428,0.0,0.0281,0.306
+190,nyc,2pL9xr4Mznff997e4jcoos,The Magnetic Fields,The Luckiest Guy on the Lower East Side,alt-rock,B,1,223333,78.808,-5.683,0.843,0.42,0.489,0.0699,4.52e-06,0.32,0.045
+191,nyc,13F6TibfKkdihGo7Ff0D9q,Bill Withers,Harlem,funk&soul,G,1,201827,113.785,-8.733,0.509,0.795,0.776,0.0443,0.0,0.0959,0.199
+192,nyc,36mQppVbceVihfSwXNc10Q,Odyssey,Native New Yorker (Radio Edit),disco,G,0,209613,108.554,-5.976,0.925,0.643,0.551,0.128,0.000514,0.061,0.701
+193,nyc,2pWvUnb3TEovY7GidyqxuM,JAY-Z,Brooklyn's Finest,hip-hop,C#/Db,1,276827,191.948,-9.813,0.68,0.731,0.517,0.505,0.0,0.127,0.0805
+194,nyc,4DYXr1qDWh2B064SO2NSe5,Jeffrey Lewis,Williamsburg Will Oldham Horror,other,D,1,348387,143.27,-13.168,0.553,0.815,0.357,0.0819,0.0,0.656,0.167
+195,nyc,0xbkxTqSaW5blsYgRXpB5I,Tom Browne,Funkin' for Jamaica,disco,G#/Ab,1,280933,111.212,-9.85,0.776,0.656,0.854,0.217,0.175,0.436,0.0549
+196,nyc,6WQeGbfBYkZetAp04VxVpS,Bob & Earl,Harlem Shuffle,funk&soul,F,1,174373,116.547,-5.487,0.836,0.701,0.613,0.0357,0.0025,0.429,0.0474
+197,nyc,0JrhHX7zHhkgDIfk3ZHkhm,Leonard Bernstein,"On The Town: Opening: New York, New York",unknown,C,1,687067,70.794,-16.751,0.299,0.34,0.354,0.102,0.00401,0.84,0.182
+198,nyc,2wo8Men672j3Krmawc7Gni,Nat King Cole,Harlem Blues,other,G,1,110520,147.589,-8.053,0.371,0.53,0.492,0.0487,4e-06,0.811,0.103
+199,nyc,5g4cz7u4MrUTKDdo1TmABo,The Strokes,New York City Cops,alt-rock,C,1,211360,107.967,-7.679,0.855,0.486,0.523,0.0371,3.34e-05,0.0749,0.327
+200,nyc,1X6dRpq3Wi6Jxthi8ZBBBz,Bob Dylan,Talkin' New York,rock,G,1,197653,123.9,-7.755,0.443,0.766,0.52,0.0399,0.00104,0.811,0.0489
+201,nyc,2MccdQeGGfjm2oOEacOjUR,Ella Fitzgerald,Manhattan,other,A#/Bb,1,172400,55.005,-8.882,0.311,0.392,0.321,0.0418,0.0,0.898,0.136
+202,nyc,4ZOyH6KjomjlqCz3oFqglr,Jennifer Lopez,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,pop,F#/Gb,1,187840,100.002,-5.46,0.754,0.961,0.844,0.207,3.42e-06,0.00833,0.0575
+203,nyc,7f9sC9fvtjYSZYOLSmKJlq,Suzanne Vega,Tom's Diner,unknown,F#/Gb,0,228307,99.144,-12.264,0.439,0.725,0.86,0.0495,0.0147,0.0204,0.0465
+204,nyc,5h6GtBMMb29l3EsbegykTD,Simon & Garfunkel,The Only Living Boy in New York,rock,B,1,237373,76.954,-9.299,0.467,0.476,0.41,0.0287,0.282,0.151,0.225
+205,nyc,3utG7uK9ERDILMsIQwJRHb,New York Dolls,Subway Train,alt-rock,D,1,260227,125.163,-9.738,0.708,0.664,0.337,0.0329,0.000184,0.00444,0.163
+206,nyc,5MRISjH5TBU1HBzsfkt11X,Nas,N.Y. State of Mind,hip-hop,B,0,292000,168.887,-4.967,0.901,0.891,0.634,0.261,0.0,0.0303,0.221
+207,nyc,2DrGEaqoruCSn0FffWCf5O,Vampire Weekend,A-Punk,pop,D,1,137760,174.917,-4.489,0.819,0.846,0.551,0.0525,0.0437,0.0103,0.153
+208,nyc,0fm7XBmG1UfrJX6DV4pcCP,Simon & Garfunkel,The 59th Street Bridge Song (Feelin' Groovy),rock,D#/Eb,1,113400,75.504,-15.024,0.356,0.734,0.445,0.0606,0.0133,0.785,0.339
+209,nyc,5G0q5jtbxFCoqfbIDCIGky,Joni Mitchell,Chelsea Morning,singer-songwriter,E,1,151600,88.361,-8.849,0.35,0.781,0.57,0.0288,0.0,0.855,0.186
+210,nyc,3uCkIqD0VzQUijbs8WIizs,Nico,These Days,unknown,F,1,210653,93.091,-17.638,0.13,0.213,0.401,0.0312,0.305,0.989,0.101
+211,nyc,1mU0es3QUBRAxKkYvTANpG,LL COOL J,Doin' It,hip-hop,A#/Bb,0,293933,95.015,-11.444,0.538,0.615,0.805,0.205,0.0327,0.357,0.112
+212,nyc,2oFxITGDiTZ1JRwP8yinRt,George Benson,On Broadway,unknown,A#/Bb,0,316160,117.232,-17.098,0.319,0.863,0.77,0.0579,0.000151,0.205,0.0687
+213,nyc,5DuTNKFEjJIySAyJH1yNDU,Grandmaster Flash & The Furious Five,The Message (feat. Melle Mel & Duke Bootee),hip-hop,A#/Bb,0,431800,100.619,-10.58,0.607,0.732,0.947,0.202,4.76e-06,0.0249,0.0861
+214,nyc,7H7NyZ3G075GqPx2evsfeb,Mac DeMarco,Chamber Of Reflection,unknown,B,1,231724,131.03,-8.678,0.557,0.506,0.538,0.0914,0.914,0.262,0.102
+215,nyc,6jgkEbmQ2F2onEqsEhiliL,Mac DeMarco,My Kind of Woman,unknown,F#/Gb,0,190846,91.771,-7.063,0.765,0.46,0.501,0.0281,0.49,0.00294,0.184
+216,nyc,7EAMXbLcL0qXmciM5SwMh2,Mac DeMarco,Heart To Heart,unknown,G#/Ab,0,211140,150.076,-16.127,0.136,0.643,0.901,0.102,0.354,0.667,0.109
+217,nyc,2aaCNg42RA74s0EmHTBqS7,Mac DeMarco,No Other Heart,unknown,D,1,173118,94.261,-7.47,0.684,0.852,0.67,0.0242,0.0103,0.513,0.126
+218,nyc,5VdaMUzoQetwxQwtWAd022,Mac DeMarco,Salad Days,unknown,F,1,145893,201.002,-7.176,0.771,0.772,0.431,0.0375,0.0214,0.0877,0.121
+219,nyc,6drC7tBnx8AiYfTfBmDPVO,Mac DeMarco,Blue Boy,unknown,A#/Bb,1,126224,162.742,-5.848,0.793,0.601,0.41,0.0576,0.29,0.446,0.213
+220,nyc,6fAtSHrf4b6L0cZmN8NLEF,JAY-Z,Anything - Album Version (Edited),hip-hop,A#/Bb,1,286960,81.411,-6.098,0.745,0.903,0.804,0.232,0.0049,0.0753,0.0555
+221,nyc,1WWaZxc7Jw0MIcehfMPeEU,Junior M.A.F.I.A.,Get Money,hardcore,B,0,274938,91.224,-5.835,0.828,0.899,0.736,0.284,0.0,0.477,0.251
+222,nyc,5FHXxdJeq1iAE9PjDTEgyd,Nas,The World Is Yours,hardcore,A#/Bb,0,290573,87.374,-6.186,0.794,0.54,0.678,0.14,1.68e-06,0.274,0.124
+223,nyc,1SyPxbha0JsqwaR7gyqyEf,Graham Nash,Sleep Song [1969 Demo],singer-songwriter,D,0,181160,100.029,-18.816,0.0954,0.36,0.543,0.029,0.0759,0.928,0.109
+224,nyc,3DmjKZQbyke2cUK9Tnd3Ws,Andy Shauf,Long Throw,folk,D#/Eb,1,204880,81.935,-16.125,0.146,0.313,0.518,0.03,0.216,0.917,0.113
+225,nyc,0LMquqGldfJIP3GCCw3jxd,Findlay Brown,Mountain Falls for the Sea,folk,D#/Eb,1,187400,94.239,-17.703,0.111,0.477,0.456,0.0315,0.14,0.919,0.129
+226,nyc,3dNjaGlLetcCrUegKFnN2v,Simon & Garfunkel,The Only Living Boy in New York,folk,B,1,237547,76.944,-12.892,0.358,0.48,0.409,0.0297,0.395,0.139,0.242
+227,nyc,4zG4YJtEbzniGe26uCqCXZ,Geraldo Azevedo,Carranca Que Chora,samba,E,1,199680,94.503,-14.754,0.182,0.258,0.554,0.0327,0.0811,0.941,0.105
+228,nyc,3YVlexRfSOJem8z7AC5wgJ,Caetano Veloso,Quando o galo cantou,samba,C,1,226253,80.099,-17.009,0.113,0.231,0.516,0.0789,0.0552,0.911,0.111
+229,nyc,6fC5Xz6sRIAgnOIbZbuP5h,Claudia Gomez,Soltarlo,jazz,A,1,166933,101.095,-16.149,0.115,0.422,0.554,0.0611,0.0,0.923,0.106
+230,nyc,7jnwjKdSeUyd6bW7ceK2DE,John Pizzarelli,Warm And Beautiful,guitar,G#/Ab,1,213253,69.014,-14.692,0.183,0.299,0.452,0.0312,0.0295,0.907,0.11
+231,nyc,4qDe4b7jUDIq4WvKiUdLam,Steven Pasquale,Count Your Blessings Instead of Sheep,other,G,0,219693,95.133,-18.42,0.101,0.258,0.435,0.0565,0.217,0.924,0.108
+232,nyc,5xpLfHAxYQisDGkHkyTQ7B,Joshua Radin,Winter (Piano Version),acoustic,D#/Eb,1,214080,83.892,-13.868,0.147,0.259,0.419,0.029,0.019,0.941,0.109
+233,nyc,3iBUUXZpZWVkiyMjDWWQTz,Madeleine Peyroux,(Looking For) The Heart Of Saturday Night,jazz,G,1,207000,83.394,-16.379,0.239,0.225,0.453,0.0315,0.0745,0.917,0.127
+234,nyc,2h2ZVuJv23P2PtFAsU40YU,Vanessa Paradis,When I Say,french,F#/Gb,0,237200,92.743,-17.828,0.148,0.243,0.494,0.0318,0.185,0.917,0.0958
+235,nyc,0tOl60g1kqYq1RYh6up0Kp,Ibrahim Maalouf,Doubts,french,F,1,211267,102.656,-16.774,0.177,0.367,0.393,0.0301,0.389,0.956,0.111
+236,nyc,5HFU9aWK2iDXvsZkbdvzJn,AMAN,Ho Kahan,indian,F#/Gb,1,172748,70.068,-15.422,0.14,0.292,0.441,0.0291,0.0168,0.922,0.133
+237,nyc,7IN9NfKvZjYh5w8H4LtrMa,Shawn Colvin,I'll Say I'm Sorry Now,folk,C,1,141467,107.055,-14.604,0.0719,0.388,0.495,0.0556,0.0,0.925,0.121
+238,nyc,7E6cKQcGpPqsr3eqnpnw0C,Snoop Dogg,Set It Off,funk&soul,E,0,277227,90.068,-5.15,0.87,0.631,0.751,0.392,0.0,0.393,0.322
+239,nyc,6w9mwC8iSUUb5SpqNVknMJ,JJ Heller,Better Together (Instrumental),acoustic,C,1,209920,97.019,-15.011,0.229,0.325,0.485,0.0271,0.318,0.879,0.177
+240,nyc,0FNPiAAdWdWaGr7JOnlKmi,Snoop Dogg,Imagine,funk&soul,F#/Gb,0,282187,87.105,-3.787,0.627,0.638,0.803,0.443,0.0,0.286,0.248
+241,nyc,3wzcuRBadP0slbGBMIT8I3,The Notorious B.I.G.,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm)",hardcore,D,1,286173,106.335,-7.119,0.624,0.647,0.835,0.139,2.89e-06,0.0955,0.281
+242,nyc,5q3HZqXMNtCLwVIi1cFkkv,Hayley Westenra,Twinkle Twinkle,classical,D,1,227880,101.208,-16.82,0.157,0.203,0.451,0.0308,0.00659,0.906,0.0991
+243,nyc,0HZGmJRm3g5LTXVSeqYErg,Marti West,Runaway,goth,A#/Bb,1,218104,93.849,-15.238,0.299,0.251,0.423,0.0309,0.0626,0.84,0.108
+244,nyc,1vNfYCzcCJz0FY7MVVA9lM,Shannon Lay,Recording 15,folk,B,1,242000,92.441,-18.014,0.126,0.439,0.552,0.0306,0.0153,0.956,0.109
+245,nyc,3W94iM6yOVud54J9XRhTxd,Giacomo Meyerbeer,"6 Canzonettes italiennes: No. 3, Giura il nocchier",classical,D,1,113520,117.333,-15.833,0.153,0.39,0.502,0.0574,4.77e-06,0.968,0.108
+246,nyc,7f9PzFBBkEzDD1pH9Oa29z,Noah Gundersen,Alright,acoustic,G,1,194120,77.354,-18.485,0.0934,0.327,0.47,0.0343,0.032,0.913,0.116
+247,nyc,37W2sGkkGyXbEI52mezMOq,Dycr,The Barber,dub,B,0,252242,88.016,-2.604,0.91,0.923,0.65,0.222,0.0,0.548,0.256
+248,nyc,7HkA2ZE7u2IIp8LPvr1i1o,Tomaso Albinoni,"Sonata In G Minor For Violin And Continuo, So 33: Sarabanda: Allegretto",classical,G,0,62360,100.532,-18.722,0.102,0.591,0.486,0.0544,2.28e-06,0.917,0.137
+249,nyc,26LgkRj0GLm2yZrwPFsVug,Tom Rosenthal,Buried The Day,singer-songwriter,A#/Bb,1,212362,94.724,-13.821,0.105,0.278,0.396,0.0342,0.158,0.939,0.107
+250,nyc,72Cd54OsRAWzMdgQhvRtoo,Lady Saw,All About Rich,dancehall,G#/Ab,0,234240,91.931,-7.566,0.714,0.616,0.896,0.338,0.0,0.0546,0.284
+251,nyc,1mJid0jIgYIWcrEWelq4xP,Totta Näslund,One Too Many Mornings,swedish,A#/Bb,1,232813,94.139,-18.526,0.0536,0.53,0.518,0.0704,2.56e-06,0.873,0.11
+252,nyc,4takZfQSv4g8HKq9ZRJfJP,Dean Evenson,Throat Meditation,new-age,C,1,220627,102.545,-19.148,0.237,0.346,0.457,0.0578,0.0245,0.763,0.102
+253,nyc,7CE76kr7cuPNFGe5UKXFyd,Feist,Cicadas And Gulls,indie,C#/Db,1,196133,95.139,-15.205,0.0868,0.12,0.529,0.0319,0.0548,0.924,0.103
+254,nyc,65y06cXpmPD1N9NLhy1Akj,Bill Fay,"Jesus, Etc.",country,G#/Ab,0,257413,113.073,-16.05,0.065,0.375,0.514,0.0595,0.0,0.926,0.0999
+255,nyc,7LSnzo3nZ1VdjBYDn5KpIJ,El Chojin,Los PRO (with Nach & SFDK),spanish,C,1,253000,85.015,-4.72,0.914,0.721,0.656,0.355,0.0,0.385,0.274
+256,nyc,5svaNCmzGCnwoPWUZXIv7R,Joe Purdy,That Diamond Ring,acoustic,A#/Bb,1,164049,90.611,-15.567,0.197,0.557,0.438,0.0323,0.261,0.93,0.109
+257,nyc,7xaSZFq0Iny4vLDoIHI3VH,Summer 2000,waiting_game.emu,emo,G#/Ab,1,164000,78.184,-17.668,0.178,0.297,0.525,0.031,0.0103,0.906,0.136
+258,nyc,6x7f0W7GXe9aSRey3yxDok,The Temptations,Just My Imagination (Running Away With Me),funk&soul,C,1,228560,91.993,-12.989,0.3,0.441,0.427,0.0259,0.0131,0.865,0.142
+259,nyc,51rT2FW4Y14d4KSAWS2dWq,Rejjie Snow,PURPLE TUESDAY (feat. Jesse Boykins III & Joey Bada$$),hip-hop,C#/Db,1,290333,84.188,-6.172,0.458,0.723,0.676,0.418,0.0,0.379,0.122
+260,nyc,5gPhG6W6beY96ZtKdxgr9B,Michael Cerveris,Onesie,other,D,1,339267,86.289,-18.389,0.138,0.326,0.423,0.0431,0.00636,0.956,0.114
+261,nyc,4vXFHpkuXL6j3QSGNv53QR,Phil Coulter,Take Me Home,new-age,F,1,223440,76.445,-14.817,0.128,0.281,0.527,0.0279,0.042,0.927,0.133
+262,nyc,1PkE5gUjnTUfsJFM87YsFy,Gaetano Donizetti,"L'elisir d'amore, Act 1: Quanto è bella, quanto è cara! (Live)",classical,C,1,196027,84.19,-17.134,0.182,0.355,0.357,0.0529,0.000406,0.963,0.146
+263,nyc,7MZZ1feZqxyNzgFVx57btB,Nico,These Days,alt-rock,F,1,212667,93.175,-14.093,0.188,0.231,0.412,0.0301,0.379,0.987,0.104
+264,nyc,0gbfSKPXT4rYu0DxPpAnbn,Vilayat Khan,Raga Shree - Vilambit Teental,indian,C#/Db,1,222380,85.644,-17.196,0.217,0.236,0.516,0.0326,0.0115,0.901,0.135
+265,nyc,2dORRwBLBx8hPeQMkfXlWk,Waylon Jennings,Yours Love,country,A#/Bb,1,137200,111.807,-15.713,0.198,0.269,0.57,0.0325,0.0198,0.892,0.108
+266,nyc,5VT38e9Vu9ojE7mImdaLPp,Sternschnuppe,Guter Mond Du gehst so stille (Schönes deutsches Schlaflied),other,A,1,314360,83.916,-16.169,0.176,0.35,0.41,0.0277,0.00692,0.926,0.109
+267,nyc,2gH3RiUmUeR780Ngwx5T6r,Gregory Alan Isakov,3 a.m.,folk,D,1,286707,92.299,-13.47,0.222,0.413,0.451,0.0281,0.027,0.909,0.11
+268,nyc,3VsU0fNmYaJVfFfREtm1L8,Radical Face,Always Gold (Acoustic Version),folk,D#/Eb,1,218000,160.988,-17.862,0.11,0.172,0.462,0.0403,0.0884,0.908,0.105
+269,nyc,5VXs1rK5SNodOV6TY21XVv,Richard & Linda Thompson,Dimming Of The Day / Dargai - Edit,alt-rock,D#/Eb,1,228693,82.941,-21.247,0.0347,0.246,0.381,0.0317,0.0235,0.965,0.114
+270,nyc,0IszC9Z7tZnqfbKToMgGxH,Russell Watson,All or Nothing,classical,C,0,186107,147.783,-16.342,0.168,0.308,0.408,0.0315,0.0156,0.945,0.109
+271,nyc,1HHXhqKUKEyJ7RC8P7Mxck,Sergei Lemeshev,Зимний вечер,other,G#/Ab,0,186320,104.887,-15.586,0.0568,0.45,0.521,0.0567,0.0,0.98,0.16
+272,nyc,2Jvfnyx9poOuw0tOuGn5iN,Walter Lochmann,"Weißt du, warum?/Ki tudja, miért?",other,A#/Bb,0,214987,67.931,-13.935,0.108,0.358,0.468,0.0654,0.0,0.948,0.113
+273,nyc,4ovPlH8JPO6aGkYN0B9VTm,Marika Hackman,Let Me In,ambient,G,0,223523,80.557,-16.106,0.267,0.253,0.441,0.0335,0.0774,0.927,0.118
+274,nyc,3Vlblkd7Kpqe4kE9Nmrcu9,Jean-Philippe Rameau,"Dardanus Suite, RTC 35A, Act I: Rigaudons I & II",classical,F#/Gb,1,238480,93.476,-19.638,0.129,0.385,0.44,0.0314,0.144,0.924,0.18
+275,nyc,1vupYkUslHvhQRmRKs2aTq,Héctor Mauré,No Nos Veremos Más,tango,A,0,179667,116.124,-15.433,0.159,0.399,0.517,0.0614,0.0,0.839,0.143
+276,nyc,5yNTn1GiBsma3kKJv1bhJs,Kaze,"Hablan de Unión, Pt. 2",spanish,C#/Db,1,244795,87.619,-3.559,0.931,0.878,0.694,0.431,0.0,0.547,0.314
+277,nyc,63SdQpVeDurGLThqVdcF12,Ryan Adams,"Elizabeth, You Were Born To Play That Part",singer-songwriter,C#/Db,1,307827,86.025,-21.669,0.0451,0.238,0.362,0.0424,0.0228,0.902,0.121
+278,nyc,1K8B312Tn7dtHOiYF9BmoD,Alfredo De Angelis,Sonemos,tango,G#/Ab,0,163509,108.834,-15.785,0.189,0.524,0.473,0.0573,3.16e-05,0.888,0.0987
+279,nyc,2gzRkOcNcdY7Fu2cvuoFTX,Tommy Sands,Raglan Road,rock,G,1,313920,81.843,-14.136,0.172,0.277,0.443,0.0308,0.0337,0.907,0.181
+280,nyc,4qH92imxjhBKrNIA3vKaR9,Eva Cassidy,Coat of Many Colors,folk,A,1,200110,72.034,-15.391,0.139,0.353,0.475,0.0328,0.0943,0.965,0.104
+281,nyc,5Ljvm1zOXGcXwsAhEEVfyh,Alex de Grassi,"Mamá, Papá",new-age,E,1,246520,102.282,-17.899,0.126,0.449,0.454,0.0357,0.24,0.898,0.111
+282,nyc,4cyAtuGhZ7RIuX2Px5L8Wt,Nicole Dollanganger,Moonlite,singer-songwriter,E,0,228880,99.808,-15.028,0.226,0.145,0.373,0.033,0.0725,0.916,0.0999
+283,nyc,2LADlcbtJMesFBrbW72Q1w,Derek Klena,Dreamer in Disguise,other,G#/Ab,1,99867,107.812,-17.962,0.105,0.426,0.478,0.0519,0.0,0.903,0.121
+284,nyc,5qKuefgF5B0caDyqNReAM2,Fink,We Watch The Stars - Berlin Session,folk,A,1,225543,94.153,-15.784,0.186,0.306,0.576,0.0317,0.0458,0.898,0.112
+285,nyc,7KzOnGn63RCcy9i7tQ9DKN,Alpha,Alpha Freestyle,trip-hop,B,0,273280,92.86,-3.574,0.801,0.713,0.741,0.445,0.0,0.462,0.441
+286,nyc,11SiGZIuxC4A7ctpia6NO8,Loretta Lynn,Easy Loving,country,F,1,160373,94.11,-15.802,0.131,0.483,0.444,0.028,0.00342,0.942,0.108
+287,nyc,1bDjWyTOXs0sxQMC1mchSM,Bettye Swann,Then You Can Tell Me Goodbye,funk&soul,B,1,226240,91.118,-18.457,0.148,0.45,0.504,0.0285,0.00578,0.951,0.105
+288,nyc,50roqxY1Mp7Dmm6nIvvsmt,Magna Carta,Elizabethan - Remastered,rock,B,0,158720,97.34,-20.909,0.103,0.465,0.497,0.0299,0.0428,0.883,0.0985
+289,nyc,5nQNLZWbt98uVtT36W5GuV,Andrew Lloyd Webber,That Was Nearly Us (Honoria & Bertie) - The American Premier Recording,other,C,1,209667,85.226,-14.813,0.203,0.435,0.547,0.11,0.0,0.899,0.152
+290,nyc,6GP8ql0FJAlEirvLcXoCIL,ICE-T,Pimp Anthem,new-age,C,1,275360,83.99,-6.751,0.706,0.779,0.69,0.317,0.0,0.338,0.208
+291,nyc,6vubViXRL2oCOYhhopqFdF,Ashley McBryde,Andy - I Can't Live Without You,country,A#/Bb,1,232373,84.103,-15.688,0.115,0.403,0.482,0.07,2.77e-06,0.802,0.114
+292,nyc,6N7wSnN4R02ysV36HCYKVs,Bob Luman,Jealous Heart,rock,A#/Bb,1,142240,88.792,-20.756,0.137,0.489,0.413,0.0309,0.295,0.856,0.131
+293,nyc,2iAGmvA1n1BBzy8cN4uOwg,Maya Kristalinskaya,"Песенка Люси - Из к/ф ""Дайте крышу Матуффлю""",other,A,0,129358,104.764,-16.797,0.111,0.4,0.588,0.0494,0.0,0.947,0.113
+294,nyc,52mqBNC0vuak0SzxRavAxg,Buddy Holly & The Crickets,Gone - Alternate Take,rock,G,1,74867,99.623,-17.554,0.0557,0.374,0.536,0.0322,0.141,0.995,0.101
+295,nyc,0nspiVDI7l8dgsulJq27C0,Samba De La Muerte,Samba,french,E,0,200741,99.979,-12.123,0.215,0.389,0.447,0.0317,0.234,0.897,0.116
+296,nyc,2PKlkE3CO7c17wezbCl1IJ,Irina Karatcheva,Ночные цветы,other,C,1,91999,97.905,-18.87,0.0515,0.612,0.498,0.0613,0.0,0.956,0.139
+297,nyc,21Y5HiMtXQfW04VeMSE2yN,"Lee ""Scratch"" Perry",Jealousy,dub,F,0,318480,83.752,-7.027,0.471,0.701,0.756,0.542,2.53e-06,0.458,0.1
+298,nyc,5EmnML3A4xDb5aI9iWY23F,Lissom,Your Name,folk,D,0,163183,107.963,-17.577,0.147,0.218,0.462,0.0291,0.225,0.968,0.127
+299,nyc,369cagfSrJSDwEaSsiB11J,Tartit,Haoua,blues,D,1,74592,105.404,-21.212,0.036,0.455,0.504,0.0797,1.13e-06,0.953,0.145
+300,nyc,6Pf224HDEoj3VJYJHLXVcT,Jean Seizure,I Know,singer-songwriter,A,1,178409,88.398,-17.82,0.0321,0.394,0.436,0.0432,0.0,0.942,0.101
+301,nyc,2Va7ARpUVfYAI5aFzmYD0h,Colter Wall,Transcendent Ramblin' Railroad Blues,country,C,1,298767,88.613,-16.232,0.19,0.429,0.515,0.0334,0.0968,0.931,0.11
+302,nyc,3K6hi6Ss6W9uKV8YXTVB3A,The Paper Kites,Never Heard a Sound,folk,D,1,174880,97.022,-17.501,0.136,0.323,0.515,0.0318,0.28,0.865,0.132
+303,nyc,5EcJZDxH25XrxhGC6JloZ3,El Makabelico,El Two Six,hip-hop,A#/Bb,0,244220,84.952,-1.449,0.836,0.915,0.824,0.326,0.0,0.373,0.598
+304,nyc,4o2oGWMEURiNFDj2zRH0Zu,Fleet Foxes,Isles,folk,F,1,187893,79.955,-13.879,0.199,0.215,0.386,0.0284,0.131,0.898,0.125
+305,nyc,5uqQQtXsY2HJLbPVPwcz6C,Ryan Bingham,The Weary Kind,country,D,1,258293,100.075,-16.358,0.313,0.273,0.48,0.0284,0.0223,0.938,0.122
+306,nyc,6ks4ulUc1o2O23zuXMddvS,Georg Philipp Telemann,Part III. Overture in B-Flat Major: VII. Menuet,classical,A,1,176200,77.141,-17.941,0.109,0.429,0.438,0.0312,0.00562,0.927,0.14
+307,nyc,29BIgr7lXKpXFIan6pdE9Q,Jacqueline Sigaut,Pedacito de Cielo,tango,A,1,222720,102.349,-14.605,0.184,0.318,0.586,0.0675,1.33e-05,0.929,0.0998
+308,nyc,3UdYH6K7VoxV4GPwl9eMoJ,Jeanne Cherhal,Frédéric,french,F#/Gb,1,187240,191.96,-18.386,0.181,0.31,0.522,0.0459,0.0111,0.936,0.11
+309,nyc,6EKGblKOd6Wb3Js2CmnxLh,Ajay Singha,Kuch Baatein Yunhi Hain Na,indian,D,1,242474,96.865,-14.191,0.328,0.381,0.47,0.0324,0.0111,0.957,0.105
+310,nyc,0Nf3of8Yr0uPUiagsFnZhM,Ralph Stanley,Twelve Gates to the City,gospel,G#/Ab,1,117533,100.166,-17.223,0.0122,0.417,0.485,0.0556,0.0,0.982,0.147
+311,nyc,0qiDIFQ7Jc2pgQoI4VPmNc,Thelonious Monk,Honeysuckle Rose,jazz,G#/Ab,1,333760,93.01,-14.223,0.37,0.53,0.474,0.0448,0.0178,0.795,0.106
+312,nyc,55ga87o2ysqBY5pbzTt2eo,Sufjan Stevens,No Shade in the Shadow of The Cross,singer-songwriter,F#/Gb,1,160882,82.744,-23.183,0.121,0.35,0.418,0.0332,0.0017,0.944,0.113
+313,nyc,13FLz73UJ32baljcwWychr,Marian McPartland,At Last,piano,G,1,236840,71.565,-18.376,0.0463,0.261,0.406,0.0315,0.0257,0.955,0.221
+314,nyc,6VNEmPC59IgKtbXNYkuFV0,Slum Village,Go Ladies,funk&soul,F#/Gb,1,283373,94.431,-6.517,0.655,0.649,0.826,0.433,0.0,0.268,0.0919
+315,nyc,0lBa7yynCMneCRM5xQCcVh,Nacho Vegas,Canción Del Extranjero,spanish,F#/Gb,0,325253,93.085,-12.836,0.31,0.611,0.444,0.082,0.0,0.918,0.123
+316,nyc,4cIldBc9pDQ7mALIUlvEOi,Roo Panes,Can't Help Falling In Love,singer-songwriter,C,1,228599,105.752,-15.318,0.162,0.139,0.425,0.03,0.0729,0.939,0.107
+317,nyc,154yAcyZR87d5uBw4W7Jjm,Melody Gardot,La chanson des vieux amants,jazz,A,0,342047,102.51,-13.388,0.151,0.185,0.403,0.0411,0.0125,0.939,0.0959
+318,nyc,4APAQ0lNcMLcRhT8CYqLPI,Christina Rosenvinge,¿Quién me querrá? - Acústico,spanish,D,1,211667,81.318,-13.809,0.105,0.22,0.424,0.0282,0.00509,0.935,0.109
+319,nyc,72w7uKE7CkNwpLFUBHqUkC,The Milk Carton Kids,A Sea of Roses,folk,F#/Gb,1,199840,140.548,-17.147,0.166,0.329,0.516,0.042,0.0232,0.92,0.0995
+320,nyc,00XJdAucGoj9Qb0ZM5wLH5,The Ten Tenors,All I Want for Christmas Is You,classical,D#/Eb,1,226013,84.303,-15.21,0.204,0.595,0.35,0.0567,0.0,0.811,0.193
+321,nyc,5D1ItIyCuFEi3SEqmd2JCJ,Grizzly Bear,Easier - Alternate Edit,downtempo,E,1,225587,92.049,-15.446,0.243,0.273,0.526,0.0257,0.234,0.816,0.109
+322,nyc,2B0EyNjtphp71o4aN1fPDM,The Paper Kites,"Turns Within Me, Turns Without Me",folk,F#/Gb,1,233707,85.081,-14.058,0.318,0.414,0.472,0.0254,0.187,0.888,0.132
+323,nyc,7dItPzcYWJD5afAMVbpyop,Tiên Tiên,Chắc Anh Đang - Piano,singer-songwriter,C,1,256800,99.851,-13.08,0.177,0.292,0.413,0.0336,0.0249,0.955,0.101
+324,nyc,7KrF9a8pNeYUG1HIJ1PdnR,Johnny Cash,When He Reached Down,country,E,1,133867,99.618,-13.903,0.0849,0.372,0.542,0.0544,0.0,0.935,0.12
+325,nyc,7LtosjuD53WgsDxXFXvC1A,Traditional,Twinkle Twinkle,other,D,1,227880,99.274,-16.77,0.156,0.182,0.392,0.0315,0.00926,0.907,0.0997
+326,nyc,4PtgUEBPlLCp1GoNQToKv1,Aretha Franklin,Somewhere - Alternate Version,blues,C,1,341440,90.381,-13.286,0.117,0.211,0.512,0.0481,0.0196,0.895,0.108
+327,nyc,33J0nVAZWjt1Yd6UYjcptD,Cat Power,I Don't Blame You,folk,C,1,185707,100.526,-15.637,0.131,0.222,0.457,0.033,0.0724,0.966,0.111
+328,nyc,2IQbcdrngYYFJ6MKfWKmWJ,Brasco & El Matador,Rat Du Macadam,french,A,1,253693,91.61,-6.234,0.838,0.839,0.661,0.43,0.0,0.568,0.137
+329,nyc,1LDYw1G8rMnMlXfM6pURgc,Lonesome Wyatt and the Holy Spooks,Weary Road,goth,C,1,199073,80.081,-15.214,0.206,0.328,0.468,0.0299,0.191,0.807,0.0995
+330,nyc,6Q7wCkSr45I8W0UakF60di,Antonio Bribiesca,El Adios del Soldado,guitar,C,1,231053,84.357,-18.406,0.1,0.243,0.481,0.08,0.431,0.903,0.117
+331,nyc,7BIcO9nvZ2AdIfhZcXnTS7,Dawn Landes,Try to Make a Fire Burn Again,folk,C,1,182374,85.35,-16.381,0.167,0.352,0.498,0.0282,0.00431,0.896,0.136
+332,nyc,5smPViFYtztTo7ww9gJXpD,Jason Mraz,I’m Yours,acoustic,C,1,219053,74.63,-16.147,0.107,0.307,0.549,0.0844,0.0,0.957,0.111
+333,nyc,5eLOzARARiAnxsKp1Nzlqv,Pink Martini,Moon River,jazz,F,1,84613,95.287,-15.538,0.0604,0.452,0.48,0.0551,0.0,0.889,0.104
+334,nyc,3YBSdLyThzTfcqwINnt1hZ,Rose Cousins,Let the Light Come In,singer-songwriter,E,0,218182,65.988,-15.589,0.17,0.162,0.362,0.0325,0.353,0.868,0.108
+335,nyc,7IM0I30dlR6Yfk4dGXW6gX,Busta Rhymes,One (feat. Erykah Badu),hardcore,F#/Gb,1,264333,88.072,-8.226,0.544,0.73,0.825,0.41,2.24e-06,0.558,0.102
+336,nyc,7gf9oW32cuHMDO7kmXLsXU,Mariee Sioux,Fists 'n' Seagulls,ambient,B,1,334240,103.402,-18.958,0.094,0.523,0.467,0.031,0.0145,0.924,0.105
+337,nyc,70lUXCttA9xA5TO3ZV2PRP,Cat Clyde,Not Going Back,singer-songwriter,G,1,248167,106.199,-13.224,0.171,0.219,0.437,0.0326,0.0227,0.902,0.0944
+338,nyc,6dRKRVyjzxa2efBCXZez6R,Shannon Lay,The Moons Detriment,folk,B,1,155000,92.306,-16.078,0.173,0.282,0.519,0.0284,0.113,0.932,0.102
+339,nyc,1OgHxBM0rlo3YFfc9VNP01,Jards Macalé,Soluços,samba,A,0,231573,109.298,-15.067,0.0877,0.25,0.576,0.0638,0.00572,0.855,0.0992
+340,nyc,6TF3QJoJGkEapo7qackZSU,Vulfpeck,Poinciana,funk&soul,C,1,143021,88.064,-16.417,0.329,0.363,0.524,0.0332,0.271,0.913,0.118
+341,nyc,1ayX8gXN7JMhOsXYChsuaY,Arrigo Boito,"Mefistofele / Act I: ""Son lo spirito che nega""",classical,A#/Bb,0,218613,102.894,-17.714,0.219,0.232,0.463,0.078,0.0111,0.946,0.109
+342,nyc,36dVkD6Thj4R6alvgIpO0b,Los Churumbeles De España,Rosas Vermelhas,rock,A,0,191333,107.83,-12.525,0.174,0.258,0.405,0.0308,0.391,0.344,0.113
+343,nyc,3mKE3rUnhFwE0JltufDvfB,Agustín Irusta,No Te Engañes Corazón,tango,G#/Ab,1,164023,115.885,-19.179,0.0702,0.447,0.521,0.048,0.0,0.921,0.102
+344,nyc,1OErnbYMszbgFAHuKE3YAt,Yeah Yeah Yeahs,Heads Will Roll,alt-rock,G#/Ab,0,221000,132.013,-4.46,0.903,0.791,0.562,0.0296,0.0939,0.000187,0.298
+345,nyc,5MWAAcQ6Ao6UtIuIxW0ljY,Feodor Chaliapin,Nochnoj Smotr,other,F,0,243373,103.812,-17.53,0.139,0.397,0.582,0.137,0.000302,0.992,0.11
+346,nyc,51gFa4E5eWMBaAdbM3G0XM,Fabiana Cozza,La Vie en Rose,samba,G,1,193493,80.767,-14.33,0.208,0.356,0.499,0.0599,0.0,0.96,0.0992
+347,nyc,33nFpxA8wfc2dKw5lFw7PF,Karrin Allyson,'Round Midnight,jazz,D,1,351680,98.122,-19.492,0.0281,0.132,0.483,0.043,0.039,0.932,0.111
+348,nyc,6ZXWhWlTDBGHNDIDFuk2xa,Afroman,Crazy Rap (Colt 45 & 2 Zig Zags) - Album Version (Edited),other,A,1,330027,99.015,-7.832,0.377,0.585,0.922,0.405,0.0,0.311,0.208
+349,nyc,1GQ8bpeJW2o4oOFALGWVDk,Ivan Rebroff,Les deux guitares,other,D,0,216307,94.51,-14.852,0.208,0.374,0.426,0.039,0.0186,0.984,0.097
+350,nyc,7sCFsL4plPJLj0aMG9R9q2,Karen Mok,月圆花好,cantopop,G#/Ab,1,214960,101.986,-13.793,0.252,0.355,0.473,0.0309,0.139,0.407,0.137
+351,nyc,2Xr7QVhLRYwXRR1oteyo9I,Slum Village,Tell Me,hip-hop,B,0,277640,89.84,-4.794,0.467,0.598,0.812,0.418,0.0,0.657,0.123
+352,nyc,02JgSD5rGufRrYHVkGELBB,Snoop Dogg,"One Blood, One Cuzz (feat. DJ Battlecat)",funk&soul,G,0,233781,86.186,-4.013,0.792,0.67,0.64,0.38,0.0,0.561,0.196
+353,nyc,5u6vKboXSgqGxh7dCWy6tQ,Stu Larsen,You're My Winter,folk,C,1,216000,87.794,-17.388,0.139,0.396,0.39,0.0305,0.0702,0.876,0.161
+354,nyc,3V4cRa0IyOVhLdyKgfPihd,J.D. Sumner & The Stamps,His Hand in Mine,gospel,A#/Bb,1,225680,75.203,-18.242,0.228,0.331,0.409,0.0361,0.0152,0.813,0.142
+355,nyc,43anSOiPi2qRcJZUQ1dxkO,Julia Stone,"I'm Here, I'm Not Here",singer-songwriter,D,1,227240,150.016,-17.016,0.158,0.168,0.413,0.0416,0.0134,0.908,0.0929
+356,nyc,42CF9ayIlhmtIMq3t6yal2,John Pizzarelli,Something To Remember You By,guitar,D#/Eb,1,291067,84.111,-29.799,0.0397,0.311,0.484,0.0323,0.226,0.943,0.0982
+357,nyc,3KODLArKKg3wSsSFuOCnly,Ivana Wong,人魚の夢,cantopop,A,1,207000,142.936,-15.512,0.13,0.274,0.398,0.0319,0.00465,0.95,0.113
+358,nyc,19KgbDN0lsgf0gsNpKfORp,Duke Ellington,The Brownskin Gal (in the Calico Gown) - 1999 Remastered,piano,C,1,188907,98.012,-15.435,0.243,0.4,0.405,0.04,0.0815,0.836,0.107
+359,nyc,2ZBR5hkVHSdP4ONg00Tp1c,Chris Smither,Kind Woman,acoustic,D,1,230640,96.846,-14.057,0.249,0.329,0.473,0.0306,0.0713,0.9,0.169
+360,nyc,1Ohc6Vp4RGgvFKiMVhEFMA,The Doors,"Yes, The River Knows - 2018 Remaster",rock,A,1,157453,75.783,-18.71,0.18,0.28,0.546,0.0349,0.00891,0.91,0.12
+361,nyc,5sFSOn1oHdSWOs5jvPWWUP,Floyd Cramer,The Waltz You Saved For Me,piano,C,1,145573,86.006,-18.12,0.126,0.271,0.47,0.0279,0.169,0.925,0.108
+362,nyc,4I9ZJ4i00OKPlkpRcT8Qsp,Elliott Smith,See You Later,alt-rock,G,1,174400,84.188,-15.864,0.181,0.378,0.483,0.0325,0.26,0.857,0.107
+363,nyc,64evZOXJDwkPPiJxTkLp6U,Maya Kristalinskaya,Расцвёл мангустан,other,C,0,200400,87.235,-16.844,0.146,0.286,0.393,0.0311,0.00443,0.948,0.123
+364,nyc,1N3kHjnqGrc7FbsyNfDxen,Pat Boone,Everything Begins And Ends With You - Re-Recorded In Stereo,rock,F,1,144707,106.351,-17.098,0.167,0.405,0.458,0.0306,0.00169,0.917,0.123
+365,nyc,4mABKPPoHQLSesP4u3yE1a,Ol' Dirty Bastard,Dirty Dirty,hardcore,A#/Bb,0,250187,94.993,-5.207,0.79,0.657,0.824,0.244,0.00334,0.427,0.232
+366,nyc,0GvcckbdkQLhBA6L2jRs3O,Patrick Bruel,J'suis dans la dêche,french,F,1,225067,95.946,-18.808,0.121,0.181,0.526,0.05,0.0879,0.945,0.1
+367,nyc,0S8X3v970PzNLETdZZKbdl,Lalgudi G.J.R. Krishnan,Akilandeswari - Dvijavanthi - Adi,indian,D,1,490920,84.515,-16.247,0.161,0.25,0.386,0.0311,0.281,0.914,0.169
+368,nyc,5HP7NxhhK3jfDRJQESctsq,Azure Ray,Look at Me,indie,A,0,236227,96.202,-15.132,0.307,0.283,0.424,0.033,0.00986,0.814,0.107
+369,nyc,5CwKTfFlJJIo4WkR6L8mDY,Omar Sosa,Alma,jazz,D,1,348147,100.32,-13.03,0.184,0.256,0.378,0.034,0.196,0.94,0.103
+370,nyc,5MURC44XxP4e9HZEvBGMhf,Mario Frangoulis,Serenata Tis Nichtas,classical,F,0,247228,94.087,-13.431,0.245,0.269,0.426,0.0281,0.00693,0.805,0.107
+371,nyc,3sNCZkAt5nLQoVUnZdmYP2,George Frideric Handel,"Handel: Coronation Anthem No. 2, HWV 259 ""Let Thy Hand Be Strengthened"": I. Let Thy Hand Be Strengthened",german,F#/Gb,1,182253,114.835,-20.795,0.103,0.444,0.438,0.0329,0.0573,0.934,0.169
+372,nyc,1IxcqL3kvwh2YCnbJar0a9,Nelly,Never Let 'Em C U Sweat,dance,E,1,254227,87.684,-5.421,0.844,0.703,0.824,0.316,0.0,0.0423,0.915
+373,nyc,0RAtEEBP6CFQaMb04lZbFH,André Messager,"Messager: Fortunio, Act 3: ""Capitaine je vous salue"" (Maître André, Clavaroche, Jacqueline, Fortunio)",classical,C#/Db,1,183627,86.419,-28.224,0.0715,0.48,0.371,0.0681,1.18e-05,0.947,0.183
+374,nyc,2K4X7XxxL2P3RnnxgN82cm,Daniel O'Donnell,Could I Have This Dance for the Rest of My Life,country,F#/Gb,1,221040,82.279,-15.266,0.164,0.267,0.415,0.0279,0.00139,0.959,0.107
+375,nyc,0QaOhTjuR8oSk1gMLupjHI,G Man,My Bitch Trippin,hip-hop,C#/Db,1,227422,95.035,-8.928,0.671,0.586,0.835,0.376,0.0,0.00321,0.13
+376,nyc,7r66z69dIVNCf9mnX4OIXL,The Foreign Exchange,Raw Life,funk&soul,D,0,288560,90.138,-6.527,0.708,0.768,0.72,0.455,0.0,0.458,0.129
+377,nyc,6HnXORMk44zajM8n146QWg,ZPU,Dulce Otoño,spanish,D,1,245520,86.889,-5.243,0.792,0.89,0.674,0.303,0.0,0.419,0.328
+378,nyc,4saI3HPkNkAPdlKcdsBDJU,Johann Sebastian Bach,"Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Menuet in G Minor, BWV Anh. 115",german,F#/Gb,0,127240,73.594,-25.931,0.131,0.556,0.401,0.0314,0.0213,0.919,0.11
+379,nyc,5Dz1kvxvLnYVpsDgBV9xaE,Looptroop Rockers,Ambush in the Night,swedish,B,1,273747,93.25,-5.927,0.798,0.946,0.768,0.322,0.0,0.446,0.449
+380,nyc,3oTfyyqT7xrXIWesRYyFVc,Tommy Dorsey,It's a Lovely Day Tomorrow,jazz,C,1,147467,78.796,-14.736,0.0854,0.48,0.488,0.0293,0.0341,0.927,0.295
+381,nyc,7f4vS0tlORJxeFDrsBL0jw,Westside Connection,Superstar (Double Murder = Double Platinum),funk&soul,A,0,254400,91.75,-3.386,0.907,0.529,0.739,0.318,0.0,0.356,0.314
+382,nyc,5BJbzW7EZYFGdjR5AXizeF,Benjamin Dakota Rogers,Goodnight V2,singer-songwriter,D,1,183995,97.955,-12.867,0.209,0.231,0.42,0.0315,0.00604,0.747,0.0988
+383,nyc,0OiotM31Ith8KHqjcWGWgk,Lissom,Big Sleep - Alternative,folk,A,0,221977,77.16,-18.37,0.134,0.208,0.416,0.0329,0.00325,0.962,0.133
+384,nyc,2uC0g1OzUFW4eMF1ePt0QJ,Petter,Tredje gången gillt (feat. Martin Bentancourt),swedish,D#/Eb,0,237280,97.034,-6.027,0.835,0.738,0.714,0.313,3.17e-06,0.41,0.246
+385,nyc,1bS7nHa1YeDS5ZVfs8txfD,Eric Bibb,Stagger Lee,acoustic,E,1,205520,97.989,-15.997,0.202,0.361,0.501,0.0372,0.0426,0.958,0.11
+386,nyc,1MTcM4nUWEXcFTBzhQXoND,The Velvet Underground,Candy Says - Closet Mix,rock,D,1,244147,79.259,-21.749,0.0776,0.237,0.506,0.0294,0.176,0.925,0.0973
+387,nyc,0TWReQy2hvs8bTWGy5xWJu,Papa Razzi and the Photogs,My Theory on Mariah Carey's Highly-Publicized Breakdown,other,E,0,129507,102.096,-16.406,0.117,0.288,0.572,0.106,0.0,0.923,0.0925
+388,nyc,5JYaa1s6kFSual5kaMup8l,Vladimir Troshin,Nochnoy razgovor,other,C,0,187443,83.118,-16.634,0.181,0.371,0.451,0.0536,8.76e-06,0.932,0.132
+389,nyc,0EZYPhAW6RGRH4O3fMFgpU,Dean Evenson,Balancing Meditation,new-age,E,0,223520,87.984,-17.314,0.185,0.39,0.437,0.0837,4.02e-05,0.908,0.0926
+390,nyc,4s6tDyvyeUFl2YKtxnXStX,Sam Cooke,Christ Is All,funk&soul,F,1,152400,78.156,-17.308,0.0709,0.48,0.522,0.059,0.0,0.922,0.115
+391,nyc,7r9TyZBfMOfFLp4tb7tHd1,Roy Orbison,Mama,rock,C,1,179827,82.115,-13.131,0.215,0.272,0.374,0.0286,0.0272,0.884,0.121
+392,nyc,6zWvcIrTdwy8MjeiboMOqN,Chris Memento,Rotorua City,jazz,G#/Ab,1,191000,108.761,-13.961,0.205,0.271,0.495,0.0347,0.0808,0.947,0.132
+393,nyc,2XoxvVOaY2u0oGSx0uvKnU,Johnny Cash,I've Been Working On The Railroad,country,C#/Db,1,206667,90.395,-14.654,0.138,0.346,0.487,0.0643,5.29e-06,0.894,0.2
+394,nyc,1yKw0vI7y9mDhHbYZqOwcZ,Lily Kershaw,The Last Light,folk,G#/Ab,1,137333,103.672,-13.697,0.0698,0.273,0.558,0.0792,0.0,0.92,0.171
+395,nyc,2PDKyHemVmf3J72z4yTAfV,Sergei Lemeshev,Пимпинелла,other,A#/Bb,1,184013,97.47,-15.405,0.166,0.474,0.428,0.045,0.0,0.985,0.125
+396,nyc,6jYCYYcfDeTUQwy1GPwjMY,Diane Arkenstone,Rising,new-age,F,1,168904,111.789,-15.547,0.149,0.326,0.43,0.0346,0.0698,0.922,0.206
+397,nyc,5fts92p98qd47BKf6pwaQi,Mississippi John Hurt,Goodnight Irene,acoustic,G,1,146200,98.783,-16.862,0.19,0.467,0.51,0.0333,2.32e-05,0.939,0.0996
+398,nyc,4bkUaV3kf7VXdTQFAHh0Mq,John Prine,Six O'clock News,country,G,1,276667,131.901,-16.729,0.149,0.367,0.407,0.032,0.126,0.888,0.112
+399,nyc,6CojVUQWKLhjB7dnrGp4RL,Teresa Teng,何日君再來 (紀念音樂版),k-pop,G,1,191093,88.031,-16.328,0.187,0.303,0.436,0.0318,0.278,0.636,0.219
+400,nyc,1Aq2fJG4LibkWgzpPHp6h5,Elton Medeiros,Recato,samba,D,1,207800,83.995,-16.942,0.121,0.345,0.459,0.0596,3.22e-05,0.912,0.121
+401,nyc,2durxb17bXcmQJHSt8JAdO,Drake,No Tellin',hip-hop,C,0,310933,95.026,-10.394,0.467,0.618,0.823,0.301,1.06e-06,0.543,0.135
+402,nyc,1u2BImZsbSxHRMbK3G0Qgx,Vladimir Troshin,Nochnoy pod'ezd,other,A,0,236722,80.517,-15.37,0.28,0.54,0.463,0.0807,0.000425,0.85,0.122
+403,nyc,0i4laxCwTfp36PfhAS3ddW,The National Parks,Garden,folk,D#/Eb,1,216725,100.753,-22.438,0.108,0.703,0.521,0.0442,0.00438,0.934,0.11
+404,nyc,4CxvklXc33jiSEbgORmVQX,Michael Ball,Make You Feel My Love,classical,D,1,212454,78.285,-14.355,0.195,0.198,0.426,0.0301,0.0186,0.928,0.107
+405,nyc,5PGFz0A0AO1np7bxBkx4Rg,Georgi Vinogradov,Летная,other,C,1,181300,105.3,-15.302,0.212,0.648,0.526,0.0619,0.0,0.878,0.103
+406,nyc,3kNQh6PdP2uCVV4FW3Bbwj,Prince,U're Gonna C Me,funk&soul,C#/Db,1,316747,103.034,-14.636,0.204,0.19,0.444,0.0291,0.0511,0.945,0.112
+407,nyc,1uhxNvN5rc8bmm21jloema,Traditional,2 Canadian Folk Songs: II. Farewell to Nova Scotia,other,G,0,161867,106.213,-17.512,0.132,0.372,0.516,0.0317,0.000523,0.967,0.109
+408,nyc,3qPrlKuqzJOhWVEsh3vfat,B-Legit,Gold Ones,funk&soul,G,1,281533,86.097,-7.612,0.592,0.79,0.839,0.373,0.0,0.0573,0.0875
+409,nyc,7jaDf8NXsf6dkkPxcOu7Nh,Aníbal Troilo,La mentirosa,tango,C#/Db,1,211794,110.689,-20.467,0.156,0.523,0.428,0.0788,0.0182,0.949,0.117
+410,nyc,4zN7Ngsr3KKJiDDd83OANC,Los Tres Caballeros,Alma Mia,guitar,E,1,186600,88.995,-18.527,0.162,0.529,0.556,0.0544,0.00241,0.934,0.109
+411,nyc,4VQHuBY2hLAxkMyHbyXAWt,Darnell Smith,Habits (Stay High),acoustic,B,1,191296,118.962,-14.035,0.204,0.385,0.569,0.061,0.0,0.902,0.108
+412,nyc,4GtlBEBmHGAOaSZScqeE1r,Saint Peter's University Alumni Glee Club,The Three Bells,dance,F#/Gb,1,220480,87.643,-14.547,0.12,0.407,0.515,0.0933,0.0,0.984,0.128
+413,nyc,7B5lpT9W5piFzKFmo5tytv,胡德夫,美麗的稻穗,singer-songwriter,A,0,302507,90.399,-13.601,0.285,0.219,0.394,0.0359,0.0209,0.905,0.121
+414,nyc,1PrnfIxjMbLWqr4CaDPaoi,Bill Frisell,Moon River,guitar,G,1,226187,98.866,-17.342,0.0649,0.133,0.449,0.0337,0.132,0.906,0.117
+415,nyc,4RNWtg4RBgomLc5evNQCsi,Ryan Bingham,The Weary Kind (Theme from Crazy Heart),country,D,1,258200,99.95,-16.379,0.31,0.289,0.464,0.0288,0.0296,0.934,0.121
+416,nyc,6ahVJcrAbBvYk1a2xoDFl7,De La Soul,Pawn Star,hardcore,F#/Gb,0,246587,92.544,-5.117,0.679,0.827,0.701,0.548,0.0,0.45,0.236
+417,nyc,1tdvFYscyZj4R5OWsxMpWC,Patty Griffin,Never Grow Old,acoustic,A,1,191360,95.474,-14.503,0.0486,0.459,0.557,0.0441,0.0,0.92,0.12
+418,nyc,2cXcEEdtOMYXutTfsJVRRB,La Excepcion,Petaos,spanish,A#/Bb,0,230307,94.91,-3.551,0.923,0.756,0.744,0.477,0.0,0.589,0.548
+419,nyc,5BF96XCH95j8tu06kATZcm,Sabu,Sheets,indian,F,1,180000,98.132,-17.712,0.292,0.333,0.458,0.0327,0.00626,0.913,0.142
+420,nyc,4cyeuU4hcKS60sdA5sc2pS,Lalgudi G.J.R. Krishnan,Akilandeswari,indian,D,1,494933,84.352,-16.299,0.163,0.274,0.386,0.0314,0.307,0.916,0.162
+421,nyc,5EgrgIapSxRMxeTGvzKZs7,Simon & Garfunkel,Song for the Asking,folk,B,1,108893,77.517,-19.807,0.115,0.497,0.454,0.0299,0.023,0.936,0.384
+422,nyc,7qrTs0PsMqzOgDS27OGIdL,Lucy Schwartz,Feeling of Being (What Maisie Knew Version),acoustic,C,1,184813,113.818,-13.391,0.158,0.248,0.377,0.0344,0.0366,0.923,0.145
+423,nyc,6ZEiaHBAQb4RWMuRy0Gp7G,Afroman,Hittin' Switches,other,F,0,318907,95.962,-7.85,0.482,0.496,0.903,0.312,0.0,0.0263,0.0836
+424,nyc,4fNauzCUELoNNPN68V574F,Soprano,Welcome (feat. Psy 4 De La Rime) - Live Marseille 2007,french,A,0,282667,91.95,-5.316,0.794,0.651,0.71,0.266,0.0,0.478,0.663
+425,nyc,0A5K6JjhgWLi8CsNdNP12Q,Calle 13,La Hormiga Brava,afrobeat,A,1,226107,90.019,-7.152,0.766,0.907,0.818,0.161,0.0,0.0204,0.254
+426,nyc,1Infcu25nSPTKWehHkH2VF,Johnny Hodges,Lotus Blossom,jazz,F#/Gb,1,164533,100.819,-15.466,0.175,0.392,0.5,0.032,0.0921,0.845,0.152
+427,nyc,1hSvr64pC6mBP2WI4pta0k,Giacomo Puccini,Gianni Schicchi: Firenze è come un albero fiorito,classical,A#/Bb,1,195827,93.096,-13.94,0.194,0.38,0.398,0.0601,0.0,0.933,0.15
+428,nyc,5jEbBYgypOeAFIhKbLOjxH,Duke Ellington,Morning Glory - 1999 Remastered,piano,C#/Db,1,196000,93.291,-15.695,0.0857,0.406,0.532,0.0383,0.0832,0.928,0.113
+429,nyc,4F8WUvtGyj2FgU4fYo8aKy,Hugo Del Carril,Cancion Desesperada (feat. Atilio Bruni y Su Orquesta),tango,C#/Db,0,184960,118.597,-16.424,0.16,0.432,0.535,0.0676,0.0,0.969,0.117
+430,nyc,2pMcHzFFZSB3iQcpP7ishq,Blind Lemon Jefferson,Oil Well Blues,acoustic,A,1,166627,112.233,-16.054,0.13,0.413,0.521,0.0397,0.0142,0.995,0.12
+431,nyc,34hUr6K7Gdimg1GF9eUXDx,Elvis Presley,On a Snowy Christmas Night,rock,E,1,170000,104.948,-16.559,0.207,0.334,0.486,0.0327,0.00584,0.848,0.126
+432,nyc,5PGdYycDznsOciISJx8lVA,Matteo Mela,"Concerto for Guitar & Bandoneon ""Hommage a Liege"": I. Introduction",guitar,E,0,239880,85.819,-17.817,0.0483,0.212,0.488,0.0524,0.0933,0.959,0.101
+433,nyc,7mDcv42VNI1f5d2qQ8d7Hk,Forbidden Broadway,Mary Poppins Returns: The Place Where the Lost Shows Go,other,B,1,239925,85.274,-15.01,0.176,0.388,0.558,0.345,0.0,0.91,0.144
+434,nyc,4RV2xO2WfaMS4W1lIxwx6J,Steve Pulvers,Celebration of Sam,acoustic,E,0,225040,94.214,-14.941,0.321,0.359,0.431,0.0391,0.333,0.784,0.12
+435,nyc,1luTLBQcZmPzt8LhGtc8Bd,Astor Piazzolla,"Double concerto pour bandonéon guitare et orchestre, pt. 1",tango,E,0,172053,100.714,-18.211,0.099,0.261,0.521,0.0573,0.114,0.947,0.103
+436,nyc,3VRG64KUU9TjkppdIGoR9f,Vashti Bunyan,Against The Sky,folk,F,0,190427,94.352,-19.209,0.167,0.277,0.471,0.0383,0.0132,0.939,0.101
+437,nyc,4JynNLtWYEH7DQaoZkuhtw,Karen Mok,天一半 地一半,cantopop,D,0,217453,99.004,-16.458,0.154,0.14,0.403,0.0336,0.0046,0.937,0.141
+438,nyc,3GiY6uqCIFD8ufQ12ElSUZ,Mc Kevin,Manto do Timão,funk&soul,D,1,295909,85.275,-6.046,0.548,0.71,0.6,0.503,0.0,0.624,0.11
+439,nyc,6bT1mdxCz7QbgZCXU3XGgf,The Seekers,Plaisir D'Amour - Stereo; 2009 Remaster,folk,D,1,170520,93.426,-18.785,0.101,0.173,0.432,0.031,0.000807,0.91,0.1
+440,nyc,0djoFgBYRX7Mu7diOiIg2R,Elvis Presley,"Lead Me, Guide Me",rock,F,1,160760,84.223,-12.841,0.355,0.521,0.401,0.0289,0.115,0.855,0.132
+441,nyc,5Kl1fxp9mTCwtqDaxfDV7i,Melody Gardot,Love Song,jazz,F,1,325660,80.239,-14.275,0.216,0.273,0.459,0.0431,0.0602,0.937,0.116
+442,nyc,6kBmRfiOSx0ME42NmsuJCI,Alberto Vazquez,La que se fue,rock,A#/Bb,1,157989,116.521,-14.516,0.117,0.423,0.589,0.0695,0.000987,0.979,0.113
+443,nyc,07lDYexneHEGYg3Cfgy5BE,Friedrich Seitz,"Violin Concerto No. 2 in G Major, Op. 13: III. Allegro moderato",german,G,1,191640,113.719,-18.666,0.119,0.483,0.409,0.0442,0.00827,0.986,0.097
+444,nyc,75qxINlWoQ8PumfC23stK0,Mariana Aydar,Amor Que Vai,samba,C,1,150547,104.321,-12.303,0.191,0.453,0.545,0.0328,0.00189,0.939,0.105
+445,nyc,4mtEAYqdz8ObX1nyhlDOBh,Сергей Захаров,Клонит голову белая вишня,other,C#/Db,0,183144,116.723,-15.775,0.158,0.301,0.441,0.059,4.51e-05,0.938,0.11
+446,nyc,7fgfbJkM12Mpeasuxu9QBW,Gilberto Gil,Terra 90,samba,G,0,249800,86.318,-18.011,0.146,0.266,0.498,0.0358,0.0359,0.95,0.12
+447,nyc,0LlBU3KIANcG8RZTVfp2uX,Scienz Of Life,Hot Bananas,jazz,C#/Db,1,272440,91.406,-6.153,0.687,0.714,0.712,0.421,0.0,0.575,0.317
+448,nyc,5cG23NRalrZfrEAo5h5yAb,Стронгилла Иртлач,"О, день",other,D#/Eb,0,96408,113.3,-14.759,0.276,0.668,0.529,0.0576,0.0,0.931,0.0984
+449,nyc,0jiBVBJkLrlGLgrIVmd3VK,Jennifer Lopez,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,dance,F#/Gb,1,189765,99.987,-5.454,0.762,0.946,0.84,0.226,3.77e-06,0.00736,0.0615
+450,nyc,5bv18iBPXm2x13uZO7RRhg,Vidya Subramanian,SaarasaSuvadana,indian,A,1,338052,118.476,-18.351,0.128,0.645,0.507,0.0929,0.0,0.902,0.104
+451,nyc,55k5PrMfeBJLWqewM7onJl,Jean-Philippe Rameau,Zoroastre - Loure,classical,F#/Gb,1,142507,76.541,-16.88,0.0434,0.321,0.429,0.0311,0.0145,0.951,0.14
+452,nyc,1Wp1ifPzWyW0qgOe18Znbi,Flatsound,I Hope You're Okay,emo,G,1,246036,87.733,-18.675,0.176,0.29,0.425,0.0423,0.0175,0.896,0.153
+453,nyc,5MWaRLx0xZ0joG9LBfl5Mi,Olivia Foa'i,Grey,other,A#/Bb,1,198280,126.631,-14.715,0.151,0.245,0.514,0.0878,2.76e-06,0.897,0.105
+454,nyc,6pirFeT0AeidRzvlyCrKAw,Laurindo Almeida,Caçador,guitar,G,1,116307,99.369,-17.235,0.167,0.378,0.564,0.0512,4.07e-06,0.989,0.114
+455,nyc,7GrlIngnfhtcPtQFDEDMOc,Skip James,Illinois Blues,acoustic,F,0,221480,98.58,-18.549,0.12,0.581,0.447,0.0341,0.00204,0.869,0.12
+456,nyc,1O4esqy0w9Y7NkZWwDRSOc,The Franklin Electric,After All,folk,C,1,231280,103.252,-14.706,0.323,0.387,0.41,0.0358,0.0558,0.923,0.107
+457,nyc,4BWBpj8D0krkebqLTQx7SZ,Nas,The World Is Yours - Clean Album Version,hardcore,A#/Bb,0,290467,87.41,-6.654,0.797,0.557,0.692,0.143,2.3e-06,0.24,0.157
+458,nyc,0flo3KqhjkcuoB1G6Mhq7s,The Macarons Project,Fly Me to the Moon,pop,D,0,155402,107.519,-15.763,0.113,0.32,0.46,0.0322,0.0011,0.915,0.0959
+459,nyc,5vYmBlJTUYeEmvO3r9kca8,Keiichi Sokabe,Nemuri,acoustic,G,1,159760,109.947,-24.036,0.0637,0.371,0.544,0.0434,0.201,0.909,0.102
+460,nyc,6QsAQegHuN8Mm33xomlx1m,Tom Wopat,Before the Old Man Comes Home,other,G,1,213960,116.232,-14.869,0.104,0.295,0.602,0.0636,0.0,0.922,0.0891
+461,nyc,4uqJNpkCMUqnwhce5QD5MI,Joan Shelley,I Got What I Wanted,folk,C,0,186813,183.499,-13.42,0.314,0.329,0.427,0.0301,0.0181,0.91,0.122
+462,nyc,0cRUzCgkqyit7qIlnJjBWz,Los Llopis,Deje Mi Corazon en San Francisco,rock,C,1,221675,78.637,-12.286,0.197,0.207,0.406,0.0313,0.243,0.978,0.131
+463,nyc,10Eb23W5WGNuDHTHgq5dEh,Stacey Kent,C'est le printemps,jazz,E,1,268577,80.021,-14.543,0.25,0.397,0.51,0.0565,0.00872,0.919,0.112
+464,nyc,0c1rlIZao3TFvRWKBig16H,Joshua Burnside,Whiskey Whiskey,folk,D,1,171577,110.77,-13.024,0.262,0.29,0.437,0.0319,0.0401,0.949,0.0999
+465,nyc,4pRTKKVfpWNUcqOrTZIwKc,Ablaye Cissoko,Togna,k-pop,G,0,421693,85.823,-14.664,0.236,0.273,0.43,0.032,0.0909,0.939,0.121
+466,nyc,6ci1YLWQAkX08DdXiy5XyE,Jerry Byrd,White Christmas,guitar,G#/Ab,1,173067,98.926,-15.8,0.248,0.226,0.519,0.0274,0.12,0.922,0.111
+467,nyc,2mahu1buobA9gtU6zdBxJ1,Antonio Sartorio,Dove' È? - Act III - Scene 8,classical,A,1,111200,94.443,-25.95,0.0844,0.4,0.39,0.0519,0.0,0.893,0.209
+468,nyc,4iXorlF9bZNaFEsQgZ3JT3,The Beach Boys,All This Is That - A Cappella,rock,D,1,191754,107.45,-18.64,0.0738,0.288,0.56,0.0437,0.0,0.905,0.112
+469,nyc,3AXV7MwKQh52riSVA0zl7i,Oscar Straus,"Die Perlen der Cleopatra, Act III: Wenn ich in Rom durch die Straßen spazier",classical,D,1,173600,94.367,-24.5,0.116,0.441,0.459,0.0791,2.81e-06,0.91,0.218
+470,nyc,4B68uIQVgYR8teOg7EIqYE,Wilco,Solitaire,country,F,1,184907,102.678,-16.626,0.229,0.393,0.518,0.031,0.0218,0.695,0.11
+471,nyc,3iokFwBDCK655ojxc5KWWl,Johnny Cash,Where We'll Never Grow Old,country,A,1,210467,102.881,-14.461,0.0647,0.347,0.508,0.0564,0.0,0.987,0.096
+472,nyc,4RY96Asd9IefaL3X4LOLZ8,50 Cent,In Da Club,hip-hop,F#/Gb,0,193467,90.059,-2.776,0.72,0.805,0.902,0.347,0.0,0.26,0.0749
+473,nyc,6SsqssO21hCyhyWRb20dxD,Gioachino Rossini,"Le Comte Ory / Act 1: ""O bon ermite""",classical,D#/Eb,1,122680,103.408,-16.051,0.232,0.426,0.419,0.0595,0.0,0.976,0.0967
+474,nyc,37q4gIGbpNI2gyzEhPUHUZ,Kishore Kumar,Ami Chini Go Chini Tomare,pop,D,1,147787,90.178,-19.272,0.0868,0.438,0.505,0.0322,0.172,0.994,0.113
+475,nyc,4LFDsNVG3JWNyn4q6Bbguz,Mance Lipscomb,Hattie Green,acoustic,A#/Bb,1,182627,86.953,-20.151,0.123,0.361,0.505,0.0637,0.0473,0.913,0.102
+476,nyc,2P6XpRMEXikvq8VUkF7TBm,Bob James,Crazy (feat. Vince Gill),piano,G,1,302907,70.444,-17.147,0.0822,0.0896,0.383,0.0312,0.00932,0.936,0.146
+477,nyc,61jdzpknIkpveIhaC67cRw,João Gilberto,Rosinha,samba,C,1,231173,88.538,-18.414,0.287,0.559,0.469,0.179,0.025,0.771,0.126
+478,nyc,4Bpxj43W9tnmjVrOzLn8ln,Oumou Sangaré,Mogoya - Acoustic,blues,G,1,283933,103.78,-14.578,0.111,0.4,0.544,0.0327,0.0569,0.988,0.103
+479,nyc,5CQPohZcAXNPkN1q630lT1,Elvis Presley,Holly Leaves and Christmas Trees,rock,C,1,133773,76.406,-15.644,0.241,0.322,0.437,0.0284,0.0171,0.844,0.112
+480,nyc,0BBcbPbTWW8MaLKIDHtsAi,Grateful Dead,Dark Star - Single Version; 2001 Remaster,country,D,1,163280,95.525,-13.856,0.16,0.376,0.434,0.0346,0.244,0.906,0.172
+481,nyc,1NskQDQZDmEPtnoNjWmkK0,GALA,骊歌,indie,D,1,147267,97.048,-15.103,0.142,0.321,0.573,0.0291,0.000935,0.907,0.109
+482,nyc,4eJ3z3Y4jFfjlFXkqXeSS5,Nach,Un Momento Clave En El Planeta,spanish,E,0,255000,95.516,-5.02,0.909,0.536,0.663,0.35,0.0,0.396,0.302
+483,nyc,1fMcVA7Ec0dS9Gr0cuHjhF,Antônio Carlos Jobim,O Amor em Paz,classical,B,0,232067,95.898,-19.361,0.256,0.26,0.433,0.0311,0.00611,0.862,0.102
+484,nyc,1JN7aGfABjsfhdBPEWBG7H,El Chojin,Rap Contra Racismo 3.0 - Versión I,spanish,F#/Gb,1,275764,88.075,-3.069,0.836,0.884,0.769,0.307,0.0,0.268,0.358
+485,nyc,4ZFhVVawR0xMJ5dJFNxFRl,Norah Jones,Carry On,jazz,A#/Bb,1,168107,79.941,-14.908,0.216,0.358,0.547,0.0343,0.214,0.924,0.109
+486,nyc,099xAT2hsJl8poYUcAUIy0,Oleg Pogudin,Воспоминание,other,A,0,127080,82.775,-15.672,0.118,0.303,0.576,0.0506,0.0,0.913,0.0894
+487,nyc,1lc4L6K6YvNfZs0UMTZVgG,Josh Garrels,Songbird,acoustic,E,0,278147,80.641,-18.222,0.0699,0.24,0.533,0.0297,0.0265,0.944,0.11
+488,nyc,4IHagmxb7X1QOoQf4DHllo,JJ Heller,A Kiss to Build a Dream On,acoustic,G,1,202347,74.139,-16.294,0.116,0.307,0.408,0.0326,0.000193,0.944,0.13
+489,nyc,2WHazbY0LlKTwnBUXSGhaT,Eden Brent,Goodnight Moon,acoustic,G,1,223133,73.172,-11.08,0.174,0.214,0.477,0.0303,0.0921,0.938,0.118
+490,nyc,593rP67y6q2KrZdZQTGAeV,Blanco White,Papillon,singer-songwriter,E,0,241147,87.332,-15.852,0.132,0.25,0.516,0.03,0.00721,0.988,0.108
+491,nyc,1iqcF57miybDxRps5QtEug,Reinhard Keiser,"Der geliebte Adonis, Act III: Komm, laß mich dich umfangen - Ihr seid vergnügt (Live)",classical,F#/Gb,1,85000,91.945,-21.051,0.0531,0.466,0.46,0.0592,9.22e-06,0.898,0.173
+492,nyc,2vuYvBLicWqCxNgGuGlIEG,Oxmo Puccino,Pucc' Fiction,french,B,0,284053,87.934,-4.98,0.823,0.767,0.788,0.366,4.59e-06,0.465,0.444
+493,nyc,6AorKs03PA7mjJrG2Q8eHI,Donovan,Brother Sun Sister Moon,rock,D,1,122533,104.999,-13.355,0.204,0.314,0.533,0.0319,2.58e-06,0.911,0.123
+494,nyc,09cWMixCAoFoFMmegG4wqf,Lyn Lapid,My Little Island,indie,C,1,189320,72.985,-18.074,0.0452,0.431,0.587,0.0653,0.0,0.93,0.117
+495,nyc,799DPyLjYngkA2XWJD4ePZ,Sissel,Who Knows Where the Time Goes,classical,D,1,212916,87.259,-18.285,0.0627,0.262,0.413,0.0407,0.108,0.968,0.104
+496,nyc,3c3osLEIBjmqocfNf6WxLK,Aine Minogue,Dark Island,folk,G,1,339947,90.0,-16.807,0.069,0.254,0.462,0.0313,0.109,0.962,0.0931
+497,nyc,5CdqOYgS6FwVeRbgRX03PB,Ludwig van Beethoven,"Violin Sonata No. 5 in F Major, Op. 24 ""Spring"": IV. Rondo. Allegro ma non troppo",german,F,1,387120,79.879,-17.594,0.194,0.356,0.353,0.0412,0.111,0.946,0.0888
+498,nyc,2PUHkK7V8XSoquIV8Skj7h,The 1975,Human Too,rock,D#/Eb,1,224387,73.693,-13.454,0.313,0.32,0.569,0.0737,0.00414,0.892,0.156
+499,nyc,4EXvl9cypQrKVYwabqd1EY,The Paper Kites,Arms,folk,D,1,203560,149.884,-18.564,0.141,0.239,0.41,0.0337,0.0898,0.931,0.118
+500,nyc,133X65eoWdnhSvanQ0SXie,Alexander Vertinsky,Palestinskoe tango,other,D#/Eb,0,186552,103.506,-14.343,0.0996,0.349,0.589,0.0609,0.0,0.988,0.118
+501,nyc,1TdCtIj1kqpAE1zGc8uN4d,Robert Glasper,I'm Dying Of Thirst - Live At Capitol Studios / 2014,piano,C#/Db,0,273067,83.256,-15.344,0.236,0.228,0.397,0.0583,0.0133,0.837,0.103
+502,nyc,04E5VHM8trBSUbjs9h3Bjx,Supersci,A Deuce Or An Ace,swedish,G,0,228320,90.956,-1.944,0.838,0.905,0.758,0.352,0.0,0.512,0.364
+503,nyc,0GHBcTRQblJHPGfRFiaUEG,KT Tunstall,Old Man Song,singer-songwriter,E,1,192779,116.593,-18.264,0.144,0.558,0.535,0.036,0.0298,0.874,0.112
+504,nyc,06qwPtnc9J0a75Z0l6jj8b,T.I.,Stand Up,dance,B,0,282760,83.193,-5.361,0.799,0.807,0.714,0.456,0.0,0.106,0.149
+505,nyc,5EUiqT8ARRiBCZcOPYpIPC,Mavis Fan,DARLING,indie,C,1,204360,97.26,-16.082,0.143,0.361,0.402,0.0553,0.000503,0.772,0.108
+506,nyc,53b3vQDXpel699rBLhlffp,Holly Henry,Paper Clips,ambient,C,1,219933,96.762,-16.337,0.0874,0.312,0.469,0.0418,0.0,0.908,0.113
+507,nyc,3ippIfa4kPzxpoXLGyzGcB,Dave Barnes,Your Love Will Never Change,acoustic,G#/Ab,1,148467,113.3,-17.068,0.0811,0.34,0.528,0.0472,0.0,0.911,0.119
+508,nyc,39HWvHi9gz9lj3ajsEOIm6,Montserrat Caballé,R. Strauss: Arabella: Sie sind allein? Wo ist Arabella? - Act Two,classical,A#/Bb,1,237733,82.656,-15.641,0.3,0.52,0.411,0.0624,0.023,0.983,0.198
+509,nyc,7EBczXVIxFf4dedA6V9Qgb,Sector 7G,where'd the day go,metal,B,0,229560,91.928,-3.635,0.841,0.893,0.786,0.29,0.0,0.371,0.148
+510,nyc,4sYvomL4ObQFvXbD5nZKsw,Libertad Lamarque,Negra Maria,tango,A#/Bb,0,180267,95.095,-17.399,0.0931,0.538,0.553,0.09,0.0117,0.994,0.106
+511,nyc,4YnunGP1tmg8l1bBWfpOMq,John Fluker,His Eye Is On The Sparrow (Part Two),new-age,A#/Bb,1,241013,107.56,-16.278,0.0477,0.334,0.525,0.056,0.324,0.962,0.118
+512,nyc,4aarxTgJx32yb693VWjmBE,Georg Philipp Telemann,"Part I. Overture in E minor: VI. Air, un peu vivement",classical,D#/Eb,0,219413,100.282,-18.836,0.121,0.512,0.514,0.0407,2.01e-05,0.944,0.101
+513,nyc,6SoQZbeAJ7oNeevvSryvtr,Giovanni Maria Ruggieri,"Cantata Op. 5, No. 8 Lidio, non ho più core: Aria: ‘Altro cor che te, cor mio’",classical,C#/Db,1,183311,81.944,-20.143,0.0938,0.47,0.407,0.0434,1.03e-06,0.94,0.153
+514,nyc,5m0H0LWT95uS0NoqXUKp55,The Happy Goodmans,Remind Me Dear Lord,gospel,D,1,218867,67.843,-13.901,0.142,0.209,0.414,0.0289,0.00601,0.967,0.109
+515,nyc,6cG0PQLhLUzBvDBftGXvoO,陳輝陽 x 女聲合唱,天使的禮物,cantopop,G,1,231680,81.124,-12.112,0.305,0.497,0.423,0.031,0.00507,0.985,0.178
+516,nyc,2GJZq9wtT3DktIzzAonigc,Giacomo Meyerbeer,"L'etoile du Nord, Act I: Overture: Act II: Waltz",classical,D#/Eb,1,207507,115.536,-26.155,0.0631,0.361,0.535,0.0447,0.134,0.916,0.109
+517,nyc,4K0eiQFvTSu3y9ZDWJBSsN,Barbero 507,Mil Cosas,dancehall,A#/Bb,0,237412,90.967,-7.21,0.658,0.79,0.749,0.289,0.0,0.037,0.273
+518,nyc,1Ukp5g1LebPFr7iKFJExUI,The Jazz Seekers,Solitude,guitar,C#/Db,1,239272,86.956,-18.495,0.0796,0.327,0.488,0.0382,0.0401,0.886,0.111
+519,nyc,0WHmGFxRaDD4pKaqL6jBHc,Janet Seidel,Que Sera Sera,jazz,A,0,127987,86.197,-15.889,0.0591,0.571,0.575,0.0489,0.0,0.896,0.0961
+520,nyc,4cG4S3LHdqibrEXgj87ZNx,Jan Harbeck Quartet,Lighter Shades,jazz,G,0,348253,71.541,-12.7,0.162,0.38,0.508,0.0302,0.418,0.928,0.101
+521,nyc,6rBS3r0PAeRUYcvYJOm3u9,Jagjit Singh,Tujhse Milne Ki Saza Denge,k-pop,B,0,314893,84.041,-16.133,0.244,0.224,0.505,0.0331,0.0726,0.911,0.251
+522,nyc,3ydKPephYhuBz5jiRvulM4,Florindo Sassone,Hoy La Espero A La Salida,tango,E,1,207700,112.294,-15.167,0.134,0.405,0.594,0.0957,0.00103,0.965,0.0931
+523,nyc,0zDbpUox2lqqrn0BQAxup2,The Psycho Realm,Good Times,hardcore,C#/Db,0,296960,90.0,-10.724,0.433,0.604,0.794,0.342,0.0,0.0427,0.393
+524,nyc,08pCnq3MdYsbEjubAWBdCt,Ryan Montbleau,Ships in the Night,folk,A#/Bb,0,221379,120.392,-14.472,0.125,0.405,0.599,0.0557,1.57e-06,0.93,0.0811
+525,nyc,5wSgUfKTmZXKfBE3QObZDn,Chris Smither,Outside In,acoustic,A,1,251960,78.229,-12.671,0.298,0.441,0.413,0.0356,0.0203,0.928,0.109
+526,nyc,4YlfsyVVh4SNazsPc7BZGg,Andrei Krylov,Doroga. The way.,other,G#/Ab,0,239667,91.081,-18.083,0.187,0.337,0.459,0.0448,0.0107,0.927,0.174
+527,nyc,6m1xcCLZACgygKIcBT5ewf,Banda de Musica del Maestro Tejera,Rocío,spanish,C,1,343680,105.607,-13.959,0.19,0.502,0.469,0.0321,0.356,0.914,0.102
+528,nyc,43lkyKa3ADjtTr6lGusSxK,Mack 10,Street Shit,funk&soul,E,1,243107,90.009,-4.552,0.867,0.652,0.739,0.333,1.44e-06,0.33,0.276
+529,nyc,4HlCz7PGRfUNZHgvTWI7th,Валерий Агафонов,Шарманщик,other,A,1,220480,139.806,-16.9,0.15,0.115,0.433,0.0437,0.077,0.958,0.107
+530,nyc,4SjQkNnFESxfCNOF31jQVv,Maya Kristalinskaya,Zarja,other,G,0,174965,81.464,-17.129,0.147,0.41,0.507,0.0569,0.0,0.938,0.414
+531,nyc,3kKHUvSrR4wx3UhRb5bXaH,G. V. Prakash,Bittu Padam Di,pop,E,0,227680,85.032,-4.356,0.896,0.864,0.659,0.295,0.0,0.483,0.175
+532,nyc,54zNVHj8N3wjCb4UpqSvKw,Leif Vollebekk,Rest (Acoustic),folk,D,1,319213,90.114,-20.722,0.132,0.485,0.395,0.037,0.0112,0.907,0.132
+533,nyc,4WKHv9a24m4X5vKdKTG3T7,The Cross Movement,Creature Double Feature,gospel,G,1,281573,94.057,-6.958,0.791,0.952,0.768,0.376,0.0,0.396,0.206
+534,nyc,2CyIbKAwkuKbFyFi93uAOc,Milt Jackson,Stairway to the Stars - Alternate Take,jazz,G#/Ab,1,207227,84.047,-17.998,0.0943,0.373,0.516,0.0508,0.0451,0.985,0.101
+535,nyc,4fR0eKrHh6mUmfcKHsbhuY,Kari Bremnes,Lofotvals,indie,D,1,186567,132.229,-15.472,0.234,0.248,0.505,0.0365,0.00969,0.926,0.105
+536,nyc,2D09aOVXwxzhIJ7sO6fZfU,Johnny Ip,忘盡心中情 - 無線電視劇[蘇乞兒]主題曲,cantopop,F,0,216920,83.852,-15.59,0.24,0.266,0.416,0.034,0.0227,0.822,0.106
+537,nyc,4gsejFN5vct10qwNqJxULj,Rolando Laserie,Esta Noche Me Emborracho,salsa,D#/Eb,1,171867,114.39,-14.9,0.263,0.714,0.538,0.0779,3.9e-06,0.936,0.173
+538,nyc,1DHtw2IVZztMieu3feUuwD,The Soundtrack Of Our Lives,Lifeline,goth,C#/Db,1,132853,107.071,-16.379,0.251,0.495,0.475,0.0305,0.424,0.676,0.225
+539,nyc,6uHvbKL0Yi37AuvNRmUfMw,The Paper Kites,Paint,folk,E,1,191773,73.328,-13.052,0.308,0.387,0.364,0.0402,0.0023,0.895,0.123
+540,nyc,0tPuDh6nk0AiBMNqjVoUOf,Precious Bryant,Morning Train,blues,G,1,184507,97.719,-14.641,0.144,0.345,0.504,0.0344,0.101,0.967,0.113
+541,nyc,3bN2YUUhmGlZaOVlysacUN,Jean-Marie Leclair,"Violin Concerto in B-Flat Major, Op. 10 No. 1: I. Allegro",french,A,1,299400,99.016,-21.746,0.127,0.46,0.429,0.0382,0.0133,0.916,0.108
+542,nyc,450O4NngX7sinIhnTPsPQZ,Barbara Higbie,Angelina Baker,new-age,A,1,211253,76.612,-15.412,0.221,0.246,0.468,0.0293,0.0174,0.768,0.103
+543,nyc,6KztcqtGILNqh3aIe8sOxO,El McMeen,West Virginia Moon,acoustic,C#/Db,0,254800,103.068,-14.278,0.164,0.156,0.407,0.0293,0.00895,0.874,0.109
+544,nyc,4Y9PeM8QILFzkU93LjENJ4,João Gilberto,Amor Certinho,samba,B,1,112248,116.715,-19.029,0.132,0.682,0.483,0.0579,0.0,0.778,0.213
+545,nyc,3foFOqlXGU5TvRP4yr4CcM,DJ Jazzy Jeff,For Da Love of Da Game,hip-hop,F,0,227133,92.929,-7.787,0.695,0.623,0.769,0.305,0.0,0.449,0.435
+546,nyc,0XO5zOgqxijT5iOZBinBht,Florilegium,Pastoreta Ychepe Flauta: Allegro,classical,F#/Gb,1,124360,90.612,-19.236,0.139,0.549,0.439,0.0539,1.87e-05,0.916,0.1
+547,nyc,4LiegagyTpRT7uo2yvg0lw,Joey Pecoraro,The Sea,downtempo,C,1,165450,92.865,-20.145,0.113,0.251,0.534,0.0317,0.557,0.942,0.103
+548,nyc,2ssRxKjbEM1so7flpAHhxu,Stacey Kent,The Boy Next Door,jazz,G,0,223573,91.699,-19.066,0.128,0.207,0.458,0.0602,7.82e-05,0.934,0.185
+549,nyc,0qailL7uutnaY5dLVSnlfR,AZ,Fan Mail,hardcore,A#/Bb,0,216440,91.034,-6.117,0.786,0.803,0.841,0.303,0.0,0.0429,0.583
+550,nyc,4Rm7F2hNQIfMKz5ACmXmwN,George Frideric Handel,Rinaldo / Act 1: Duetto: Scherzano sul tuo volto,german,G#/Ab,1,212760,92.065,-20.335,0.177,0.54,0.424,0.0458,0.000788,0.946,0.176
+551,nyc,3s9hEx8bjGOprVLo8bP5IY,Dan Berglund,Anderssons Kärring,swedish,A,0,230533,104.038,-15.13,0.162,0.4,0.522,0.031,1.34e-05,0.935,0.111
+552,nyc,4GztTYkKKqHTbYgZ9DPWzX,Hozier,"Cherry Wine - Live in Greystones, County Wicklow - Spring 2014",singer-songwriter,C#/Db,1,240147,102.673,-15.228,0.107,0.238,0.478,0.0366,0.00459,0.952,0.0968
+553,nyc,7qTjI9bJcorYHRpoEUZOPZ,Elis Regina,Outra Vez,samba,D#/Eb,1,183197,95.356,-13.228,0.218,0.497,0.433,0.0311,0.019,0.98,0.277
+554,nyc,4VFNuX8uwKikqjJCnYpRAi,Klavdiya Shulzhenko,Голубка - 2022 Remastered,other,G#/Ab,1,231209,68.062,-15.466,0.0962,0.331,0.442,0.0846,0.00212,0.986,0.105
+555,nyc,1OEDVBhAQXgzncf6DUaiQB,Luther Vandross,If It Ain't One Thing (feat. Foxy Brown) (feat. Foxy Brown),funk&soul,A,1,253093,88.139,-7.515,0.608,0.652,0.799,0.322,0.0,0.044,0.364
+556,nyc,73EyFTWFOu4OPjFpvpkoQB,Alberto Morán,Barra querida,tango,B,0,189413,119.965,-12.105,0.155,0.651,0.603,0.0797,7.4e-06,0.988,0.176
+557,nyc,3f4HhKO4WdhNAkS68i2EzM,Leonardo Vinci,"Erighetta e Don Chilone - Intermezzo I: Duet - ""Addio Erighetta. Addio Don Chilone"" (Don Chilone, Erighetta)",classical,F#/Gb,1,122840,86.147,-21.909,0.12,0.654,0.516,0.0528,0.0,0.952,0.23
+558,nyc,52FFHbHBTPyKOZx3d21wsc,The Weepies,Somebody Loved,acoustic,C,1,161123,81.799,-15.016,0.146,0.426,0.557,0.0311,0.0,0.918,0.144
+559,nyc,22pL0SNJkBBoT7jgJBwSne,Born Ruffians,"Red, Yellow & Blue",indie,C,1,152413,96.406,-10.173,0.222,0.244,0.503,0.0257,0.0161,0.951,0.146
+560,nyc,6lrQyVTXZTK5ivMjPwLYrf,Johann Strauss II,"Strauss II, J: Im Krapfenwald'l, Op. 336",classical,C,1,227800,106.373,-24.227,0.105,0.503,0.532,0.0578,0.0307,0.93,0.147
+561,nyc,1FYpH98HU2fVjSZXhwwToW,George Frideric Handel,"Messiah, HWV 56 - Hallelujah Chorus",classical,D,1,227200,105.171,-14.362,0.291,0.272,0.453,0.03,0.417,0.947,0.142
+562,nyc,499CC6TMQObjLWI6w4EC0b,Simon & Garfunkel,The Boxer,folk,B,1,307733,92.838,-14.513,0.484,0.606,0.443,0.0644,0.000956,0.74,0.18
+563,nyc,3QvKie6yU8embOjRqM0fDH,Paolo Nutini,White Lies,singer-songwriter,D,1,239067,147.693,-16.162,0.172,0.121,0.395,0.0352,0.0256,0.921,0.113
+564,nyc,05cmEmSnLw4ZV56jOzQVvt,Casus Belli,J'REGARDE MES FRÈRES,french,G#/Ab,0,290000,90.529,-4.798,0.817,0.784,0.75,0.214,0.0,0.653,0.453
+565,nyc,4CSuesL3V3H68haWAxdGDd,Susan Wong,Sound of Silence,jazz,G,0,179973,95.803,-13.234,0.124,0.351,0.485,0.0337,0.0,0.931,0.137
+566,nyc,3Chj4wermZbzm0OCkAx3pv,Carlos Di Sarli,Milonguero viejo (Arr. for String Quartet),tango,E,1,180333,111.352,-14.948,0.0988,0.472,0.45,0.0355,0.0617,0.927,0.173
+567,nyc,1twI5T8RESgPpBwZq4aagY,Yuri Morfessi,"Вы просите песен, их нет у меня",other,A#/Bb,0,128640,84.817,-17.65,0.212,0.551,0.309,0.0527,0.0,0.886,0.124
+568,nyc,1Dkzb965hsHKP8iTDqq0AT,Florist,Shadow Bloom,folk,A#/Bb,1,220189,79.65,-15.756,0.14,0.227,0.453,0.0679,0.00108,0.934,0.192
+569,nyc,6wjRoCpecZbQJPmi2x7gTB,Karen Dalton,Little Margaret,ambient,C#/Db,0,308560,99.38,-12.216,0.313,0.672,0.431,0.0287,0.278,0.995,0.138
+570,nyc,5Gxw5JGUEEq8m3cFyANYre,Flowklorikos,Mensaje en una Botella,spanish,A#/Bb,0,328813,86.401,-2.731,0.849,0.649,0.648,0.322,0.0,0.755,0.269
+571,nyc,3RVTLQPiX1YBQN5mQiAURu,Jay Brannan,The Freshmen,acoustic,E,1,256173,96.581,-12.48,0.2,0.326,0.418,0.0327,0.00819,0.976,0.122
+572,nyc,5MBjEWgT1Vwf9eVx6NNXw5,Mirah,The Struggle,indie,G,1,159000,116.681,-14.465,0.149,0.325,0.569,0.046,0.00337,0.926,0.104
+573,nyc,53cuOjtPD4S3yKinC81v8e,程硯秋,Third Mother Teaching Her Son: Aria C (San Niang Jiao Zi: Xuan Duan San),classical,F#/Gb,0,186467,78.159,-18.011,0.154,0.662,0.428,0.0418,0.363,0.992,0.174
+574,nyc,0G90lntM85plbQBR2ZaOvJ,Avalon Jazz Band,Que reste-t-il de nos amours?,jazz,C,1,227919,101.475,-15.369,0.133,0.443,0.529,0.0716,3.75e-05,0.873,0.0912
+575,nyc,0TSS5clrVvbC8bvEFYlfWM,Iris DeMent,Let Me Be Your Jesus,singer-songwriter,G,0,239088,105.606,-18.027,0.135,0.204,0.485,0.0302,0.131,0.874,0.132
+576,nyc,3blNXxLRRJvtuyMpEpoYkj,Vivian Chow,留住有情人,cantopop,E,1,288653,76.38,-15.666,0.126,0.143,0.411,0.032,0.0319,0.979,0.105
+577,nyc,46GoeL3ZYvAIVVbJQVjIMB,Don Gibson,Lonely Street - Look Who's Blue,rock,A,1,148040,81.238,-14.373,0.138,0.422,0.498,0.0309,0.00869,0.96,0.119
+578,nyc,0V9fZBQ3ttxCGXKxc6QXG6,Organism 12,Varsågod (Tack man!),swedish,C#/Db,1,264587,89.986,-5.345,0.761,0.823,0.841,0.302,0.0,0.0565,0.281
+579,nyc,3GQCWazMf6YtHkCK4509sY,Roots Manuva,Skiver's Guide,trip-hop,D,1,278880,90.982,-5.781,0.742,0.72,0.788,0.418,0.0,0.383,0.254
+580,nyc,1R6Hd2k4nhy2vv39k98AaJ,Ani DiFranco,You Had Time,singer-songwriter,F#/Gb,1,347653,85.547,-16.048,0.174,0.245,0.38,0.0388,0.00615,0.972,0.105
+581,nyc,1PW4xwlRW2EeAstejYQXuW,Osvaldo Pugliese,Mirando la Lluvia,tango,A,1,170574,116.547,-14.728,0.154,0.358,0.428,0.0396,0.231,0.986,0.109
+582,nyc,0vRHprl1mjE3QsARgsLRkl,Avery Lynch,The Closest to That,singer-songwriter,B,1,217500,109.472,-12.346,0.113,0.431,0.577,0.0811,0.0,0.971,0.1
+583,nyc,4WSPfwHVvTC12M8oLNyRgn,Alice Ripley,Sleepy Man,other,A#/Bb,1,332013,88.662,-16.298,0.376,0.482,0.335,0.177,0.0,0.819,0.126
+584,nyc,538zkgS4TUwhZYMDzXoKUR,La Excepcion,Oye Compai,spanish,C#/Db,1,243480,90.966,-4.363,0.916,0.892,0.781,0.201,1e-06,0.547,0.358
+585,nyc,3MGWjXk2V3bkMyYt7H3R6J,Стронгилла Иртлач,Трын-трава,other,G#/Ab,0,127964,89.769,-15.527,0.204,0.352,0.459,0.0541,1.83e-06,0.944,0.131
+586,nyc,4nOHprlBR2OHWZe1EGrxdr,Bon Iver,RABi,folk,A#/Bb,1,212267,111.527,-13.955,0.205,0.295,0.412,0.0364,0.0056,0.953,0.121
+587,nyc,67jQwCymyPGyxDHc9Gf1k1,Mohammed Irfan,"Sau Dard Acoustic (From ""T-Series Acoustics"")",pop,A,1,209915,79.144,-13.498,0.187,0.339,0.454,0.0322,0.00432,0.866,0.0963
+588,nyc,1Ren3rjNyr6A3pr8mHRCbB,Karapete Xaço,Genç Xelil,k-pop,B,0,236480,88.83,-17.739,0.125,0.428,0.426,0.0683,0.102,0.979,0.0908
+589,nyc,2u3G5BoKWl9o4YWAPOedf1,Mance Lipscomb,Which-A-Way Do Red River Run - Take 2; Remastered Version,acoustic,A#/Bb,1,158467,109.458,-19.648,0.191,0.265,0.432,0.0403,0.013,0.931,0.107
+590,nyc,6Np7zjvzQXdyCTlP7HAhmd,Sufjan Stevens,Justice Delivers Its Death,singer-songwriter,C#/Db,1,195907,149.63,-15.713,0.257,0.251,0.449,0.0323,0.0296,0.988,0.111
+591,nyc,3gNk2DGcyhhredOQuLWsmj,Kishore Kumar,Akash Keno Daake,pop,B,0,194547,109.141,-16.312,0.281,0.517,0.556,0.0316,0.378,0.954,0.104
+592,nyc,1ZBCTPa9rcchEXxoQkC9Hc,Joe Purdy,Glory,acoustic,F,1,97791,76.706,-11.401,0.174,0.33,0.573,0.0435,0.0,0.924,0.106
+593,nyc,76zflNnyXAL9qHmasOrn9j,Zoot Sims,Evening In Paris,jazz,D#/Eb,0,202333,64.519,-11.239,0.24,0.54,0.485,0.0323,0.0461,0.931,0.129
+594,nyc,211rvuRnkIpzd5lJNi0LBK,Scott Hamilton,Forelsket i København,jazz,D,1,327307,54.041,-13.827,0.1,0.199,0.385,0.043,0.198,0.96,0.11
+595,nyc,1D9S5t3jUlHBc9WWs3ssGk,Banes World,Ain't No Home,garage,E,0,173823,100.009,-19.953,0.184,0.429,0.562,0.0293,0.0214,0.791,0.218
+596,nyc,0hSjuhADCGdKNi5uIWJheK,Dream Note,Zindagi Ki Goud Mein,indian,F#/Gb,1,216877,79.768,-15.128,0.17,0.202,0.354,0.031,0.0589,0.963,0.102
+597,nyc,6d8N2cpwgLjhFxhJ6YmYLh,Kate Baldwin,Look to the Rainbow,other,C#/Db,1,153013,73.392,-14.198,0.105,0.447,0.385,0.048,0.0,0.903,0.173
+598,nyc,1wRjxIr4HRdwuVHFJEFjup,Ablaye Cissoko,Diabâ,k-pop,C#/Db,1,350493,80.341,-15.548,0.322,0.702,0.546,0.0798,0.0233,0.77,0.145
+599,nyc,4VzDIpiLEfSApr8PMUR9mz,Edmundo Rivero,Calla,tango,C,1,159507,111.819,-16.051,0.237,0.508,0.488,0.091,2.75e-06,0.957,0.154
+600,nyc,0CyW7Eu0vmQE9neXVwhn2g,Eddie Cochran,Three Stars,rock,C,1,221267,93.595,-16.711,0.183,0.396,0.524,0.049,0.000835,0.909,0.0996
+601,nyc,6Yo9G1UkzGgm3hLoVa9TC1,Aldous Harding,What If Birds Aren't Singing They're Screaming,ambient,C,1,184403,106.622,-18.507,0.102,0.238,0.388,0.0335,0.0324,0.985,0.102
+602,nyc,4xvpttkjjEH0l2hrizYla7,Luiz Bonfá,Perdido de Amor [Lost in Love],guitar,G,1,206067,87.275,-22.637,0.0374,0.259,0.488,0.0403,0.000191,0.947,0.147
+603,nyc,5adVfMkCAtEYQM5OXKEAgO,Said,Boshaft,german,C,1,290000,89.423,-8.358,0.547,0.616,0.676,0.428,0.0,0.424,0.077
+604,nyc,1dxRPkht78VhZGGW9jt2XN,Yehudi Menuhin,"Violin Concerto in B Minor, Op. 3 No. 10, RV. 580: I. Allegro",classical,B,0,254827,98.282,-18.405,0.181,0.706,0.473,0.0591,0.00579,0.803,0.0976
+605,nyc,6uAYFie9kH4vkqAPF0gPCD,Feist,Now At Last,indie,A#/Bb,1,196173,132.728,-16.256,0.116,0.228,0.412,0.0374,0.0613,0.989,0.104
+606,nyc,6Omr4zDMg6XokKVMtxStmw,Bill Frisell,Probability Cloud,guitar,F#/Gb,0,285960,100.01,-14.417,0.307,0.358,0.426,0.027,0.45,0.754,0.139
+607,nyc,2QpskETwFuqMEHMZuLg2ED,The Velvet Underground,"I'm Waiting For The Man - Live At The Matrix, San Francisco 11-27-69",rock,D,1,699467,75.261,-18.443,0.186,0.357,0.528,0.0324,0.0585,0.958,0.118
+608,nyc,6ppuJKZbApammu3jIOVJmB,Keith McInally,Im Gonna Be (500 Miles),acoustic,A,1,233035,82.596,-11.63,0.255,0.376,0.419,0.0312,0.00439,0.95,0.114
+609,nyc,1lTGtQv6TRKQXqtNwF5EBS,Stanley Turrentine,Stella By Starlight,jazz,D#/Eb,1,336507,95.357,-18.55,0.0386,0.221,0.395,0.0368,0.306,0.95,0.254
+610,nyc,7l5tSQZ4OI2Oqa7cej9n3s,The Country Gentlemen,Lord Don't Leave Me Here,gospel,G#/Ab,1,139267,92.244,-16.917,0.134,0.555,0.45,0.0289,0.0,0.959,0.134
+611,nyc,5ipF9V0I72SD7JZdAZPzfm,Roberto Firpo,Honda tristeza,tango,D#/Eb,0,192725,108.09,-15.7,0.115,0.266,0.37,0.0428,0.412,0.992,0.107
+612,nyc,6RujzWT2Ei3XcfsU7OBsGW,Hem,Lazy Eye,acoustic,C,1,146107,102.622,-14.358,0.185,0.354,0.497,0.0323,1.18e-05,0.917,0.108
+613,nyc,7JaefO3d0vPv8zGzaGR8r6,Fleet Foxes,Blue Spotted Tail - Solstice Version,folk,G,1,188867,78.489,-19.671,0.0817,0.45,0.527,0.0395,0.258,0.936,0.109
+614,nyc,46cu61C5Pp1Wp8g0whlJBq,Nitin Shukla,Tune kaha unplugged,indian,D#/Eb,1,170616,83.78,-18.162,0.163,0.577,0.405,0.0334,0.106,0.943,0.114
+615,nyc,3Bzrkfz2UcJDIT074Ytj8t,The Innocence Mission,Rhode Island,ambient,A#/Bb,1,204627,86.157,-10.924,0.243,0.265,0.358,0.0301,0.0302,0.886,0.107
+616,nyc,2eSMzAZzXAYFBKfESmgUqo,Konstantin Pluzhnikov,Не то чтобы мне весело (I'm Not Merrily),other,E,0,132360,112.518,-15.711,0.108,0.296,0.546,0.0664,0.0,0.981,0.124
+617,nyc,508JAKg8svJMXL08bsKslv,Antonio Sartorio,"Act II: Scene 3 - Misero Orfeo, sono i sospiri e i pianti",classical,C#/Db,1,175760,84.757,-24.197,0.11,0.682,0.364,0.0545,2.78e-05,0.908,0.155
+618,nyc,1L7K08kKz7Q8T5JWWxVWlu,Drew Holcomb & The Neighbors,Away in a Manger,acoustic,A#/Bb,1,160787,100.458,-15.805,0.107,0.337,0.433,0.0325,0.0,0.899,0.152
+619,nyc,3pmphsQOfUIsEnRtQPgafr,Fionn Regan,Salt & Cloves,singer-songwriter,G,1,168733,88.99,-13.311,0.235,0.475,0.558,0.0329,0.0327,0.96,0.125
+620,nyc,3GPhcKCppVSPQzMYQLkNLs,Wallen,Celle Qui A Dit Non - Feat Shurik'n,french,A#/Bb,1,284560,87.987,-7.358,0.625,0.687,0.755,0.302,0.0,0.469,0.109
+621,nyc,4bv8ZGGOCpLk7NNBF5O4Cu,Karen Dalton,No More Taters - Live,ambient,A,1,297227,78.917,-15.359,0.26,0.414,0.386,0.0294,0.000605,0.92,0.141
+622,nyc,1xCETyz13SpQ1Tq39yIGUf,Vladimir Troshin,Тихий дождь,other,D,0,181107,82.536,-16.245,0.188,0.357,0.462,0.0527,0.0272,0.933,0.142
+623,nyc,3AIyx78RsvAuazzvcEOxMM,Rebecca Luker,Do-Re-Mi,other,C,1,339693,93.965,-15.958,0.136,0.456,0.485,0.129,0.0,0.76,0.207
+624,nyc,094HxPImShgGJuSkE59zuh,Ryuichi Sakamoto,Desafinado,ambient,D#/Eb,1,243067,96.813,-16.121,0.279,0.354,0.534,0.0464,0.0156,0.916,0.12
+625,nyc,6Iep0ngLOdqHMedT3WgU3d,Avery Lynch,holding my own hand (as written),singer-songwriter,D#/Eb,1,206402,129.143,-15.786,0.141,0.433,0.517,0.102,2.64e-06,0.959,0.0988
+626,nyc,6XkrJsXI2WTRjj41Hn7DN1,Edmundo Rivero,La Ultima Curda,tango,G,0,231867,109.986,-14.801,0.261,0.449,0.429,0.0451,0.0105,0.953,0.133
+627,nyc,4mrGNt2XQ8mAcmhxnkzM7P,Max Bygraves,Medley: Memories / Always / I Love You Truly / Love's Old Sweet Song,other,A#/Bb,1,306360,85.617,-14.045,0.274,0.225,0.336,0.0298,0.0144,0.946,0.177
+628,nyc,3PqJdqGfOpox6kApAihFV1,Oleg Pogudin,Земля от света повернет во тьму (Экклезиаст),other,C,0,240627,81.469,-18.205,0.112,0.313,0.441,0.0599,0.0,0.933,0.112
+629,nyc,3YWvXx5oWequlBPJs1ILzi,JJ Grey & Mofro,On Palastine,blues,E,0,266120,65.751,-11.657,0.29,0.333,0.402,0.03,0.0311,0.911,0.121
+630,nyc,3I7tWdo2ZVdM3AxA6oYnKm,Jim Croce,Ol' Man River,country,D,1,149107,104.759,-14.916,0.233,0.46,0.451,0.0334,0.0133,0.834,0.099
+631,nyc,4ZcUFidOwNIj8qcLvTwYAn,Billy Joel,And So It Goes - Demo - 1983,piano,C,1,192240,75.374,-14.66,0.097,0.412,0.386,0.0475,0.0,0.899,0.165
+632,nyc,7Hq69F9j04QxvoL8eGpH9z,Georgi Vinogradov,Люблю - 2022 Remastered,other,C,1,174075,116.117,-17.787,0.151,0.46,0.558,0.0675,0.00107,0.987,0.136
+633,nyc,516DXU8sYL46s1HQE2rx9r,Eason Chan,黑暗中漫舞,cantopop,A#/Bb,1,195295,76.403,-15.189,0.203,0.46,0.467,0.0319,0.00154,0.895,0.098
+634,nyc,42rXX0DM1QozuIJaO1hYxs,Stan Getz,Para Machuchar Meu Coracao - Mono Version,jazz,D#/Eb,1,306480,95.688,-15.784,0.18,0.412,0.441,0.0382,0.0826,0.964,0.0968
+635,nyc,0HUy2LXaGzSErV7k7H0LMB,Slum Village,La La,funk&soul,C,0,292800,94.073,-4.441,0.569,0.738,0.826,0.25,1.36e-05,0.433,0.149
+636,nyc,4MveTBeaUyyBAYRjYtAwDj,Don Gibson,A Stranger to Me,rock,C,1,124173,83.519,-16.415,0.113,0.454,0.565,0.0334,0.00298,0.947,0.151
+637,nyc,7KnDRaA97mJWSxjmMRExHW,Xzibit,Kenny Parker Show 2001 (feat. KRS-One),funk&soul,C#/Db,1,285907,102.771,-3.971,0.916,0.494,0.759,0.381,0.0,0.19,0.269
+638,nyc,0pDbUdXP3HEG2GBdKClwOn,Irina Karatcheva,Романс из к.ф. дни турбиных,other,C,0,126000,82.805,-15.301,0.0892,0.254,0.556,0.0789,0.0,0.946,0.168
+639,nyc,2deBvYik2Uy498kIhCU0jE,Reinhard Keiser,"Der geliebte Adonis, Act II: Ihr Himmel, schreibt der Treue Bund - Find ich dich hier (Live)",classical,D#/Eb,0,157533,108.078,-21.086,0.064,0.389,0.416,0.0574,2.75e-06,0.981,0.133
+640,nyc,2SX4nXLcXYfkY0SIlXcQOP,Notis Mavroudis,Proino Tsigaro,guitar,E,0,229027,111.763,-16.952,0.15,0.231,0.477,0.0349,0.0382,0.984,0.105
+641,nyc,32d5J85pFCV8mPH0YqbjYb,Cyrille Aimee,Young at Heart,jazz,D,1,210293,79.225,-14.045,0.193,0.356,0.546,0.0642,0.0,0.909,0.0959
+642,nyc,1IDbRwFepB5hNwHsW67rpI,Steve Petrunak,The Boxer,acoustic,C,1,266120,84.244,-13.647,0.293,0.325,0.378,0.0364,0.462,0.437,0.117
+643,nyc,1Yw5rowBQQj5vV2a4Pi7nJ,Blake,God School,spanish,E,0,226286,96.931,-6.171,0.853,0.912,0.72,0.268,0.0,0.519,0.195
+644,nyc,6chnQVUtr3r7iT9XE3GQsd,Kate Baldwin,You're Going Far (Live),other,D#/Eb,1,200547,111.808,-16.966,0.234,0.408,0.453,0.0748,1.24e-06,0.912,0.705
+645,nyc,6M9Pz1IuXEwSr3M7c2LMyg,Don McLean,Tapestry,folk,G,1,223867,103.986,-24.545,0.0418,0.461,0.482,0.0458,9.89e-05,0.902,0.123
+646,nyc,6B4EkplvUliaHIshivbSM9,M. Ward,Shangri-La,alt-rock,C,1,140160,98.689,-14.55,0.298,0.658,0.548,0.0306,0.303,0.956,0.107
+647,nyc,0pLplJw3EUoN0z2OATsE8h,Vainica Doble,Quiero Tu Nombre Olvidar,spanish,C,1,219133,100.891,-15.438,0.156,0.204,0.449,0.0309,0.00166,0.923,0.161
+648,nyc,7GbiZzkRaETgjGM48B95uc,Cacho Tirao,Minuetto,tango,D,1,178973,92.181,-25.594,0.0305,0.436,0.456,0.0328,0.382,0.908,0.119
+649,nyc,5hatA9IrgZRnr7W2mCxyI0,Ola Belle Reed,Over Yonder In The Graveyard,folk,D,1,186787,90.053,-15.878,0.254,0.512,0.515,0.0328,0.0506,0.878,0.161
+650,nyc,41kpaTpw314JvZEbZzqMAR,Cuco Sánchez,Qué Manera de Perder,guitar,F,1,141133,108.158,-13.493,0.0909,0.257,0.49,0.0581,3.9e-06,0.974,0.103
+651,nyc,3Bqbf3MPxGu8tEdNNR0Obu,Nick Keir,The Old Walking Song (I),singer-songwriter,C#/Db,0,308870,88.898,-18.21,0.133,0.255,0.432,0.0283,0.021,0.88,0.0971
+652,nyc,26bCI2KTzz0ow6kL6FEl5Z,Josh Ritter,Be of Good Heart,acoustic,A#/Bb,1,268264,93.566,-13.482,0.318,0.383,0.399,0.0295,0.0125,0.892,0.119
+653,nyc,3dBLl6WcNZSSFs3imefExK,Nicola Porpora,Gli orti esperidi: “Giusto Amor tu che m’accendi”,classical,C#/Db,1,329747,102.107,-18.545,0.174,0.286,0.395,0.0445,0.0636,0.985,0.0937
+654,nyc,6FGPolvdXLliIqm9tYWyrV,Henri Christiné,Phi-Phi: C'est une gamine charmante (Arr. P. Cussac for Voice & Accordion),classical,F,1,212819,91.607,-15.911,0.173,0.343,0.399,0.0895,0.0,0.964,0.146
+655,nyc,2Kop1fxnFOkg6f3O77PK1o,Elvis Presley,"Ku-U-I-PO (From ""Blue Hawaii"") - Takes 6, 7",rock,D#/Eb,1,179827,92.638,-17.676,0.173,0.525,0.506,0.0468,0.00208,0.902,0.134
+656,nyc,0YJku0C597ReOgmMuKCsaE,Jazz Liberatorz,Music Makes The World Go Round - Feat. Declaime,downtempo,F,0,280600,94.022,-7.274,0.567,0.671,0.745,0.248,0.0,0.519,0.158
+657,nyc,79TkZmpXpNxLDi1RL0AXhP,Ichiko Aoba,月の丘,acoustic,D#/Eb,1,206240,80.418,-16.493,0.135,0.255,0.419,0.0349,0.0969,0.981,0.11
+658,nyc,0LZ5B3V89ELuiOdhDYRqyV,Keb' Mo',The Times They Are A-Changin',blues,G,1,251133,79.997,-19.252,0.0523,0.495,0.556,0.0743,1.48e-06,0.953,0.107
+659,nyc,07D6Q6TfPXFny6zorYiX0j,Nookala Chinna Satyanarayana,Kolichina Variki,indian,G#/Ab,1,329430,82.344,-11.151,0.368,0.602,0.517,0.0676,0.0,0.779,0.194
+660,nyc,35cmDx19Ei6gxjkxgX3X2m,Paul Kim,Where I Wanna Be,other,C,0,253074,101.079,-16.528,0.132,0.409,0.507,0.0429,0.0,0.878,0.108
+661,nyc,3kIHvfxLrQOwg8a5R5pVox,Maya Hakvoort,Here´s to Life,other,E,0,320760,77.103,-20.069,0.257,0.346,0.415,0.0854,0.000716,0.952,0.949
+662,nyc,1gJnLSxvNGu96XBj2uweja,The Game,Start From Scratch,hip-hop,A#/Bb,0,247333,89.896,-4.448,0.709,0.719,0.765,0.285,0.0,0.377,0.345
+663,nyc,3pDjemD0tkiBOBuAezF3ov,Jean-Baptiste Lully,"Acis et Galatée, LWV 73, Prologue: Reprise de l'ouverture",classical,F,0,97587,111.339,-15.398,0.235,0.48,0.408,0.0456,0.0748,0.804,0.111
+664,nyc,5mxiDRNTeGclbYTtzL6b4D,Rome,Clocks,industrial,G,1,149133,99.979,-18.482,0.158,0.236,0.49,0.0361,0.0922,0.928,0.178
+665,nyc,4nP2u0DvG92NHrGghdPbbu,Canyon City,Train,acoustic,C,1,221761,175.698,-10.933,0.317,0.119,0.435,0.0335,0.025,0.767,0.113
+666,nyc,2fi0OxSEsAofiKbwDbGr0B,Reinhard Keiser,"Croesus: ACT III, Scene 13, ""Umsonst, macht neues Feuer"" (Cyrus)",classical,E,1,201467,98.972,-20.912,0.168,0.449,0.504,0.145,0.0,0.896,0.0935
+667,nyc,1wxa6GzrfLig6MrM1JbXTd,Claude-Michel Schönberg,"Javert's Suicide (From ""Les Misérables"")",other,F,1,223627,79.922,-16.242,0.253,0.284,0.36,0.0614,0.00269,0.92,0.106
+668,nyc,7oZOzuctAzAeB4yqRNoijb,Buddy Guy,Hard Time Killing Floor,blues,C#/Db,1,167920,116.986,-15.759,0.0316,0.31,0.569,0.0618,0.0841,0.918,0.0981
+669,nyc,63zqIlMYPDyhGkiTQNzrVw,Tommy Dorsey,It's Always You,jazz,F#/Gb,0,193813,111.943,-17.686,0.0737,0.381,0.431,0.0433,0.000898,0.912,0.268
+670,nyc,338aAphGVGGxSgY1yirQ5y,Antonio Vivaldi,"Vivaldi: Gloria in D Major, RV 589: III. Laudamus te",classical,F#/Gb,1,146267,110.53,-19.845,0.128,0.388,0.478,0.051,0.000847,0.914,0.108
+671,nyc,764VpE5nZqV4SbvC5k8s4P,The Relativez,Me'Chelle,funk&soul,F#/Gb,0,237667,99.909,-9.304,0.523,0.52,0.769,0.337,0.0,0.0457,0.215
+672,nyc,6hTEfMxYFeUqiAJ5jIX7Y5,The Stilltones,Julia,jazz,C,1,232833,104.17,-18.825,0.0796,0.132,0.478,0.031,0.154,0.769,0.109
+673,nyc,7qG1sqQflRqtnuatFsGLAh,Justin Heinrich Knecht,"Herr, straf mich nicht in deinem Zorne: IV. Allegro",classical,C,1,230333,106.567,-21.175,0.184,0.247,0.399,0.0511,0.0443,0.973,0.113
+674,nyc,1RnoQTsqYfG6XyHGizm3gU,Jim Brickman,This is My Home,new-age,C,1,166876,138.227,-17.291,0.126,0.447,0.405,0.0346,0.0662,0.904,0.0993
+675,nyc,6LneKcb0FT0xwU4RhFjmcs,Edvard Grieg,"Holberg Suite, Op. 40: III. Gavotte (Allegretto) - Musette (poco più mosso) - Gavotte",classical,G,1,211000,77.778,-21.348,0.0102,0.348,0.431,0.0378,0.325,0.961,0.123
+676,nyc,3Wjbvj0D45adGGbF8UrAIq,Immortal Technique,Hollywood Drive By,hardcore,G,1,288480,86.819,-6.044,0.661,0.637,0.671,0.378,0.0,0.0501,0.363
+677,nyc,3BdDb858HyS3Cqdq6qrIRW,Etana,Warrior Love,dancehall,A,0,243547,93.848,-5.387,0.697,0.594,0.754,0.31,0.0,0.496,0.346
+678,nyc,5zoeO2Zf9aaoBGXFSCFIjQ,Vashti Bunyan,Wayward,folk,G,1,186067,104.375,-18.456,0.108,0.397,0.494,0.0337,0.00176,0.971,0.111
+679,nyc,4yPSwREOLSorAwDsplqGxQ,Johnny Diggson,4tel-Finale vs. Timatic,german,A#/Bb,0,287111,89.073,-4.768,0.883,0.678,0.628,0.394,0.0,0.483,0.0967
+680,nyc,6D7XoYU283zJJMVP7LQrWO,Pat Boone,Family Bible,rock,A,1,207973,104.101,-14.85,0.259,0.466,0.447,0.0279,0.00461,0.88,0.105
+681,nyc,3Xt8v3SulFbBxtVEVuOGsh,Elvis Presley,Puppet On A String - alt. take 10,rock,F#/Gb,1,159653,99.529,-17.179,0.111,0.351,0.493,0.0475,0.00522,0.956,0.124
+682,nyc,2z4QXeecELX7dP3OI7nkM5,Alan Menken,Anytime You Need a Friend,other,F,1,155427,102.49,-16.638,0.128,0.415,0.445,0.0387,0.0,0.914,0.11
+683,nyc,0VVDB0tJqyJDMpQTLTY5r3,Alla Bayanova,"Эх, душа моя",other,D,0,198680,112.094,-15.329,0.127,0.344,0.479,0.0409,0.000501,0.93,0.0955
+684,nyc,3H3DQ2bzxJJ8yW198ZwTH3,Oshima Brothers,Love Is Tall,folk,G,1,153533,99.804,-10.036,0.219,0.294,0.525,0.0287,0.0238,0.988,0.102
+685,nyc,3u4vfEieVl1E4WT89ooLAq,Mungo's Hi Fi,Under Arrest,dub,C#/Db,1,238816,97.977,-10.343,0.469,0.535,0.836,0.209,0.0295,0.646,0.104
+686,nyc,3LbL8qVzIxaBB4xP13p6jx,Sowmya,Anda Nal Inivarumo,indian,B,0,318893,80.976,-13.246,0.28,0.552,0.546,0.0604,0.0,0.918,0.175
+687,nyc,2TctbR1zGHbhjFgvnoXcl1,Three Four Trio,Slippers and Cocoa,jazz,G#/Ab,1,207586,103.632,-17.379,0.241,0.175,0.414,0.0304,0.0346,0.894,0.123
+688,nyc,22XQosN7B3XqucaShJj7F2,Tippu,Mr. and Mrs. Ramachari,pop,C#/Db,0,236333,94.968,-7.137,0.808,0.569,0.782,0.245,0.000492,0.466,0.246
+689,nyc,37UsRnqWeQ2QJ4SdJ9JEig,Orquesta Osvaldo Pugliese,Descorazonado,tango,A#/Bb,0,185652,112.224,-14.078,0.22,0.383,0.498,0.051,0.0,0.984,0.146
+690,nyc,5nJ0prn3w0zTi3LcZzHMgY,Joshua Burnside,Grapes,singer-songwriter,D,1,240000,91.644,-17.802,0.166,0.365,0.513,0.0287,0.0127,0.975,0.131
+691,nyc,71ygYtGGYNmkYd6yXsix98,Надежда Обухова,Что ты жадно глядишь на дорогу,other,E,0,202773,94.839,-16.791,0.0833,0.3,0.495,0.0821,0.0,0.981,0.095
+692,nyc,1FOKlrr5ZUsAEC6AXLom8i,Bettye Swann,Tell It Like It Is,funk&soul,A#/Bb,1,175600,103.889,-14.202,0.241,0.395,0.485,0.0371,0.0203,0.946,0.101
+693,nyc,5frAZu6tdWC8tR9kbUJjij,Laura Marling,Made By Maid,folk,A#/Bb,1,171565,92.606,-18.299,0.0807,0.325,0.509,0.0449,0.0298,0.905,0.123
+694,nyc,4V1CEf4NktNY6CfHKBqSKy,Vadim Kozin,Kovyl',other,D,0,189654,64.687,-15.272,0.0984,0.48,0.502,0.0918,0.0128,0.994,0.127
+695,nyc,7oO7FNB4YxEZq8YSeAcNEc,Western Massachusetts Sacred Harp Convention,Claremont,gospel,F#/Gb,0,235800,97.447,-21.769,0.272,0.477,0.334,0.103,0.0,0.9,0.149
+696,nyc,32FFX0KRkXDY6449UThz4Y,Elvis Presley,In the Ghetto - Takes 2-3,rock,A,1,246640,174.157,-23.053,0.108,0.227,0.407,0.0469,0.0635,0.938,0.109
+697,nyc,47s2VUxdUuK6n65V4ozOkc,G. N. Balasubramaniam,Maara Koti,indian,C#/Db,1,296292,81.342,-10.764,0.366,0.627,0.496,0.0582,0.0,0.917,0.1
+698,nyc,6AvtenMXMuwN6OuOV8nyCo,Bedřich Smetana,"The Bartered Bride, Act I Scene V: Introduction. Polka",classical,C,1,279800,103.023,-17.977,0.254,0.442,0.436,0.0354,0.0471,0.868,0.106
+699,nyc,0eCyl4GCsT3r8N4sqHNpcT,Oleg Pogudin,"Я сказал, что где-то",other,F#/Gb,0,156107,82.847,-15.854,0.141,0.328,0.486,0.0454,5.71e-06,0.958,0.106
+700,nyc,47ukMWJ00glMtanb0KF20B,Klavdiya Shulzhenko,Davay pomolchim,other,G#/Ab,0,175499,105.857,-17.205,0.142,0.258,0.506,0.0599,0.12,0.99,0.0976
+701,nyc,56CX3U5uYL5FbEA6NAkvVN,Olamide,Voice of the Street (V.O.T.S),dancehall,F#/Gb,0,230680,100.261,-4.111,0.923,0.737,0.759,0.296,0.0,0.41,0.526
+702,nyc,5HeTNdOYJV0q81ny92jZyu,Abigail Lapell,Sparrow for a Heart,folk,G#/Ab,1,177706,86.838,-15.696,0.0508,0.354,0.439,0.0311,0.0149,0.943,0.0883
+703,nyc,7HgRSlL3TXFIOPdKIGoJdy,Reinhard Keiser,"Musicalische Land-Lust, Von dem Land-Leben: No. 5, Letze dich, vergnügte Seele",classical,G#/Ab,1,116333,115.755,-23.777,0.0535,0.614,0.5,0.0499,1.62e-05,0.923,0.0997
+704,nyc,2PGRE2ntKcOvvIm5lqG5PA,Suite Soprano,Triclineo,spanish,B,0,271000,92.021,-9.189,0.467,0.675,0.791,0.495,0.0,0.537,0.16
+705,nyc,11BkVJiR3j88yn1di8aZ13,The Latin Kings,Kom När Jag Ringer,swedish,F#/Gb,0,295573,92.372,-9.656,0.744,0.715,0.716,0.401,0.0,0.314,0.332
+706,nyc,5RCnDm5q0eZpURO4gUrtRr,Tori Amos,I Don't Like Mondays,piano,B,1,260627,109.509,-15.667,0.181,0.175,0.426,0.0325,0.183,0.981,0.108
+707,nyc,4lliFPUOgbDDgKY0WUIBC1,Alla Bayanova,Две гитары,other,D#/Eb,1,213290,85.451,-16.078,0.287,0.4,0.384,0.0541,0.000188,0.944,0.134
+708,nyc,4xuNO4ipQkSZVGQC1h1aon,Yosui Inoue,最後のニュース - Remastered 2018,acoustic,E,1,351226,100.059,-13.124,0.19,0.0843,0.436,0.0415,0.00916,0.904,0.107
+709,nyc,1yEO37hXfLyKY6WvcciTks,Falz,One Trouser,dancehall,C,1,226787,103.066,-6.612,0.673,0.663,0.81,0.207,0.00109,0.224,0.112
+710,nyc,04K8BTopDMOQN7lzJBgXkn,Oleg Pogudin,Парус,other,D,0,95160,90.114,-15.366,0.214,0.529,0.537,0.047,0.0,0.925,0.0992
+711,nyc,0U316O0uMo9EgxdZkCTdhX,Robert Plant,Satan Your Kingdom Must Come Down,blues,C,1,252320,96.683,-14.836,0.29,0.298,0.368,0.0321,0.391,0.893,0.105
+712,nyc,4wnAstR3zTm3R5maJrusb1,Emmylou Harris,For No One,singer-songwriter,F,1,202560,108.184,-12.994,0.174,0.181,0.384,0.032,0.0195,0.765,0.111
+713,nyc,5GWys8RxfQAAVxdiW1yN2p,Nouvelle Vague,Come on Eileen,electro,D#/Eb,0,201520,77.349,-16.259,0.216,0.344,0.519,0.0558,0.000749,0.953,0.134
+714,nyc,4r1dxJoxKZlasU36aDnaoZ,Tiny Ruins,"Me at the Museum, You in the Wintergardens",folk,G,0,155147,89.841,-14.064,0.237,0.238,0.365,0.0325,0.0106,0.909,0.106
+715,nyc,570bCyTqitfPQUgutUvKPb,Peter Bradley Adams,Los Angeles,acoustic,D,1,214467,70.328,-15.825,0.113,0.119,0.372,0.0293,0.00912,0.929,0.112
+716,nyc,0oTGgyBzPWXWc5Hhzbt5z9,Merrick,Flammable,acoustic,E,1,154173,101.841,-11.322,0.246,0.255,0.471,0.0292,0.251,0.951,0.108
+717,nyc,6PTnEBTGPUmGR8Wycmezkh,Tara Jane O'Neil,Bye Bye,ambient,E,0,181253,94.612,-15.557,0.161,0.191,0.42,0.0304,0.0394,0.735,0.138
+718,nyc,3mTJGVQJjSN1SYtXzUyAkU,Azucena Maizani,En esta soledad,tango,D,1,168612,85.576,-18.357,0.116,0.444,0.356,0.0491,0.0,0.946,0.373
+719,nyc,756zMqmLmHIrk57cBjITCl,Mobb Deep,Give Up the Goods (Just Step) (feat. Big Noyd),hardcore,C#/Db,1,243133,94.634,-6.398,0.596,0.521,0.783,0.335,0.0,0.0567,0.582
+720,nyc,6XSUhdIgb2HYmwYB3sCzmq,Simon & Garfunkel,Bleecker Street,folk,E,1,163707,100.313,-15.52,0.259,0.397,0.462,0.0289,0.0989,0.896,0.104
+721,nyc,1ix3UJenCJD1PEUMTaRNS5,Giacomo Meyerbeer,"Les Huguenots: Act III: En mon bon droit j'ai … (Raoul, Marcel, Tavannes, Retz, Cosse, Meru, Saint-Bris, Cosse, Maurevert, Huguenot Soldiers, A Student)",classical,C#/Db,0,294880,91.231,-17.038,0.361,0.479,0.368,0.0999,0.00182,0.97,0.182
+722,nyc,5hvG304Cy2PFbANljbLfmn,Sulino & Marrueiro,A Marca do Berrante,sertanejo,B,1,205627,81.483,-11.025,0.176,0.311,0.586,0.0784,0.0,0.923,0.122
+723,nyc,3zsRP8rH1kaIAo9fmiP4El,The xx,Angels,pop,A,1,171653,91.537,-18.141,0.157,0.342,0.424,0.0428,0.0593,0.95,0.101
+724,nyc,0ND2xJt6ZG3L1eZTS0FrsK,Benjamin Booker,I Thought I Heard You Screaming,blues,D,1,184627,98.469,-15.757,0.0782,0.282,0.543,0.0322,2.39e-05,0.92,0.1
+725,nyc,4KXrLP8NFVSnyWC3un6IrZ,João Gilberto,Isto aqui o que é ? Sandália de prata - Ao vivo,samba,E,1,225000,96.014,-17.692,0.23,0.644,0.514,0.0754,0.0117,0.92,0.455
+726,nyc,0uZzVS1reOXIhGIo4dGxto,Patricia Kaas,La mer,french,F,0,231813,91.961,-13.367,0.267,0.346,0.438,0.0386,0.0082,0.84,0.115
+727,nyc,2MMhpRPmQYXk7xm7KHgWoq,Herbie Hancock,Both Sides Now,funk&soul,B,1,458160,92.738,-15.974,0.12,0.129,0.365,0.0415,0.0947,0.948,0.103
+728,nyc,0jFWYuI71sRUgXCtXmzvXp,Traditional,Macht hoch die Tur (arr. for choir),other,G#/Ab,1,303493,63.629,-18.763,0.219,0.238,0.106,0.042,0.0233,0.923,0.121
+729,nyc,5W7IiH2jDV6q6EQwBkq8ld,Gioachino Rossini,Largo al factotum,classical,C,1,295973,73.316,-15.488,0.251,0.335,0.379,0.0991,0.0122,0.986,0.094
+730,nyc,5DvEC80DSVY64U1X5L2dmz,Lydia Luce,Something to Say,folk,C,1,218267,88.903,-15.457,0.299,0.196,0.452,0.0328,0.016,0.816,0.112
+731,nyc,4jwUNIVziDFRFyCidAec6A,Audrey Mika,Blueberry Skies,downtempo,F#/Gb,0,187244,111.625,-16.515,0.0688,0.322,0.556,0.0526,1.88e-05,0.958,0.11
+732,nyc,4UsaEvxcS63BP4XHS1UOtj,Luniz,F**k You,funk&soul,F,1,251987,83.637,-5.049,0.799,0.82,0.812,0.505,0.0,0.0585,0.0949
+733,nyc,2aYblhJfqBemDqNx8KSSAE,Tego Calderón,Tradicional A Lo Bravo,hip-hop,D,0,225307,93.691,-4.784,0.835,0.897,0.755,0.283,0.0,0.531,0.395
+734,nyc,6VefT0jLDsYCQtlVFhPkic,Johnny Cash,Long Black Veil,country,C,1,193400,108.3,-13.451,0.162,0.451,0.515,0.0402,2.77e-05,0.949,0.116
+735,nyc,7kyuxElQNgAebNrrixlLpT,Ignacio Corsini,Cuarlito,tango,F#/Gb,1,195853,116.936,-12.232,0.19,0.469,0.581,0.0488,2.11e-06,0.992,0.117
+736,nyc,11Wim2xeguJ7py5O1y6UQx,Paul Buchanan,My True Country,singer-songwriter,F,1,137874,100.626,-19.162,0.0424,0.219,0.396,0.0443,0.0168,0.927,0.121
+737,nyc,5FBfpNQsUB8fOOnYjfze9M,Arne Domnérus,Autum Leaves,swedish,C,0,228800,91.356,-27.67,0.00921,0.357,0.464,0.0443,0.131,0.992,0.11
+738,nyc,7G197UgO6Q3xqPcqCi18pa,Elvis Presley,"Wild In The Country (From ""Wild In The Country"") - Takes 1 & 14",rock,G,1,176107,96.415,-16.2,0.199,0.523,0.343,0.0297,0.201,0.911,0.109
+739,nyc,0UUw6Y1b5w1iPS1JnnLpXb,E-40,Back In Business,hip-hop,G#/Ab,0,278507,100.994,-7.161,0.675,0.601,0.824,0.372,2.34e-06,0.157,0.28
+740,nyc,4BDXNIcy51CNPScaKFsTl1,Sam Cooke,"Come, Let Us Go Back To God",funk&soul,G,1,167907,94.881,-17.68,0.0216,0.26,0.406,0.0309,0.0,0.937,0.148
+741,nyc,3ceEHZ1xOcRcO7bqB2PnKK,Anson Seabra,Somewhere in Ann Arbor,singer-songwriter,C#/Db,1,212667,90.493,-14.133,0.153,0.399,0.566,0.0399,2.59e-06,0.932,0.0946
+742,nyc,4Zls4nFdhCUxQ9YQOMjf6d,The Milk Carton Kids,Secrets Of The Stars,folk,B,0,164479,95.252,-15.184,0.128,0.377,0.591,0.0391,0.0,0.913,0.108
+743,nyc,3xYkujnovp03EKsXSERiNj,Alan Broadbent,"I Like You, You're Nice",piano,G#/Ab,0,190747,101.681,-15.368,0.0444,0.204,0.512,0.0405,0.00622,0.99,0.119
+744,nyc,3ZtbHUsJbi6p06X2g1WcpT,Manos Hadjidakis,O Efialtis Tis Persefonis,k-pop,G,1,216000,92.125,-15.303,0.161,0.378,0.357,0.0408,0.0,0.961,0.117
+745,nyc,6KwL2MGaS2KKvZLH5oZwpi,The Isaacs,The Three Bells,gospel,F#/Gb,1,190493,94.415,-14.167,0.146,0.466,0.493,0.0919,0.0,0.916,0.307
+746,nyc,1uucQHC9UJvSgLi5RD4Wli,Amores Tangos,Pequeña,tango,C,1,232027,113.196,-14.406,0.181,0.235,0.373,0.0346,0.259,0.776,0.112
+747,nyc,2PHKFIjIuYnxHvyAbU8Szz,Charley Patton,Screamin' And Hollerin' The Blues,acoustic,A,1,190800,106.823,-15.277,0.136,0.409,0.507,0.0348,0.562,0.961,0.0995
+748,nyc,044OKZYx6i0aiSNCGAuZMu,Joseph Huber,Can't You See A Flood's A-Comin',goth,C,0,242067,83.785,-11.637,0.356,0.441,0.436,0.0319,0.0311,0.675,0.114
+749,nyc,7ezRIbEgqOEBmH1FrU497O,Mighty Oaks,Howl,german,C,0,190378,87.141,-13.939,0.249,0.429,0.524,0.0319,0.0703,0.924,0.117
+750,nyc,0Qi8d6Mi2d0eAysxqw4Gdi,The Singing Animal Lover,Tyrannosaurus Rex (The T-Rex Song),other,F#/Gb,0,172973,69.217,-13.381,0.222,0.419,0.531,0.0915,0.0,0.926,0.109
+751,nyc,761QedCA5199KP1aQjjqif,Ed Patrick,Our House,folk,A,1,165532,75.199,-18.814,0.122,0.278,0.542,0.048,0.00836,0.987,0.106
+752,nyc,21RWPwsKElNTKx7Vf03Dfr,Sufjan Stevens,Beginner’s Mind,singer-songwriter,C,1,135454,106.038,-17.337,0.183,0.306,0.558,0.0343,0.000845,0.957,0.109
+753,nyc,3ra3mbkerqJJzksY3w8Ex4,Klavdiya Shulzhenko,My old park,other,F,1,273476,112.093,-14.147,0.217,0.544,0.552,0.0854,0.0,0.925,0.166
+754,nyc,6YFuej2be7kJ2sBlWYHsqI,Azucena Maizani,Madre,tango,A#/Bb,0,160053,109.274,-16.228,0.166,0.357,0.577,0.169,0.000523,0.995,0.112
+755,nyc,5OlOm3lS0KX4apcn3XB20w,Duke Ellington,In A Sentimental Mood,jazz,A#/Bb,0,256293,99.058,-11.882,0.278,0.262,0.445,0.0313,0.00577,0.914,0.101
+756,nyc,4wRsYxcutyckQbMOgdzzSf,Shammi Pithia,Purging Duet 3,indian,G,1,145865,76.994,-19.038,0.0488,0.221,0.496,0.0374,0.0293,0.893,0.119
+757,nyc,7j62WvT52o12E30o91rI7G,Fabiana Cozza,Outra Vez,samba,G,1,210720,83.905,-14.212,0.222,0.432,0.47,0.0563,7.08e-06,0.933,0.1
+758,nyc,3qLHqpe5ZLHJd8EPM6KrBH,Jesuly,Puntos Sobre la I,spanish,C#/Db,1,268627,84.025,-5.533,0.746,0.811,0.753,0.34,0.0,0.611,0.279
+759,nyc,36yrd5BG9JjJRLcMLmkrME,Snowy White,Bird of Paradise - 2002 Remix,blues,C#/Db,0,236253,75.137,-12.369,0.356,0.315,0.381,0.0322,0.225,0.122,0.141
+760,nyc,0tUuftTiw8PxpanpGKGY6x,Tserendavaa,Airxinii shog,folk,G#/Ab,0,166747,83.629,-14.553,0.173,0.346,0.58,0.048,0.000895,0.963,0.121
+761,nyc,2eQHi4A5ao9TjP7ZipsJpc,Nils Landgren,Send in the Clowns,swedish,F#/Gb,1,295200,92.453,-19.48,0.0456,0.138,0.387,0.0456,0.044,0.959,0.102
+762,nyc,2Uw8FjMLVhmrpsbNxnQutY,Ryan Singer,Talk to Your Water,other,A#/Bb,0,255440,88.923,-21.924,0.19,0.587,0.589,0.955,0.0,0.662,0.833
+763,nyc,4uZ2YulYJDmyXVZAdjgxKq,Stan Getz,Manha De Carnival (Morning Of Carnival),samba,F,0,346933,83.299,-14.997,0.287,0.567,0.377,0.0466,0.0611,0.717,0.127
+764,nyc,3DA7lQ9mdvIYZHJHcODebB,Goldie Lookin Chain,Soap Bar,other,C,1,251000,92.188,-4.339,0.839,0.687,0.672,0.336,0.0,0.502,0.427
+765,nyc,1oFkk93H3WWUb8kWbEPwhm,Karen Dalton,Green Rocky Road,ambient,G,1,202040,70.12,-19.879,0.0572,0.214,0.48,0.034,0.0662,0.993,0.102
+766,nyc,6KWw8Dk0O8mpgc6oWubQwG,Reinhard Keiser,"Der geliebte Adonis, Act I: Ei, welch ein scheußlich Angesicht (Live)",classical,B,1,81173,87.995,-18.72,0.113,0.515,0.514,0.0663,0.0,0.906,0.435
+767,nyc,5QyRgacufN5FDHN8EE9Wry,Giacomo Meyerbeer,"Dinorah, Act I: Act I Scene 6: Duet: Un tresor! (Corentin, Hoel)",classical,D#/Eb,1,212440,76.259,-21.095,0.146,0.415,0.586,0.0771,7.44e-06,0.951,0.0996
+768,nyc,1iemVDeI4JkUx0prS491FF,Jim Brickman,I Love,new-age,D,1,152840,100.967,-13.817,0.112,0.366,0.53,0.0422,2.72e-05,0.969,0.101
+769,nyc,6tLF5sIUMJaSk1hr4tsJUB,Leonardo Vinci,Olimpia abbandonata: Aria. Orridi turbini (Presto),classical,A,1,204213,100.517,-20.473,0.195,0.361,0.429,0.0556,0.0,0.924,0.218
+770,nyc,00H4KF8XA5zZB4pajEpiDk,Elvis Presley,In the Ghetto,rock,A#/Bb,1,167080,88.531,-15.649,0.285,0.469,0.413,0.0346,0.199,0.712,0.103
+771,nyc,0r4JouW8TLfT8t4sgj4MAQ,Cam’ron,Let Me Know,hardcore,F#/Gb,1,254073,91.968,-7.317,0.794,0.691,0.75,0.333,0.0,0.051,0.35
+772,nyc,0wd7NPNZCQNaSiQbba1hNN,Lágrimas De Sangre,Exilio,spanish,C#/Db,1,279655,87.298,-8.289,0.853,0.811,0.701,0.311,0.0,0.558,0.325
+773,nyc,0rf0dDFNFGxoZuwDVIhj3g,Reinhard Mey,Sommermorgen,german,C#/Db,1,203667,90.56,-17.977,0.165,0.447,0.518,0.0296,0.00491,0.856,0.114
+774,nyc,22JVroo6Yfmiqedyx5pJ2S,C-Bo,Stompin' In My Steel Toes,funk&soul,E,0,240400,90.148,-9.589,0.59,0.508,0.775,0.366,0.0,0.00689,0.0732
+775,nyc,7zTPGoqzsHv4hnYib1jP8e,Stacey Kent,How Insensitive,jazz,E,1,244123,108.03,-19.654,0.123,0.151,0.53,0.046,0.0201,0.912,0.103
+776,nyc,0LQo5r69MCdVRZ0RAj4ujb,David Gray,If Your Love Is Real,acoustic,A,1,214533,104.932,-17.881,0.0409,0.284,0.468,0.0416,4.72e-06,0.923,0.162
+777,nyc,62mrQOPjgvCFW6dyh0LAvP,Olamide,"Motivation (feat. Ice Prince, Endia & Pepenazi)",dancehall,C,1,231333,89.81,-4.808,0.84,0.7,0.664,0.282,0.0,0.549,0.46
+778,nyc,3hObuU3FHTivIo5VU0ttrG,Penny and Sparrow,Stoic,acoustic,G,1,287987,86.848,-16.43,0.0584,0.129,0.223,0.0327,0.0322,0.928,0.116
+779,nyc,0ooQkgJCZ9l0GXHZmkpIlk,Rickie Lee Jones,Bonfires,singer-songwriter,G,1,255267,152.349,-20.238,0.0703,0.286,0.451,0.0327,0.0417,0.91,0.116
+780,nyc,4EyVqn08szj4U8bVW6IlKh,The Stanley Brothers,Where We'll Never Grow Old,gospel,D#/Eb,1,155587,87.062,-18.392,0.0453,0.356,0.599,0.0305,1.04e-06,0.921,0.134
+781,nyc,79qPEYGOin803UqaNquFw9,Ronu Majumdar,The Love Affair Of Radha & Krishna,indian,A,1,443573,90.009,-16.425,0.181,0.346,0.546,0.0299,0.0858,0.918,0.0897
+782,nyc,07OGjPuDFYanrAoKYpShiD,Валерий Агафонов,Там новоселье,other,D#/Eb,0,127987,114.231,-17.869,0.2,0.327,0.469,0.0602,0.0611,0.96,0.112
+783,nyc,4J7zZIHzS3SJW3W4A0Cy5V,Владимир Бунчиков,Бескозырка,other,G#/Ab,1,272044,112.454,-14.887,0.334,0.598,0.543,0.0662,0.0,0.835,0.179
+784,nyc,7tyysVavdg942F78GHvGue,T.I.,Why U Mad At Me,dance,G,1,233267,86.987,-6.834,0.674,0.666,0.693,0.347,0.0,0.457,0.244
+785,nyc,7s8gO8L22w6tQNK3XnAlnS,Ranjani-Gayatri,Sangita Gnanamu - Dhanyasi - Adi (Live),indian,C,1,407320,93.999,-15.972,0.337,0.698,0.468,0.0836,6.97e-05,0.915,0.152
+786,nyc,139cA7iNHWDjQGK1e9VPuE,Gil Scott-Heron,NY Is Killing Me,funk&soul,B,0,343867,140.024,-9.098,0.559,0.15,0.791,0.136,0.0187,0.00698,0.0794
+787,nyc,6sDyEtZi9sN3h76lGN4i8A,Burlap To Cashmere,Love Reclaims the Atmosphere,acoustic,G,1,223643,82.88,-17.927,0.179,0.227,0.413,0.0334,0.000618,0.874,0.121
+788,nyc,2xxjQg2hh2Rjm7EY9OhZXY,Yung Lean,Agony,hip-hop,B,1,214173,99.916,-17.194,0.166,0.322,0.585,0.0334,0.0069,0.942,0.103
+789,nyc,3jgrNd3uPU1c2PFBKYsV9d,Clairo,Alewife,indie,D#/Eb,1,213000,102.971,-13.288,0.329,0.264,0.433,0.0343,0.0474,0.932,0.1
+790,nyc,6aigx2pFrSLcgBATqTVPFK,Michael Cera,Those Days,folk,B,0,164075,109.767,-19.575,0.106,0.265,0.536,0.0911,0.0,0.942,0.109
+791,nyc,2XyE46PEMIgXQ20Tw8A1A8,Jason Moran,Study No. 6,piano,A,1,244373,78.781,-18.867,0.287,0.222,0.357,0.0285,0.449,0.899,0.137
+792,nyc,3ioQQKRRBZceWXurjTPgSG,Olle Adolphson,Nu har jag fått den jag vill ha,swedish,E,0,231147,73.502,-16.24,0.206,0.308,0.376,0.0432,0.0348,0.888,0.105
+793,nyc,62RCYQ8NCblwwJKR6Fxdth,DJ Cam,Voodoo Child - Feat. Afa Ra - Dj Premier Remix,trip-hop,F#/Gb,1,222360,93.11,-7.073,0.679,0.868,0.775,0.248,3.73e-05,0.00131,0.189
+794,nyc,3HAhYAuSLAxYAMSxFjx29f,Joan Shelley,Where I’ll Find You,folk,B,1,194067,107.614,-12.552,0.199,0.348,0.449,0.0313,0.00114,0.919,0.1
+795,nyc,7icJHcCTKbdvt8LVKdhMEX,NORMANDY,Say So,acoustic,G,1,212411,89.075,-20.99,0.113,0.645,0.566,0.046,9.6e-05,0.937,0.118
+796,nyc,21lIPUuC9l4IEdJcwExpSh,Ivan Kozlovsky,"Boris Godunov: Prologue, Scène 1",other,F#/Gb,0,395293,93.461,-17.81,0.173,0.207,0.31,0.0433,0.0434,0.959,0.0492
+797,nyc,6mfu6jyFgvnXeTPQrYNs8d,Madonna,Medellín (with Maluma),dance,C#/Db,1,298164,91.963,-7.091,0.683,0.473,0.814,0.304,1.92e-05,0.0596,0.671
+798,nyc,01SDjSBy0TBgA5O1dWynph,Patoranking,Lenge Lenge,dancehall,D,1,221225,104.907,-7.386,0.779,0.495,0.766,0.226,1.18e-05,0.00682,0.0919
+799,nyc,6eCLZFjuHiWm9kXMQ2Z2Zb,Georg Philipp Telemann,"Telemann: Flute Concerto in D Major, TWV 51:D2: I. Moderato",german,D,1,144392,98.574,-22.476,0.0254,0.517,0.484,0.0377,0.00736,0.939,0.127
+800,nyc,04pMx29snydsnkCQJZaQtV,Cat Power,Werewolf,folk,A,0,245293,94.044,-14.05,0.112,0.277,0.433,0.0292,0.0128,0.449,0.108
+801,nyc,7eOYTDSYzssUN87eqYnejC,Hugo Del Carril,Uno (feat. Atilio Bruni y Su Orquesta),tango,D#/Eb,0,211973,84.002,-15.914,0.252,0.406,0.383,0.0876,5.5e-06,0.969,0.122
+802,nyc,6d7h331oWdHFAvNauKOFcZ,Johann Sebastian Bach,"Keyboard Concerto in G Minor, BWV 1058: I. [Allegro]",classical,G,0,219693,97.324,-18.062,0.304,0.632,0.448,0.0331,0.00296,0.846,0.105
+803,nyc,4f7z1W1qP8699e4Fe0c8wi,Los Tres Caballeros,Rosa,guitar,G,0,150600,106.627,-16.869,0.113,0.458,0.541,0.0448,0.000123,0.951,0.137
+804,nyc,2ViYduP7BscBX3XGMMdaOy,Missy Elliott,Back in the Day (feat. Jay-Z),dance,C#/Db,1,295973,92.912,-5.384,0.823,0.699,0.788,0.286,0.0,0.484,0.466
+805,nyc,1ZiAM0JD9ty3WcTDakMIxu,Covers Culture,Can't Get You out Of My Head - Acoustic Covers Versions of Popular Songs,acoustic,A,0,145596,109.165,-15.081,0.15,0.338,0.575,0.0334,0.0,0.935,0.125
+806,nyc,48OYeHjQk9VlosBxeDBxnN,Elvis Presley,Blue Moon (Take 5),rock,C,1,204747,84.185,-23.857,0.0873,0.3,0.506,0.037,0.25,0.957,0.131
+807,nyc,4HQc4cH4lrKWGupdR0CPBk,Afroman,Hush,other,F,0,279960,99.897,-8.92,0.408,0.513,0.916,0.185,0.0,0.0937,0.285
+808,nyc,5U94kDnOenuSxzkUM6KNfh,Emitt Rhodes,Lullabye,country,C,1,65773,97.57,-21.374,0.0584,0.695,0.483,0.0322,0.154,0.919,0.0953
+809,nyc,2IcJZp43y9zirBzbwsvgqo,Lt. Stitchie,Fast & Pray,dancehall,E,0,305067,90.561,-4.538,0.89,0.764,0.661,0.336,0.0,0.288,0.114
+810,nyc,3ZWV50CGB2ywA8PgV3TLhR,Markéta Irglová,The Hill,folk,G#/Ab,0,275973,71.924,-17.567,0.0843,0.32,0.481,0.0337,0.179,0.992,0.116
+811,nyc,5lmPW484u418MqidzOuK4w,Mance Lipscomb,Does She Ever Think of Me,acoustic,C,0,276613,96.786,-15.718,0.17,0.387,0.523,0.0456,0.252,0.928,0.105
+812,nyc,2a40rR1vBXhMyucADZ8KHH,Josh Gad,I Am Here for You,other,A,1,124107,86.81,-19.37,0.135,0.37,0.371,0.0919,1.73e-06,0.911,0.329
+813,nyc,7B0VQRA513TjpxRgt2baHu,Malena Muyala,Velitas Y Santos,tango,B,0,232013,104.454,-13.548,0.239,0.279,0.563,0.0285,0.0557,0.956,0.106
+814,nyc,76d3q3H3EkBxkYfK4wnxIx,Joan Chamorro,Carinhoso,spanish,G,1,232373,99.403,-14.295,0.138,0.166,0.518,0.032,0.00888,0.961,0.11
+815,nyc,3qfPpJDUoV2nXiif2m5UZY,Vincent Delerm,La vipère du gabon,french,C#/Db,0,154400,90.341,-15.613,0.265,0.339,0.486,0.0809,0.00933,0.88,0.105
+816,nyc,2EBL7buvtIDy2LILZBDEE0,Liana Flores,try again tomorrow,indie,D,1,181243,111.176,-18.475,0.127,0.228,0.382,0.0359,0.469,0.913,0.106
+817,nyc,2mpCbJell9qBOkqfy2kHKc,Nicola Porpora,"L'Angelica, Pt. 2: Dunque perché a Medoro (Live)",classical,C#/Db,1,112093,107.779,-22.242,0.0745,0.339,0.545,0.109,0.0,0.944,0.179
+818,nyc,7daHSCJ67XJkyD8iKReIWj,Mississippi Fred McDowell,61 Highway Blues,acoustic,G#/Ab,1,191000,95.926,-21.743,0.0485,0.555,0.575,0.0452,0.000473,0.836,0.144
+819,nyc,4GnLG0L3t2BHcGLS07cT4i,Jagjit Singh,Hazaaron Khwaahishein Aisi,k-pop,D,1,336968,76.808,-12.61,0.267,0.211,0.402,0.0298,0.00152,0.939,0.125
+820,nyc,7EFt83cMPoffUePLABHY8w,Moacyr Luz,Palhaço,samba,G,1,143987,85.468,-13.532,0.181,0.423,0.525,0.0473,4.17e-06,0.933,0.161
+821,nyc,2ctouihgYSV7onIUDRBjbK,More than Jazz,Whatever Possessed Me,jazz,A#/Bb,1,229676,176.892,-14.486,0.143,0.229,0.369,0.0392,0.00897,0.967,0.101
+822,nyc,7wMZpGxyxYP0xbEZPSbBpX,Baden Powell,Tempo de amor - Samba de Veloso,samba,D,1,284400,59.252,-23.23,0.273,0.532,0.449,0.0703,0.0134,0.706,0.0977
+823,nyc,2UxG8nC7XyGTcEzmZQFrvY,Felix Mendelssohn,"Violin Concerto in E Minor, Op. 64, MWV O 14: III. Allegretto non troppo - Allegro molto vivace",classical,E,1,390893,85.465,-18.99,0.163,0.28,0.361,0.0482,0.26,0.935,0.119
+824,nyc,4UtPprzlLRVunchXFXcHu2,Татьяна Комова,Призадумался,other,A,0,184360,84.946,-17.572,0.161,0.4,0.353,0.0341,0.000252,0.96,0.131
+825,nyc,1xG1itkZLG3hkvtHpEpkbF,Elliott Smith,Trouble,indie,G,1,174040,134.554,-16.239,0.155,0.319,0.43,0.0348,0.0148,0.862,0.11
+826,nyc,5ePaJCi1t017jBIqR2re9a,Tango Negro Trio,Suena el Tambor,tango,G,1,235827,93.148,-15.639,0.287,0.307,0.508,0.092,0.219,0.733,0.108
+827,nyc,7myzdcGa6aTaXj3Wf1V55M,Caamp,Strawberries,folk,D#/Eb,1,219344,117.021,-18.732,0.0897,0.264,0.547,0.0453,0.00578,0.963,0.112
+828,nyc,3KZQtzgFwjokIe8OWHKxSm,Stacey Kent,This Happy Madness,jazz,G,1,340643,89.045,-12.619,0.32,0.345,0.55,0.111,0.000589,0.92,0.109
+829,nyc,6dAnFT8Lln9uARrwG4vWEO,Moes Haven,Sleison's A Boxer,other,G,1,134480,87.713,-14.31,0.142,0.41,0.56,0.0513,0.0,0.89,0.113
+830,nyc,5FQrheX37s3vdTGjanqarJ,Tom Adams,Static,ambient,F,0,302325,130.82,-15.996,0.113,0.0912,0.359,0.0325,0.0774,0.967,0.103
+831,nyc,3eTFGFa8uJzP7JscoDs0yT,Wolfgang Amadeus Mozart,"Sonata For Piano And Violin In G Major, K.379: 1b. Allegro - Live",classical,G,0,355933,86.762,-18.168,0.163,0.3,0.399,0.0452,0.0368,0.966,0.147
+832,nyc,6MLSFfBeiNWxyxjFrBbWom,Waa Wei,竊笑,singer-songwriter,G#/Ab,1,222267,78.132,-13.319,0.188,0.386,0.448,0.043,2.01e-06,0.934,0.113
+833,nyc,6idTshNWsrWkNUrJYgzs3v,Long Island Quartet,Someone To Watch Over Me,jazz,D#/Eb,1,248127,101.494,-15.388,0.0792,0.332,0.46,0.0351,0.386,0.963,0.0959
+834,nyc,3Vp1XPzxtocBXeSFcFbI0a,Sixième Sens,Le destin a 2 voies,french,G#/Ab,1,270264,90.052,-8.52,0.479,0.709,0.804,0.526,8.71e-05,0.573,0.338
+835,nyc,0R53DT2bZiWRCAIX9UPmd0,Walter Lochmann,Einsam stand ich da/ Álltam a hídon,other,G,0,232987,112.046,-13.577,0.094,0.39,0.532,0.0503,2.47e-06,0.976,0.125
+836,nyc,08kEXqnJvaZPIpcnpBaRWP,Lucy Pearl,Can't Stand Your Mother,funk&soul,G#/Ab,0,223560,89.538,-2.506,0.719,0.624,0.832,0.335,0.0,0.661,0.121
+837,nyc,6kiGNXUSxeNvSKzN5JPVBA,John Prine,That's How Every Empire Falls,singer-songwriter,F,1,334600,104.747,-15.817,0.244,0.293,0.427,0.0278,0.0222,0.834,0.1
+838,nyc,6u9nsV41wMAHVdL3BnBN8w,Maria Bethânia,O Mundo do Rio Não É o Mundo da Ponte / Onde Eu Nasci Passa um Rio,samba,E,0,107160,105.254,-23.243,0.0214,0.328,0.49,0.0518,3.43e-06,0.878,0.1
+839,nyc,3v8jAX8XYRd3JlmImUEJyN,The Cross Movement,Hold it Down,gospel,C#/Db,1,241840,100.026,-6.226,0.776,0.569,0.79,0.306,0.0,0.0192,0.245
+840,nyc,3zPREa3Z9uXkOjTz8BPXQV,Prasant Radhakrishnan,Raga Mukhari,indian,A#/Bb,1,223560,85.0,-20.704,0.0183,0.543,0.507,0.0477,0.0288,0.992,0.112
+841,nyc,6GSflM4P98vn84yXp92Q9n,Arthur Grumiaux,"Violin Concerto in E Major, BWV 1042: III. Allegro Assai",classical,E,1,192347,85.524,-14.665,0.331,0.69,0.408,0.0634,0.334,0.949,0.675
+842,nyc,61DJ0R2KHxdOAMLlHsLxX0,James Taylor,The Water Is Wide,folk,F,1,180533,95.276,-16.711,0.095,0.383,0.416,0.0303,2.85e-05,0.883,0.116
+843,nyc,21roWd1bURa0sZq1SeN6yV,Antonio Vivaldi,"Vivaldi: Dixit Dominus in D Major, RV 594: IV. Tecum principium",classical,D#/Eb,0,147133,97.734,-24.764,0.0394,0.448,0.409,0.036,0.01,0.945,0.109
+844,nyc,1GIPP103zfsythULEpsmdw,Patrick Watson,The Great Escape,folk,F#/Gb,1,187373,105.202,-16.827,0.0698,0.232,0.459,0.035,0.103,0.991,0.109
+845,nyc,5kWULVOlLCByXarxJt1STI,Francisco Canaro,Vibraciones del alma,tango,F,0,213160,97.972,-10.453,0.227,0.535,0.491,0.0304,0.0222,0.874,0.0989
+846,nyc,6kvm3qmtiWVJVu0qpC2B76,Julie Andrews,Nothing to Lose,other,A#/Bb,1,193453,106.215,-18.468,0.202,0.192,0.445,0.0329,0.142,0.957,0.0886
+847,nyc,1oIOzRQTM5xVNq07Lika9I,Daniel Johnston,Love Enchanted (The Blue Room - BBC Session) - Live,folk,A,0,243787,84.546,-10.432,0.334,0.133,0.41,0.029,0.051,0.953,0.106
+848,nyc,7CpeKR6x9mbvQZl10EREpM,Aretha Franklin,Blue Holiday - 2002 Mix,blues,A#/Bb,1,172133,85.388,-14.08,0.181,0.413,0.366,0.0402,0.0,0.925,0.129
+849,nyc,2ySLRs48N3xfRnMuXMppgO,Audra Mae,"Forever Young - From ""Sons of Anarchy""/A Cappella",alt-rock,A,1,170628,86.197,-14.871,0.0621,0.441,0.416,0.0406,0.0,0.926,0.202
+850,nyc,6HgSYIjTNj53ljROqRPOZC,Hasan Cihat Örter,Can Güzel Yar Güzel,downtempo,A,0,289693,99.671,-15.49,0.218,0.5,0.428,0.0459,0.0,0.882,0.137
+851,nyc,67MByKs1CnVwwComzdNA2X,Miseram Mortem,Killer's Penance,goth,D,0,235000,84.02,-16.33,0.362,0.33,0.436,0.0271,0.156,0.414,0.178
+852,nyc,2juWvuhzQQCAK4P0YovXeK,Pat Metheny,Piosenka Dla Stasia (A Song for Stas),guitar,G,1,227560,100.001,-10.057,0.281,0.244,0.454,0.0284,0.0282,0.911,0.0968
+853,nyc,3t0sVl9H2QPhyJYCF50Lt1,Frank Turner,A Decent Cup Of Tea,acoustic,D,1,189240,149.959,-18.355,0.182,0.361,0.359,0.035,0.123,0.91,0.105
+854,nyc,3GSm0NXokODSkdj7L2Lzsk,Antonio Vivaldi,Gloria: Qui sedes ad dexteram Patris,classical,A#/Bb,0,130200,108.693,-24.517,0.0576,0.633,0.465,0.0331,0.00726,0.882,0.105
+855,nyc,0eQP04vualpXlgDYg8vmgX,Mercedes Simone,Cuando Silba El Viento,tango,C#/Db,1,201877,115.356,-13.295,0.0554,0.412,0.527,0.0483,0.0,0.986,0.0904
+856,nyc,0F6ju9gPE2nUiqOgixQFZ9,Fréro Delavega,Il y a,french,F,0,183080,72.158,-13.689,0.132,0.33,0.452,0.109,0.0,0.894,0.139
+857,nyc,5cGWIiaApO82iYFshwxL7l,25th Annual Putnam County Spelling Bee Original Cast,"My Friend, the Dictionary",other,F,1,165613,86.621,-10.234,0.183,0.4,0.47,0.0556,0.0,0.936,0.104
+858,nyc,4gfvUlDCTcs4Q36TZubrL8,姚蘇蓉,倆相依,cantopop,C,1,230213,95.905,-20.525,0.0618,0.579,0.525,0.0441,5.15e-06,0.94,0.129
+859,nyc,5WYknefatAUM4DlE491TEo,Norah Jones,Painter Song - Alternate Version – The Allaire Sessions,jazz,B,1,170933,72.701,-15.437,0.139,0.208,0.554,0.0425,0.00672,0.914,0.103
+860,nyc,0IiABt6s90tSZ1phJUX6B1,João Gilberto,Esperanza Perdida,guitar,F#/Gb,0,143653,105.946,-18.606,0.137,0.267,0.388,0.0376,0.073,0.936,0.104
+861,nyc,4KDsOoC2pfYq794r2SQf7I,Gioachino Rossini,"Rossini: Il barbiere di Siviglia, Act 1: ""Largo al factotum"" (Figaro)",classical,G,1,283893,66.759,-19.082,0.22,0.6,0.365,0.0639,0.23,0.955,0.127
+862,nyc,25sXhD6JNUGGPEbGirv0ly,Pete Rock,Give It to Ya,hardcore,F#/Gb,0,288000,95.969,-8.596,0.549,0.688,0.725,0.324,2.18e-05,0.131,0.344
+863,nyc,2sG4GdOgZc1ZsFm7M4JT9J,Cacho Tirao,Hungarian Dance,tango,A,0,169667,134.16,-18.676,0.0781,0.327,0.471,0.0395,0.0537,0.877,0.0939
+864,nyc,5vc2hxK6C28pMhA9MseVRX,Bill Callahan,The Ballad of the Hulk,rock,C,1,244547,90.65,-16.227,0.184,0.172,0.477,0.0409,0.208,0.899,0.101
+865,nyc,6B8KCgzlDi0lXbBdBwsMip,Willie Nelson,First Noel,singer-songwriter,G,1,128226,81.192,-14.679,0.154,0.434,0.482,0.03,0.00631,0.938,0.12
+866,nyc,1n3dj3G3HbagprCGbp0SJy,Joshua Hyslop,Runs & Winds,acoustic,E,1,197427,87.263,-18.311,0.108,0.286,0.484,0.0426,0.000292,0.899,0.114
+867,nyc,2uzFEEq6wNyDMLvL2TrlZw,Lee Morgan,The Cry Of My People,jazz,G,0,323960,100.679,-14.8,0.167,0.186,0.409,0.0313,0.000491,0.937,0.126
+868,nyc,2rLuYTs9zVuCUSCWN4IdNL,Allo Darlin',You Still Send Me,dance,A,1,194320,119.572,-19.124,0.0383,0.262,0.465,0.0399,0.0138,0.91,0.106
+869,nyc,1kRotlWaCLJSrYtdINoMp8,JJ Heller,Calvin and Hobbes,acoustic,C,1,221280,74.889,-10.788,0.152,0.401,0.511,0.0503,0.0,0.914,0.12
+870,nyc,3KeKcTEO8WTd7J4rfJV3wc,Johnny Cash,In The Garden,country,C,1,196067,106.978,-16.036,0.0333,0.327,0.556,0.0479,0.0,0.954,0.117
+871,nyc,7f7FIT7XwcOczg6Zmc3mZG,Tennis,Please Don't Ruin This for Me - Audiotree Live Version,downtempo,A,1,206837,65.015,-12.28,0.339,0.343,0.418,0.0271,0.376,0.864,0.147
+872,nyc,0QffHbft6kFi0HihTEcfUQ,Boyce Avenue,Dare to Believe,acoustic,B,1,290105,101.914,-6.9,0.371,0.503,0.508,0.0327,0.0,0.906,0.165
+873,nyc,1hXYCGl71oFMVnEKmHiFKG,Joseph Haydn,"String Quartet in E Flat Major, Hob.III:2, (Op. 1 No. 2): 1. Allegro molto",classical,D#/Eb,1,230933,104.56,-22.133,0.0554,0.574,0.482,0.0355,0.0485,0.951,0.0973
+874,nyc,7BN061ZPvCOSlezHFchtnf,Toquinho,Cotidiano (No.2),samba,F#/Gb,1,209867,95.134,-18.322,0.25,0.501,0.478,0.0504,0.28,0.993,0.708
+875,nyc,4GqFqXkfUFLW6ipB5eDqNx,Rome,The Ballad of Mariupol,industrial,C#/Db,1,209723,143.938,-13.753,0.264,0.291,0.406,0.0306,0.0345,0.749,0.117
+876,nyc,6JTMvQX0WbcaXIMVFkYyzZ,Mirah,Archipelago,folk,G,1,263213,77.192,-17.535,0.247,0.495,0.51,0.0242,0.21,0.92,0.113
+877,nyc,5iw7hNfBlTGwzRULxLn12a,Josh Garrels,Creation Song,acoustic,A#/Bb,1,170843,73.676,-13.537,0.132,0.254,0.408,0.0337,0.0025,0.925,0.112
+878,nyc,0Km0ae5ypDfPb7AcwE0tRU,India.Arie,I Am Not My Hair,funk&soul,A#/Bb,0,230453,98.261,-8.578,0.5,0.538,0.845,0.225,0.0,0.0336,0.365
+879,nyc,1T19tU6E8IiiqtiLpTZ2U5,The Milk Carton Kids,Milk Carton Kid,folk,D,1,245120,98.498,-21.274,0.0966,0.218,0.533,0.0344,0.0599,0.895,0.106
+880,nyc,7pL0KukXwSDnT9SC9NBMUb,Reinhard Mey,Vaters Nachtlied,k-pop,D,1,174000,80.721,-17.415,0.182,0.46,0.559,0.06,0.00588,0.762,0.0951
+881,nyc,4J7w4JRYJHPQijwXJCN3Iv,Kina Grannis,Naked As We Came,acoustic,A,1,136189,81.806,-19.02,0.162,0.375,0.524,0.0321,1.23e-05,0.946,0.111
+882,nyc,4SVv5HiauPlCfxIq5zI4YY,Vera Hall,Another Man Done Gone,folk,D,1,84333,107.777,-20.31,0.0101,0.395,0.521,0.0529,9.31e-06,0.992,0.164
+883,nyc,29TnlVehySRzIiVP3H2cRg,The Innocence Mission,Over the Moon,ambient,F,1,256480,99.266,-12.556,0.305,0.23,0.382,0.0303,0.119,0.926,0.102
+884,nyc,2E67dHygVZadlsN4cpTsdX,Gregory and the Hawk,The Bolder Thing to Do,folk,D,1,204507,77.275,-14.358,0.15,0.541,0.566,0.0306,0.118,0.907,0.106
+885,nyc,66noEhjjNfgq4KX99OzHAP,Sleeping At Last,Amazing Grace,ambient,B,1,235424,86.655,-15.308,0.108,0.156,0.354,0.0795,0.0,0.942,0.11
+886,nyc,7xIfkdyatsFusFokZhKunX,Daniel Robinson,How Long Will I Love You (Piano Version),acoustic,F,1,148591,118.781,-12.962,0.185,0.43,0.516,0.0651,0.0,0.951,0.0933
+887,nyc,3gJpG7CPmFlTCjiG3xdVEy,Billy Bragg,Black Wind Blowing,folk,A,1,178213,111.357,-13.651,0.121,0.38,0.462,0.0336,2.58e-06,0.903,0.128
+888,nyc,4QnkWi5jg50ZVkzBB3PZ4e,Florist,Red Bird Pt. 2 (Morning),folk,C#/Db,1,326157,81.765,-19.788,0.138,0.103,0.432,0.049,0.0243,0.94,0.129
+889,nyc,3qFVzzraNZJLHKpobfJQ0N,Vestal Goodman,Blessed Assurance,gospel,G#/Ab,1,238360,105.096,-17.559,0.12,0.341,0.432,0.0331,0.0,0.915,0.162
+890,nyc,2EzX9WairqiwOTRJZKx5Wk,Daz Dillinger,Dangerous,funk&soul,C#/Db,1,284305,93.988,-5.771,0.685,0.516,0.769,0.29,0.0,0.0524,0.918
+891,nyc,3co5TvyZZgCAvk12dHzcAT,Vybz Kartel,Everybody,dancehall,A,0,228947,90.568,-5.439,0.836,0.852,0.697,0.347,0.0,0.46,0.0811
+892,nyc,5XnzGZHJsS6siPDViFsK9w,Robynn & Kendy,海闊天空,cantopop,G#/Ab,1,195627,96.47,-8.728,0.164,0.441,0.5,0.0456,0.0,0.939,0.116
+893,nyc,6aVjhJcHJEHygd9HwpxqNL,Tori Amos,The Chase,piano,G#/Ab,0,182320,105.983,-15.613,0.15,0.302,0.563,0.0308,0.0243,0.982,0.178
+894,nyc,2jxqCA2GFOdHevGI8OYWcA,The Boss Hog Barbarians,"Bitch, That Ain't Luv!",other,A#/Bb,0,230987,96.998,-3.981,0.836,0.753,0.8,0.349,0.0,0.607,0.51
+895,nyc,1IMtpozk82XKXhrBOCiWYU,Jamie Cullum,Get A Hold Of Yourself,jazz,G,1,219681,95.983,-15.183,0.319,0.295,0.544,0.0274,0.048,0.866,0.129
+896,nyc,5optwPlfyBy4dq1M12R4U4,Yxngxr1,you remind me of,downtempo,D#/Eb,0,153600,101.151,-11.228,0.131,0.28,0.482,0.0316,0.127,0.857,0.114
+897,nyc,6atnGt1yGeOv7EKzWcuscI,Afroman,U Can Make It,other,B,0,296373,94.224,-7.855,0.418,0.397,0.769,0.356,0.0,0.0317,0.1
+898,nyc,4CANXp58jhVb2faO3Y46rZ,Michael Cerveris,I Don't Love You,other,B,0,202907,84.215,-15.999,0.141,0.326,0.416,0.0651,7.81e-06,0.916,0.345
+899,nyc,2f2Px3p2mj0ysjOtoUrxbG,Leonardo Vinci,Cecchimma fauza,classical,E,1,211160,72.941,-22.835,0.111,0.604,0.458,0.0468,0.0,0.938,0.208
+900,nyc,4JiirF1huZmXab0Lm7RLxX,Jean-Michel Bernard,Générique début,french,D#/Eb,1,100707,93.984,-16.226,0.188,0.508,0.52,0.0609,0.0272,0.937,0.109
+901,nyc,671kmK9hJ5jOTErt9rq4dy,Santanu Sahoo,Hasi Rasi Ghare Chane,samba,B,1,334785,122.674,-9.773,0.274,0.665,0.659,0.0786,0.0,0.555,0.126
+902,nyc,03HTuVmVrbkRtUxwPfWB4U,Caetano Veloso,Sonhos,samba,C,0,181680,120.261,-12.711,0.204,0.565,0.633,0.0806,3.63e-06,0.599,0.114
+903,nyc,1QQxrrABKbx5w4LIphElwb,Guts,Man Funk,electro,A#/Bb,0,233925,92.047,-7.199,0.628,0.678,0.859,0.257,1.29e-05,0.0545,0.319
+904,nyc,4iAVdRDvfOY24LCGxWRkE1,Patrick Watson,Bright Shiny Lights,folk,F,1,154280,99.026,-17.108,0.0788,0.377,0.467,0.0802,0.0,0.84,0.175
+905,nyc,1zepIWSKhNFJpn30RYCtlL,Tito Gobbi,"Il Barbiere di Siviglia (1997 Digital Remaster): La ran la le ra, la ran la la. Largo al factotum",classical,C,1,283893,69.245,-19.111,0.224,0.609,0.369,0.0619,0.312,0.956,0.108
+906,nyc,59OnxWpZ9Cb4u5WNOFR6XI,Giacomo Meyerbeer,"Les Huguenots / Act 1: ""Volontiers, un vieil air Huguenot...Piff paff""",classical,G#/Ab,1,230253,99.456,-16.703,0.195,0.27,0.477,0.105,0.00187,0.972,0.117
+907,nyc,4b4lOhFAs3mXkqublGMKcT,Suprême NTM,On est encore là - IV My People Remix,french,E,1,247773,90.051,-4.698,0.802,0.754,0.673,0.325,0.0,0.366,0.141
+908,nyc,6Hscl6ThIkkCziwwWf68yw,Akwid,Si Pudiera,hip-hop,A,1,284328,95.061,-5.975,0.463,0.43,0.903,0.349,0.0,0.048,0.15
+909,nyc,5nhIed1brrjRWhQbIjxPLm,Georgia Tech Glee Club,Spirit of Georgia Tech,dance,D#/Eb,1,203293,99.692,-14.531,0.213,0.449,0.472,0.0822,0.0,0.96,0.152
+910,nyc,2VDbddQVoU2C3flwGsMy1g,Moby Grape,He,country,D,1,216227,89.294,-18.989,0.204,0.232,0.445,0.0294,0.507,0.8,0.109
+911,nyc,5gfOE5n3zRERtB5gDEJKo2,Tony Molina,Old Enough to Know,garage,A,1,67371,93.331,-18.726,0.149,0.577,0.524,0.0282,0.0412,0.941,0.0966
+912,nyc,61cR1XTBTWW7myzshOy0y1,Lata Mangeshkar,"Chal Dariya Mein Doob Jayen (From ""Prem Kahani"")",pop,A,1,295733,89.372,-11.853,0.377,0.683,0.484,0.108,0.0,0.888,0.0867
+913,nyc,62MrDfPT9voXAkFM05eGT9,Fama,菩提本無異 (feat. MC Yan),cantopop,B,0,256653,93.998,-4.591,0.898,0.714,0.73,0.29,0.0,0.672,0.2
+914,nyc,0j3yH5RkoBDbAGBpszbl7e,Bobby Timmons,We Three Kings,piano,D,0,305760,93.827,-17.862,0.253,0.622,0.507,0.034,0.145,0.947,0.129
+915,nyc,4gb8YzmGantuRMSPsqkoUS,Cameo,Funk Funk,disco,G,1,288467,86.636,-8.557,0.661,0.729,0.83,0.341,1.87e-05,0.378,0.196
+916,nyc,6XDdu1YQ3AjL7T7dbJ2ocC,Matt Herrero,Love Lies,acoustic,F#/Gb,1,209968,106.03,-13.652,0.158,0.379,0.529,0.0392,0.0,0.904,0.187
+917,nyc,3O2odOfAcTitOWuFUC0ceY,Tech N9ne,"My Wife, My Bitch, My Girl",hip-hop,G,1,219813,90.36,-3.827,0.856,0.701,0.721,0.401,0.0,0.455,0.573
+918,nyc,5Uftxvqqbi70QdCpLb0fKu,Sonny Rollins,God Bless the Child,jazz,D,1,445240,102.546,-17.1,0.0685,0.142,0.48,0.0345,0.00513,0.919,0.0766
+919,nyc,6mGl8kRGAqnoKWducKmhOw,Funky DL,Build It Up,downtempo,G,1,257093,91.774,-8.414,0.597,0.737,0.831,0.448,0.0,0.386,0.259
+920,nyc,2t0IZacTLwTZKHf4HhrqG0,Delly Ranks,Gal Sound,dancehall,C#/Db,1,245787,90.028,-7.044,0.73,0.672,0.824,0.303,0.0,0.0452,0.596
+921,nyc,4yNzKTMHMiubMFHZXC8XX6,amiina,Hilli (At the Top of the World) - 10th Anniversary,ambient,C,1,201713,99.451,-16.274,0.27,0.413,0.503,0.0681,0.0399,0.909,0.164
+922,nyc,6r7v8tw1Gt2pZdAJ1Jc7xX,Los Moonlights,"Vivo y Muero por Ti ""Just You""",rock,A#/Bb,1,200973,93.0,-23.282,0.0687,0.357,0.424,0.0281,0.000248,0.918,0.173
+923,nyc,3ssden5zLmKv73Jsa0Jj6t,Lunatic,Le crime paie,french,C#/Db,1,293225,89.016,-8.342,0.543,0.926,0.752,0.318,0.0,0.353,0.0847
+924,nyc,2CbEyPoDsZ9XuiqylphFN5,Tamara Tsereteli,Otrada,other,G,1,134247,102.073,-15.65,0.115,0.53,0.542,0.091,0.292,0.993,0.106
+925,nyc,17LjBrxL3apKvz2TVuwexM,Aníbal Troilo,Un momento,tango,A#/Bb,0,186750,96.939,-20.323,0.178,0.604,0.438,0.0603,0.207,0.988,0.146
+926,nyc,0zFV5qHy51mNJL3dlg39oJ,Richy Mitch & The Coal Miners,3DB,folk,F#/Gb,1,223571,167.63,-13.528,0.357,0.225,0.308,0.0406,0.0301,0.9,0.104
+927,nyc,7lNoxwwg3DOzD1VWf7WxHK,Odezenne,Tic tac,french,E,0,265760,90.644,-6.401,0.792,0.604,0.747,0.368,2.27e-06,0.329,0.251
+928,nyc,3NqnBI1P60hmqXn2DzDbCo,Whalebone,Chalk Heart,guitar,D,0,230156,87.012,-15.568,0.382,0.604,0.431,0.0925,0.0,0.738,0.139
+929,nyc,74bGKxAiaOT7Go9Av3THVv,Dr. John,Careless Love,piano,F,1,434560,87.731,-15.381,0.188,0.276,0.492,0.0322,0.0369,0.964,0.0918
+930,nyc,1vBWNwlvhYLN0jg4E9TXmH,Madeleine Peyroux,Somethin' Grand,jazz,D,1,224213,140.178,-16.77,0.111,0.186,0.397,0.0306,0.00963,0.941,0.0948
+931,nyc,3xJ6v3qRe7f89vFqb4SAWr,Richard Bissill,The First Nowell/ Christmas Carnival (Medley),classical,D,1,338747,94.63,-14.318,0.27,0.386,0.199,0.0326,0.0603,0.894,0.15
+932,nyc,4Ki4zCLUwUPmIbBRZqOCMl,Elvis Presley,In the Ghetto - Take 1,rock,A,1,176280,86.816,-25.528,0.0953,0.281,0.41,0.0348,0.0352,0.906,0.193
+933,nyc,4QuPAjupQXKZHdY2Yje9qv,Traditional,The Birlinn Of The White Shoulders (Iubrrach nan-Guala Geala),other,D#/Eb,1,189960,81.413,-16.309,0.331,0.359,0.348,0.0772,8.8e-06,0.939,0.382
+934,nyc,53b2aH2W6kIgkbuNi9NGAs,Zero 7,Outline (feat. Lou Stone) - Live,trip-hop,B,0,230800,97.865,-11.691,0.239,0.112,0.42,0.0283,0.06,0.706,0.113
+935,nyc,3GIo58Hnl0v1cl3AcW6MF9,Cheer Chen,小小校歌,singer-songwriter,C#/Db,0,83440,68.428,-15.601,0.174,0.35,0.535,0.0433,0.000645,0.903,0.107
+936,nyc,40GRJBeHKroMtWwGX9EFyQ,Rex Orange County,Untitled,pop,A,1,135707,83.827,-9.601,0.199,0.329,0.568,0.101,0.0,0.905,0.131
+937,nyc,1FCBUTcKUTeRyQ1cgRMdn1,Baden Powell,Castigo - Punishment,samba,F,1,182760,82.128,-22.352,0.066,0.319,0.409,0.0408,0.00169,0.931,0.134
+938,nyc,6sKcSNpxzbFsOHuCvOACrW,Oleg Pogudin,Затворница,other,G,1,160533,100.304,-19.838,0.086,0.503,0.569,0.0522,0.0,0.894,0.108
+939,nyc,1eVJdkvFvxb04zzhECl5mZ,Girlboy Girl,Ignition,dance,D,1,228187,78.329,-14.203,0.263,0.278,0.4,0.0354,0.0386,0.311,0.117
+940,nyc,5wdRIiXrU7knEHeBlOCOJy,Ron Kenoly,God Is Able,gospel,C,1,250400,90.317,-7.002,0.816,0.758,0.67,0.185,0.0,0.425,0.948
+941,nyc,1GXF5ZA66jl1MvuW3B2UGt,Mikkel Metal,Rodd,dub,A,0,333307,85.373,-19.399,0.267,0.603,0.457,0.0527,0.427,0.437,0.0945
+942,nyc,3onycGcXENXzRke49yNQvI,Karrin Allyson,April Come She Will,jazz,A#/Bb,1,194173,76.999,-15.604,0.198,0.399,0.574,0.0344,0.0509,0.961,0.125
+943,nyc,30nckYPABarwP1tgpdbA4C,Bigflo & Oli,Tandem,french,C,0,296289,88.866,-8.891,0.641,0.593,0.717,0.388,0.0,0.398,0.217
+944,nyc,2FaquTc3FYvNm7RuO1gD6O,Tulus,Langit Abu-Abu,jazz,D,1,202951,100.593,-10.7,0.133,0.366,0.485,0.058,0.0,0.91,0.106
+945,nyc,0ypCzxUO2XFAhJUxIlSG9V,G-Unit,Ready Or Not,hardcore,C#/Db,1,218507,89.067,-3.423,0.835,0.751,0.749,0.352,8.14e-05,0.603,0.0526
+946,nyc,3D6E5fx1Pa5rEljUPAgYQg,Sixième Sens,Ghetto Citoyens,french,B,0,255687,90.124,-4.686,0.806,0.855,0.595,0.339,0.0,0.441,0.243
+947,nyc,388G6v6wV2721lz8cXzl1B,Jorge Vidal,Mientras viva,tango,F,0,181022,95.843,-18.118,0.2,0.603,0.545,0.0646,3.99e-06,0.819,0.362
+948,nyc,2ai9spM4SLf7tMbsFv2mpu,Johann Sebastian Bach,"Harpsichord Concerto No. 1 in D Minor, BWV 1052: I. Allegro",classical,C#/Db,1,457760,102.931,-17.682,0.379,0.545,0.423,0.0294,4.1e-06,0.601,0.0977
+949,nyc,5mwuNFeJ2R29kilbmMMORY,Pyotr Leshchenko,"Пой, цыгане",other,G#/Ab,0,216594,112.485,-16.126,0.156,0.343,0.512,0.0996,0.0,0.927,0.467
+950,nyc,5HrrhfBvCXRxmklfql9pYu,Kamehameha Alumni Glee Club,Maile Lei,dance,F#/Gb,0,161267,92.914,-17.458,0.0702,0.197,0.575,0.031,0.0215,0.958,0.106
+951,nyc,0MIqB2F979ng3e9fLKEAt6,Angelo De Augustine,"You Needed Love, I Needed You",folk,D,1,205657,88.613,-13.981,0.18,0.537,0.523,0.0429,0.00537,0.93,0.109
+952,nyc,1vx0XNUpmrALy5N9SN4GP5,Kuipers & Winter,"O Come, O Come, Emanuel",jazz,F,0,129349,116.803,-16.737,0.154,0.261,0.502,0.0452,0.0137,0.894,0.0974
+953,nyc,0qLljKHqotNMhwfbGbqLxc,Justin Timberlake,Sexy Ladies (feat. 50 Cent) - Remix,dance,F#/Gb,1,230707,99.904,-5.754,0.551,0.721,0.879,0.322,5.76e-06,0.0444,0.283
+954,nyc,1HiJ7iacnc1kFWHpc3HRoU,Cuco Sánchez,Que Manera de Perder - Remastered,guitar,F,1,140507,109.628,-12.971,0.0966,0.441,0.523,0.0459,0.0,0.937,0.0844
+955,nyc,4EzVsSkEdO7JJRe80MxtQk,Egg,sorry haha i fell asleep,indie,C,1,157523,113.631,-21.552,0.0583,0.403,0.519,0.0784,0.0,0.988,0.17
+956,nyc,46gvG4Btf56iVXysXR3KLn,Laufey,Hi,singer-songwriter,G,1,193573,113.484,-15.298,0.112,0.332,0.466,0.0519,1.02e-06,0.967,0.108
+957,nyc,3bRoSfArnWpLevhMBrI0V3,The LOX,Bring It On,hardcore,F#/Gb,1,285600,88.27,-4.395,0.809,0.759,0.714,0.395,0.0,0.321,0.789
+958,nyc,0BZJHyA9chUbrXcdhvapma,Libertad Lamarque,Cuando Se Quiere De Veras,tango,C#/Db,1,171467,78.75,-18.812,0.114,0.446,0.318,0.0541,0.0,0.942,0.126
+959,nyc,0daO3mhf7lmqH1vNsGEFCJ,Jeffrey Foucault,Pretty Hands,alt-rock,A#/Bb,1,140493,87.855,-18.439,0.131,0.419,0.517,0.0344,0.0984,0.926,0.151
+960,nyc,3E0hq6VrjYdWAb4HFxZFsr,Jailbird Singers,"Precious Lord, Take My Hand",swedish,F,1,181627,72.81,-15.863,0.167,0.175,0.359,0.0316,0.0363,0.885,0.129
+961,nyc,1WLnIJ20IS9moFgO7IEfN7,Elizabeth Cotten,"Fare You Well, My Darling",blues,C#/Db,1,122880,113.331,-12.504,0.198,0.672,0.528,0.0323,1.85e-06,0.943,0.126
+962,nyc,2tqoJQbv6dNNOi0PCCjuse,JAY-Z,Smile,hip-hop,F,0,289853,99.878,-8.752,0.57,0.467,0.779,0.469,0.0,0.303,0.218
+963,nyc,2RdmP22hBTlZwSfP7pP4Cs,Rolando Laserie,Tenia Que Ser Asi,salsa,F#/Gb,0,191667,103.792,-14.036,0.212,0.486,0.505,0.0399,0.182,0.706,0.107
+964,nyc,0iw6suGb1nV6955UDz2abf,Late,Wonderful Feeling Tricksta Remix,dubstep,G,1,243027,87.014,-10.503,0.474,0.544,0.859,0.261,0.0,0.663,0.241
+965,nyc,6tMwheKgpMHBcHtr8aYMn8,girl in red,watch you sleep.,indie,D,1,180226,132.997,-16.379,0.221,0.374,0.456,0.0307,0.00527,0.932,0.0963
+966,nyc,57j0NogTl3yHCXx8gGWkFY,The Carter Family,The East Virginia Blues,country,F,1,165467,96.662,-13.907,0.293,0.362,0.543,0.0276,0.0514,0.95,0.151
+967,nyc,1Eo3l5w6mFm4cbPOXwPoJM,Vidya Subramanian,Kaalaharana_Suddhasaveri,indian,A,1,321072,78.367,-19.315,0.0916,0.623,0.429,0.157,1.68e-06,0.916,0.164
+968,nyc,6DLkjC52CfzMfSa1OY0Wao,Harry James,Guess I’ll Hang My Tears out to Dry,jazz,G#/Ab,1,197016,82.74,-12.285,0.179,0.452,0.388,0.0315,0.00167,0.951,0.141
+969,nyc,6Io5TW0gliTyIZIssh5vS5,The City of Birches,Silent Dreams,jazz,C,0,248038,112.87,-18.31,0.0521,0.246,0.398,0.0367,0.163,0.967,0.109
+970,nyc,4sI9Dvb6vVDZVrlXcBy402,Andrew Lloyd Webber,You Can Get Away With Anything,other,B,1,259533,109.527,-16.658,0.125,0.31,0.514,0.158,0.0,0.909,0.0901
+971,nyc,20HzkSXHbkW5cuF7AvOqVy,Warren G,Regulate - Duomo Remix,funk&soul,E,0,257993,95.395,-10.333,0.577,0.686,0.796,0.201,4.97e-06,0.438,0.342
+972,nyc,51B5GQpXd7c8AdW015pZWw,Georg Philipp Telemann,Alster Overture: I. Overture,german,E,1,329439,131.207,-18.829,0.156,0.222,0.442,0.0409,0.474,0.954,0.109
+973,nyc,3gJD1Nrfmwa5ML51uW1scX,Johnny Cash,Farther Along,country,A,1,176427,135.417,-20.415,0.0553,0.235,0.511,0.0431,0.0107,0.937,0.107
+974,nyc,0IEGDguaRRqXWzckqo8yUv,Norman Hutchins,A Move of God Is on the Way,gospel,G#/Ab,0,288800,91.998,-3.437,0.939,0.549,0.657,0.31,0.0,0.608,0.271
+975,nyc,6wtVkfcPXwr3nJ0jf411Dt,Feodor Chaliapin,"Ah, I am suffocating (sung in russian) (Boris Godunov)",other,G#/Ab,1,249267,96.535,-20.956,0.0654,0.278,0.408,0.0638,0.00226,0.895,0.121
+976,nyc,3AdZnnAFZhHQgajEq3YyDP,Broadway Project,Run 'Em Down,trip-hop,A#/Bb,0,112640,95.976,-9.224,0.76,0.741,0.8,0.22,3.2e-05,0.00115,0.134
+977,nyc,6iqDsVcJghyQ1DdQcUR5ic,Gallego,Angel,hip-hop,E,0,247947,90.01,-3.936,0.687,0.897,0.772,0.296,0.0,0.279,0.29
+978,nyc,6mPaECu1fdjdMF9d1x1Lkw,SFDK,Una de piratas,spanish,A,0,232147,91.95,-6.14,0.939,0.815,0.721,0.362,0.0,0.433,0.121
+979,nyc,0yMWR3r2t7yO3znAQkMu5y,The Toilet Bowl Cleaners,Corn In My Poop,other,D#/Eb,1,116920,94.056,-15.124,0.151,0.471,0.529,0.0463,0.0,0.818,0.148
+980,nyc,68fLJDPMqy7xVBPZW08xAS,Angelo Badalamenti,Just You,jazz,C,1,216000,172.61,-15.732,0.259,0.118,0.391,0.0301,0.00992,0.819,0.1
+981,nyc,3KEh7kUTfPQ7oceOyadDFZ,Lamp,冬の影は哀しみ,pop,E,1,192693,134.113,-14.319,0.14,0.27,0.349,0.035,0.0765,0.957,0.107
+982,nyc,4UbYZ2zXMHuIyXhSKsFULv,Leon Lai,好像在我耳旁,cantopop,F,0,204573,79.981,-14.764,0.118,0.345,0.509,0.0289,0.00166,0.881,0.127
+983,nyc,1VCLebfSBPVcphzJyff02N,Joel Grey,Be Like the Blue Bird,other,D,1,213800,98.432,-18.271,0.0299,0.361,0.537,0.0663,0.0,0.866,0.13
+984,nyc,6wQXjA6KWbwPT3ydQCsJ4P,Clairo,Bambi,indie,A,1,277400,83.768,-14.566,0.196,0.281,0.436,0.0284,0.0023,0.904,0.107
+985,nyc,3UouchP78Vima0dabIi3kz,Web Web,Satori Ways,german,A#/Bb,0,336774,79.268,-11.385,0.346,0.273,0.406,0.0323,0.189,0.979,0.115
+986,nyc,2vuHoT2Xd2kdCszb9djmLe,Eva Cassidy,I Wish I Was A Single Girl Again,folk,A,1,149027,97.047,-10.542,0.13,0.146,0.484,0.0307,0.00219,0.896,0.108
+987,nyc,0alVtY8P6oB4yXb57PxkZt,Buddy Holly & The Crickets,Gone - Undubbed Version/Alternate Take,rock,G,1,74440,99.932,-17.545,0.0576,0.308,0.56,0.0316,0.142,0.995,0.0945
+988,nyc,10tDdKrBWqVV94QFuJ9zsu,Holly Throsby,We're Good People but Why Don't We Show It?,singer-songwriter,G,1,224827,96.849,-13.863,0.108,0.349,0.464,0.0285,0.00129,0.946,0.113
+989,nyc,5vvQAmq4LXw68VIQRutqQp,Matthew Barber,Our Voices,singer-songwriter,E,1,206520,138.66,-11.203,0.205,0.148,0.402,0.0287,0.00849,0.904,0.104
+990,nyc,0HFWS5C6ThNeuOr10Xz21U,Tommy Dorsey,Polka Dots and Moonbeams,jazz,D,1,199733,82.938,-23.702,0.0329,0.342,0.456,0.0532,7.85e-05,0.956,0.152
+991,nyc,6cnKJivfuhJsmh0XD8YdXl,Cláudio Lacerda,Herói sem medalha,sertanejo,A,1,222347,90.359,-11.337,0.181,0.461,0.472,0.0561,0.0,0.939,0.153
+992,nyc,1QnEXE3kMVF5BmsyWMGN9g,Fabolous,Breathe,hardcore,A#/Bb,0,268960,83.03,-5.586,0.91,0.51,0.712,0.282,0.0,0.34,0.304
+993,nyc,3bGTcVtSFk634l7lkUvUx3,Metropolitan Opera Orchestra,Delle Faci festanti al barlume (Simon Boccanegra),classical,A#/Bb,1,247067,83.421,-14.695,0.21,0.268,0.35,0.0569,0.047,0.994,0.108
+994,nyc,28F1LXLVbrJX9rC5bDDqgL,Susan Boyle,The Christmas Waltz,classical,C#/Db,1,155440,109.729,-13.861,0.0923,0.28,0.416,0.0324,2.15e-06,0.922,0.124
+995,nyc,629CLdr6UnjnZcLieVQ0SD,Myriam Alter,Catch Me There,swedish,C#/Db,1,236600,108.253,-15.649,0.226,0.249,0.453,0.0422,0.201,0.848,0.0953
+996,nyc,4z6qtN4iZ7MPVZYCtiSgsM,Suki Waterhouse,Brutally,indie,G,1,208105,92.485,-11.616,0.193,0.221,0.55,0.0268,0.0116,0.898,0.117
+997,nyc,1P5y5njqYWr5qXnvSTKTij,Jonny Greenwood,No Other Love (feat. Jo Stafford),ambient,G#/Ab,1,177853,98.185,-15.772,0.0585,0.236,0.418,0.0329,0.00287,0.975,0.115
+998,nyc,5aoD8488HdJaqKvAntFCpd,Ray Price,Night Life,country,E,0,284933,95.685,-14.0,0.246,0.325,0.519,0.0319,0.00505,0.88,0.144
+999,nyc,7wIdmVkU6OVbCUNsbF8U0D,Billie Holiday,Easy Living,blues,G#/Ab,1,182253,89.155,-13.936,0.172,0.721,0.522,0.0747,6.52e-05,0.962,0.109
+1000,nyc,7IrmgUGkxCnFThgDuiybcE,Sofia Karlsson,Näckaspel,swedish,D,1,179547,79.019,-17.187,0.141,0.275,0.364,0.0334,0.369,0.966,0.111
+1001,nyc,1IdFklyYF2Wpw0LDaqI6lI,Celtic Woman,Walking in the Air,classical,D,0,209293,105.088,-13.21,0.198,0.0955,0.418,0.029,0.00913,0.902,0.143
+1002,nyc,0114oKI10F6RUoRneuI3Pm,Joshua Radin,Here's Where We Begin,acoustic,C#/Db,1,174907,104.669,-13.336,0.208,0.196,0.344,0.0295,0.0469,0.901,0.116
+1003,nyc,6VnLn1tg0c8H8QpwPADBaz,The National,The Rains Of Castomere,rock,D,0,144253,94.685,-23.069,0.096,0.204,0.416,0.0331,0.135,0.637,0.123
+1004,nyc,0ZtT0qCjPuyUkPFsPLkbvB,Tommy Emmanuel,Mona Lisa,guitar,D,1,230507,84.132,-18.269,0.156,0.272,0.345,0.0385,0.333,0.903,0.115
+1005,nyc,5N4NwAf8vUYD5MZ6vjE7Pt,Horacio Molina,Fruta Amarga,tango,E,0,203627,114.442,-16.012,0.164,0.453,0.5,0.0587,2.72e-05,0.978,0.146
+1006,nyc,6xGLGAAeHRwUwlwN3NfdOd,Horacio Molina,La Noche Que Te Fuiste,tango,F,0,210333,101.506,-13.796,0.184,0.547,0.464,0.0546,0.0,0.882,0.131
+1007,nyc,5HjLsABVuN6rEhoYi75vSz,Fritz Kreisler,Kreisler: Prelude and Allegro in the style of Pugnani,classical,E,0,327707,106.25,-14.495,0.333,0.492,0.409,0.0451,0.287,0.953,0.11
+1008,nyc,3CM4J7Bh0IA1vhKK8a9ZkY,Carlos Di Sarli,Quien Sino Tu,tango,A,1,199361,110.222,-18.663,0.135,0.231,0.378,0.0413,0.335,0.987,0.119
+1009,nyc,778RwnH1X3WkmCY5JHevnY,Young Buck,I Ain't Fucking Wit U!,hardcore,B,0,232173,91.537,-7.39,0.72,0.667,0.752,0.325,0.0,0.474,0.364
+1010,nyc,5xJqqzxBCCpiwCZWfrFkLd,Aron Wright,Welcome Back to You,acoustic,C,1,187765,116.308,-12.53,0.225,0.283,0.382,0.0394,0.0052,0.885,0.11
+1011,nyc,0dek7j9953VMv9X36ZzdSk,Mississippi John Hurt,Joe Turner Blues,acoustic,G,1,211627,85.214,-18.49,0.193,0.755,0.546,0.0364,0.0322,0.908,0.103
+1012,nyc,0rYEPuPBARyWfEcWF0canG,Nils Landgren,"The Moon, the Stars and You",swedish,B,1,208067,66.626,-16.295,0.166,0.18,0.446,0.0302,0.00176,0.925,0.111
+1013,nyc,1iXc0JgobSzRt5ZtccFWJd,Fabian,Turn Me Loose,rock,F,1,156693,94.996,-20.66,0.098,0.538,0.449,0.0315,1.23e-05,0.911,0.113
+1014,nyc,5k4Y3pLqHV7F2PUHL9ZQWl,Moby,Wait for Me,electro,E,0,253547,164.027,-12.734,0.333,0.194,0.306,0.0325,0.0869,0.922,0.101
+1015,nyc,3qDpYCA6FoVvODVaZWScXO,Immortal Technique,Point Of No Return,hardcore,G,0,241827,86.971,-6.995,0.836,0.501,0.624,0.383,0.0,0.277,0.294
+1016,nyc,06I1cJikzztf7HaMhPqp6z,Willard Grant Conspiracy,Untethered,goth,A,0,269640,94.701,-15.909,0.124,0.289,0.511,0.0274,0.13,0.828,0.107
+1017,nyc,1Ccff2WheIbIySgpsGv6GJ,Mississippi Fred McDowell,You Got to Move,acoustic,E,1,207240,66.459,-20.0,0.0879,0.339,0.466,0.107,0.13,0.952,0.362
+1018,nyc,5WHsa2d0VhV4Dog4vhIYUH,Black Star,Little Brother,hardcore,A,0,241533,91.367,-5.199,0.819,0.886,0.719,0.252,0.0,0.384,0.21
+1019,nyc,1IrTK6vda6vZcNoUI6sBLI,Fashawn,"Sunny CA (feat. Co$$, Mistah F.A.B.)",funk&soul,C,0,340222,90.162,-9.297,0.435,0.715,0.74,0.494,0.0,0.471,0.932
+1020,nyc,4XTtagBXB7BhHHGHfM11bD,Gaetano Donizetti,"La fille du régiment, Act I: Cavatine. ""Ah ! Mes amis, quel jour de fête !"" (Tonio)",classical,A#/Bb,1,229547,88.455,-13.439,0.276,0.233,0.369,0.0724,0.0231,0.943,0.0938
+1021,nyc,4jDQkkYIl9VvskbfPMEiAW,Bill Staines,Andie's Air,folk,E,1,187787,74.465,-9.799,0.213,0.323,0.461,0.0286,0.205,0.9,0.101
+1022,nyc,0iKd27Prukw9ywbO1KSssk,Prasant Radhakrishnan,Varamu,indian,D#/Eb,1,432917,76.343,-18.864,0.0739,0.472,0.492,0.0768,0.336,0.993,0.109
+1023,nyc,2eWq5ONGFPhtXfcwJHPJmp,Rosanna Falasca,El Último Café,tango,G,1,166173,92.156,-14.239,0.108,0.373,0.545,0.0565,0.0,0.981,0.125
+1024,nyc,1BXewfrg2c5Cd4qQfsTHwY,Battlefield Band,Whaur Will We Gang? / March Of The Ceili Man,folk,D,1,201040,95.351,-12.255,0.268,0.459,0.482,0.0289,0.0,0.905,0.202
+1025,nyc,17L3NwFKJSGKo4Sx0qVIib,Johann Sebastian Bach,"Concerto for 2 Violins, Strings and Continuo in D Minor, BWV 1043: I. Vivace",german,D,0,242760,91.134,-17.873,0.257,0.583,0.508,0.0524,0.00542,0.954,0.175
+1026,nyc,7az64rQ7U6h6AdZ2l7XQ5r,Johann Sebastian Bach,"Nun danket alle Gott, BWV 192: II. Aria. Der ewig reiche Gott (Soprano, Basso)",classical,C#/Db,1,185053,74.451,-21.294,0.0747,0.541,0.459,0.0359,0.0288,0.958,0.14
+1027,nyc,76hgYYRAswwLG3zacmYKBY,Enoch Daniels,Tere Chehere Se Nazar - Instrumental,indian,D#/Eb,1,310400,86.771,-11.896,0.422,0.555,0.442,0.0331,0.0168,0.863,0.115
+1028,nyc,4EfhKpyFYREIDM7HEo7DKw,Eels,It's A Motherfucker,alt-rock,A#/Bb,1,131733,60.569,-16.491,0.137,0.32,0.454,0.0359,0.281,0.916,0.112
+1029,nyc,5MQ3Pj7dK79MGyUJx0u901,The Coasters,Moonglow,rock,G#/Ab,1,127133,114.801,-15.711,0.228,0.516,0.48,0.0545,0.0,0.505,0.107
+1030,nyc,0suZl5eDdKGdYtIPGcalbW,Antonio Vivaldi,"The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 ""Spring"": I. Allegro",classical,D#/Eb,1,202333,112.163,-14.293,0.214,0.265,0.497,0.0407,0.0625,0.858,0.0953
+1031,nyc,6DrGYCPqI6xUwXHsGr35C0,Cottonwood Firing Squad,deer in tail lights,garage,E,1,151536,170.064,-17.668,0.161,0.378,0.402,0.0339,0.234,0.944,0.11
+1032,nyc,0WC2VyrR34MRB0ABGfqyhn,Black Rob,Spanish Fly (feat. Jennifer Lopez),hardcore,F#/Gb,0,243400,96.907,-5.624,0.869,0.527,0.783,0.225,0.0,0.0414,0.263
+1033,nyc,0uOY0dEAZNbTSDGUosgcYy,Elvis Presley,Without Love (There Is Nothing) - Takes 2-4,rock,D,1,240520,108.897,-17.16,0.175,0.386,0.386,0.0347,0.131,0.948,0.104
+1034,nyc,3icR9JafZdxFmSat5EyZLs,Damien Jurado,Desert,country,D,1,177213,86.533,-16.762,0.159,0.341,0.375,0.0347,0.266,0.892,0.1
+1035,nyc,36nutidtBA0yXHCA86Q7cx,Peter Bradley Adams,London Bridge Is Falling Down,acoustic,D,1,257579,85.388,-12.631,0.252,0.292,0.341,0.0289,0.0202,0.86,0.107
+1036,nyc,1hNVH7tOrIRecHOzH2YSGm,Tommy Steele,There Are Those,rock,D#/Eb,1,152520,107.319,-18.33,0.177,0.571,0.546,0.0942,0.0,0.95,0.162
+1037,nyc,5LeGT0ziFpK3Skvr6jwIgF,Sufjan Stevens,Holland,pop,D#/Eb,0,206373,115.627,-15.893,0.181,0.207,0.572,0.0313,0.00894,0.914,0.109
+1038,nyc,0SaDDLkIrTUc8Xg9Z25dE9,Gram Parsons,The Last Thing on My Mind,singer-songwriter,B,1,224453,74.84,-17.997,0.0864,0.369,0.313,0.0418,0.187,0.935,0.118
+1039,nyc,1UTeUWRlm9AJi0JJpkwQfR,Astor Piazzolla,Histoire du Tango: Bordel 1900 (Arr. for Violin and Guitar by D. Bolshoy) [Live],tango,A,1,239935,80.671,-15.681,0.284,0.538,0.472,0.0558,0.475,0.891,0.271
+1040,nyc,6l6tcU5l2z3wofxwxk4P3B,Ambient Music Tribe,Nature Music (Nature Sounds - Relaxing Piano Music),other,A,0,222169,80.384,-21.73,0.11,0.252,0.389,0.0567,0.0527,0.955,0.206
+1041,nyc,3NefzEhhlTfqqOMobaafln,The Alchemist,Dead Bodies,hip-hop,A#/Bb,1,260333,89.644,-5.125,0.677,0.813,0.663,0.359,0.0,0.482,0.746
+1042,nyc,1enQX9sYqdLb4BJdFqHZ1P,PA Sports,100 Bars Reloaded,german,F,0,287013,89.097,-2.931,0.951,0.805,0.574,0.363,1.68e-06,0.475,0.118
+1043,nyc,7M5XR7MM57NX5Vf4ReHHR3,Traditional,Keep Your Lamps! (arr. A. Thomas),other,C,1,224000,85.513,-25.457,0.0802,0.263,0.45,0.0305,0.0188,0.985,0.0903
+1044,nyc,1wqMnhM465eQD3Crd7FAnI,Zhenya Shevchenko,Журавли,other,G,0,260720,117.235,-15.88,0.412,0.611,0.426,0.0567,4.74e-06,0.861,0.165
+1045,nyc,7ERbXAWYsgmKBnm2qMnEoQ,Clementine Duo,Let It Snow! Let It Snow! Let It Snow!,acoustic,D,1,147054,99.477,-12.798,0.118,0.556,0.5,0.0332,0.0,0.941,0.0911
+1046,nyc,31PvNbmMmp0mhMBXlNSUC9,Moacyr Luz,Medalha de São Jorge,samba,E,1,199200,102.958,-12.812,0.182,0.485,0.509,0.0466,3.73e-05,0.932,0.111
+1047,nyc,5UN5raUFEfBiaVwO3dWGi6,Swing,冰河時期,cantopop,F#/Gb,0,229150,72.851,-13.277,0.25,0.0861,0.401,0.0305,0.00443,0.918,0.106
+1048,nyc,7lBAzi2nJYpwbt8jaDWqmW,The Weepies,Backstreets,acoustic,D,1,222650,100.857,-12.578,0.175,0.476,0.577,0.0468,0.0,0.911,0.112
+1049,nyc,2z1fNlfJ3aFqLVmgRs64cP,Wiz Khalifa,The Check Point,dance,F,0,245185,84.907,-5.494,0.691,0.485,0.72,0.265,0.0,0.456,0.284
+1050,nyc,6PgBQrwXeKFzFSu19auiCn,Joshua Radin,Brand New Day (Acoustic 2020),acoustic,G#/Ab,1,190105,88.928,-16.528,0.122,0.561,0.553,0.034,0.0604,0.873,0.111
+1051,nyc,1cSS9lKgxIVo2Tj5Oh735D,Bob Dylan,"Pretty Saro - Unreleased from ""Self Portrait"" Sessions",country,G,1,136667,100.745,-11.818,0.142,0.453,0.574,0.0306,0.00129,0.948,0.11
+1052,nyc,7sIo6PV0QhGdla38aeWFaK,Rohff,On fait les choses,french,F#/Gb,1,292000,92.726,-6.875,0.654,0.734,0.734,0.446,0.0,0.0441,0.28
+1053,nyc,6kYCWl1om05qDQkAiGymIm,The Last Town Chorus,State Fair,acoustic,A,0,301533,102.676,-13.055,0.116,0.0389,0.379,0.0302,0.00587,0.954,0.0981
+1054,nyc,2AHod6dzWIEHvcr6rh3rQw,Afroman,Crazy Rap,other,A,1,353567,99.013,-7.464,0.371,0.527,0.925,0.406,0.0,0.357,0.132
+1055,nyc,2bVZY3gMJWP526Z1M5Kkv1,Sonya Hedenbratt,Det luktar litet barn här,swedish,C#/Db,1,128600,87.305,-16.06,0.0673,0.177,0.534,0.0569,2.8e-06,0.913,0.113
+1056,nyc,4l2fpkIEUWv7G9DNp9M2nr,Bailey Rushlow,You're Still The One - Acoustic,acoustic,D,1,161306,119.836,-11.388,0.168,0.398,0.605,0.0496,0.0,0.887,0.12
+1057,nyc,6ehmZZKedmspG1T7B5iIhS,Geraldo Azevedo,O Ciúme,samba,F,1,242187,114.625,-12.715,0.154,0.262,0.472,0.0361,0.0778,0.916,0.101
+1058,nyc,57o3UjNOuW8CRWGcsUND91,Danú,Fair And Tender Ladies,dance,A,1,268200,94.516,-17.464,0.0995,0.324,0.454,0.0304,0.0123,0.891,0.189
+1059,nyc,7zz3ezo2E8fcurzviw3uzP,The Fleetwoods,Mr Blue,rock,E,1,144627,98.879,-17.254,0.097,0.196,0.471,0.0326,0.00281,0.975,0.106
+1060,nyc,3CzD523cRqHVAIDInIuYgd,Anthony Amorim,The Marks You Made,other,F,1,239758,86.258,-13.679,0.191,0.387,0.555,0.0298,0.0263,0.966,0.113
+1061,nyc,3mPpMTrFnCxuBRO96HhSdF,Maurane,Petites minutes cannibales,french,A#/Bb,1,173453,108.57,-16.472,0.0923,0.232,0.501,0.0425,0.0,0.949,0.0995
+1062,nyc,2J58WGnkfm7jNdB7yN20Zj,Georges Bizet,Bizet: Carmen: Melons! Coupons! - Act Three,french,A,0,197600,113.806,-20.55,0.181,0.222,0.4,0.0652,0.0653,0.988,0.12
+1063,nyc,7jpYJGWr8zCxCXZU1TsreD,João Gilberto,Você Vai Ver,samba,D,1,176360,76.323,-22.87,0.056,0.516,0.451,0.103,0.0751,0.934,0.111
+1064,nyc,7k8IgzDqaata6XJw91yqub,Demon One,La Danse Des Leurs-Dea,french,F#/Gb,0,258973,91.543,-5.424,0.903,0.76,0.787,0.315,0.0,0.173,0.567
+1065,nyc,5WNOLg42oRfLvA3S8tsf6a,Makei,Camelot,spanish,D,0,251933,84.985,-6.992,0.573,0.672,0.754,0.346,0.0,0.684,0.11
+1066,nyc,5Ty8xP03DSiuP2jsHd2rgE,Aled Jones,Make Me A Channel Of Your Peace - Instrumental,classical,D#/Eb,1,217000,88.166,-16.055,0.125,0.262,0.341,0.0555,1.15e-06,0.944,0.0997
+1067,nyc,1UJMQtiCSotiEyEvB65Na1,Joe Lovano,Seeds Of Change,jazz,G#/Ab,0,313693,87.25,-20.593,0.0452,0.219,0.336,0.033,0.086,0.987,0.16
+1068,nyc,4pwtxMzBvtkztBBFPLJveu,Julie Andrews,Poor Butterfly,other,F#/Gb,1,211507,82.477,-19.531,0.207,0.386,0.364,0.115,3.99e-06,0.952,0.376
+1069,nyc,7DuTzAiLLZtDJVKBnOOVLi,Mississippi John Hurt,Moaning The Blues,acoustic,A,1,194760,93.856,-20.781,0.207,0.606,0.56,0.0351,0.00838,0.88,0.109
+1070,nyc,1Iurdr6ld38tYZZDPZLdI5,Dorival Caymmi,O Bem Do Mar,samba,D#/Eb,1,186520,71.162,-8.204,0.0719,0.337,0.55,0.0504,1.91e-06,0.953,0.114
+1071,nyc,45xUPDppYq9dz7axz9asvJ,Fruit Bats,Blue Parachute,indie,D,1,165849,113.039,-15.359,0.223,0.372,0.611,0.0321,0.0952,0.894,0.106
+1072,nyc,4DrN2rPxVedybmEsYlAgGY,Imaginary Future,Wild World,folk,G,1,159120,62.275,-15.754,0.0974,0.322,0.606,0.0437,0.0,0.946,0.114
+1073,nyc,0xMISN0fJiljN31gzZ3FCJ,Avery Lynch,to love someone else (as written),singer-songwriter,C#/Db,1,230244,94.214,-15.056,0.121,0.362,0.61,0.0558,0.0,0.956,0.221
+1074,nyc,5aS6eku2Klhl8k2VYnE5cd,Anja Garbarek,The Gown,trip-hop,A,0,201827,91.241,-16.648,0.225,0.258,0.53,0.0283,0.0152,0.571,0.124
+1075,nyc,4bVuxe743nv1brms5hHGEg,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act I: No. 5, Hm! hm! hm! hm!",classical,A#/Bb,1,346933,101.14,-26.863,0.0595,0.356,0.462,0.0601,3.29e-06,0.959,0.127
+1076,nyc,04GUB4wzvL5ohgJeOnWKp4,Feodor Chaliapin,Don't Order To Masha,other,C#/Db,1,220933,91.359,-16.312,0.0336,0.308,0.457,0.0592,4.56e-06,0.995,0.104
+1077,nyc,7kVBQPGn9w01le2RVpUp3m,The Sidewinders,Dangerous Dan McGrew,dance,A#/Bb,1,159507,79.721,-15.859,0.249,0.517,0.501,0.104,0.0,0.932,0.101
+1078,nyc,5Sc9YVtlAQ6PbrB7BmU2VU,Paul Simon,The Teacher,singer-songwriter,F,0,224907,158.141,-14.9,0.282,0.341,0.407,0.0351,0.0065,0.954,0.109
+1079,nyc,05uWbtOgtiXwQ21OHXWY4D,Алёша Димитриевич,"Эх раз, еще раз",other,A,1,343507,104.027,-15.534,0.35,0.45,0.536,0.122,4.52e-05,0.908,0.0909
+1080,nyc,2zjt2hHBbiv5SuxYg8Z7eP,Cyndi Lauper,Girls Just Want to Have Fun,pop,F#/Gb,1,238120,120.465,-5.269,0.788,0.746,0.707,0.0333,0.000571,0.214,0.308
+1081,nyc,3TitB6YQ5DQdAN8JWpXZ8F,Priscilla Ahn,Lost Cause,acoustic,E,0,249613,95.599,-13.485,0.155,0.197,0.435,0.0271,0.000723,0.936,0.112
+1082,nyc,39rwqnL9CEilTy1bCnUaba,Antonio Sartorio,Act I: Scene 13 - Vaghi fiori,classical,A,1,89400,84.206,-26.115,0.0233,0.409,0.292,0.0594,4.11e-06,0.962,0.14
+1083,nyc,6tcdlFjnp9Yuu16UfHPaiO,Max Bruch,"Violin Concerto No. 1 in G minor, Op. 26: 3. Finale (Allegro energico)",german,G,1,436413,92.581,-15.682,0.216,0.316,0.34,0.0402,0.212,0.91,0.0414
+1084,nyc,1X4573FfMzT0LdfNIc41nm,Jonathan McReynolds,Mary Did You Know,gospel,E,0,180685,100.547,-6.583,0.164,0.372,0.425,0.033,0.0,0.909,0.119
+1085,nyc,6tmpj7ZEUK4i5G7ut5mOZB,Manitas De Plata,España Mía,guitar,E,0,189207,80.273,-18.79,0.252,0.342,0.396,0.0553,0.388,0.874,0.0991
+1086,nyc,1ns6LHnGOIh2TiO1hZWzko,Los Solitarios,Vivir para Llorar,rock,D,0,164720,90.826,-13.683,0.331,0.402,0.384,0.0311,0.322,0.678,0.385
+1087,nyc,2krNHNgWeMBShfirnBCe8n,Viviana Scarlassa,Sin piel,tango,G,0,203175,86.921,-11.173,0.142,0.317,0.519,0.0726,0.0,0.914,0.105
+1088,nyc,2pfSXfUhO7OHBH1kfOgQiI,João Gilberto,O barquinho,guitar,G,1,151053,85.31,-15.054,0.311,0.58,0.435,0.0362,0.0139,0.928,0.118
+1089,nyc,1cmRJOZrrBJ9n7s8DmEBG0,Leonardo Vinci,"Didone abbandonata, Act III: Se ti lagni sventurato",classical,A#/Bb,1,252949,109.522,-21.017,0.127,0.506,0.467,0.0742,0.000576,0.976,0.127
+1090,nyc,3n5rIcC04MiNx4T2GOS06g,Paul Wall,I'm Throwed (feat. Jermaine Dupri),hip-hop,E,0,231307,82.01,-5.7,0.777,0.756,0.739,0.239,0.0,0.0135,0.134
+1091,nyc,7gn337mYJULCFfrEFelg0H,Elliott Smith,Going Nowhere,alt-rock,A#/Bb,1,231560,108.842,-16.98,0.187,0.289,0.544,0.0303,0.0894,0.742,0.107
+1092,nyc,4erzWAS9Vz7jzuCUDxmkrF,Slim Harpo,Just For You - Single Version,acoustic,D,1,206640,75.048,-17.003,0.191,0.471,0.554,0.0331,0.13,0.848,0.135
+1093,nyc,2eGZFoPyuudmK7rvG7WchY,Sikkil Gurucharan,Dasarata Sutha - Jonpuri - Adi (Live),indian,G,1,315800,110.809,-17.324,0.341,0.556,0.552,0.0912,2.9e-06,0.906,0.123
+1094,nyc,7tfM7WPak6xc49pfDpzRsY,Engelbert Humperdinck,"Hänsel und Gretel, EHWV 93.3, Act I: Hoho! Wer spek-spektakelt mir (Live)",classical,E,1,241027,84.381,-20.314,0.207,0.478,0.418,0.0638,0.0033,0.937,0.708
+1095,nyc,3Bp8ToRx9FMao4A6H0d8VE,Stan Getz,I Didn't Know What Time It Was,samba,F,1,205840,62.559,-16.222,0.217,0.261,0.422,0.0386,0.215,0.972,0.128
+1096,nyc,2NR8YLRBR0AEUc6JQlnldo,Krumbsnatcha,W.O.L.V.E.S.,hardcore,C#/Db,1,233933,89.052,-5.627,0.834,0.695,0.747,0.523,0.0,0.0619,0.367
+1097,nyc,2Lh1BR4Ce1WMorkZwjEBDR,Sergei Lemeshev,Мой Лизочек,other,A,0,142107,117.197,-18.37,0.0707,0.271,0.599,0.0862,4.62e-06,0.99,0.0849
+1098,nyc,0JZreWiSnpTGTtgzP2cYGM,Lasse Lindh,Be Your Moon,swedish,A,1,218773,95.417,-9.763,0.284,0.302,0.397,0.0308,0.0764,0.96,0.0978
+1099,nyc,0MWNWezdFUVOowkNcbRJyJ,Alla Bayanova,Как мне жаль тебя,other,A,0,232413,84.882,-17.1,0.103,0.235,0.395,0.0616,1.32e-06,0.948,0.116
+1100,nyc,1xuPkyF4VhBpt6woNEBxml,Mindy Smith,Silver Bells,acoustic,F,1,195600,95.492,-12.939,0.16,0.52,0.502,0.0282,0.0,0.907,0.105
+1101,nyc,3yfXytxLfX82OVe4LsB9WJ,Ricky Nelson,Gloomy Sunday,rock,G#/Ab,0,125973,96.746,-18.146,0.0343,0.346,0.424,0.0587,2.84e-06,0.886,0.104
+1102,nyc,4ZszjqnsVFZAOBXCn39x6P,Art Tatum,All The Things You Are,jazz,G#/Ab,1,432600,75.233,-15.204,0.156,0.327,0.438,0.0399,0.0621,0.972,0.105
+1103,nyc,2fmObq31ArblWGav2xZuzF,Keiichi Sokabe,Summer Symphony,acoustic,A#/Bb,1,283093,104.002,-18.635,0.225,0.5,0.461,0.0319,0.143,0.836,0.125
+1104,nyc,1x4co3nrqL4kuiqYXh0nJk,Fabolous,Trade It All (feat. Jagged Edge),dance,G#/Ab,0,319760,92.448,-8.124,0.426,0.569,0.761,0.356,0.0,0.0732,0.133
+1105,nyc,77JgARqW4onUpk8pWYaoRc,Lidia Ruslanova,Vot mchitsja troyka pochtovaja,other,G,1,197473,116.478,-17.861,0.116,0.336,0.445,0.0777,0.000444,0.992,0.128
+1106,nyc,6zk1khryPZPj0fwcw4PoRO,Massive Attack,Flat Of The Blade,electro,D,1,330325,147.263,-13.945,0.347,0.0913,0.36,0.0503,0.0508,0.745,0.107
+1107,nyc,56jZ3A73zmyTWottWdPdKC,Drew Sarich,No Man's Land,other,A#/Bb,1,227240,199.164,-10.925,0.218,0.11,0.386,0.0356,0.0221,0.961,0.106
+1108,nyc,1DQMZY8v8WuwoORiaJGZjC,Sanjeev Abhyankar,Mo Sum Deen Na Deen Hit,indian,C#/Db,0,223840,85.835,-16.721,0.144,0.546,0.306,0.0398,0.00116,0.866,0.128
+1109,nyc,10IOsiti6M3xcTFUDfQMVP,Jagjit Singh,Ajnabi - Raavan / Soundtrack Version,k-pop,C,1,223000,88.249,-15.528,0.247,0.548,0.531,0.0295,0.00728,0.844,0.0923
+1110,nyc,03WIqWZZSHnzJF3D18x8Gh,Norah Jones,How I Weep,jazz,G,0,281973,94.087,-13.819,0.0994,0.397,0.481,0.0292,0.000534,0.889,0.105
+1111,nyc,0T7z2SWTl4NnKyXAbKpfem,Osvaldo Pugliese,El pañuelito,tango,B,0,163654,114.183,-20.806,0.108,0.428,0.475,0.0604,0.00443,0.795,0.109
+1112,nyc,6TS236PVi4r5hHAcPikfrk,Leonard Cohen,On the Level,folk,D#/Eb,1,207680,73.574,-16.488,0.267,0.491,0.439,0.0868,0.00177,0.855,0.117
+1113,nyc,7dStTUz0VT26WYdwTa6Rsz,Chris Stamey,Wintertime,pop,C,1,231908,103.312,-14.986,0.131,0.209,0.511,0.0301,0.000531,0.869,0.116
+1114,nyc,0URjV1aWNHBkXe0MxlTxhe,Bobby Darin,Lost Love,rock,F,1,151173,115.478,-24.596,0.0379,0.464,0.572,0.0381,0.0466,0.98,0.1
+1115,nyc,1AqiRHLjgxe0pKx6vyUw59,Kris Kristofferson,Loving Her Was Easier (Than Anything I'll Ever Do Again),country,C,1,226667,80.485,-14.649,0.261,0.374,0.43,0.028,0.00521,0.754,0.154
+1116,nyc,5O2WP1NItY8oqe6UsXrJ0X,Zach Bryan,This Road I Know,country,G,1,204492,87.955,-16.974,0.279,0.397,0.397,0.0649,0.0113,0.807,0.197
+1117,nyc,2RNn1yYuZqX0JpJHKTeTgm,Elvis Presley,Don't,rock,D,1,168787,67.423,-14.425,0.0715,0.241,0.511,0.0287,0.0117,0.967,0.114
+1118,nyc,6ofZE8gpLWymQ1ZQjmvoP9,Zhanna Bichevskaya,Как служил солдат,other,A#/Bb,0,347627,91.097,-16.051,0.143,0.246,0.409,0.0313,0.00215,0.947,0.0884
+1119,nyc,3amYouhrnjq5dAUFRkvYjI,Bill Withers,Make a Smile for Me,funk&soul,E,1,195787,172.317,-18.711,0.0627,0.244,0.232,0.0346,0.0648,0.928,0.108
+1120,nyc,6wmbHFDKkJsTjRgcKhhyPa,Dave,Let It Be Me,french,C,1,150240,103.813,-12.552,0.194,0.266,0.561,0.0277,5.28e-05,0.925,0.0953
+1121,nyc,1iMymlSgx2YfqY0fsvULFn,Tibagi e Miltinho,Sonho de Amor,sertanejo,G#/Ab,1,181333,96.763,-19.819,0.124,0.585,0.568,0.0315,4.52e-05,0.916,0.134
+1122,nyc,7mJdz7uNv3jgVSIMkSf8ca,Prateek Kuhad,"Kasoor (From ""Dhamaka"") - Acoustic",indian,F#/Gb,1,213307,95.852,-14.49,0.104,0.453,0.468,0.0336,0.00179,0.895,0.114
+1123,nyc,1oM6lNCuv3ymSZ9VwcqmyW,Hailaker,Coma / Smoke,folk,D#/Eb,1,267493,87.932,-11.884,0.355,0.191,0.38,0.0322,0.00624,0.942,0.105
+1124,nyc,5JdUygviPwqdm0RrUNTNjA,Camille,Wet Boy,french,G,1,148093,145.471,-14.895,0.167,0.322,0.411,0.0351,0.0249,0.953,0.0895
+1125,nyc,5k7qPfBBWtyDg9pvPRJMD1,Antonio Sartorio,Act I: Scene 7 - Alcide! Achille! Achille!,classical,C#/Db,0,194933,89.612,-26.964,0.0744,0.375,0.4,0.22,0.0,0.926,0.33
+1126,nyc,6S9f0iIw1VCha5JjIdUCs2,William Fitzsimmons,They'll Never Take the Good Years,acoustic,C,1,166120,77.007,-16.57,0.215,0.38,0.567,0.0366,0.0385,0.947,0.116
+1127,nyc,2llB3WnWJMP6f2oLJ34J9x,Johann Sebastian Bach,"Bach, JS: Matthäus-Passion, BWV 244, Pt. 2: No. 33, Rezitativ. ""Und wiewohl viel falsche""",german,F#/Gb,0,67000,96.782,-24.354,0.153,0.254,0.526,0.0939,0.0,0.918,0.168
+1128,nyc,2kDnEPYN6Y2pZxo3GJukfc,Lyudmila Zykina,Как нас Юра в полёт провожал,other,A,0,222602,83.76,-17.699,0.176,0.408,0.349,0.0472,3.44e-05,0.974,0.166
+1129,nyc,4zcMBfbQZvBSHQBGDd6gsN,JJ Heller,You Already Know,acoustic,C,1,214360,78.068,-12.884,0.117,0.318,0.496,0.0301,0.0,0.933,0.126
+1130,nyc,4F8DEFuKtDEnB20tIbmapv,Quinteto em Branco e Preto,Na Ginga do Samba,samba,F,0,278146,89.958,-5.459,0.79,0.919,0.724,0.15,0.0,0.566,0.291
+1131,nyc,6OlxqsWL5IDFOfRIDVBnYX,Cutty Ranks,Genre,dancehall,F,1,232653,98.024,-5.05,0.703,0.704,0.835,0.406,3.87e-05,0.277,0.123
+1132,nyc,3h7l4GcSAsn1mycFWDtBeo,Afroman,Major Beat,other,F#/Gb,1,304613,95.929,-6.91,0.48,0.689,0.907,0.337,0.0,0.319,0.122
+1133,nyc,7KSwh4cp9i2s09svxVrX4T,Gene Pitney,"Gene, Are You There?",rock,A,1,164841,90.799,-13.187,0.293,0.475,0.468,0.0242,0.21,0.798,0.133
+1134,nyc,3HobWls7lkehtvwMrTvV1l,Ice Cube,Get Use To It,funk&soul,G#/Ab,0,265107,85.019,-7.838,0.515,0.605,0.9,0.381,0.0,0.0953,0.24
+1135,nyc,1zfxhBOhC0qFa5uIhw7P4s,Adrianne Lenker,Miss Misty,folk,A#/Bb,1,167640,97.173,-13.578,0.194,0.22,0.398,0.0318,0.00202,0.826,0.132
+1136,nyc,3OqoJWoyOl2BXBqbTlNRYm,Alessandro Scarlatti,"Scarlatti, A: Sonata for Recorder and Strings No. 2 in A Minor: I. Allegro",classical,G#/Ab,0,116453,91.917,-19.299,0.124,0.515,0.445,0.0404,5.37e-06,0.907,0.101
+1137,nyc,72E2dYdQnRydrbFmTjBlRO,Kina Grannis,Crawl,acoustic,G,1,157500,81.084,-17.235,0.118,0.342,0.584,0.0327,5.63e-05,0.915,0.106
+1138,nyc,0pPDcbmPdToWzIHIy8qSHR,Las palmas,Summer camp,swedish,B,0,281960,87.384,-11.11,0.488,0.533,0.709,0.371,0.0,0.409,0.157
+1139,nyc,5j3xsIqj20U0rEpak2lhoE,Porta,Acción Y Reacción,spanish,C#/Db,1,263173,97.092,-3.659,0.904,0.895,0.675,0.325,0.0,0.236,0.289
+1140,nyc,1LRWj4iBSBt3A39b2DoM9q,Three 6 Mafia,South Memphis B*tc^h,hip-hop,C#/Db,1,249467,83.784,-7.408,0.731,0.524,0.807,0.415,2.83e-05,0.000782,0.0648
+1141,nyc,3XBvG3NlzXEfiU4t0jCcUa,Ricky Nelson,I'm Not Afraid - Remastered,rock,C,1,158573,76.519,-15.598,0.165,0.322,0.381,0.0291,0.0,0.897,0.109
+1142,nyc,3YoD651X0jK4MAYTPmjoXA,Olavi Virta,Armi,tango,G,1,169373,87.8,-13.911,0.164,0.289,0.363,0.0323,0.0,0.907,0.113
+1143,nyc,6HdfTiz1TQauMgk12ULi31,Jean-Baptiste Lully,"Lully: Armide, LWV 71, Act 2: ""Invincible héros, c'est par votre courage"" (Artémidore, Renaud)",classical,B,1,164600,97.337,-19.244,0.114,0.428,0.382,0.0659,0.0,0.94,0.334
+1144,nyc,0yXPho0AaGSyKcdSjyeKcV,C-Bo,Deadly Game,funk&soul,D,1,295640,90.966,-9.276,0.63,0.689,0.863,0.365,0.0,0.0718,0.206
+1145,nyc,2vpBy6bnE3uNJTwyQvwaBc,Tamara Tsereteli,Kogda Vas net,other,D#/Eb,0,144564,105.124,-14.627,0.135,0.352,0.482,0.076,0.00516,0.993,0.115
+1146,nyc,4fJvVRm7KlB0C6ZwHXMXmA,Keane,Sea Fog,piano,A,1,203386,75.949,-11.923,0.204,0.316,0.543,0.0275,0.0195,0.969,0.11
+1147,nyc,0MdZSmJVe6YRip7TgFcPrs,Canyon City,Bluebird,acoustic,C#/Db,1,255200,88.973,-15.45,0.174,0.357,0.442,0.032,0.0015,0.883,0.12
+1148,nyc,7rB7j1kgKOJqk1ZHYFpEhE,Elvis Presley,Farther Along,rock,D,1,244373,76.743,-19.341,0.0886,0.204,0.391,0.028,0.0702,0.953,0.167
+1149,nyc,36SMVyJufqf2uxtQ1dsLph,Georg Philipp Telemann,Quatuor No. 1 in D Major: I. Prélude; Vivement,german,G#/Ab,1,126773,115.192,-19.672,0.207,0.634,0.447,0.0362,0.00372,0.917,0.111
+1150,nyc,43HjNdGLxA1RF2XTyFQJzo,Elton John,In The Hands Of Angels,piano,D,1,283283,93.188,-11.359,0.276,0.249,0.429,0.0281,0.135,0.895,0.116
+1151,nyc,2Su7AnuF0zL0vVt1ZBTfgz,Horacio Guarany,Amar Amando,folk,B,0,181507,71.668,-15.539,0.133,0.451,0.363,0.0454,0.0747,0.884,0.109
+1152,nyc,1X8yLsDKUIxO9D9uUXGI4o,Maria Bethânia,Guriatã,samba,G,1,160000,96.414,-9.026,0.192,0.42,0.527,0.0333,0.0,0.902,0.139
+1153,nyc,5ahow1KivPz2djqSunB30U,Malena Muyala,Garufa,tango,D,1,138267,119.072,-9.792,0.227,0.605,0.623,0.0987,0.0,0.929,0.114
+1154,nyc,2k7ekF3iK6evtmBThDynBN,Masta Ace,Oh My God (Featuring The Beatnuts & Rahzel),hardcore,A,1,230440,95.081,-3.042,0.908,0.804,0.802,0.274,0.0,0.363,0.437
+1155,nyc,4pDmXPBWUAG96eQP8lX5To,Derek Klena,Dreamer in Disguise - Reprise,other,F,1,108507,80.257,-13.86,0.209,0.417,0.421,0.0473,0.0,0.893,0.137
+1156,nyc,29ENMAdmNy0byJdF21AhGa,Noah Gundersen,Watermelon,acoustic,D,1,198227,88.159,-16.374,0.183,0.236,0.468,0.0409,0.0219,0.92,0.172
+1157,nyc,7Iedr57IlchPkhFYF1DcLm,Stanley Holloway,If I Should Plant a Tiny Seed of Love,other,C,1,181307,94.616,-14.861,0.196,0.356,0.373,0.0487,0.0,0.931,0.349
+1158,nyc,2CHpnsh3HdZO6N94X2Ttf8,Bill Whelan,Home And The Heartland,classical,G,1,196467,97.958,-17.776,0.264,0.218,0.516,0.0313,0.119,0.868,0.103
+1159,nyc,4rWZWOXeOlNm9mPyygyYze,Nana Caymmi,Só Louco,samba,A,1,202080,86.022,-14.239,0.231,0.115,0.375,0.0305,0.034,0.916,0.104
+1160,nyc,3KA4eQdDYPTf4Os8IUrwLq,George Frideric Handel,"Water Music, Suite No. 1, HWV 348: V. [Allegro]",classical,E,1,167719,98.525,-22.09,0.0457,0.463,0.489,0.032,0.555,0.983,0.123
+1161,nyc,2GzvzxXnyJ9l3obE4JskC2,Ysabelle Cuevas,I Like Me Better,acoustic,A#/Bb,1,189674,93.618,-14.494,0.209,0.431,0.449,0.0896,0.0,0.896,0.156
+1162,nyc,0jz8nxpCKDgfJhaJZXIBnu,Giuseppe Verdi,"La traviata / Act I: ""Libiamo ne'lieti calici""",classical,A#/Bb,1,184107,116.147,-19.042,0.151,0.365,0.398,0.0569,2.66e-06,0.95,0.546
+1163,nyc,0mqcxeYg1b57YjniPNTtQ6,Lin-Manuel Miranda,"96,000",other,E,0,335013,85.194,-7.203,0.554,0.648,0.719,0.353,0.0,0.306,0.113
+1164,nyc,44O8zA7Ttsi0kh9WHxLtGJ,Elvis Presley,Blue Moon (Takes 6-8),rock,A,0,233347,87.556,-25.064,0.113,0.28,0.512,0.0385,0.246,0.873,0.111
+1165,nyc,3jKtijGZTFTEKjzJFwBPPt,Eden Kane,Vincent,rock,F#/Gb,1,259253,97.619,-25.45,0.0149,0.447,0.517,0.0412,0.0,0.887,0.104
+1166,nyc,1WabeU9Ggzor0glEmzL6DP,Orquesta El Arranque,A Pique,tango,A#/Bb,1,179280,92.396,-8.092,0.176,0.451,0.424,0.0324,0.0,0.931,0.154
+1167,nyc,4sc0G8llN4WKXpS5NQyrua,Maya Kristalinskaya,Два берега - 2022 Remastered,other,C,0,153617,116.997,-12.124,0.153,0.322,0.436,0.0358,0.0164,0.984,0.114
+1168,nyc,4urjfTgqEaIqWp0urPqV4U,Lidia Borda,La Rodada,tango,A,0,242000,91.775,-12.372,0.0977,0.196,0.569,0.0827,0.0,0.926,0.0985
+1169,nyc,4SvvC5jzecESXY52XCNDts,David Arkenstone,Glendalough,new-age,G,1,321134,64.955,-13.169,0.22,0.164,0.402,0.0329,0.0657,0.961,0.0953
+1170,nyc,2jSmAZj4GY25WRh4zxezOs,University of Michigan Men's Glee Club,Dios Itlazo Nantzine,dance,C,0,229800,82.531,-21.2,0.317,0.318,0.338,0.0915,0.0,0.876,0.114

@@ -2,5 +2,4 @@ data/
 notebooks/00-b3-spotify-api-access.ipynb
 notebooks/.env
 .DS_Store
-requirements.txt
 *.pyc
