@@ -105,7 +105,7 @@ st.sidebar.write('==')
 
 sp_location = st.sidebar.radio(
     "location:",
-    ["london", "manchester", "nyc", "la", "kingston", "ibiza", "berlin"]) # , "global"
+    ["manchester", "london", "nyc", "la", "kingston", "ibiza", "berlin"]) # , "global"
 
 st.sidebar.write('==') 
 
