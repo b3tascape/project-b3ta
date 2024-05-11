@@ -8,6 +8,10 @@ Music and the listening experience is all about dynamics. There's no drop withou
 
 ***PROJECT-B3TA*** is an exploration into how we could make a recommendation system that's more human, one that changes with the world around us.. The aim? Free ourselves from our bubbles and hear more of the world around us.
 
+*Presentation; [link](https://docs.google.com/presentation/d/1S0XLcoL-Az75uArsO4rMURKVCUBgvtraDKjSZxV7s7U/)*
+
+*Web App; [https://b3ta-v-1-0.streamlit.app/](https://b3ta-v-1-0.streamlit.app/)*
+
 ===
 
 **Project Overview**
@@ -28,7 +32,7 @@ Sound profile locations; *London*, *Manchester*, *Ibiza*, *Berlin*, *Kingston*, 
 
 **The Data**
 
-Our data has been acquired from a couple of places. Firstly we started off with a million track dataset from Kaggle (link). We then added to this via calls to the Spotify API to access our sound profile tracks which were then joined to the main dataset with any duplicates being dropped. In the final stages of the project we created a function that accessed the data direct from the API to provide dynamic recommendations.
+Our data has been acquired from a couple of places. Firstly we started off with a million track dataset from Kaggle ([link](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks)). We then added to this via calls to the Spotify API to access our sound profile tracks which were then joined to the main dataset with any duplicates being dropped. In the final stages of the project we created a function that accessed the data direct from the API to provide dynamic recommendations.
 
 ---
 
@@ -97,7 +101,7 @@ In addition to added sound profile sophistication, with more data such as locati
 
 On top of all this, there are a host of simple builds such as factoring in mode, key, genre and playing with weightings (e.g. increase tempo) that could prove to be quick wins and of course more involved areas for exploration such as neural networks and advanced audio analysis (e.g. identification of instrumentation timbre, track macrodynamics etc.) and lots more.
 
-With so more still to explore, it’s probably fair to say this isn’t quite the end of the road for this project just yet...
+With so much more still to explore, it’s probably fair to say this isn’t quite the end of the road for this project just yet...
 
 
 ---

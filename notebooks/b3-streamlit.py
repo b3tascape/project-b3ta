@@ -6,9 +6,6 @@
 ### import libraries
 import pandas as pd
 import numpy as np
-## Pandas has a depedency on NumPy so loads automatically but best practice to load full NumPy package
-print(f"Numpy version: {np.__version__}")
-print(f"pandas version: {pd.__version__}")
 
 # streamlit
 import streamlit as st
@@ -38,7 +35,6 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from sklearn.metrics import accuracy_score, precision_score, recall_score
 from sklearn.metrics import f1_score, classification_report
 from sklearn.metrics import roc_curve, roc_auc_score, RocCurveDisplay
-print(f"skLearn version: {sk.__version__}")
 
 # scipy
 import scipy
@@ -115,7 +111,7 @@ st.sidebar.write('==')
 
 sp_location = st.sidebar.radio(
     "location:",
-    ["london", "manchester", "nyc", "la", "kingston", "ibiza", "berlin", "global"])
+    ["manchester", "london", "nyc", "la", "kingston", "ibiza", "berlin"]) #, "global"
 
 st.sidebar.write('==') 
 
